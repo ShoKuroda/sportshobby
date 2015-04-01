@@ -1,0 +1,152 @@
+Return-Path: <infoweb064@negoro.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.1 required=7.0 tests=BAYES_00,HTML_IMAGE_ONLY_20,
+	HTML_IMAGE_RATIO_02,HTML_MESSAGE,HTML_SHORT_LINK_IMG_3,HTML_TAG_BALANCE_BODY,
+	HTML_TAG_BALANCE_HEAD,MIME_HTML_ONLY,TVD_SPACE_ENCODED,TVD_SPACE_ENC_FM_MIME,
+	T_REMOTE_IMAGE,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: rakuten.ne.jp]
+	*  1.2 HTML_TAG_BALANCE_BODY BODY: HTML has unbalanced "body" tags
+	*  1.5 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+	*  0.4 HTML_IMAGE_RATIO_02 BODY: HTML has a low ratio of text to image area
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.8 HTML_TAG_BALANCE_HEAD BODY: HTML has unbalanced "head" tags
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: web064.jp]
+	*  0.1 HTML_SHORT_LINK_IMG_3 HTML is very short with a linked image
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  2.5 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  0.0 T_REMOTE_IMAGE Message contains an external image
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2P0mLpR071597
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 09:48:21 +0900 (JST)
+	(envelope-from infoweb064@negoro.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Wed, 25 Mar 2015 09:48:21 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from znimta14.alpha-prm.jp (znimta14.alpha-prm.jp [157.205.230.84])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2P0mLbi071594
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 09:48:21 +0900 (JST)
+	(envelope-from infoweb064@negoro.co.jp)
+Received: from znimsa02.alpha-prm.jp ([157.205.9.83])
+          by znimta14.alpha-prm.jp with ESMTP
+          id <20150325004821.OXGH28830.znimta14.alpha-prm.jp@znimsa02.alpha-prm.jp>
+          for <hobby.division@sportshobby.co.jp>;
+          Wed, 25 Mar 2015 09:48:21 +0900
+Received: from NGRWEB-PC ([153.150.14.16]) by znimsa02.alpha-prm.jp
+          with ESMTP
+          id <20150325004820.QBWY26134.znimsa02.alpha-prm.jp@NGRWEB-PC>
+          for <hobby.division@sportshobby.co.jp>;
+          Wed, 25 Mar 2015 09:48:20 +0900
+From: =?ISO-2022-JP?B?GyRCM3Q8MDJxPFIhITosTWgbKEI=?= <infoweb064@negoro.co.jp>
+To: hobby.division@sportshobby.co.jp
+Subject: =?ISO-2022-JP?B?GyRCIVZKbCRORnw9YEh3JTshPCVrIVckTiQ0MEZGYhsoQg==?=
+X-Mailer: Mail Magic Professional Version 5.0.0
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="7700f4a0-dad4-43c1-b885-1cf626635879"
+Date: Wed, 25 Mar 2015 09:48:19 +0900
+Message-ID: <201503250948190206.F9EC14B92FC04F44918A671619F9FC0C@smtp.alpha-prm.jp>
+
+This is a multi-part message in MIME format
+--7700f4a0-dad4-43c1-b885-1cf626635879
+Content-Type: text/html; charset=shift-jis
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<ht=
+ml xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta=
+ http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dshif=
+t_jis" />
+<title>=96=B3=91=E8=83h=83L=83=85=83=81=83=93=83g<=
+/title>
+<style type=3D"text/css">
+<!--
+body {margi=
+n: 0px;}
+.style5 {font-size: 16px}
+.style6 {
+	font=
+-size: 18px;
+	font-weight: bold;
+}
+.style7 {font-s=
+ize: 24px}
+-->
+</style>
+</head>
+<body><center=
+><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml charset=3Dshift_jis" />
+<body><link rel=3D"stylesheet" hr=
+ef=3D"https://www.web064.jp/shopfiles/web064/topimage/TOP-bana/TO=
+P-bana.css" type=3D"text/css">
+
+<a href=3D"https://www.=
+web064.jp/"><img src=3D"http://www.rakuten.ne.jp/gold/anchez/imag=
+es/dm/0330top
+.jpg" alt=3D"" width=3D"800" height=3D"200
+=
+" border=3D"0" /></a>
+
+
+
+<span class=3D"style=
+6"><font color=3D"#754C24"></font></span>
+<p class=3D"style5=
+"><font color=3D"#754C24"><strong>=81@</strong></font></p>
+<=
+p class=3D"style5"><font color=3D"#754C24"><strong> =82R=8C=8E=82=
+R=82O=93=FA=82=A9=82=E7=81u=95=EA=82=CC=93=FA=8F=80=94=F5=83Z=81[=
+=83=8B=81v=82=F0 =82v=82d=82a=82O=82U=82S=82=C5=82=E0=8Cf=8D=DA=8A=
+J=8En=82=A2=82=BD=82=B5=82=DC=82=B7</strong></font> </p>
+<p=20=
+class=3D"style5"><font color=3D"#754C24"><strong>=82v=82d=82a=82O=
+=82U=82S=83T=83C=83g=82=E6=82=E8=81A=90=A5=94=F1=82=A8=8Ed=93=FC=82=
+=EA=82=A2=82=BD=82=BE=82=AB=82=DC=82=B7=82=E6=82=A4=82=B2=88=C4=93=
+=E0=90\=82=B5=8F=E3=82=B0=82=DC=82=B7</strong></font> </p>
+<=
+p class=3D"style5"><font color=3D"#754C24"><strong>=81=83=8Cf=8D=DA=
+=8A=FA=8A=D4=81@=82R=8C=8E=82R=82O=93=FA=81i=8C=8E=81jAM =82O=81F=
+=82O=82O=81`=82S=8C=8E=82W=93=FA=81i=90=85=81j=82Q=82R=81F=82T=82=
+X=81=84</strong></font></p>
+<p class=3D"style5">&nbsp;</p>=
+
+<table class=3D"Category">
+  <tr>
+<td><a href=3D"htt=
+ps://www.web064.jp/"><img src=3D"http://www.rakuten.ne.jp/gold/an=
+chez/images/dm/0330mail
+.jpg"style=3D"border: none;" alt=3D"=
+" width=3D"800" height=3D"200
+"></a></td>
+</tr>
+</=
+table>
+<table class=3D"Category">
+</table>
+<p>&nbs=
+p;</p>
+<p class=3D"style7">&nbsp;</p>
+<a href=3D"https:=
+//www.web064.jp/"><img src=3D"http://www.rakuten.ne.jp/gold/anche=
+z/images/dm/064footer.jpg" alt=3D"" width=3D"780" height=3D"200"=20=
+border=3D"0" /></a>
+</center>
+</body>
+</html>
+=
+
+--7700f4a0-dad4-43c1-b885-1cf626635879--

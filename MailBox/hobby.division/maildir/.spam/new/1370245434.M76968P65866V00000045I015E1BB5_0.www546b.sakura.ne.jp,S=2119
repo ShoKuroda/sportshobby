@@ -1,0 +1,41 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.9 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_JP_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: tkdami.net]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: tkdami.net]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: tkdami.net]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r537hol1065863
+	for <hobby.division@sportshobby.co.jp>; Mon, 3 Jun 2013 16:43:50 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:63601 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1370245430.7381
+Received: from 178.127.223.185 ([178.127.223.185])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r537hlmG065856
+	for <hobby.division@sportshobby.co.jp>; Mon, 3 Jun 2013 16:43:49 +0900 (JST)
+Date: Mon, 3 Jun 2013 16:43:47 +0900 (JST)
+Message-Id: <201306030743.r537hlmG065856@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (zzz2zzz@gts.kazan.ru@199.219.53.34)
+	by 178.127.223.185 with ESMTPA; Mon, 3 Jun 2013 11:40:57 +0400
+From: zzz2zzz@gts.kazan.ru
+To: hobby.division@sportshobby.co.jp
+Subject: The way to improve your feelings at night
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 03062013 #10258066, status: clean
+
+You can have all night long happiness 
+http://www.spajderr.tkdami.net/toe.html
+

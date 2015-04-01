@@ -1,0 +1,111 @@
+Return-Path: <MAILER-DAEMON@www546b.sakura.ne.jp>
+Received: from localhost (localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) id r9T8S2uW094074;
+	Tue, 29 Oct 2013 17:28:02 +0900 (JST)
+	(envelope-from MAILER-DAEMON)
+Date: Tue, 29 Oct 2013 17:28:02 +0900 (JST)
+From: Mail Delivery Subsystem <MAILER-DAEMON>
+Message-Id: <201310290828.r9T8S2uW094074@www546b.sakura.ne.jp>
+To: <sportshobby2@www546b.sakura.ne.jp>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="r9T8S2uW094074.1383035282/www546b.sakura.ne.jp"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--r9T8S2uW094074.1383035282/www546b.sakura.ne.jp
+
+The original message was received at Tue, 29 Oct 2013 17:28:01 +0900 (JST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<brithsh-farm-garden@docomo.ne.jp>
+    (reason: 550 Unknown user brithsh-farm-garden@docomo.ne.jp)
+
+   ----- Transcript of session follows -----
+... while talking to mfsmax.docomo.ne.jp.:
+>>> DATA
+<<< 550 Unknown user brithsh-farm-garden@docomo.ne.jp
+554 5.0.0 Service unavailable
+
+--r9T8S2uW094074.1383035282/www546b.sakura.ne.jp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; www546b.sakura.ne.jp
+Received-From-MTA: DNS; localhost
+Arrival-Date: Tue, 29 Oct 2013 17:28:01 +0900 (JST)
+
+Final-Recipient: RFC822; brithsh-farm-garden@docomo.ne.jp
+Action: failed
+Status: 5.2.0
+Remote-MTA: DNS; mfsmax.docomo.ne.jp
+Diagnostic-Code: SMTP; 550 Unknown user brithsh-farm-garden@docomo.ne.jp
+Last-Attempt-Date: Tue, 29 Oct 2013 17:28:02 +0900 (JST)
+
+--r9T8S2uW094074.1383035282/www546b.sakura.ne.jp
+Content-Type: message/rfc822
+
+Return-Path: <sportshobby2@www546b.sakura.ne.jp>
+Received: from www546b.sakura.ne.jp (localhost [127.0.0.1])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9T8S1uW094072
+	for <brithsh-farm-garden@docomo.ne.jp>; Tue, 29 Oct 2013 17:28:01 +0900 (JST)
+	(envelope-from sportshobby2@www546b.sakura.ne.jp)
+Received: (from sportshobby2@localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3/Submit) id r9T8S1Wi094071;
+	Tue, 29 Oct 2013 17:28:01 +0900 (JST)
+	(envelope-from sportshobby2)
+Date: Tue, 29 Oct 2013 17:28:01 +0900 (JST)
+To: =?iso-2022-jp?B?GyRCQ2Y6LDdyMGwbKEI=?= <brithsh-farm-garden@docomo.ne.jp>
+Subject: =?iso-2022-jp?B?GyRCIVolOSVdITwlRCVbJVMhPCFbJCpMZCQkOWckbyQ7JHIbKEI=?=
+	=?iso-2022-jp?B?GyRCPHUkMUlVJDEkXiQ3JD8bKEI=?=
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Message-Id: <Qdmail.1.2.6b_76b4d9e6052a4ab17f9cf7b4d0896d62447ba57b@hal456.net>
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-PHP-Qdmail: version-1.2.6b The_MIT_License http://hal456.net/qdmail PHPver 5.2.17
+	send-by MailFunction
+
+-------------------------------
+このメールはお問合せの自動返信メールとなっております。
+-------------------------------
+中根健一  様
+
+お問合わせありがとうございます。
+担当者より返信いたしますので、少々お待ち下さい。
+
+お急ぎの場合はお電話でお問合わせください。
+電話番号：011-773-5090
+
+-------下記情報を送信いたしました-----------
+
+電話番号　：　090-2146-6964
+メール　　：　brithsh-farm-garden@docomo.ne.jp
+都道府県　：　神奈川県
+住所（市区町村）　　：　神奈川県足柄上郡
+住所（番地・建物名）　　：　628-7
+
+お問い合わせ種類	　：　商品について
+お問い合わせ内容：　クロネコヤマト足柄山北センター止めでお願いします
+コードは027251です
+-------------------------------
+当社理由　：　
+
+**********************************************
+ご不明な点など御座いましたらお気軽にご相談ください。
+
+ラジコンショップ｜スポーツホビー
+運営会社：有限会社SHK
+
+URL：http://www.sportshobby.co.jp
+
+〒002-0859 北海道札幌市北区屯田11条3丁目
+TEL 011-773-5090
+代表取締役　黒田　民雄
+E-mail <info@sportshobby.co.jp>
+**********************************************
+
+--r9T8S2uW094074.1383035282/www546b.sakura.ne.jp--
+

@@ -1,0 +1,120 @@
+Return-Path: <sales04@aga-power.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.8 required=7.0 tests=BAYES_20,FROM_EXCESS_BASE64,
+	FROM_MISSP_REPLYTO,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTTPS_HTTP_MISMATCH,
+	MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	T_AJB_UTUBE_BADLINK,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: aga-power.com]
+	*  2.0 HTTPS_HTTP_MISMATCH BODY: HTTPS_HTTP_MISMATCH
+	*  0.0 T_AJB_UTUBE_BADLINK Found a mismatch between href and anchored text
+	*      pretending to link to www.youtube.com
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	* -0.0 BAYES_20 BODY: Bayes spam probability is 5 to 20%
+	*      [score: 0.1781]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL listed in the SBL blocklist
+	*      [URIs: aga-power.com]
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  1.0 FROM_EXCESS_BASE64 From: base64 encoded unnecessarily
+	*  1.8 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r6H9SsPR002932
+	for <hobby.division@sportshobby.co.jp>; Wed, 17 Jul 2013 18:28:54 +0900 (JST)
+	(envelope-from sales04@aga-power.com)
+X-Nat-Received: from [112.78.125.46]:64397 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1374053334.9116
+Received: from mx91.newsletter.goddelivery.com (mx91.newsletter.goddelivery.com [59.80.152.152])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r6H9Sq7D002919
+	for <hobby.division@sportshobby.co.jp>; Wed, 17 Jul 2013 18:28:53 +0900 (JST)
+	(envelope-from sales04@aga-power.com)
+Received: by mx91.newsletter.goddelivery.com (Postfix, from userid 48)
+	id 102BC5C7CA64; Wed, 17 Jul 2013 17:28:37 +0800 (CST)
+To:hobby.division@sportshobby.co.jp
+Subject:=?utf-8?B?UmU6UmU6UXVhZGNvcHRlcnMvSGVsaWNvcHRlcnMvMS8xMGJ1Z2d5cy0tQmVzdCBvZmZlciBmcm9tIEFHQSBQb3dlciBCYXR0ZXJ5?=
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: base64
+Reply-To:sales04@aga-power.com
+X-MessageId:713162-7718
+From:=?utf-8?B?RWdiZXJ0IExlZQ==?=<sales04@aga-power.com>
+Message-Id: <20130717092838.102BC5C7CA64@mx91.newsletter.goddelivery.com>
+Date: Wed, 17 Jul 2013 17:28:37 +0800 (CST)
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 17072013 #10612571, status: clean
+
+PHA+DQoJPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTZweCI+PHNwYW4gc3R5bGU9ImZvbnQtZmFt
+aWx5OiBnZW9yZ2lhLCBzZXJpZiI+SGVsbG8sPGJyIC8+DQoJPGJyIC8+DQoJR29vZCBkYXkgISBI
+b3fCoCBhcmUgeW91IHJlY2VudGx5IHNpciA/IERpZCB5b3UgaGF2ZSBhIGdyZWF0IHdlZWtlbmQg
+P1NldmVyYWwgbW9udGhzIG5vIG5ld3MgZnJvbSB5b3VyIHNpZGUsIFdlIHNpbmNlcmVseSBob3Bl
+IGFsbCBpcyBiZXN0IHdpdGggeW91IGFsbCBhbG9uZy48YnIgLz4NCgk8YnIgLz4NCglEaWQgeW91
+IHN0aWxsIHJlbWVtZWJlciBtZSA/IEFyZSB5b3Ugc3RpbGwgbG9va2luZyBmb3IgYSBuZXcgYmF0
+dGVyeSBzdXBwbGllciBmb3IgeW91ciBidXNpbmVzcyBpbiB0aGUgbWFya2V0cyA/PGJyIC8+DQoJ
+PGJyIC8+DQoJSSBhbSBFZ2JlcnQgTGVlIHdobyBpcyBmcm9tIEFHQSBQb3dlciBSQyBMaXBvIGJh
+dHRlcnkgbWFuZnVhY3R1ZXIsIEhlcmUgYXJlIHNvbWUgaW5mb3JtYXRpb24gYWJvdXQgb3VyIGNv
+bXBhbnkgZm9yIHlvdXIgcmVmZXJlbmNlLjxiciAvPg0KCTxiciAvPg0KCUZpcnN0IG9mIGFsbCzC
+oHRob3NlIHZpZGVvcyDCoGFyZSBhYm91dCBBR0EgUG93ZXIgTGlwbyBCYXR0ZXJ5IGZseWluZyB3
+aXRoIGRpZmZlcmVudCBzaXplIG9mIGhlbGljb3B0ZXJzLCBpdCB3aWxsIHNob3cgeW91IHBlcmZl
+Y3QgcGVyZm9ybWFuY2UgYW5kIGF3ZXNvbWUgZGlzY2hhcmdlIHJhdGUgLjxiciAvPg0KCTxiciAv
+Pg0KCTEuwqDCoMKgwqAgPGEgaHJlZj0iaHR0cDovL2ltYWdlLnRydXN0ZXNtdHAuY29tL3Qveno/
+dD1lNDhmZmVjNS0wYmZhLTRiM2ItYWQ0My0yZTk1YmU3OTg2NWUmU1RBUklEPTcxMzE2Mi03NzE4
+Ij5odHRwOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ckVmY2lVbkZrWEEmZmJfYWN0aW9uX2lk
+czwvYT48YnIgLz4NCgk8YnIgLz4NCgkyLsKgwqDCoCA8YSBocmVmPSJodHRwOi8vaW1hZ2UudHJ1
+c3Rlc210cC5jb20vdC96ej90PWE1OWFiNzYzLTQwY2YtNGZkOC1iNTIwLWI2YzFkY2MyMDVjZiZT
+VEFSSUQ9NzEzMTYyLTc3MTgiPmh0dHA6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1jM2doYlRx
+eEhxbzwvYT48YnIgLz4NCgk8YnIgLz4NCgkzLsKgwqDCoCA8YSBocmVmPSJodHRwOi8vaW1hZ2Uu
+dHJ1c3Rlc210cC5jb20vdC96ej90PThmNTZjYWI1LThlZDMtNDRmYS04ZjUwLTZmMGYyZmQwMzZl
+OSZTVEFSSUQ9NzEzMTYyLTc3MTgiPmh0dHA6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1mRk15
+WEQtbGpuSTwvYT48YnIgLz4NCgk8YnIgLz4NCgk0LsKgwqDCoCA8YSBocmVmPSJodHRwOi8vaW1h
+Z2UudHJ1c3Rlc210cC5jb20vdC96ej90PTg2NDJkMzAwLWI5MmYtNGFhNi05ZTVhLWFhZmNmM2Iz
+NWQ2ZCZTVEFSSUQ9NzEzMTYyLTc3MTgiPmh0dHA6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj01
+Q3BJdXpQbGFvSSZmZWF0dXJlPXNoYXJlPC9hPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoDxiciAv
+Pg0KCTxiciAvPg0KCTUuwqDCoMKgIDxhIGhyZWY9Imh0dHA6Ly9pbWFnZS50cnVzdGVzbXRwLmNv
+bS90L3p6P3Q9YjI0MWU3OTktNjg4OS00NDg2LTkyZWMtNTI4NGNiODA3OTA2JlNUQVJJRD03MTMx
+NjItNzcxOCI+aHR0cDovL3d3dy5hZ2EtcG93ZXIuY29tPC9hPjwvc3Bhbj48YnIgLz4NCgk8YnIg
+Lz4NCgk2LsKgwqAgPGEgaHJlZj0iaHR0cDovL2ltYWdlLnRydXN0ZXNtdHAuY29tL3Qveno/dD1j
+NGZmNWE0ZS1kOTgxLTQwYWUtYmU0My1mZmQwYjkwNjE3NDYmU1RBUklEPTcxMzE2Mi03NzE4Ij5o
+dHRwczovL3d3dy5mYWNlYm9vay5jb20vYWdhcG93ZXIwNEVnYmVydDwvYT48YnIgLz4NCgk8YnIg
+Lz4NCgk8c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IHRhaG9tYSwgZ2VuZXZhLCBzYW5zLXNlcmlm
+Ij48aW1nIGFsdD0iIiBzcmM9Imh0dHA6Ly9pbWFnZS50cnVzdGVzbXRwLmNvbS9ma0ltYWdlcy81
+MjI3L2ltYWdlL0FHQS1Qb3dlci0xLmpwZyIgc3R5bGU9IndpZHRoOiA4MDBweDsgaGVpZ2h0OiA1
+ODBweCIgLz48aW1nIGFsdD0iIiBzcmM9Imh0dHA6Ly9pbWFnZS50cnVzdGVzbXRwLmNvbS9ma0lt
+YWdlcy81MjI3L2ltYWdlL0FHQS1Qb3dlci0yLmpwZyIgc3R5bGU9IndpZHRoOiA4MDBweDsgaGVp
+Z2h0OiA1OTdweCIgLz48aW1nIGFsdD0iIiBzcmM9Imh0dHA6Ly9pbWFnZS50cnVzdGVzbXRwLmNv
+bS9ma0ltYWdlcy81MjI3L2ltYWdlL0FHQS1Qb3dlci0zLmpwZyIgc3R5bGU9IndpZHRoOiA4MDBw
+eDsgaGVpZ2h0OiA2MDBweCIgLz48aW1nIGFsdD0iIiBzcmM9Imh0dHA6Ly9pbWFnZS50cnVzdGVz
+bXRwLmNvbS9ma0ltYWdlcy81MjI3L2ltYWdlL0FHQS1Qb3dlci00LmpwZyIgc3R5bGU9IndpZHRo
+OiA4MDBweDsgaGVpZ2h0OiA2MDBweCIgLz48aW1nIGFsdD0iIiBzcmM9Imh0dHA6Ly9pbWFnZS50
+cnVzdGVzbXRwLmNvbS9ma0ltYWdlcy81MjI3L2ltYWdlL0FHQS1Qb3dlci01LmpwZyIgc3R5bGU9
+IndpZHRoOiA4MDBweDsgaGVpZ2h0OiA2MDBweCIgLz48YnIgLz4NCgk8YnIgLz4NCgk8aW1nIGFs
+dD0iIiBzcmM9Imh0dHA6Ly9pbWFnZS50cnVzdGVzbXRwLmNvbS9ma0ltYWdlcy81MjI3L2ltYWdl
+L0FHQS1Qb3dlci02LmpwZyIgc3R5bGU9IndpZHRoOiA4MDBweDsgaGVpZ2h0OiA2MDBweCIgLz48
+YnIgLz4NCgk8aW1nIGFsdD0iIiBzcmM9Imh0dHA6Ly9pbWFnZS50cnVzdGVzbXRwLmNvbS9ma0lt
+YWdlcy81MjI3L2ltYWdlL0FHQS1Qb3dlci03LmpwZyIgc3R5bGU9IndpZHRoOiA4MDBweDsgaGVp
+Z2h0OiA2MDBweCIgLz48YnIgLz4NCgk8aW1nIGFsdD0iIiBzcmM9Imh0dHA6Ly9pbWFnZS50cnVz
+dGVzbXRwLmNvbS9ma0ltYWdlcy81MjI3L2ltYWdlL0FHQS1Qb3dlci04LmpwZyIgc3R5bGU9Indp
+ZHRoOiA4MDBweDsgaGVpZ2h0OiA1ODBweCIgLz48YnIgLz4NCgk8YnIgLz4NCgk8c3BhbiBzdHls
+ZT0iZm9udC1mYW1pbHk6IGdlb3JnaWEsIHNlcmlmIj5JZiB0aGVyZSBpcyBhbnl0aGluZyB3ZSBj
+b3VsZCBoZWxwIHdpdGgsIHBsZWFzZSBmZWVsIGZyZWUgdG8gY29udGFjdCB1cyBhdCBhbnkgdGlt
+ZS4gV2UgQUxXQVlTIHdpbGwgZG8gb3VyIGJlc3QgITxiciAvPg0KCTxiciAvPg0KCUFueSBjb21t
+ZW50cyBieSByZXR1cm4gd2lsbCBiZSBtdWNoIGFwcHJlY2lhdGVkICE8YnIgLz4NCgk8YnIgLz4N
+CglUaGFuayB5b3UgYW5kIGhhdmUgYSBnb29kIGRheSAhPGJyIC8+DQoJPGJyIC8+DQoJQmVzdCBS
+ZWdhcmRzPGJyIC8+DQoJRWdiZXJ0IExlZTxiciAvPg0KCVRlbDogKzg2LTc1NS0yMzIwMDAyMDxi
+ciAvPg0KCUZheDogKzg2LTc1NS0yMzIwMDAxOTxiciAvPg0KCUNlbGw6ICs4NjEzNDIxODE5NzAz
+PGJyIC8+DQoJU2t5cGU6IGFnYXBvd2VyMDQ8YnIgLz4NCglXZWJzaXRlOiA8YSBocmVmPSJodHRw
+Oi8vaW1hZ2UudHJ1c3Rlc210cC5jb20vdC96ej90PTU5ZmMxNDYyLTQ2ZmYtNDUxYS1iM2UwLTgw
+MTA1Zjk4NWJhMyZTVEFSSUQ9NzEzMTYyLTc3MTgiPnd3dy5hZ2EtcG93ZXIuY29tPC9hPjxiciAv
+Pg0KCUZhY2Vib29rOiA8YSBocmVmPSJodHRwOi8vaW1hZ2UudHJ1c3Rlc210cC5jb20vdC96ej90
+PWM0ZmY1YTRlLWQ5ODEtNDBhZS1iZTQzLWZmZDBiOTA2MTc0NiZTVEFSSUQ9NzEzMTYyLTc3MTgi
+Pmh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9hZ2Fwb3dlcjA0RWdiZXJ0PC9hPjwvc3Bhbj48L3Nw
+YW4+PC9zcGFuPjwvcD4NCjxpbWcgc3JjPSdodHRwOi8vaW1hZ2UudHJ1c3Rlc210cC5jb20vdC9h
+P2E9NzEzMTYyLTc3MTgnIGhlaWdodD0nMScgd2lkdGg9JzEnIC8+

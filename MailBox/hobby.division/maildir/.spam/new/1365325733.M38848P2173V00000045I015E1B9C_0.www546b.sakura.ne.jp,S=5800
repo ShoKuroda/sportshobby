@@ -1,0 +1,111 @@
+Return-Path: <juddywilliams79@hotmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************************************
+X-Spam-Status: Yes, score=44.1 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_50,DATE_IN_PAST_96_XX,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,
+	FORGED_OUTLOOK_TAGS,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,FREEMAIL_REPLYTO,
+	FREEMAIL_REPLYTO_END_DIGIT,FROM_MISSPACED,FROM_MISSP_EH_MATCH,
+	FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,
+	FROM_MISSP_USER,FSL_CTYPE_WIN1251,FSL_MISSP_REPLYTO,HTML_MESSAGE,
+	LOTS_OF_MONEY,MIME_HTML_ONLY,MONEY_FROM_MISSP,MSOE_MID_WRONG_CASE,
+	NSL_RCVD_FROM_USER,SUBJ_ALL_CAPS,T_FROM_MISSP_DKIM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.8 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  3.8 NSL_RCVD_FROM_USER Received from User
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (juddywilliams79[at]hotmail.com)
+	*  3.4 DATE_IN_PAST_96_XX Date: is 96 hours or more before Received: date
+	*  1.5 SUBJ_ALL_CAPS Subject is all capitals
+	*  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+	*      (<juddywilliams1950[at]yahoo.co.jp>
+	)
+	*  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (juddywilliams79[at]hotmail.com)
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  4.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  2.9 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  2.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  2.0 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+	*  3.0 FROM_MISSP_USER From misspaced, from "User"
+	*  3.5 MONEY_FROM_MISSP Lots of money and misspaced From
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  3.8 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  2.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.2 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  1.7 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r3798mli002170
+	for <hobby.division@sportshobby.co.jp>; Sun, 7 Apr 2013 18:08:48 +0900 (JST)
+	(envelope-from juddywilliams79@hotmail.com)
+X-Nat-Received: from [112.78.125.46]:57103 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1365325728.6387
+Received: from mail.cloudchinese.com ([210.14.133.55])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r3798lqR002166
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Sun, 7 Apr 2013 18:08:48 +0900 (JST)
+	(envelope-from juddywilliams79@hotmail.com)
+Message-Id: <201304070908.r3798lqR002166@www546b.sakura.ne.jp>
+Received: from User ([172.162.176.2])
+	(authenticated user test@cloudchinese.com)
+	by mail.cloudchinese.com (Kerio MailServer 6.3.1)
+	(using TLSv1/SSLv3 with cipher AES256-SHA (256 bits));
+	Thu, 28 Mar 2013 08:35:12 +0800
+Reply-To: <juddywilliams1950@yahoo.co.jp>
+From: "JUDITH WILLIAMS"<juddywilliams79@hotmail.com>
+Subject: JUDITH WILLIAMS...CALL ME ASAP!!!!!
+Date: Thu, 28 Mar 2013 02:35:12 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Antivirus: avast! (VPS 130327-0, 27/03/2013), Outbound message
+X-Antivirus-Status: Clean
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 07042013 #9868775, status: clean
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Hello beloved, </DIV>
+<DIV>
+My name is Mrs Judith Williams, am 75yrs old, am a Citizen of United States Of America from California to be precise. i reside in United Kingdom. I am a good merchant, I have several industrial companies and good shares in various banks in the world. I spent all my life on investment and corporate business. I lost my husband and two beautiful kids in a fatal accident that occurred on November 5th 2007. </DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+I was recently diagnosed with Pancreatic Cancer and wish to liberally donate my entire savings of USD $8.2 Million Dollars to you for use in projects that will support development and humanitarian causes within your community to help the less privileged. My doctor told me that I will not survive this sickness, that I have few more weeks to live. If I am pleased with your response, I will give more information to you as i await your response immediately and I will gladly instruct the release of my funds to you. Contact me directly via</DIV>
+<DIV>
+email: juddywilliams1950@yahoo.co.jp </DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+NB: please am not part any fraudulent activities on internet. Accept my warm regards and remain blessed. </DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+009447012964116 call me or reply if you are interested.</DIV>
+<DIV>
+Thank you, </DIV>
+<DIV>
+Judith Williams</DIV>
+</FONT>
+</BODY></HTML>
+

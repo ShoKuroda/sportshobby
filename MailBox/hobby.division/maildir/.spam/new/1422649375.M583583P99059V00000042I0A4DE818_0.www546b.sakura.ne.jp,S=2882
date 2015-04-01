@@ -1,0 +1,55 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.3 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: onlinerxpurchase.com]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: onlinerxpurchase.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: onlinerxpurchase.com]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: onlinerxpurchase.com]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.7 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav402.sakura.ne.jp (fsav402.sakura.ne.jp [133.242.250.101])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0UKMrtX099055
+	for <hobby.division@sportshobby.co.jp>; Sat, 31 Jan 2015 05:22:53 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav402.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp);
+ Sat, 31 Jan 2015 05:22:52 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp)
+Received: from 191.17.255.77 (191-17-255-77.user.vivozap.com.br [191.17.255.77] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t0UKMpCo099047
+	for <hobby.division@sportshobby.co.jp>; Sat, 31 Jan 2015 05:22:52 +0900 (JST)
+Date: Sat, 31 Jan 2015 05:22:51 +0900 (JST)
+Message-Id: <201501302022.t0UKMpCo099047@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (philip.s@pedersenco.com@172.141.42.155)
+	by 191.17.255.77 with ESMTPA; Fri, 30 Jan 2015 18:23:18 -0300
+X-Originating-IP: 172.141.42.155
+From: philip.s@pedersenco.com
+To: hobby.division@sportshobby.co.jp
+Subject: Be successful in love
+
+Open new horizons of healthy living http://tandem.onlinerxpurchase.com/
+

@@ -1,0 +1,101 @@
+Return-Path: <order-confirm@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED,URIBL_SBL
+	autolearn=no version=3.3.2
+Received: from fsav309.sakura.ne.jp (fsav309.sakura.ne.jp [153.120.85.140])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2T7XMlJ007021
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 16:33:22 +0900 (JST)
+	(envelope-from order-confirm@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav309.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav309.sakura.ne.jp);
+ Sun, 29 Mar 2015 16:33:22 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav309.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-129.smtp.rakuten.co.jp [202.72.58.129])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2T7XMQB007017
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 16:33:22 +0900 (JST)
+	(envelope-from order-confirm@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat103.prod.jp.local [100.66.16.46])
+	by mxmator103z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lF7v61c6QzQxjZ
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 16:33:22 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427614402;
+	bh=r6PmICFgEZ8IRTuo/hHsM40xu50YNKlHYaxlpdeOP8s=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=j8SdCw5MC0GIyaLomcsORVOdsut0CTyTaL12DyhF+N7vfzBimlxG8ugQsD+21JJeR
+	 x797Vj22gC+MhMrVqp9ipEbznuIWWaryw9yv/+FHQBoAnICovTtxyMDgGlLYEMteap
+	 x/vBLc+P3kDTlzMgnbGIvELugH7qDzXVnTMAB7uk=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat103.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2T7WxbT018514
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 16:33:22 +0900
+Received: from armsrbapi203c.ap.rakuten.co.jp ([armsrbapi203c.ap.rakuten.co.jp [172.28.45.205]]) by mat103.prod.jp.local with RELAY id t2T7XLab019866 ;
+          Sun, 29 Mar 2015 16:33:22 +0900
+Date: Sun, 29 Mar 2015 16:33:21 +0900 (JST)
+From: order-confirm@rakuten.co.jp
+To: cbb4e9e9965bbb8b8df0f01fec43b18fs1@pc.fw.rakuten.ne.jp
+Cc: on_line.shop12@sportshobby.co.jp
+Message-ID: <201503291633.t2T7XLab019866@mat103.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbJDRDbUo4JE5KUTk5JEskRCQkJEYbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.45.205
+X-Rams-Id: 3EC5D63CA45B68043F9E76FAC5AF550528E558A0
+
+
+---------------------------------------------------------------------
+本メールはお客様ご自身にて行ったご注文の変更内容が楽天市場のサーバに
+到達した時点で送信される、自動配信メールです。
+---------------------------------------------------------------------
+この度は楽天市場内のショップ「スポーツホビー」を
+ご利用いただきまして、誠にありがとうございます。
+
+この度、楽天市場内のショップ「スポーツホビー」でのご注文内容の変更を
+受け付けましたのでご連絡させていただきます。
+
+
+ご注文内容の変更作業に伴い、恐縮ではございますが、楽天会員登録を利用して
+ご注文されたお客様には、今回のご注文で付与されていた楽天スーパーポイント、
+使用されましたクーポンが変更となる場合がございますので、ご注意ください。
+
+以下のご注文内容の変更が行われましたことご報告申し上げます。
+
+---------------------------------------------------------------------
+[受注番号]  243411-20150329-0238432133
+[受付日時]  2015-03-29 16:33:21
+[支払方法]  クレジットカード
+[クーポン利用] なし
+[ポイント利用方法] なし
+[配送方法]  宅配便
+[備考]
+[配送日時指定:]
+
+
+
+
+
+【ご注意】
+お客様のお取引先は下記ショップとなりますので、ご不明な点、ご注文内容に誤りが
+ある場合は、直接ショップ「スポーツホビー」までお問い合わせください。
+
+=====================================================================
+■ ショップ名 ： スポーツホビー
+■ ショップURL： http://www.rakuten.co.jp/sportshobby/
+■ 電話   ： 011-773-5090
+■ メールアドレス: hobby.division@sportshobby.co.jp
+=====================================================================
+★こちらの注文に覚えがない場合は？
+他の方が誤ってあなたのメールアドレスで注文した可能性があります。
+その場合は、たいへんお手数ですが、上記ショップならびに楽天市場まで
+お知らせください。
+─────────────問い合わせ─────────────────
+商品、決済・発送に関するお問い合わせ hobby.division@sportshobby.co.jp（ショップアドレス）
+楽天市場に関するご質問   http://www.rakuten.co.jp/com/faq/
+個人情報保護方針  http://privacy.rakuten.co.jp/
+
+楽天市場 http://www.rakuten.co.jp/
+───────────────────────────────────
+
+

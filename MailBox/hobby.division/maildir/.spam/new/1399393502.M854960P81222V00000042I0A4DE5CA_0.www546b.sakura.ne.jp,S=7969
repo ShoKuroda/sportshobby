@@ -1,0 +1,57 @@
+Return-Path: <gilbert@electrasweb.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.4 required=7.0 tests=BAYES_50,
+	DATE_IN_FUTURE_12_24,HTML_MESSAGE,MIME_HTML_ONLY,MSGID_RANDY,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.2 DATE_IN_FUTURE_12_24 Date: is 12 to 24 hours after Received: date
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: sportshobby.co.jp]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: moremath.com.tw]
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: moremath.com.tw]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4955]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.6 MSGID_RANDY Message-Id has pattern used in spam
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s46GOwBA081211
+	for <hobby.division@sportshobby.co.jp>; Wed, 7 May 2014 01:24:58 +0900 (JST)
+	(envelope-from gilbert@electrasweb.com)
+X-Nat-Received: from [112.78.125.46]:47092 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1399393498.1435
+Received: from ns1-110.psychodev.net (ns1-110.psychodev.net [122.155.10.125])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s46GOuov081203
+	for <hobby.division@sportshobby.co.jp>; Wed, 7 May 2014 01:24:57 +0900 (JST)
+	(envelope-from gilbert@electrasweb.com)
+Date: Tue, 6 May 2014 23:24:57 -0700
+To: "Hobby Division" <hobby.division@sportshobby.co.jp>
+From: "Facebook Accounts" <gilbert@electrasweb.com>
+Reply-to: noreply <noreply@electrasweb.com>
+Subject: Hobby Division, you have messages marked as unread
+Message-ID: <d18f48bc9bd1fbccb66d87@871b8ecbd>
+Errors-To: gilbert@electrasweb.com
+X-Priority: 1
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06052014 #7854604, status: clean
+
+<html><body style="margin:0;padding:0;" dir="ltr"><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:98%;" border="0"><tr><td style="font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-serif;font-size:12px;"><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:620px;"><tr><td style="font-size:16px;font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vertical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:10px 38px 4px;"><a style="text-decoration: none;" href="http://moremath.com.tw/unite.php"><span style="background:#3b5998;color:#FFFFFF;font-weight:bold;font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-serif;vertical-align:middle; font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:baseline;">f&#097;&#099;&#101;&#098;&#111;o&#107;</span></a></td></tr></table><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:620px;"><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:10px 20px;background-color:#fff;border-left:1px solid #ccc;border-right:1px solid #ccc;border-top:1px solid #ccc;border-bottom:1px solid #ccc;line-height:16px;"><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:10px 20px;line-height:16px;width:620px;"><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:13px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;">Hobby Division,</td></tr><tr><td style="font-size:13px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:10px 0 15px 0;">Here's some activity you may have missed.</td></tr><tr><td height="1" style="background-color:#ccc;"></td></tr><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;"><table cellspacing="0" cellpadding="0" style="!
+ border-collapse:collapse;"><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:15px 20px 15px 0;"><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td valign="top" style="width:100%;"><a href="http://moremath.com.tw/unite.php" style="color:#3b5998;text-decoration:none;font-size:13px;">You have <b>2</b> unread messages that will be removed</a></td></tr></table></td></tr></table></td></tr><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:10px 0 15px 0;"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;width:100%;"><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:10px;background-color:#f2f2f2;border-left:none;border-right:none;border-top:1px solid #ccc;border-bottom:1px solid #ccc;"><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-right:10px;"><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="border-width: 1px;border-style: solid;border-color: #29447E #29447E #1a356e;background-color: #5b74a8;"><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:2px 6px 4px;border-top:1px solid #8a9cc2;"><a href="http://moremath.com.tw/unite.php" style="color:#3b5998;text-decoration:none;"><span style="font-weight:bold;white-space:nowrap;color: #fff;font-size: 13px;">View Messages</span></a></td></tr></table></td></tr></table></td><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;"><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="border-width: 1px;border-style: solid;border-color: #999 #999 #888;background-color: #eee;"><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td st!
+ yle="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:2px 6px 4px;border-top:1px solid #fff;"><a href="http://moremath.com.tw/unite.php" style="color:#3b5998;text-decoration:none;"><span style="font-weight:bold;white-space:nowrap;color: #333;font-size: 13px;">See All Notifications</span></a></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;width:620px;"><tr><td style="font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;padding:10px;background-color:#fff;border-left:none;border-right:none;border-top:none;border-bottom:none;color:#999999;border:none;">This message was sent to <a href="mailto:hobby.division&#064;sportshobby.co.jp" style="color:#3b5998;text-decoration:none;">hobby.division&#064;sportshobby.co.jp</a>. If you don&#039;t want to receive these emails in the future, please <a href="http://moremath.com.tw/unite.php" style="color:#3b5998;text-decoration:none;">unsubscribe</a>.</td></tr></table><span style="width:620px;"></span></td></tr></table></body></html>
+

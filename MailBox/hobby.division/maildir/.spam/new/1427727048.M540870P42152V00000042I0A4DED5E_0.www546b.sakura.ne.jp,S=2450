@@ -1,0 +1,48 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.7 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,MSGID_FROM_MTA_HEADER,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: flxqokqn.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: flxqokqn.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: flxqokqn.be]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: flxqokqn.be]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: flxqokqn.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav202.sakura.ne.jp (fsav202.sakura.ne.jp [210.224.168.164])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2UEokwf042149
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 23:50:46 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav202.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp);
+ Mon, 30 Mar 2015 23:50:46 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp)
+Received: from 86-100-155-164-ip.balticum.lt (86-100-155-164-ip.balticum.lt [86.100.155.164] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t2UEoiq6042136
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 23:50:45 +0900 (JST)
+Date: Mon, 30 Mar 2015 23:50:44 +0900 (JST)
+Message-Id: <201503301450.t2UEoiq6042136@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (yup@prairieinet.net@36.201.135.71)
+	by 86.100.155.164 with ESMTPA; Mon, 30 Mar 2015 17:55:07 +0200
+X-Originating-IP: 36.201.135.71
+From: yup@prairieinet.net
+To: hobby.division@sportshobby.co.jp
+Subject: For better control and superior love life
+
+http://spectator.flxqokqn.be/
+

@@ -1,0 +1,35 @@
+Return-Path: <taxnyy@hartcool.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.1 required=7.0 tests=BAYES_50,
+	CHARSET_FARAWAY_HEADER,EMPTY_MESSAGE,MISSING_SUBJECT autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5106]
+	*  1.8 MISSING_SUBJECT Missing Subject: header
+	*  2.3 EMPTY_MESSAGE Message appears to have no textual parts and no
+	*      Subject: text
+Received: from fsav302.sakura.ne.jp (fsav302.sakura.ne.jp [153.120.85.133])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s8FNDPTU009237
+	for <hobby.division@sportshobby.co.jp>; Tue, 16 Sep 2014 08:13:25 +0900 (JST)
+	(envelope-from taxnyy@hartcool.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav302.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp);
+ Tue, 16 Sep 2014 08:13:25 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp)
+Received: from hartcool.com ([111.176.72.249])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s8FNDOsR009233
+	for <hobby.division@sportshobby.co.jp>; Tue, 16 Sep 2014 08:13:25 +0900 (JST)
+	(envelope-from taxnyy@hartcool.com)
+Message-Id: <201409152313.s8FNDOsR009233@www546b.sakura.ne.jp>
+From: =?GB2312?B?uKO9qMqhw/bMqNK90qk=?= <taxnyy@hartcool.com>
+To: "hobby.division" <hobby.division@sportshobby.co.jp>
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+Date: Tue, 16 Sep 2014 07:13:30 +0800
+X-Mailer: Foxmail 4.2 [cn]
+

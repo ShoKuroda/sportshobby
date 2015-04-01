@@ -1,0 +1,56 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.7 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_SBL,
+	URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: familyhealthquality.be]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: familyhealthquality.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: familyhealthquality.be]
+	*  1.3 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: familyhealthquality.be]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: familyhealthquality.be]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: familyhealthquality.be]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: familyhealthquality.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1KJaeSB025586
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 21 Feb 2015 04:36:40 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Sat, 21 Feb 2015 04:36:40 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from 78.26.196.62 ([78.26.196.62])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t1KJad4M025578
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 21 Feb 2015 04:36:40 +0900 (JST)
+Date: Sat, 21 Feb 2015 04:36:39 +0900 (JST)
+Message-Id: <201502201936.t1KJad4M025578@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (sicr@stockton-house.com@182.221.126.95)
+	by 78.26.196.62 with ESMTPA; Fri, 20 Feb 2015 21:40:53 +0200
+X-Originating-IP: 182.221.126.95
+From: sicr@stockton-house.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Do you want to satisfy your lover tonight?
+
+http://distance.familyhealthquality.be/
+

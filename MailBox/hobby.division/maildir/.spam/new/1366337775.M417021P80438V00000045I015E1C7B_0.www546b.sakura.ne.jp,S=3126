@@ -1,0 +1,64 @@
+Return-Path: <yyqsky@holland-amsterdam-hotels.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.5 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_A7B9C,
+	BAYES_99,NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,STOX_REPLY_TYPE,STOX_REPLY_TYPE_WITHOUT_QUOTES,
+	URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_PH_SURBL,URIBL_SC_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.4 STOX_REPLY_TYPE STOX_REPLY_TYPE
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: 94.153.15.249]
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: 94.153.15.249]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: 94.153.15.249]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: 94.153.15.249]
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  3.6 AXB_XMAILER_MIMEOLE_OL_A7B9C AXB_XMAILER_MIMEOLE_OL_A7B9C
+	*  1.8 STOX_REPLY_TYPE_WITHOUT_QUOTES STOX_REPLY_TYPE_WITHOUT_QUOTES
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r3J2GBv3080435
+	for <hobby.division@sportshobby.co.jp>; Fri, 19 Apr 2013 11:16:11 +0900 (JST)
+	(envelope-from yyqsky@holland-amsterdam-hotels.com)
+X-Nat-Received: from [112.78.125.46]:56587 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1366337771.21344
+Received: from 190.114.248.84 ([190.114.248.84])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r3J2G87Z080421
+	for <hobby.division@sportshobby.co.jp>; Fri, 19 Apr 2013 11:16:10 +0900 (JST)
+	(envelope-from yyqsky@holland-amsterdam-hotels.com)
+Received: from unknown (HELO qcb) ([85.83.211.173])
+	by 190.114.248.84 with ESMTP; Thu, 18 Apr 2013 21:16:49 -0500
+Message-ID: <001101ce3ca3$dc5050f0$5553d3ad@FABRIZZIOPCqcb>
+From: "Wilfred Walden" <yyqsky@holland-amsterdam-hotels.com>
+To: <hobby.division@sportshobby.co.jp>
+Subject: Texas Explosion Injures Dozens
+Date: Thu, 18 Apr 2013 21:09:46 -0500
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-2";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 19042013 #9933482, status: clean
+
+http://94.153.15.249/news.html
+

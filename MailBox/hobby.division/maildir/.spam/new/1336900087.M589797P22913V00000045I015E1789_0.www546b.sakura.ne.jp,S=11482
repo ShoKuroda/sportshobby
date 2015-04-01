@@ -1,0 +1,465 @@
+Return-Path: <return-4590-4578@om-tec.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.4 required=7.0 tests=BAYES_00,DKIM_ADSP_CUSTOM_MED,
+	FM_FRM_RN_L_BRACK,FORGED_MUA_OUTLOOK,FREEMAIL_FROM,HS_INDEX_PARAM,
+	MSOE_MID_WRONG_CASE,NML_ADSP_CUSTOM_MED,STOX_REPLY_TYPE,
+	STOX_REPLY_TYPE_WITHOUT_QUOTES,TO_NO_BRKTS_MSFT,URI_HEX autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.4 STOX_REPLY_TYPE STOX_REPLY_TYPE
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (office_k_you[at]yahoo.co.jp)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.1 URI_HEX URI: URI hostname has long hexadecimal sequence
+	*  0.6 HS_INDEX_PARAM URI: Link contains a common tracker pattern.
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  1.8 STOX_REPLY_TYPE_WITHOUT_QUOTES STOX_REPLY_TYPE_WITHOUT_QUOTES
+	*  0.0 FM_FRM_RN_L_BRACK From name has > but not <
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  0.0 TO_NO_BRKTS_MSFT To: misformatted and supposed Microsoft tool
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q4D983bV022909
+	for <hobby.division@sportshobby.co.jp>; Sun, 13 May 2012 18:08:03 +0900 (JST)
+	(envelope-from return-4590-4578@om-tec.net)
+X-Nat-Received: from [112.78.125.46]:52314 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1336900083.16589
+Received: from c0111.om-tec2.net (c0111.om-tec2.net [209.54.63.112])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q4D982Ye022900
+	for <hobby.division@sportshobby.co.jp>; Sun, 13 May 2012 18:08:02 +0900 (JST)
+	(envelope-from return-4590-4578@om-tec.net)
+Received: from m01.om-tec2.net (m01.om-tec2.net [209.54.58.201])
+	by c0111.om-tec2.net (OrangeSecureMailEngine) with ESMTP id D16B3CE08005
+	for <hobby.division@sportshobby.co.jp>; Sun, 13 May 2012 02:08:01 -0700 (PDT)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIVYkIiROIVpMNCVqJT8hWyQsNSIkQyRGJC0kXiQ3JD8bKEI=?=
+	=?iso-2022-jp?B?GyRCISMhIyEjISMhVxsoQg==?=
+From: =?iso-2022-jp?B?GyRCIVoyVCQwISpJezZIJU0lQyVIJVMlOCVNJTklNyVzJVcbKEI=?=
+	=?iso-2022-jp?B?GyRCJWskSkshQichWxsoQiAbJEIlKiVVNX4bKEIgGyRCIUoyQ0YjGyhCIA==?=
+	=?iso-2022-jp?B?GyRCPiEhSxsoQg==?= <office_k_you@yahoo.co.jp>
+Message-Id: <51c8ca9b00a4197c1e2ee02261d52c6100efa328@OS7>
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-2022-jp";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+Date: Sun, 13 May 2012 18:04:33 +0900 (JST)
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.44/RELEASE, bases: 13052012 #7987569, status: clean
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆◆◆
+◆◆　　　　　   稼ぐ！副業ネットビジネスシンプルな法則
+◆
+　　 〜サイドビジネスを考えている方への簡単収入の最新情報発信〜
+
+　Produce by office K you　　　　　　　　　　　　2011.05.13 (SUN)配信
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ ※ 現在の、黒田　陽子  さんのポイントは「0」です♪
+
+
+
+
+
+ ※このメールは、各掲示板、一括投稿、無料レポート、懸賞サイト等で
+   協賛登録などにご登録をされた方にお送りさせていただいております。
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   安心、安全をもっとーにしておりますゆえに、覚えのない方はお手数を
+ 　お掛け致しますが下記よりお気軽に配信解除をお願いいたします。
+　　　　　　↓　　↓　　↓　　↓　　↓
+ http://6826d5.orange-mail.net/pub/del.php?mid=ccs9&mn=000050&ad=hobby.division%40sportshobby.co.jp
+
+
+
+
+
+ こんばんは、オフ京です(^_^)
+
+ 本日も、お忙しい中
+ 当メルマガを開封していただきまして
+ ありがとうございます?　<(_ _)>
+
+
+ 色々な情報が飛び交うネット業界！
+
+ そんな中でも黒田　陽子  さんに喜んでいただける
+ 旬でホットな情報を発信させて頂いております。
+
+
+
+
+
+　　本┃日┃の┃コ┃ン┃テ┃ン┃ツ┃
+　　━┛━┛━┛━┛━┛━┛━┛━┛
+┌────────────────────────────────────
+│
+├○　「あの【夢リタ】が帰ってきました。。。。」
+│
+└────────────────────────────────────
+
+
+
+一週間限定での復活キャンペーンです。
+
+まだの場合は、お急ぎください！
+
+>>>　http://6826d5.orange-mail.net/l/ccs91t50m2914263
+
+
+
+
+
+■
+□■　追伸一週間限定無料プレゼント！
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
+22,800円で販売し2406名の購入者がいる教材を
+
+期間限定で無料でプレゼント！
+
+
+
+総ページ数1307ページ
+
+全7章の構成のマニュアル全てに音声・動画解説付き！
+
+
+
+長野県北安曇郡白馬村
+
+雪だらけの小さな村に隠居しながら
+
+12インチのノートパソコン一台だけで
+
+日給33万円稼いだ方法をマニュアル化
+
+
+
+100万・1000万・1億を稼ぐインターネットビジネスマンを輩出してきた
+
+有料で販売していた大ヒット教材を期間限定で無料でプレゼントします！
+
+
+>>>　http://6826d5.orange-mail.net/l/ccs92t50m2914263
+
+
+
+
+
+■
+□■　追伸一週間限定無料プレゼント！
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
+お世話になります。　柴野です。
+
+僕が30日間で1102万円を稼ぎ出し、
+
+4月に一週間限定で【無料】で配布した【夢リタ】
+
+>>>　http://6826d5.orange-mail.net/l/ccs93t50m2914263
+
+
+
+キャンペーンが終わったあと、
+
+僕の元に、多くの感謝のメールを頂きました。
+
+
+
+「素晴らしいマニュアルをありがとうございます。」
+
+「本当に無料でもらっていいのですか？」
+
+「このマニュアルを見て、私も頑張ります！」
+
+
+
+
+
+それと同時にこういった内容のメールも頂きました。
+
+
+
+
+
+「パソコンが壊れてしまって夢リタを手に入れることが出来なかった。」
+
+「もう夢リタを配布することは、ないのですか？」
+
+「事情があって手に入れることが出来ませんでしたので、
+
+　今からでも手に入れることは出来ませんか？」
+
+
+
+ありきたりな内容かもしれませんが、
+
+僕はこのお客様の声を無視することは出来ませんでした。
+
+
+
+そして、
+
+
+
+社内協議の結果、
+
+もう一度、復活キャンペーンということで、
+
+一週間限定の無料キャンペーンを再開することにしました。
+
+
+>>>　http://6826d5.orange-mail.net/l/ccs94t50m2914263
+
+
+
+
+
+元々22800円での商品をプレゼントするわけですから、
+
+今回のプレゼントが最後になるかもしれません。
+
+
+
+なので、もし前回のキャンペーン時に
+
+手に入れることが出来なかったのでしたら、
+
+今回こそ必ず手にしてください。
+
+
+
+そして、
+
+
+
+インターネットを使って、自由な暮らしと自由な時間を
+
+手にしてください。
+
+
+
+僕の【夢リタ】のマニュアルは、
+
+決して古いわけではありません。
+
+
+
+あくまで王道な方法を
+
+より、具体的なノウハウと僕の経験を
+
+元に体系化したマニュアルです。
+
+
+
+今からでも、この【夢リタ】をしっかり取り組むことで
+
+稼ぐことは、十分に可能です。
+
+
+
+ぜひ、今回のチャンスを掴み、
+
+あなた自身の成功を手にしてください。
+
+>>>　http://6826d5.orange-mail.net/l/ccs95t50m2914263
+
+
+
+
+
+■
+□■　追伸
+　￣￣￣￣￣￣￣
+
+
+今回のキャンペーンで本当に最後になるかもしれません。
+
+次があるかもと思わずに、
+
+今、僕のマニュアルに【価値】を感じてくれたなら、
+
+即効で手にしてください。
+
+
+
+そして、
+
+
+
+実践して稼いでください。
+
+
+
+今回のプレゼントも、一週間限定ということを
+
+お忘れにならないように。
+
+>>>　http://6826d5.orange-mail.net/l/ccs96t50m2914263
+
+
+
+
+
+それでは
+
+貴方のご参加をお待ちしております。
+
+
+
+
+
+■
+□■　追伸一週間限定無料プレゼント！
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
+22,800円で販売し2406名の購入者がいる教材を
+
+期間限定で無料でプレゼント！
+
+
+
+総ページ数1307ページ
+
+全7章の構成のマニュアル全てに音声・動画解説付き！
+
+
+
+長野県北安曇郡白馬村
+
+雪だらけの小さな村に隠居しながら
+
+12インチのノートパソコン一台だけで
+
+日給33万円稼いだ方法をマニュアル化
+
+
+
+100万・1000万・1億を稼ぐインターネットビジネスマンを輩出してきた
+
+有料で販売していた大ヒット教材を期間限定で無料でプレゼントします！
+
+>>>　http://6826d5.orange-mail.net/l/ccs97t50m2914263
+
+
+
+■
+□■　追伸一週間限定無料プレゼント！
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
+
+
+　本日は、以上になります。<(_ _)>
+
+
+
+
+
+：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：
+
+　◆発行者情報 (特定商取引に基づく表示)◆
+
+ 発行者：オフ京 (加藤 勝)
+
+ 発行者情報  ：http://www.offkyou.net/tokusyohou.html
+
+ 問合せ先　  ：http://www.offkyou.net/ra/offs/get002
+
+ 運営サイト  ：『パソコン初心者がゼロから始める副業アフィリエイト』
+
+ サイトURL   ：http://office.kyou1.com/
+
+ メールアドレス：office_k_you☆yahoo.co.jp　（☆⇒@に変更）
+
+ Twitter     ：https://twitter.com/offkyou
+
+ FaceBook    ：http://www.facebook.com/offkyou
+
+
+ ↓：メルマガ登録・解除ページのURL：↓
+ http://6826d5.orange-mail.net/pub/add.php?mid=ccs9
+
+________________________________________________________________________________
+
+
+ 注)また、万が一このメールが迷惑フォルダに入ってた場合は
+ 下記のリンクより迷惑メールフォルダに入らない設定をしてください。
+
+
+ http://46mail.net/index.php?e=あなたのメールアドレス
+
+________________________________________________________________________________
+
+
+・それでは、黒田　陽子  さん「お疲れが出ませんように」<(_ _)>感謝！・
+
+：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：：
+
+
+■■迷惑メール解除方法■■
+
+
+　　迷惑メールに入ってしまうと、大切な情報をお伝えすることができません。
+
+　　もしよろしければ、メールの「フォルダー分け設定」をしてください。
+
+
+　■　アウトルックの方
+
+　⇒　http://mail-wake.com/wake/outlook.html　
+
+　■　OutlookExpressの方
+
+　⇒　http://mail-wake.com/wake/express.html
+
+　■　YAHOOメールの方
+
+　⇒　http://mail-wake.com/wake/yahoo.html
+
+　■　Ｇメールの方　　
+
+　⇒　http://mail-wake.com/wake/gmail.html
+　　
+　■　その他のメール
+
+　⇒　http://mail-wake.com/wake/
+
+
+　メールがいらない方は、下記をクリックしてください。
+　
+　⇒　http://6826d5.orange-mail.net/pub/del.php?mid=ccs9&mn=000050&ad=hobby.division%40sportshobby.co.jp
+
+
+
+
+
+━[PR]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ SEO対策の【費用を抑えながら】【被リンクを増やし】【検索順位を上げたい】
+とお考えの方へ
+
+ [被リンク100本]＋[専用SEOツール]＋[SEOノウハウ]がセットで激安！
+
+「あまり費用をかけずに順位が上がった！」
+ というお客様の声が届いています！
+
+ 「費用対効果が良い」と評判の激安SEOサービスはこちら！
+  >>>　http://6826d5.orange-mail.net/l/ccs98t50m2914263
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[PR]━━

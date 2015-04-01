@@ -1,0 +1,70 @@
+Return-Path: <support@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav304.sakura.ne.jp (fsav304.sakura.ne.jp [153.120.85.135])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2K6Gwl4028970
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 15:16:58 +0900 (JST)
+	(envelope-from support@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav304.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp);
+ Fri, 20 Mar 2015 15:16:58 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp)
+Received: from mx61-008.smtp.rakuten.co.jp (mx61-008.smtp.rakuten.co.jp [202.72.61.8])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2K6Gw6V028960
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 15:16:58 +0900 (JST)
+	(envelope-from support@rakuten.co.jp)
+Received: from absktapi131c.db.rakuten.co.jp (absktapi131c.db.rakuten.co.jp [172.30.123.121])
+	by mxtr602zc.rakuten.co.jp (Rakuten MGW 2.0.0) with ESMTP id 3l7Zd56YNnz2hfn
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 15:16:57 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=rakuten0702014040; t=1426832217;
+	bh=pwVxX2BHahU/RGGxfJ/TUw8DcZ5FUJ3Z1zWIEVxjPo0=;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=oHS0I4nmtCD1DPAn4JxjQXgrwhvPqdf7P/jI3Sf5TiPBpOiCLWxm8M0JvOo7e9TvD
+	 eBpyyVZiSZhQ1XbJBdMkzWF062DW4vr1j4hmvBMMTZtqGRyl6qOlnOrO+jYifQT6ZU
+	 LDbNFVaLyKrykSDoyvt/sg2WUZpKxZVtnZunKkZo=
+Received: from absktapi131c.db.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by absktapi131c.db.rakuten.co.jp (8.13.8/8.13.8) with ESMTP id t2K6GvVU010349
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 15:16:57 +0900
+Date: Fri, 20 Mar 2015 15:16:57 +0900 (JST)
+From: support@rakuten.co.jp
+To: on_line.shop12@sportshobby.co.jp
+Message-ID: <19170332.5760.1426832217897.JavaMail.order@rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbOl84SyU8JW0kTiQqQ04kaSQ7GyhC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+スポーツホビー ご担当者様
+
+楽天市場よりお知らせいたします。
+御社でお取り扱いの商品
+「マルシン　コルト・アナコンダ・６ｍｍＢＢ・Ｘカートリッジ　４インチ ブラックＨＷ」
+に注文があり、
+今回の注文で商品の在庫数が０（ゼロ）になりました。
+最後の注文の受注番号は 243411-20150320-0190806131 です。
+
+在庫数が０（ゼロ）になりましたので
+
+   -商品の説明文を変更する（例：お蔭様で売り切れました…など）
+   -在庫数を増やす
+   -商品を削除する
+   -商品を倉庫に入れる
+
+などの処理を行うことをおすすめします。
+
+商品情報の変更についてはRMSコールセンターまでお願いいたします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+◆ページ編集等、RMSに関するご質問はRMSコールセンターまで 
+　　support-rms@rakuten.co.jp 
+───────────────────────────── 
+◆運営に関するご相談・ご質問は下記連絡先まで 
+　　support@rakuten.co.jp 
+───────────────────────────── 
+楽天市場  http://www.rakuten.co.jp/ 
+楽天株式会社 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

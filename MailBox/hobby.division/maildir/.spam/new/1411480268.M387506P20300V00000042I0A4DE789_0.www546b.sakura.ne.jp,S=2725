@@ -1,0 +1,51 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.3 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,HTTP_EXCESSIVE_ESCAPES,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,
+	T_FSL_HELO_BARE_IP_2,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: faug.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: faug.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: faug.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: faug.ru]
+	*  1.6 HTTP_EXCESSIVE_ESCAPES URI: Completely unnecessary %-escapes inside
+	*      a URL
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+	*  0.5 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav205.sakura.ne.jp (fsav205.sakura.ne.jp [210.224.168.167])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s8NDp2Bb020297
+	for <hobby.division@sportshobby.co.jp>; Tue, 23 Sep 2014 22:51:02 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav205.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp);
+ Tue, 23 Sep 2014 22:51:02 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp)
+Received: from 179.25.223.253 (r179-25-223-253.dialup.adsl.anteldata.net.uy [179.25.223.253])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s8NDp0T2020290
+	for <hobby.division@sportshobby.co.jp>; Tue, 23 Sep 2014 22:51:01 +0900 (JST)
+Message-Id: <201409231351.s8NDp0T2020290@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (TimMainz@printec.ro@185.199.85.237)
+	by 179.25.223.253 with ESMTPA; Tue, 23 Sep 2014 10:49:23 -0300
+X-Originating-IP: 185.199.85.237
+From: TimMainz@printec.ro
+To: hobby.division@sportshobby.co.jp
+Subject: Do you wish to achieve the perfect intimate response?
+Date: Tue, 23 Sep 2014 10:45:22 -0300
+
+http://www.google.com/url?q=http%3A%2F%2F%66eatur%65.%66%61%75%67.r%75%2F&sa=D&sntz=1&usg=AFQjCNHm19Ontcp_3Z9lK1eju-IHbqwF5w Bring more pleasance to your life
+

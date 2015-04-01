@@ -1,0 +1,47 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.4 required=7.0 tests=BAYES_99,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,
+	URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9952]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: zeyzmlvy.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: zeyzmlvy.com]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: zeyzmlvy.com]
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: zeyzmlvy.com]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: zeyzmlvy.com]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s2GIx64G089279
+	for <hobby.division@sportshobby.co.jp>; Mon, 17 Mar 2014 03:59:07 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:63633 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1394996346.29914
+Received: from mm-116-128-85-93.dynamic.pppoe.mgts.by (mm-116-128-85-93.dynamic.pppoe.mgts.by [93.85.128.116] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s2GIx4Rv089270
+	for <hobby.division@sportshobby.co.jp>; Mon, 17 Mar 2014 03:59:06 +0900 (JST)
+Message-Id: <201403161859.s2GIx4Rv089270@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (alberto.garfagnini@driver.it@156.179.150.76)
+	by 93.85.128.116 with ESMTPA; Sun, 16 Mar 2014 21:02:03 +0200
+From: alberto.garfagnini@driver.it
+To: hobby.division@sportshobby.co.jp
+Subject: Keep your lady chuffed at night
+Date: Sun, 16 Mar 2014 20:50:34 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 16032014 #7529779, status: clean
+
+Why some of us can't satisfy their women? http://discriminate.zeyzmlvy.com/
+

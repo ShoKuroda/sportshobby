@@ -1,0 +1,143 @@
+Return-Path: <>
+Received: from defer118.ocn.ad.jp (defer118.ocn.ad.jp [125.206.148.138])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r2G4XCGu044966
+	for <sportshobby2@www546b.sakura.ne.jp>; Sat, 16 Mar 2013 13:33:12 +0900 (JST)
+Received: from mfgw2311.ocn.ad.jp (mfgw2311.ocn.ad.jp [118.23.109.29])
+	by defer118.ocn.ad.jp (Postfix) with ESMTP id 3AC301063A9
+	for <sportshobby2@www546b.sakura.ne.jp>; Sat, 16 Mar 2013 13:33:12 +0900 (JST)
+Received: by mfgw2311.ocn.ad.jp (Postfix)
+	id 2B8FC73025A; Sat, 16 Mar 2013 13:33:12 +0900 (JST)
+Date: Sat, 16 Mar 2013 13:33:12 +0900 (JST)
+From: MAILER-DAEMON@mfgw2311.ocn.ad.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: sportshobby2@www546b.sakura.ne.jp
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="1649373025E.1363408392/mfgw2311.ocn.ad.jp"
+Message-Id: <20130316043312.2B8FC73025A@mfgw2311.ocn.ad.jp>
+
+This is a MIME-encapsulated message.
+
+--1649373025E.1363408392/mfgw2311.ocn.ad.jp
+Content-Description: Notification
+Content-Type: text/plain; charset=ISO-2022-JP
+
+This is the Postfix program at host mfgw2311.ocn.ad.jp.
+
+I'm sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations.
+
+For further assistance, please contact <support@ocn.ad.jp>
+
+If you do so, please include this problem report. You can
+delete your own text from the message returned below.
+
+The following sentences are Japanese.
+
+
+このメールと共に返信されているメールは一つ以上の宛先に対
+して配信できませんでした。
+
+エラーメッセージの原因や対処法については下記のサイトで
+ご案内しております。
+http://www.ocn.ne.jp/0/faq/mail/errormail/
+
+上記のサイトでも解決できない場合は、<support@ocn.ad.jp>
+へご連絡ください。
+ご連絡の際には、この障害レポートを一緒にお送りください。
+このメールに添付されているお客様の元のメールは削除しても
+構いません。
+
+--------------------------------------------------------
+
+
+<Kakupera@oboe.ocn.ne.jp>: host mzmta.ocn.ad.jp[118.23.184.73] said: 550 5.1.1
+    <Kakupera@oboe.ocn.ne.jp>: Recipient address rejected: oboe.ocn.ne.jp (in
+    reply to RCPT TO command)
+
+--1649373025E.1363408392/mfgw2311.ocn.ad.jp
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mfgw2311.ocn.ad.jp
+X-Postfix-Queue-ID: 1649373025E
+X-Postfix-Sender: rfc822; sportshobby2@www546b.sakura.ne.jp
+Arrival-Date: Sat, 16 Mar 2013 13:33:12 +0900 (JST)
+
+Final-Recipient: rfc822; Kakupera@oboe.ocn.ne.jp
+Original-Recipient: rfc822;Kakupera@oboe.ocn.ne.jp
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; mzmta.ocn.ad.jp
+Diagnostic-Code: smtp; 550 5.1.1 <Kakupera@oboe.ocn.ne.jp>: Recipient address
+    rejected: oboe.ocn.ne.jp
+
+--1649373025E.1363408392/mfgw2311.ocn.ad.jp
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Received-SPF: none (mfgw2311.ocn.ad.jp: 112.78.125.46 is neither permitted nor denied by domain of www546b.sakura.ne.jp) client-ip=112.78.125.46; envelope-from=sportshobby2@www546b.sakura.ne.jp; helo=www546b.sakura.ne.jp;
+Received: from www546b.sakura.ne.jp (www546b.sakura.ne.jp [112.78.125.46])
+	by mfgw2311.ocn.ad.jp (Postfix) with ESMTP id 1649373025E
+	for <Kakupera@oboe.ocn.ne.jp>; Sat, 16 Mar 2013 13:33:12 +0900 (JST)
+Received: from www546b.sakura.ne.jp (localhost [127.0.0.1])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r2G4XBZP044946
+	for <Kakupera@oboe.ocn.ne.jp>; Sat, 16 Mar 2013 13:33:11 +0900 (JST)
+	(envelope-from sportshobby2@www546b.sakura.ne.jp)
+Received: (from sportshobby2@localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3/Submit) id r2G4XB73044945;
+	Sat, 16 Mar 2013 13:33:11 +0900 (JST)
+	(envelope-from sportshobby2)
+Date: Sat, 16 Mar 2013 13:33:11 +0900 (JST)
+To: =?iso-2022-jp?B?GyRCOiNAdBsoQiAgGyRCPSgwbBsoQg==?= <Kakupera@oboe.ocn.ne.jp>
+Subject: =?iso-2022-jp?B?GyRCIVolOSVdITwlRCVbJVMhPCFbJCpMZCQkOWckbyQ7JHIbKEI=?=
+	=?iso-2022-jp?B?GyRCPHUkMUlVJDEkXiQ3JD8bKEI=?=
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Message-Id: <Qdmail.1.2.6b_fd48cd5ce03d5f914fce00b990bab34fe2eb063a@hal456.net>
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-PHP-Qdmail: version-1.2.6b The_MIT_License http://hal456.net/qdmail PHPver 5.2.17
+	send-by MailFunction
+
+-------------------------------
+このメールはお問合せの自動返信メールとなっております。
+-------------------------------
+今泉  秀一  様
+
+お問合わせありがとうございます。
+担当者より返信いたしますので、少々お待ち下さい。
+
+お急ぎの場合はお電話でお問合わせください。
+電話番号：011-773-5090
+
+-------下記情報を送信いたしました-----------
+
+電話番号　：　090-4870-4221
+メール　　：　Kakupera@oboe.ocn.ne.jp
+都道府県　：　北海道
+住所（市区町村）　　：　札幌市清田区北野
+住所（番地・建物名）　　：　4条4丁目28-6
+
+お問い合わせ種類	　：　商品について
+お問い合わせ内容：　京商のKR-21 2.4GHz6chレシーバー(82611)在庫有りますか?
+無い時は仕入先に品物有りますか?
+-------------------------------
+当社理由　：　店舗を知っている
+
+**********************************************
+ご不明な点など御座いましたらお気軽にご相談ください。
+
+ラジコンショップ｜スポーツホビー
+運営会社：有限会社SHK
+
+URL：http://www.sportshobby.co.jp
+
+〒002-0859 北海道札幌市北区屯田11条3丁目
+TEL 011-773-5090
+代表取締役　黒田　民雄
+E-mail <info@sportshobby.co.jp>
+**********************************************
+
+--1649373025E.1363408392/mfgw2311.ocn.ad.jp--

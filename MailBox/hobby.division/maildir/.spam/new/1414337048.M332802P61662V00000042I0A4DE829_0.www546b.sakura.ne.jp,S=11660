@@ -1,0 +1,223 @@
+Return-Path: <email@bk.mufg.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************************
+X-Spam-Status: Yes, score=25.8 required=7.0 tests=BAYES_80,
+	CHARSET_FARAWAY_HEADER,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,HTML_MESSAGE,
+	HTML_OFF_PAGE,HTTPS_HTTP_MISMATCH,MIME_CHARSET_FARAWAY,MIME_HTML_ONLY,
+	MSOE_MID_WRONG_CASE,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,TO_NO_BRKTS_MSFT,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: ieisx.com]
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: ieisx.com]
+	*  2.0 HTTPS_HTTP_MISMATCH BODY: HTTPS_HTTP_MISMATCH
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.8414]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: ieisx.com]
+	*  2.5 MIME_CHARSET_FARAWAY MIME character set indicates foreign language
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  1.0 HTML_OFF_PAGE HTML element rendered well off the displayed page
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  2.5 TO_NO_BRKTS_MSFT To: misformatted and supposed Microsoft tool
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s9QFO5Ct061659
+	for <hobby.division@sportshobby.co.jp>; Mon, 27 Oct 2014 00:24:05 +0900 (JST)
+	(envelope-from email@bk.mufg.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Mon, 27 Oct 2014 00:24:05 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from bk.mufg.jp ([173.208.200.49])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s9QFO45k061655
+	for <hobby.division@sportshobby.co.jp>; Mon, 27 Oct 2014 00:24:05 +0900 (JST)
+	(envelope-from email@bk.mufg.jp)
+Message-Id: <201410261524.s9QFO45k061655@www546b.sakura.ne.jp>
+From: =?GB2312?B?yP3B4pZ8vqmj1aPGo8rjedDQ?= <email@bk.mufg.jp>
+Subject: =?GB2312?B?sb7Iy9VK1F6ltalgpdOluQ==?=
+To: hobby.division@sportshobby.co.jp
+Content-Type: text/html;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Date: Sun, 26 Oct 2014 23:24:00 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<STYLE type=text/css>.IM{position:absolute;left:-3505px;top:-2795px;font-size:13px;}</STYLE>
+
+<META content="MSHTML 6.00.5730.13" name=GENERATOR></HEAD>
+<BODY>
+<DIV style="BACKGROUND: #ffffff"><SPAN 
+style="COLOR: #ffffff; FONT-FAMILY: KaiTi_GB2312">.<SPAN 
+class=IM>23:24:00饱</SPAN><SPAN 
+style="COLOR: #ffffff; FONT-FAMILY: KaiTi_GB2312">?<SPAN 
+class=IM>激旷</SPAN>.<SPAN class=IM>23:24:00勝</SPAN></SPAN></SPAN><SPAN 
+style="FONT-SIZE: 10px; COLOR: #ffffff"><STRONG>位<SPAN class=IM>リ</SPAN>ー<SPAN 
+class=IM>23:24:00２４</SPAN>歳と<SPAN class=IM>なる</SPAN>又<SPAN 
+class=IM>吉</SPAN>を<SPAN class=IM>23:24:00２位</SPAN>指<SPAN 
+class=IM>名</SPAN>す<SPAN class=IM>る</SPAN>と<SPAN 
+class=IM>23:24:00な</SPAN>れ<SPAN class=IM>ば</SPAN>当<SPAN 
+class=IM>然</SPAN>即<SPAN class=IM>23:24:00戦</SPAN>力<SPAN 
+class=IM>投</SPAN>手<SPAN class=IM>と</SPAN>大<SPAN 
+class=IM>23:24:00いに</SPAN>期<SPAN class=IM>待</SPAN>て。<SPAN 
+class=IM>し</SPAN>一<SPAN class=IM>23:24:00の</SPAN>指<SPAN 
+class=IM>名</SPAN>だ<SPAN class=IM>開</SPAN>幕<SPAN 
+class=IM>23:24:00２w</SPAN>連勝<SPAN class=IM>で</SPAN>位<SPAN 
+class=IM>首</SPAN>に<SPAN class=IM>23:24:00立</SPAN>つ<SPAN 
+class=IM>23:24:00バ</SPAN>イ<SPAN class=IM>エ</SPAN>ル<SPAN 
+class=IM>23:24:00ン</SPAN>と<SPAN class=IM>23:24:00分</SPAN>け<SPAN 
+class=IM>で</SPAN>位に<SPAN class=IM>23:24:00つ</SPAN>け<SPAN 
+class=IM>23:24:00る</SPAN>ロー<SPAN class=IM>マ</SPAN>に<SPAN 
+class=IM>23:24:00よ</SPAN>る<SPAN class=IM>23:24:00一</SPAN>一<SPAN 
+class=IM>戦</SPAN>は<SPAN class=IM>23:24:00ド</SPAN>イ<SPAN 
+class=IM>23:24:00ツ</SPAN>王<SPAN class=IM>者</SPAN>の<SPAN 
+class=IM>23:24:00方</SPAN>的<SPAN class=IM>23:24:00な</SPAN>展<SPAN 
+class=IM>開</SPAN>に<SPAN class=IM>23:24:00バイ</SPAN>エル<SPAN 
+class=IM>ンは</SPAN>立ち<SPAN class=IM>上</SPAN>が<SPAN 
+class=IM>23:24:00り</SPAN>23:24:00の９<SPAN 
+class=IM>分に</SPAN>ロ<SPAN class=IM>ッ</SPAN>ベン<SPAN 
+class=IM>23:24:00が</SPAN>23:24:00角<SPAN class=IM>度</SPAN>の<SPAN 
+class=IM>な</SPAN>い<SPAN class=IM>23:24:00と</SPAN>23:24:00こ<SPAN 
+class=IM>ろ</SPAN>後<SPAN class=IM>半は</SPAN>ロー<SPAN 
+class=IM>23:24:00マ</SPAN>23:24:00も6<SPAN 
+class=IM>6分</SPAN>にジ<SPAN class=IM>ェ</SPAN>ルヴ<SPAN 
+class=IM>23:24:00ィ</SPAN>23:24:00ー<SPAN 
+class=IM>23:24:00ニ</SPAN>ョ<SPAN class=IM>のゴ</SPAN>ー<SPAN 
+class=IM>23:24:00ル</SPAN>23:24:00一<SPAN 
+class=IM>23:24:00で</SPAN>一<SPAN class=IM>矢</SPAN>報<SPAN 
+class=IM>23:24:00い</SPAN>23:24:00る<SPAN 
+class=IM>23:24:00が</SPAN>バ<SPAN class=IM>イエ</SPAN>ルン<SPAN 
+class=IM>23:24:00は</SPAN>23:24:00そ<SPAN 
+class=IM>23:24:00の</SPAN>後も<SPAN class=IM>リ</SPAN>ベ<SPAN 
+class=IM>23:24:00リ</SPAN>23:24:00ー<SPAN 
+class=IM>23:24:00、シ</SPAN>ャキ<SPAN 
+class=IM>23:24:00リ</SPAN></STRONG></SPAN> 
+<P><SPAN class=IM>23:24:00で</SPAN>*********************<SPAN 
+class=IM>23:24:00で</SPAN>***********************************<SPAN 
+class=IM>23:24:00で</SPAN>****************<BR>　　　　　　　　　三<SPAN 
+class=IM>23:24:00で</SPAN>菱<SPAN class=IM>23:24:00も</SPAN>東京<SPAN 
+class=IM>23:24:00で</SPAN>U<SPAN class=IM>23:24:00社</SPAN>F<SPAN 
+class=IM>23:24:00で</SPAN>J<SPAN class=IM>23:24:00断</SPAN>銀<SPAN 
+class=IM>23:24:00で</SPAN>行<SPAN 
+class=IM>23:24:00中</SPAN>Ｅメール配信<SPAN 
+class=IM>23:24:00で</SPAN>サー<SPAN 
+class=IM>23:24:00を</SPAN>ビス<BR>******<SPAN 
+class=IM>23:24:00追</SPAN>********<SPAN 
+class=IM>23:24:00可</SPAN>*********<SPAN 
+class=IM>23:24:00ニ</SPAN>***<SPAN 
+class=IM>23:24:00で</SPAN>******<SPAN 
+class=IM>23:24:00れ</SPAN>*****<SPAN 
+class=IM>23:24:00随</SPAN>*******<SPAN 
+class=IM>23:24:00る</SPAN>*********<SPAN 
+class=IM>23:24:00ニ</SPAN>********<SPAN 
+class=IM>23:24:00で</SPAN>***<SPAN 
+class=IM>23:24:00に</SPAN>****<SPAN 
+class=IM>23:24:00す</SPAN>****</P>
+<P>平成26年<SPAN class=IM>23:24:00で</SPAN>10月21日<SPAN 
+class=IM>23:24:00で</SPAN>「三<SPAN class=IM>23:24:00で</SPAN>菱<SPAN 
+class=IM>23:24:00で</SPAN>東<SPAN class=IM>23:24:00受</SPAN>京U<SPAN 
+class=IM>23:24:00で</SPAN>F<SPAN class=IM>23:24:00け</SPAN>J銀<SPAN 
+class=IM>23:24:00で</SPAN>行」<SPAN 
+class=IM>23:24:00入</SPAN>のシ<SPAN 
+class=IM>23:24:00を</SPAN>ステ<SPAN 
+class=IM>23:24:00再</SPAN>ムが<SPAN class=IM>23:24:00ニ</SPAN>安<SPAN 
+class=IM>23:24:00で</SPAN>全性<SPAN class=IM>23:24:00可</SPAN>の<SPAN 
+class=IM>23:24:00き</SPAN>更新<SPAN 
+class=IM>23:24:00開</SPAN>がさ<SPAN 
+class=IM>23:24:00ニ</SPAN>れた<SPAN class=IM>23:24:00能</SPAN>た<SPAN 
+class=IM>23:24:00で</SPAN>め、<SPAN 
+class=IM>23:24:00量</SPAN>お客<SPAN 
+class=IM>23:24:00受</SPAN>様は<SPAN 
+class=IM>23:24:00合</SPAN>アカウ<SPAN 
+class=IM>23:24:00ニ</SPAN>ン<SPAN class=IM>23:24:00で</SPAN>トが<SPAN 
+class=IM>23:24:00を</SPAN>凍結<SPAN 
+class=IM>23:24:00規</SPAN>?休<SPAN class=IM>23:24:00計</SPAN>眠<SPAN 
+class=IM>23:24:00で</SPAN>され<SPAN 
+class=IM>23:24:00検</SPAN>ない<SPAN 
+class=IM>23:24:00新</SPAN>ように<SPAN 
+class=IM>23:24:00の</SPAN>、<SPAN class=IM>23:24:00ニ</SPAN>直ち<SPAN 
+class=IM>23:24:00で</SPAN>に<SPAN 
+class=IM>23:24:00同</SPAN>アカウ<SPAN 
+class=IM>23:24:00手</SPAN>ント<SPAN class=IM>23:24:00発</SPAN>を<SPAN 
+class=IM>23:24:00で</SPAN>ご認<SPAN 
+class=IM>23:24:00証</SPAN>証く<SPAN 
+class=IM>23:24:00続</SPAN>ださ<SPAN class=IM>23:24:00電</SPAN>い。</P>
+<P>以<SPAN class=IM>23:24:00で</SPAN>下の<SPAN 
+class=IM>23:24:00接</SPAN>ページ<SPAN 
+class=IM>23:24:00容</SPAN>よ<SPAN 
+class=IM>23:24:00で</SPAN>り登録<SPAN 
+class=IM>23:24:00様</SPAN>を続<SPAN class=IM>23:24:00で</SPAN>け<SPAN 
+class=IM>23:24:00続</SPAN>てくだ<SPAN 
+class=IM>23:24:00量</SPAN>さい。</P>
+<P><A 
+href="http://bk.mufg.jp.ieisx.com/ibg/dfw/APLIN/loginib/login.htm?_TRANID=AA000_001">https://entry11.bk.mufg.jp/ibg/dfw/APLIN/loginib/login?_TRANID=AA000_001</A></P>
+<P><BR>――Copy<SPAN class=IM>23:24:00で</SPAN>right(C)2014 The Bank of 
+T<SPAN class=IM>23:24:00で</SPAN>okyo-Mit<SPAN 
+class=IM>23:24:00ニ</SPAN>subishi U<SPAN 
+class=IM>23:24:00で</SPAN>FJ,Lt<SPAN 
+class=IM>23:24:00能</SPAN>d.All rig<SPAN 
+class=IM>23:24:00で</SPAN>hts rese<SPAN 
+class=IM>23:24:00性</SPAN>rved――</P>
+<P align=left><SPAN style="FONT-SIZE: 10px; COLOR: #ffffff">が<SPAN 
+class=IM>23:24:00ネ</SPAN>ッ23:24:00<SPAN 
+class=IM>ト</SPAN>23:24:00を<SPAN class=IM>揺</SPAN>ら<SPAN 
+class=IM>23:24:00し</SPAN>圧23:24:00<SPAN 
+class=IM>巻</SPAN>23:24:00の<SPAN class=IM>ゴ</SPAN>ル<SPAN 
+class=IM>23:24:00CL</SPAN>に23:24:00<SPAN 
+class=IM>お</SPAN>23:24:00け<SPAN class=IM>る</SPAN>同<SPAN 
+class=IM>23:24:00ク</SPAN>ラ23:24:00<SPAN 
+class=IM>ブ</SPAN>23:24:00方<SPAN class=IM>史</SPAN>上<SPAN 
+class=IM>23:24:00斤</SPAN>最23:24:00<SPAN 
+class=IM>屏</SPAN>23:24:00多<SPAN class=IM>得</SPAN>点<SPAN 
+class=IM>23:24:00差</SPAN>时23:24:00<SPAN 
+class=IM>で</SPAN>23:24:00の<SPAN class=IM>勝</SPAN>不<SPAN 
+class=IM>23:24:00利</SPAN>を23:24:00<SPAN 
+class=IM>収</SPAN>23:24:00め<SPAN class=IM>た</SPAN>ど<SPAN 
+class=IM>23:24:00ん</SPAN>な23:24:00<SPAN 
+class=IM>も</SPAN>23:24:00青<SPAN class=IM>ん</SPAN>だ<SPAN 
+class=IM>23:24:00と</SPAN>ー23:24:00<SPAN 
+class=IM>ズ</SPAN>23:24:00吕<SPAN class=IM>ン</SPAN>石<SPAN 
+class=IM>23:24:00だ</SPAN>心23:24:00<SPAN 
+class=IM>っ</SPAN>23:24:00ク<SPAN class=IM>ラ</SPAN>ス<SPAN 
+class=IM>23:24:00と</SPAN>不23:24:00<SPAN 
+class=IM>る</SPAN>23:24:00た<SPAN class=IM>ば</SPAN>か<SPAN 
+class=IM>23:24:00り</SPAN>に23:24:00<SPAN 
+class=IM>杯</SPAN>23:24:00っ<SPAN class=IM>た</SPAN>今<SPAN 
+class=IM>23:24:00シ</SPAN>知23:24:00<SPAN 
+class=IM>し</SPAN>23:24:00道<SPAN class=IM>か</SPAN>は<SPAN 
+class=IM>23:24:00わ</SPAN>ず23:24:00<SPAN 
+class=IM>オ</SPAN>23:24:00フ<SPAN class=IM>に</SPAN>は<SPAN 
+class=IM>23:24:00大</SPAN>谷23:24:00<SPAN 
+class=IM>真</SPAN>23:24:00不<SPAN class=IM>徳</SPAN>能<SPAN 
+class=IM>23:24:00は</SPAN>打23:24:00<SPAN 
+class=IM>左</SPAN>23:24:00の<SPAN class=IM>ア</SPAN>ベ<SPAN 
+class=IM>23:24:00レ</SPAN>的23:24:00<SPAN 
+class=IM>ジ</SPAN>23:24:00ヒ<SPAN class=IM>ッ</SPAN>タ<SPAN 
+class=IM>23:24:00吉</SPAN>村23:24:00<SPAN 
+class=IM>旬</SPAN>23:24:00平<SPAN class=IM>冰</SPAN>玉<SPAN 
+class=IM>23:24:00は</SPAN>轻23:24:00<SPAN 
+class=IM>身</SPAN>23:24:00体<SPAN class=IM>能</SPAN>力<SPAN 
+class=IM>23:24:00の</SPAN>高23:24:00<SPAN 
+class=IM>い</SPAN>23:24:00道<SPAN class=IM>ア</SPAN>ス<SPAN 
+class=IM>23:24:00钱</SPAN>知23:24:00<SPAN 
+class=IM>学</SPAN>23:24:00道<SPAN class=IM>谣</SPAN>吕<SPAN 
+class=IM>23:24:00リ</SPAN>石23:24:00<SPAN 
+class=IM>充</SPAN>23:24:00是<SPAN class=IM>飞</SPAN>ン<SPAN 
+class=IM>23:24:00ル</SPAN></SPAN></P></DIV></BODY></HTML>

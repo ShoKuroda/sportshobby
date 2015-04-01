@@ -1,0 +1,17 @@
+HTTP/1.1 100 Continue
+
+HTTP/1.1 200 OK
+Date: Sat, 19 Mar 2011 07:39:46 GMT
+Server: Apache
+Set-Cookie: Apache=112.78.125.46.161811300520386939; path=/; expires=Sun, 18-Mar-12 07:39:46 GMT
+Pragma: no-cache
+Expires: Sun, 10 Jan 1990 01:01:01 GMT
+Set-Cookie: JSESSIONID=GKQnNGdC2dclsTKBw4LzqSlcv18RnTShJJ8P5vB3GhwMhFjR5yjC!-1609994228!bskth108s01c.ap.rakuten.co.jp!7161!7162; domain=.step.rakuten.co.jp; path=/rms/mall/basket/
+Set-Cookie: sf=1c468b37aa869a22d8daf3581d05e812; domain=.step.rakuten.co.jp; path=/rms/mall/basket; secure
+Set-Cookie: cart_session=SSfJA42Vl4dDbavKkMObgYybHPQUUoziMRNexibY/+N6qVuu0S5hA8HxWkYAxc5IATctWmAleTacwic7eu+hAttAV8Dh4NYoeibQVtW5tBFXYlBo09X2WjORcIoRkO+o3U525vIFwJ8NmBlVxEILe9m+WjfacU4ex5OnZ/YHEBkwNI5UES3J10kRDq94+KT1LEx2Q43MZVAYdL3XuoBmd03Zaymbajv8cR9kMdeNqbpwVb3uAJzLLM18T2L5weAv0H4Y2HKkyIr2Y9fGVQ==; domain=.step.rakuten.co.jp; expires=Friday, 17-Jun-2011 07:39:47 GMT; path=/rms/mall/basket
+Set-Cookie: cart-key=SSfJA42Vl4dDbavKkMObgYybHPQUUoziMRNexibY/+N6qVuu0S5hA8HxWkYAxc5IATctWmAleTacwic7eu+hAttAV8Dh4NYoeibQVtW5tBFXYlBo09X2WjORcIoRkO+o3U525vIFwJ8NmBlVxEILe9m+WjfacU4ex5OnZ/YHEBkwNI5UES3J10kRDq94+KT1LEx2Q43MZVAYdL3XuoBmd03Zaymbajv8cR9kMdeNqbpwVb3uAJzLLM18T2L5weAv0H4Y2HKkyIr2Y9fGVQ==; domain=.step.rakuten.co.jp; expires=Friday, 17-Jun-2011 07:39:47 GMT; path=/
+Cache-Control: no-cache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=EUC-JP
+

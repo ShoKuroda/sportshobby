@@ -1,0 +1,53 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.1 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_MW_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: pgs.by]
+	*  2.8 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5042]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: pgs.by]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: pgs.by]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: pgs.by]
+	*  2.6 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: pgs.by]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r97Ifxjh071174
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 8 Oct 2013 03:41:59 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:53865 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1381171319.30045
+Received: from 213.200.55.170 (13698.user.farlep.net [213.200.55.170])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r97IfurW071169
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 8 Oct 2013 03:41:58 +0900 (JST)
+Message-Id: <201310071841.r97IfurW071169@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (travin@coast.se@187.230.204.128)
+	by 213.200.55.170 with ESMTPA; Mon, 7 Oct 2013 21:46:31 +0300
+X-Originating-IP: 187.230.204.128
+From: travin@coast.se
+To: on_line.shop12@sportshobby.co.jp
+Subject: No pauses this night
+Date: Mon, 7 Oct 2013 21:36:36 +0300
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 07102013 #11166711, status: clean
+
+http://pgs.by/approval.html Boost extra potency and extra length
+

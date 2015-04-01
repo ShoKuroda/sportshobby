@@ -1,0 +1,51 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.7 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: herbaldruggroup.be]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: herbaldruggroup.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: herbaldruggroup.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: herbaldruggroup.be]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: herbaldruggroup.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.8 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav403.sakura.ne.jp (fsav403.sakura.ne.jp [133.242.250.102])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t16C9MV2035751
+	for <hobby.division@sportshobby.co.jp>; Fri, 6 Feb 2015 21:09:22 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav403.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav403.sakura.ne.jp);
+ Fri, 06 Feb 2015 21:09:22 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav403.sakura.ne.jp)
+Received: from 178.122.131.41 (mm-41-131-122-178.brest.dynamic.pppoe.byfly.by [178.122.131.41])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t16C9J4Z035740
+	for <hobby.division@sportshobby.co.jp>; Fri, 6 Feb 2015 21:09:21 +0900 (JST)
+Date: Fri, 6 Feb 2015 21:09:19 +0900 (JST)
+Message-Id: <201502061209.t16C9J4Z035740@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (iztok.janezic@packeteer.com@184.125.186.147)
+	by 178.122.131.41 with ESMTPA; Fri, 6 Feb 2015 15:10:05 +0300
+X-Originating-IP: 184.125.186.147
+From: iztok.janezic@packeteer.com
+To: hobby.division@sportshobby.co.jp
+Subject: Are you ready to surprise your female partner at night?
+
+Do you desire to please your beloved one tonight? http://unrest.herbaldruggroup.be/
+

@@ -1,0 +1,45 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.9 required=7.0 tests=BAYES_80,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.9319]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s25BvsZf008755
+	for <hobby.division@sportshobby.co.jp>; Wed, 5 Mar 2014 20:57:54 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:56070 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1394020674.30372
+Received: from 213.227.239.214 ([213.227.239.214])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s25BvpC7008748
+	for <hobby.division@sportshobby.co.jp>; Wed, 5 Mar 2014 20:57:52 +0900 (JST)
+Date: Wed, 5 Mar 2014 20:57:51 +0900 (JST)
+Message-Id: <201403051157.s25BvpC7008748@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (bl1@arcreo.com.au@88.150.190.118)
+	by 213.227.239.214 with ESMTPA; Wed, 5 Mar 2014 14:00:24 +0200
+From: bl1@arcreo.com.au
+To: hobby.division@sportshobby.co.jp
+Subject: Ancient secret for perfect love life
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 05032014 #7402755, status: clean
+
+Do you desire to surprise your gf tonight? http://ineligible.zmmlwzae.eu/
+

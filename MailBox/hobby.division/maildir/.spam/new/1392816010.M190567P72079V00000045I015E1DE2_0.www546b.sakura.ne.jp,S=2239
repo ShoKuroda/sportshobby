@@ -1,0 +1,42 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.5 required=7.0 tests=BAYES_95,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: burub.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: burub.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: burub.ru]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: burub.ru]
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9546]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: burub.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s1JDK3jm072072
+	for <hobby.division@sportshobby.co.jp>; Wed, 19 Feb 2014 22:20:03 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:56346 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1392816003.26367
+Received: from 193.251.64.137 (LRennes-166-18-10-137.w193-251.abo.wanadoo.fr [193.251.64.137])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s1JDK1dl072062
+	for <hobby.division@sportshobby.co.jp>; Wed, 19 Feb 2014 22:20:02 +0900 (JST)
+Date: Wed, 19 Feb 2014 22:20:01 +0900 (JST)
+Message-Id: <201402191320.s1JDK1dl072062@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (a.fava@allen.k12.la.us@81.207.27.212)
+	by 193.251.64.137 with ESMTPA; Wed, 19 Feb 2014 14:18:10 +0100
+From: a.fava@allen.k12.la.us
+To: hobby.division@sportshobby.co.jp
+Subject: How to make your love more passionate
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 19022014 #7235038, status: clean
+
+The best method to be healthy http://grass.burub.ru/
+

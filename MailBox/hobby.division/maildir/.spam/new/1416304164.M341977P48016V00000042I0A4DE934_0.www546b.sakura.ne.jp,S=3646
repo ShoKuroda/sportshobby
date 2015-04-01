@@ -1,0 +1,81 @@
+Return-Path: <service3@mx1.waimaoedm.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.8 required=7.0 tests=BAYES_50,
+	CHARSET_FARAWAY_HEADER,DEAR_FRIEND,DKIM_SIGNED,FREEMAIL_REPLYTO,
+	T_DKIM_INVALID,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: xastgs.com]
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: waimaoedm.com]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: waimaoedm.com]
+	*  2.6 DEAR_FRIEND BODY: Dear Friend? That's not very dear!
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4954]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+Received: from fsav405.sakura.ne.jp (fsav405.sakura.ne.jp [133.242.250.104])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sAI9nLWp048012
+	for <hobby.division@sportshobby.co.jp>; Tue, 18 Nov 2014 18:49:22 +0900 (JST)
+	(envelope-from service3@mx1.waimaoedm.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav405.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp);
+ Tue, 18 Nov 2014 18:49:21 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp)
+Received: from mail.mx1.waimaoedm.com ( [192.80.133.103] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sAI9nLQ7048009
+	for <hobby.division@sportshobby.co.jp>; Tue, 18 Nov 2014 18:49:21 +0900 (JST)
+	(envelope-from service3@mx1.waimaoedm.com)
+Message-Id: <201411180949.sAI9nLQ7048009@www546b.sakura.ne.jp>
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx1.waimaoedm.com 2E97417822CA7
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mx1.waimaoedm.com;
+	s=mx1.waimaoedm; t=1416300535;
+	bh=LMbO6AlSwTmtzAyV0gG0+TC1wwfAJZRWIWztwGCB/GY=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=YEpsNUXsQlA1VLZQoNsLPrNVnBQc7s4WV5u5Q0GL5/iAswXe8YwJYoOTHYltH/7vO
+	 YLOUEs9CfnM/0d1yqdgVHah5OdfrLPhjMctJCO4o+z2TnaB2xd8npZPGrMU93HfCrE
+	 6bN1woL3nAk6ckJ/hLBtGwdU6uzTIHx1ERXrqgxU=
+Date: Tue, 18 Nov 2014 16:48:50 +0800
+From: "Xian-Sita" <service3@mx1.waimaoedm.com>
+To: "hobby.division" <hobby.division@sportshobby.co.jp>
+Reply-To: <huixinsoft47@foxmail.com>
+Subject: =?GB2312?B?UmU6IFRpdGFuaXVtIGVucXVpcnk=?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id sAI9nLWp048012
+
+Dear friend,
+
+Nice day to you!
+If you are looking for titanium products, welcome to contact me.
+
+We are engaged in non-ferrous metal materials with titanium as the core research and development, production and processing and sales of high-tech enterprises.
+
+Our product ranges:
+titanium bar,titanium plate/sheet,titanium pipe/tube,titanium wire ,titanium screws/bolt/fastener,titanium filter,titanium ring,titanium part etc.
+
+More details pls to check the attechment.
+
+Best & Rgds
+ 
+Tel: 029-86130088 
+www.xastgs.com
+E-mail£ºxastlwj369@163.com
+Xi'an SITA industrial Co., Ltd
+
+

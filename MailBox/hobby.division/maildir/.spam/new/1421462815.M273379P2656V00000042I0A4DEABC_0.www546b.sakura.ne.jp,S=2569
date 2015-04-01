@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.1 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: newtreatmentprogram.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: newtreatmentprogram.eu]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: newtreatmentprogram.eu]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: newtreatmentprogram.eu]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+	*  0.8 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav206.sakura.ne.jp (fsav206.sakura.ne.jp [210.224.168.168])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0H2kqOg002652
+	for <hobby.division@sportshobby.co.jp>; Sat, 17 Jan 2015 11:46:52 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav206.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp);
+ Sat, 17 Jan 2015 11:46:52 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp)
+Received: from 174.97.20.164 (cpe-174-097-020-164.sc.res.rr.com [174.97.20.164])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t0H2ko4X002643
+	for <hobby.division@sportshobby.co.jp>; Sat, 17 Jan 2015 11:46:51 +0900 (JST)
+Date: Sat, 17 Jan 2015 11:46:50 +0900 (JST)
+Message-Id: <201501170246.t0H2ko4X002643@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (tricia.badley@aastocks.com@220.134.124.146)
+	by 174.97.20.164 with ESMTPA; Fri, 16 Jan 2015 21:49:20 -0500
+X-Originating-IP: 220.134.124.146
+From: tricia.badley@aastocks.com
+To: hobby.division@sportshobby.co.jp
+Subject: How to make your wife satisfied
+
+http://crusty.newtreatmentprogram.eu/ Can you have happiness for hours?
+

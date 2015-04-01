@@ -1,0 +1,84 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham
+	version=3.3.2
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBD0ng0R002056
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 13 Dec 2013 09:49:42 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+X-Nat-Received: from [112.78.125.46]:59998 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1386895782.28883
+Received: from rakuten.co.jp (mxtr101c.rakuten.co.jp [202.72.52.74])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBD0nfSv002053
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 13 Dec 2013 09:49:41 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat104d.db.rakuten.co.jp [172.26.38.24])
+	by mxtr104c.rakuten.co.jp (Rakuten MGw 1.3.7) with ESMTP id D1FEAD260EC
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 13 Dec 2013 09:49:41 +0900 (JST)
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat104d.db.rakuten.co.jp (Switch-3.3.4/Switch-3.3.4) with ESMTP id rBD0ma8t026244
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 13 Dec 2013 09:49:41 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0120130400; t=1386895781;
+	bh=OsH1lu1gLHjySYl6gGSF42DJFGV0HoqcxsIOtDU2tEQ=;
+	h=Date:From:Reply-To:To:Cc:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=1qTm9IrFszu2XRROLU4LSCIQmdMyakuVkVWvTZ3qwU9Zcn+RiO9rROhg+AKVSs0uN
+	 IOJZAsKr5aG+GNGpAwBZprI/ujQ/GVYtUISvFlPFFXOpgj8j1GK2hTUhXiQC6bwL/4
+	 prTzZbnICMoAyrwzH9bDxgNl8ox3qkgRdXUjZ/os=
+Received: from rakuten.co.jp ([matqor204zc.zd.rakuten.co.jp [172.18.92.15]]) by mat104d.db.rakuten.co.jp with ESMTP id rBD0nfil030857 ;
+          Fri, 13 Dec 2013 09:49:41 +0900
+Date: Fri, 13 Dec 2013 09:49:41 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: e099c73df57aad2914b64d88fe7e569cs1@km.fw.rakuten.ne.jp,
+        on_line.shop12@sportshobby.co.jp
+To: e099c73df57aad2914b64d88fe7e569cs1@km.fw.rakuten.ne.jp
+Cc: on_line.shop12@sportshobby.co.jp
+Message-ID: <201312130949.rBD0nfil030857@mat104d.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3IVtDbUo4RmJNRiQ0M05HJxsoQigbJEI3SEJTGyhCKQ==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.18.92.15
+X-Rams-Id: 847D7047F93FE1878AC80FFABEF3FA0F36E08248
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 12122013 #7109851, status: clean
+
+注文内容は以下のﾍﾟｰｼﾞからﾕｰｻﾞID･ﾊﾟｽﾜｰﾄﾞを入力しご確認ください｡
+https://m.order.my.rakuten.co.jp/
+⇒ｱｸｾｽ出来ない方はこちら
+(https://order.my.rakuten.co.jp/)
+
+[商品] ﾀﾐﾔ OP1519 ｽﾄﾛｰｸｴｸｽﾃﾝｼｮﾝﾘﾝｸ(CC-01) (54519) 3402円×1
+GPM ｱﾙﾐ ﾌﾛﾝﾄ ﾛﾜ ｻｽﾍﾟﾝｼｮﾝｱｰﾑ ｶﾗｰ:ｼﾙﾊﾞｰ (cc055silver) 2480円×1
+GPM ｱﾙﾐ ｽﾃｱﾘﾝｸﾞﾀｲﾛｯﾄﾞ CC01用 (cc160) 1980円×1
+Junfac 2.2 ﾎｲｰﾙﾜｲﾄﾞﾅｰ +19mmｵﾌｾｯﾄ 4pc (j51033) 3200円×1
+[今回獲得するﾎﾟｲﾝﾄ]109
+[受注番号] 243411-20131213-0169313203
+※上記の番号にﾘﾝｸが表示されている場合でもこのﾘﾝｸから楽天市場やｼｮｯﾌﾟへのお問い合わせはできません｡
+[ｼｮｯﾌﾟ情報] ｽﾎﾟｰﾂﾎﾋﾞｰ hobby.division@sportshobby.co.jp 011-773-5090
+【ご注意】
+ｼｮｯﾌﾟや楽天からﾒｰﾙが届かない場合がありますので､以下のﾄﾞﾒｲﾝを許可ﾄﾞﾒｲﾝとして追加をしてください
+ｼｮｯﾌﾟﾄﾞﾒｲﾝ:sportshobby.co.jp
+楽天ﾄﾞﾒｲﾝ:rakuten.co.jp
+
+※送料等の諸費用は変わる場合があります｡
+
+【PR】Xmas特集2013 ﾎﾟｲﾝﾄ最大10倍も!ｹｰｷにﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://r10.to/hhh9kp
+
+【PR】楽天ｶｰﾄﾞ入会でもれなく2,000円ﾎﾟｲﾝﾄﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://rac.rakuten.co.jp/2964/
+
+【PR】楽天Edyｱﾌﾟﾘをﾀﾞｳﾝﾛｰﾄﾞするだけで400ﾎﾟｲﾝﾄ!!
+ ⇒http://r10.to/hJ999p
+
+
+※商品に関するお問い合わせは上記のｼｮｯﾌﾟにご連絡ください｡このﾒｰﾙに返信されてもお答えできません｡
+※楽天市場に関する問い合わせは､楽天ﾄｯﾌﾟ( http://m.rakuten.co.jp/ )のご利用ｶﾞｲﾄﾞをご覧ください｡
+⇒ｱｸｾｽ出来ない方はこちら
+(http://event.rakuten.co.jp/mobile/iphone/help/)
+
+楽天市場(楽天株式会社)
+http://m.rakuten.co.jp/sportshobby/

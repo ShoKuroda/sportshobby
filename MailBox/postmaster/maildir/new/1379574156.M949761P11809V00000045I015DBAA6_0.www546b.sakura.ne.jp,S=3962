@@ -1,0 +1,108 @@
+Return-Path: <MAILER-DAEMON@www546b.sakura.ne.jp>
+Received: from localhost (localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) id r8J72aEJ011802;
+	Thu, 19 Sep 2013 16:02:36 +0900 (JST)
+	(envelope-from MAILER-DAEMON)
+Date: Thu, 19 Sep 2013 16:02:36 +0900 (JST)
+From: Mail Delivery Subsystem <MAILER-DAEMON>
+Message-Id: <201309190702.r8J72aEJ011802@www546b.sakura.ne.jp>
+To: <sportshobby2@www546b.sakura.ne.jp>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="r8J72aEJ011802.1379574156/www546b.sakura.ne.jp"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--r8J72aEJ011802.1379574156/www546b.sakura.ne.jp
+
+The original message was received at Thu, 19 Sep 2013 16:02:36 +0900 (JST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<k.a.t.s.u-0810@docomo.ne.jp>
+    (reason: 550 Unknown user k.a.t.s.u-0810@docomo.ne.jp)
+
+   ----- Transcript of session follows -----
+... while talking to mfsmax.docomo.ne.jp.:
+>>> RCPT To:<k.a.t.s.u-0810@docomo.ne.jp>
+<<< 550 Unknown user k.a.t.s.u-0810@docomo.ne.jp
+550 5.1.1 <k.a.t.s.u-0810@docomo.ne.jp>... User unknown
+>>> DATA
+<<< 503 Bad sequence of commands
+
+--r8J72aEJ011802.1379574156/www546b.sakura.ne.jp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; www546b.sakura.ne.jp
+Received-From-MTA: DNS; localhost
+Arrival-Date: Thu, 19 Sep 2013 16:02:36 +0900 (JST)
+
+Final-Recipient: RFC822; k.a.t.s.u-0810@docomo.ne.jp
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; mfsmax.docomo.ne.jp
+Diagnostic-Code: SMTP; 550 Unknown user k.a.t.s.u-0810@docomo.ne.jp
+Last-Attempt-Date: Thu, 19 Sep 2013 16:02:36 +0900 (JST)
+
+--r8J72aEJ011802.1379574156/www546b.sakura.ne.jp
+Content-Type: message/rfc822
+
+Return-Path: <sportshobby2@www546b.sakura.ne.jp>
+Received: from www546b.sakura.ne.jp (localhost [127.0.0.1])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r8J72aEJ011799
+	for <k.a.t.s.u-0810@docomo.ne.jp>; Thu, 19 Sep 2013 16:02:36 +0900 (JST)
+	(envelope-from sportshobby2@www546b.sakura.ne.jp)
+Received: (from sportshobby2@localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3/Submit) id r8J72a8t011798;
+	Thu, 19 Sep 2013 16:02:36 +0900 (JST)
+	(envelope-from sportshobby2)
+Date: Thu, 19 Sep 2013 16:02:36 +0900 (JST)
+To: =?iso-2022-jp?B?GyRCQ2ZMbhsoQg==?= <k.a.t.s.u-0810@docomo.ne.jp>
+Subject: =?iso-2022-jp?B?GyRCIVolOSVdITwlRCVbJVMhPCFbPiZJSiRLJEQkJCRGJE4bKEI=?=
+	=?iso-2022-jp?B?GyRCPEFMZCRyPHUkMUlVJDEkXiQ3JD8bKEI=?=
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Message-Id: <Qdmail.1.2.6b_817656d6e91130f57b75633f2bddc40b2cec4a74@hal456.net>
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-PHP-Qdmail: version-1.2.6b The_MIT_License http://hal456.net/qdmail PHPver 5.2.17
+	send-by MailFunction
+
+-------------------------------
+このメールは商品への自動返信メールとなっております。
+-------------------------------
+中野  様
+
+[RC4WD Trail Finder 2 Truck Kit 【オリジナルボディーレス】]の質問を承りました。
+担当者より返信いたしますので、少々お待ち下さい。
+
+お急ぎの場合はお電話でお問合わせください。
+電話番号：011-773-5090
+
+-------下記の質問を承りました-----------
+
+こちらの商品は入庫予定はありますか？
+モーターやピニオンギアは別に購入ですか？
+購入の際はお支払はカード決済可能でしょうか？
+
+
+-------------------------------
+
+**********************************************
+ご不明な点など御座いましたらお気軽にご相談ください。
+
+ラジコンショップ｜スポーツホビー
+運営会社：有限会社SHK
+
+URL：http://www.sportshobby.co.jp
+
+〒002-0859 北海道札幌市北区屯田11条3丁目
+TEL 011-773-5090
+代表取締役　黒田　民雄
+E-mail <info@sportshobby.co.jp>
+**********************************************
+
+--r8J72aEJ011802.1379574156/www546b.sakura.ne.jp--
+

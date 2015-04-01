@@ -1,0 +1,47 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.5 required=7.0 tests=BAYES_80,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: wnxhcwdq.cf]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.8967]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.6 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rAJ2O8ps018615
+	for <hobby.division@sportshobby.co.jp>; Tue, 19 Nov 2013 11:24:09 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:55890 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1384827848.3248
+Received: from 58.5.20.171 (58x5x20x171.ap58.ftth.ucom.ne.jp [58.5.20.171])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rAJ2O7EH018607
+	for <hobby.division@sportshobby.co.jp>; Tue, 19 Nov 2013 11:24:08 +0900 (JST)
+Date: Tue, 19 Nov 2013 11:24:07 +0900 (JST)
+Message-Id: <201311190224.rAJ2O7EH018607@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (cbo@agroinkom.ru@165.191.122.27)
+	by 58.5.20.171 with ESMTPA; Tue, 19 Nov 2013 11:25:56 +0900
+From: cbo@agroinkom.ru
+To: hobby.division@sportshobby.co.jp
+Subject: Outstanding solution for your intimate life
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 18112013 #8909049, status: clean
+
+http://further.wnxhcwdq.cf/ The hottest method to satisfy your loved one
+

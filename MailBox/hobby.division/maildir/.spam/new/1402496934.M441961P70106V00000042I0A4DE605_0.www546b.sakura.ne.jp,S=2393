@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.8 required=7.0 tests=BAYES_50,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: yhnfwgpi.be]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: yhnfwgpi.be]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: yhnfwgpi.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: yhnfwgpi.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: yhnfwgpi.be]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5695]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5BESo8J070101
+	for <hobby.division@sportshobby.co.jp>; Wed, 11 Jun 2014 23:28:50 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:38992 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1402496930.30094
+Received: from 123.26.154.221 (localhost [123.26.154.221] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s5BESl75070092
+	for <hobby.division@sportshobby.co.jp>; Wed, 11 Jun 2014 23:28:49 +0900 (JST)
+Date: Wed, 11 Jun 2014 23:28:47 +0900 (JST)
+Message-Id: <201406111428.s5BESl75070092@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (zeiplast@avtogermes.ru@218.214.154.80)
+	by localhost with ESMTPA; Wed, 11 Jun 2014 21:29:14 +0700
+X-Originating-IP: 218.214.154.80
+From: zeiplast@avtogermes.ru
+To: hobby.division@sportshobby.co.jp
+Subject: Get all your health supply
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 11062014 #8203652, status: clean
+
+Keep your lover chuffed http://fossil.yhnfwgpi.be/
+
+
+Sent from my iPhone
+

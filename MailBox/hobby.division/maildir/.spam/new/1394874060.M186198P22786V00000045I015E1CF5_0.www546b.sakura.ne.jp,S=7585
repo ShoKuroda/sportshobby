@@ -1,0 +1,123 @@
+Return-Path: <lbb011@hotmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************************************************
+X-Spam-Status: Yes, score=69.0 required=7.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+	ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_MONEY,ADVANCE_FEE_4_NEW,
+	ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_MONEY,
+	AXB_XMAILER_MIMEOLE_OL_024C2,BAYES_50,FORGED_MUA_OUTLOOK,FORM_FRAUD_3,
+	FORM_FRAUD_5,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,FREEMAIL_REPLYTO,
+	FROM_MISSPACED,FROM_MISSP_EH_MATCH,FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,
+	FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,FSL_CTYPE_WIN1251,FSL_MISSP_REPLYTO,
+	FSL_NEW_HELO_USER,LOTS_OF_MONEY,MONEY_FORM_SHORT,MONEY_FRAUD_3,MONEY_FRAUD_5,
+	MONEY_FROM_MISSP,MSOE_MID_WRONG_CASE,NSL_RCVD_HELO_USER,
+	T_FILL_THIS_FORM_SHORT,T_FROM_MISSP_DKIM,T_MONEY_PERCENT autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  3.9 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  1.4 NSL_RCVD_HELO_USER Received from HELO User
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (lbb011[at]hotmail.com)
+	*  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (lbb011[at]hotmail.com)
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4999]
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  4.5 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  2.3 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+	*  3.6 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  3.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  4.5 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+	*  2.0 MONEY_FROM_MISSP Lots of money and misspaced From
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  3.5 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  0.1 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  0.1 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  0.0 T_MONEY_PERCENT X% of a lot of money for you
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  4.3 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+	*  0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal
+	*      information
+	*  0.0 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.0 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  4.3 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  3.6 MONEY_FORM_SHORT Lots of money if you fill out a short form
+	*  0.0 FORM_FRAUD_5 Fill a form and many fraud phrases
+	*  1.5 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  4.4 MONEY_FRAUD_3 Lots of money and several fraud phrases
+	*  2.3 FORM_FRAUD_3 Fill a form and several fraud phrases
+	*  2.2 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	*  4.1 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	*  1.5 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	*  4.4 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s2F90vKf022783
+	for <hobby.division@sportshobby.co.jp>; Sat, 15 Mar 2014 18:00:58 +0900 (JST)
+	(envelope-from lbb011@hotmail.com)
+X-Nat-Received: from [112.78.125.46]:54283 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1394874057.21776
+Received: from vps12.nonerror.com ([23.96.38.107])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s2F90ung022760
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Sat, 15 Mar 2014 18:00:57 +0900 (JST)
+	(envelope-from lbb011@hotmail.com)
+Message-Id: <201403150900.s2F90ung022760@www546b.sakura.ne.jp>
+Received: from 69-29-31-28.stat.centurytel.net ([69.29.31.28]:50686 helo=User)
+	by vps12.nonerror.com with esmtpa (Exim 4.82)
+	(envelope-from <lbb011@hotmail.com>)
+	id 1WOkMe-000Foq-E3; Sat, 15 Mar 2014 08:54:45 +0000
+Reply-To: <lbbuka@yahoo.it>
+From: "LBB"<lbb011@hotmail.com>
+Subject: Your attention to my inquiry
+Date: Sat, 15 Mar 2014 01:54:51 -0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vps12.nonerror.com
+X-AntiAbuse: Original Domain - sportshobby.co.jp
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - hotmail.com
+X-Get-Message-Sender-Via: vps12.nonerror.com: authenticated_id: best/only user confirmed/virtual account not confirmed
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 15032014 #7525524, status: clean
+
+Sir,
+I am Dr. Lamine Buka Bature; the Head of the Directorate of Petroleum and Pipeline Marketing (DPPM); the Nigerian government agency that exclusively conducts the international trade and distribution of Nigeria's Petroleum and products, which is why we also maintain a permanent presence here in the London International Petroleum Exchange (IPE).
+
+We both know that spammers have in no small measure created a climate of suspicion and uncertainty in internet communication, thereby making it difficult for people to negotiate meaningful business relations over the internet. However, it is improper to judge everybody by that ugly phenomenon. 
+
+I have US$23.8Million which I want to transfer into your account. I accumulated the fund by allocation and supply of excess quantity of petroleum to foreign buyers. Unfortunately, our payment method is such that all payments go straight into our (DPPM) account with the Central Financial institution where proceeds from all our sales are received. This is how the US$23.8million got trapped inside our (DPPM) account. 
+
+As it is, I cannot pull or withdraw this US$23.8million from our account without proper documentations and reason. This is why I am sending this email to you. 
+The only way I can withdraw the fund is by working with you to transfer it into your account as one of the many contract payments we are scheduled to process and transfer to contractors.
+Yes, I will provide the necessary documentations and order the bank to process and transfer this fund to your account as a legitimate and due payment for a maintenance work that was done for us (the DPPM) some years ago. They would transfer the fund to your account without delay. 
+Your profession or line of business does not matter at all.
+
+Of course, I have already put the necessary arrangements in place to ensure the business is concluded within 10 working days and have the fund successfully moved into your account anywhere in the world. 
+Upon conclusion; you would retain 10% of the fund, and the remaining 90% would be mine.
+
+Please get back to me with the following details/items:
+
+1. Your full name and address
+2. Your company name and address (if any)
+3. The photocopy of the name page of your valid international passport.
+4. Your cell phone number for unrestricted access to you.
+
+Yours sincerely,
+Dr. L.B. Bature (Tel/Fax: +448458601036 +448458600993)
+
+DPPM /International Petroleum Exchange (IPE)
+Milton Gate, 60 Chiswell Street, 
+London, United Kingdom
+EC1Y 4SA
+
+15/03/2014

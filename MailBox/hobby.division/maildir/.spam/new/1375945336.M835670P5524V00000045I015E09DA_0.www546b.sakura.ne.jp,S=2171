@@ -1,0 +1,46 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.1 required=7.0 tests=BAYES_50,CURR_PRICE,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,
+	TVD_UNDER_VALUED autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 TVD_UNDER_VALUED BODY: TVD_UNDER_VALUED
+	*  0.0 CURR_PRICE BODY: CURR_PRICE
+	*  2.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4971]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r7872E3o005515
+	for <hobby.division@sportshobby.co.jp>; Thu, 8 Aug 2013 16:02:14 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:65404 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1375945334.19441
+Received: from 46.139.38.203 (2E8B26CB.mobile.pool.telekom.hu [46.139.38.203])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r7872B2e005498
+	for <hobby.division@sportshobby.co.jp>; Thu, 8 Aug 2013 16:02:13 +0900 (JST)
+Date: Thu, 8 Aug 2013 16:02:11 +0900 (JST)
+Message-Id: <201308080702.r7872B2e005498@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (johnny@gapac.com@237.41.73.177)
+	by 46.139.38.203 with ESMTPA; Thu, 8 Aug 2013 09:05:09 +0100
+X-Originating-IP: 237.41.73.177
+From: johnny@gapac.com
+To: hobby.division@sportshobby.co.jp
+Subject: This Stock Could Be Highly Undervalued
+X-Antivirus: avast! (VPS 130807-1, 2013.08.07), Outbound message
+X-Antivirus-Status: Clean
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 08082013 #10886666, status: clean
+
+This Company Is Looking To Become Our Next Monster! It Is Trending Higher!
+
+Date: Thu, August 8th
+Current Price: $.195
+Traded as: IM T_C
+Target Price: 0.90
+Name: Imogo Technologies
+
+This Stock is one to watch this week! This Stock Releases Breaking News!!!
+

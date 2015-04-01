@@ -1,0 +1,46 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.3 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO,URIBL_BLOCKED,
+	URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: proptima.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: proptima.ru]
+	*  3.9 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: proptima.ru]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: proptima.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r56KYVdk086422
+	for <hobby.division@sportshobby.co.jp>; Fri, 7 Jun 2013 05:34:32 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:58097 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1370550871.10757
+Received: from 37.45.96.161 ([37.45.183.68])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r56KYTvE086417
+	for <hobby.division@sportshobby.co.jp>; Fri, 7 Jun 2013 05:34:30 +0900 (JST)
+Message-Id: <201306062034.r56KYTvE086417@www546b.sakura.ne.jp>
+X-AntiVirus: Checked by Dr.Web [version: 7.0.1.03231, engine: 7.0.1.05020, virus records: 2896662, updated:  4.06.2012]
+Received: from unknown (HELO localhost) (nathanielcampbell@iamail.ru@60.157.133.112)
+	by 37.45.183.68 with ESMTPA; Thu, 6 Jun 2013 23:35:00 +0400
+X-Originating-IP: 60.157.133.112
+From: nathanielcampbell@iamail.ru
+To: hobby.division@sportshobby.co.jp
+Subject: Find way to huge fun
+Date: Thu, 6 Jun 2013 23:30:57 +0400
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06062013 #10304986, status: clean
+
+Replace weakness with power http://proptima.ru/teaching.html
+

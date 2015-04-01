@@ -1,0 +1,111 @@
+Return-Path: <a.vries62@chello.nl>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********************
+X-Spam-Status: Yes, score=23.3 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_50,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+	FROM_MISSPACED,FROM_MISSP_EH_MATCH,FROM_MISSP_MSFT,FROM_MISSP_TO_UNDISC,
+	FROM_MISSP_USER,FSL_CTYPE_WIN1251,HTML_MESSAGE,MIME_HTML_ONLY,
+	MSOE_MID_WRONG_CASE,NSL_RCVD_FROM_USER,T_FROM_MISSP_DKIM,URIBL_BLOCKED
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.8 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  2.7 NSL_RCVD_FROM_USER Received from User
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: orientalkitchen.in]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5003]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  3.6 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  3.8 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  2.7 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  2.6 FROM_MISSP_USER From misspaced, from "User"
+	*  0.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.1 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r5Q5qlRq000240
+	for <hobby.division@sportshobby.co.jp>; Wed, 26 Jun 2013 14:52:47 +0900 (JST)
+	(envelope-from a.vries62@chello.nl)
+X-Nat-Received: from [112.78.125.46]:50308 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1372225967.9625
+Received: from fep23.mx.upcmail.net (fep23.mx.upcmail.net [62.179.121.43])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r5Q5qjhR000234
+	for <hobby.division@sportshobby.co.jp>; Wed, 26 Jun 2013 14:52:46 +0900 (JST)
+	(envelope-from a.vries62@chello.nl)
+Received: from edge01.upcmail.net ([192.168.13.236])
+          by viefep23-int.chello.at
+          (InterMail vM.8.01.05.05 201-2260-151-110-20120111) with ESMTP
+          id <20130626055243.KHFK15242.viefep23-int.chello.at@edge01.upcmail.net>;
+          Wed, 26 Jun 2013 07:52:43 +0200
+Received: from User ([81.169.231.1])
+	by edge01.upcmail.net with edge
+	id stsf1l02f02TxcH01tsgKL; Wed, 26 Jun 2013 07:52:43 +0200
+X-SourceIP: 81.169.231.1
+X-Authenticated-Sender: a.vries62@chello.nl
+From: "service-update"<a.vries62@chello.nl>
+Subject: Dringende aanpassing van service-update
+Date: Wed, 26 Jun 2013 07:52:41 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20130626055243.KHFK15242.viefep23-int.chello.at@edge01.upcmail.net>
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 26062013 #10401427, status: clean
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+Geachte rekeninghouder,</DIV>
+<DIV>
+ </DIV>
+<DIV>
+ </DIV>
+<DIV>
+We merken dat uw account wordt gebruikt om een onbevoegde ip locatie spam</DIV>
+<DIV>
+ </DIV>
+<DIV>
+ </DIV>
+<DIV>
+Gelieve beveiligen uw account nu invloed op ons om een schorsing van de rekening</DIV>
+<DIV>
+ </DIV>
+<DIV>
+ </DIV>
+<DIV>
+<A href="http://orientalkitchen.in/js/upc.htm"><FONT color=#0000FF><U>Klik nu</U></FONT></A> op de veiligheid van uw account voor meer veiligheid aan uw account.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+ </DIV>
+<DIV>
+dank</DIV>
+<DIV>
+ </DIV>
+<DIV>
+ </DIV>
+<DIV>
+upcmail TEAM</DIV>
+<DIV>
+ </DIV>
+<DIV>
+ </DIV>
+<DIV>
+© 2013 UPC Admin Update. Alle rechten voorbehouden.</DIV>
+</FONT>
+</BODY></HTML>

@@ -1,0 +1,61 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.6 required=7.0 tests=BAYES_99,
+	DKIM_ADSP_CUSTOM_MED,FORGED_YAHOO_RCVD,FREEMAIL_FROM,MSGID_FROM_MTA_HEADER,
+	NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (er[at]yahoo.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.6 FORGED_YAHOO_RCVD 'From' yahoo.com does not match 'Received' headers
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: medmedsped.in]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: medmedsped.in]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: medmedsped.in]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: medmedsped.in]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: medmedsped.in]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: medmedsped.in]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: medmedsped.in]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9TFjGeB093941
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 30 Oct 2013 00:45:16 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:60764 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383061516.26409
+Received: from vc055.net061120241.thn.ne.jp (vc055.net061120241.thn.ne.jp [61.120.241.55])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9TFjDkr093888
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 30 Oct 2013 00:45:15 +0900 (JST)
+Message-Id: <201310291545.r9TFjDkr093888@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (er@yahoo.com@149.227.182.125)
+	by 61.120.241.55 with ESMTPA; Wed, 30 Oct 2013 00:47:21 +0900
+X-Originating-IP: 149.227.182.125
+From: er@yahoo.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Can you have pleasure over again?
+Date: Wed, 30 Oct 2013 00:42:49 +0900
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 29102013 #10513606, status: clean
+
+http://unkind.medmedsped.in/ Give delight to your female partner
+

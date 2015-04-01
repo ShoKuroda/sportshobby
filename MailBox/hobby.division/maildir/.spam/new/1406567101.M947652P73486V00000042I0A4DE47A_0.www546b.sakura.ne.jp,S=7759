@@ -1,0 +1,152 @@
+Return-Path: <Haruna.Kobayashi@tophotinfo.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.2 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_ONLY_32,HTML_MESSAGE,MPART_ALT_DIFF,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: tophotinfo.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: tophotinfo.com]
+	*  0.0 HTML_IMAGE_ONLY_32 BODY: HTML: images with 2800-3200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.8 MPART_ALT_DIFF BODY: HTML and text parts are different
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: tophotinfo.com]
+Received: from www546b.sakura.ne.jp (ksav401.sakura.ne.jp [153.120.85.36])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s6SH4wcQ073480
+	for <hobby.division@sportshobby.co.jp>; Tue, 29 Jul 2014 02:04:58 +0900 (JST)
+	(envelope-from Haruna.Kobayashi@tophotinfo.com)
+X-Nat-Received: from [112.78.125.46]:51920 [ident-empty]
+	by ksav401.sakura.ne.jp with TPROXY id 1406567097.12219
+Received: from 46161751964.tophotinfo.com (46161751964.tophotinfo.com [46.16.175.196])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s6SH4vox073475
+	for <hobby.division@sportshobby.co.jp>; Tue, 29 Jul 2014 02:04:57 +0900 (JST)
+	(envelope-from Haruna.Kobayashi@tophotinfo.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tophotinfo.com;
+ h=To:Subject:Message-ID:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding:Date; i=Haruna.Kobayashi@tophotinfo.com;
+ bh=931nVygVKHSkva99EBFUG6uNeds=;
+ b=nTbNQaWCJLegnP5cd6YgA0PnSshSBMIafXakaJc1FUz5XXrzjyOBwnnSkUzjjyqdOPjprj2ErcFr
+   LDCZAfyNSN7b4sJY8mxLMvzOmfKDWrIp9Dyfh1cQBFF7Fsp0UmhIVNIpC6Mw6dDuONucrbNc8Vgg
+   LWRWP56B7tvU6JurAixNfDQAFtncl8jf0dayziKZGxQjuUtDhcnRXwglfRZZ7PD3sNtIMWulCiYB
+   YEhoLPjuphJu/dpsfVtvpSX+WjAsMVFqJHtr3DgDo3ahfOxwnHU+fzuVfOs0DjTtTmwKXxJ76gIc
+   mnb5ustSE+H2YqkbMNZYlvmng7Pg8AnrAS3f0g==
+To: hobby.division@sportshobby.co.jp
+Subject: =?UTF-8?B?44GZ44G544Gm44Gu5ZWP6aGM44Gv6Kej5rG6562W44KS5oyB44Gj44Gm44GE44G+44GZ44CC?=
+Message-ID: <ca10341ca4589a152e630070fc2a5687@tophotinfo.com>
+From: =?UTF-8?B?6Zm96I+cIOWwj+aelw==?= <Haruna.Kobayashi@tophotinfo.com>
+Reply-To: Haruna.Kobayashi@tophotinfo.com
+MIME-Version: 1.0
+X-Mailer-RecptId: 248072614
+X-Mailer-SID: 57220
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_1dee8271538a7c1a96ad01862ee080c4"
+Content-Transfer-Encoding: 8bit
+Date: Mon, 28 Jul 2014 17:05:52 +0000
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+--b1_1dee8271538a7c1a96ad01862ee080c4
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+こんにちは、
+最近では、多くの人々がトラブル借金を払っています。
+私はこれを見つけるまで私はそれらのひとつであった。
+このようにして私がその金融問題を解決した。
+
+こちらをクリックしてください
+http://tophotinfo.com/link.php?M=248072614&N=57220&K=b83e243ef3ce471728189305ff043726&L=92924&F=T
+
+その瞬間から私の人生が変わりました。
+今、私はすべてのための時間を持っている。
+私は家族と友人たちと多くの時間を過ごすことができます。
+君の人生を変更するには、この絶好の機会をお見逃しなく。
+人生は待つにはあまりにも短いです。
+ありがとうございます、
+
+陽菜 小林
+
+
+
+
+メール配信中止ご希望の方は,
+こちらへ:http://tophotinfo.com/unsubscribe.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&L=4061&N=57220
+
+
+
+
+
+--b1_1dee8271538a7c1a96ad01862ee080c4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">こんにちは、</span><br /><br /><br /><span
+style="font-size: small; font-family: arial, helvetica,
+sans-serif;">最近では、多くの人々がトラブル借金を払っています。</span><br
+/><br /><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">私はこれを見つけるまで私はそれらのひとつであった。</span><br
+/><br /><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">このようにして私がその金融問題を解決した。</span><br
+/><br /></p>
+<p><a
+href="http://tophotinfo.com/link.php?M=248072614&N=57220&K=b83e243ef3ce471728189305ff043726&L=92924&F=H"><span
+style="font-size: small; font-family: arial, helvetica,
+sans-serif;">こちらをクリックしてください</span></a></p>
+<p><br /><br /><span style="font-size: small; font-family: arial,
+helvetica,
+sans-serif;">その瞬間から私の人生が変わりました。</span><br
+/><br /><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">今、私はすべてのための時間を持っている。</span><br
+/><br /><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">私は家族と友人たちと多くの時間を過ごすことができます。</span><br
+/><br /><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">君の人生を変更するには、この絶好の機会をお見逃しなく。</span><br
+/><br /><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">人生は待つにはあまりにも短いです。</span><br
+/><br /><br /><br /><br /><br /><span style="font-size: small; font-family:
+arial, helvetica, sans-serif;">ありがとうございます、</span><br
+/><br /></p>
+<p><span style="font-size: small;">陽菜 小林</span></p>
+<p><br /><br /><br /><br /><br /><br /><span style="font-size: xx-small;
+font-family: arial, helvetica,
+sans-serif;">メール配信中止ご希望の方は, <a
+href="http://tophotinfo.com/unsubscribe.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&L=4061&N=57220">こちらへ</a></span></p>
+<p><!-- Jerry turned to his jendus of cavalry Mobilize all riders at once
+and start for Raliad By hurrying you will be able to meet the flying
+contingent in front of the Gate of Victory shortly before noon See that the
+riders who carry grenades are in the front ranks  --></p>
+<p><!-- There being no objections Jerry continued you will send out riders
+at once to summon the tribesmen and the other units of our army that are in
+hiding Let the Atabah Marsh be the rendezvous and be ready for matching
+orders by tomorrow I go now to inspect the work of our armorers and smiths
+--></p>
+<img
+src="http://tophotinfo.com/open.php?M=248072614&L=4061&N=57220&K=b83e243ef3ce471728189305ff043726&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_1dee8271538a7c1a96ad01862ee080c4--
+
+

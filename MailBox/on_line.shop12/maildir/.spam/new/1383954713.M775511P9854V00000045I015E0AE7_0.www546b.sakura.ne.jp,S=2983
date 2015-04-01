@@ -1,0 +1,57 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.9 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,
+	URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: medmedsped.in]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: medmedsped.in]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: medmedsped.in]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: medmedsped.in]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: medmedsped.in]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: medmedsped.in]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: medmedsped.in]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rA8NpoFs009851
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 9 Nov 2013 08:51:50 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:50904 [ident-empty]
+	by ksav203.sakura.ne.jp with TPROXY id 1383954710.32077
+Received: from 5.108.230.76 ([5.108.237.198])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rA8NpjYs009823
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 9 Nov 2013 08:51:48 +0900 (JST)
+Date: Sat, 9 Nov 2013 08:51:45 +0900 (JST)
+Message-Id: <201311082351.rA8NpjYs009823@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (mjohnson@med.uni-marburg.de@165.130.68.96)
+	by 5.108.230.76 with ESMTPA; Sat, 9 Nov 2013 07:52:56 +0800
+From: mjohnson@med.uni-marburg.de
+To: on_line.shop12@sportshobby.co.jp
+Subject: Ancient secrets of rich xxxlife
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server 8.0.0.455 status: clean
+
+The first-rate way to gratify your wife http://judge.medmedsped.in/
+

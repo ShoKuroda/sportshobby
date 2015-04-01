@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.4 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,URIBL_BLOCKED
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: we.ve]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9TBw8rq040457
+	for <hobby.division@sportshobby.co.jp>; Tue, 29 Oct 2013 20:58:08 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:51648 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383047888.14835
+Received: from 178.121.60.164 (mm-164-60-121-178.dynamic.pppoe.mgts.by [178.121.60.164] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9TBw46a040444
+	for <hobby.division@sportshobby.co.jp>; Tue, 29 Oct 2013 20:58:06 +0900 (JST)
+Date: Tue, 29 Oct 2013 20:58:04 +0900 (JST)
+Message-Id: <201310291158.r9TBw46a040444@www546b.sakura.ne.jp>
+X-AntiVirus: Checked by Dr.Web [version: 7.0.4.09220, engine: 7.0.100.09170, virus records: 4439932, updated:  2.09.2013]
+Received: from unknown (HELO localhost) (keita_higuchi@televar.com@240.225.135.204)
+	by 178.121.60.164 with ESMTPA; Tue, 29 Oct 2013 14:57:07 +0400
+From: keita_higuchi@televar.com
+To: hobby.division@sportshobby.co.jp
+Subject: This Company is a ticking time bomb ready to explode higher
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 29102013 #10561896, status: clean
+
+Hello, we.ve received your contacts from a recruitment agency. You were 
+recommended as a responsible and smart person.
+
+I am an HR Manager in a international company. We are hiring workers in 
+Japan to represent our organization in their home town. We have several 
+vacancies available. But the Company Representative. vacancy is the most 
+interesting and well paid.
+
+The salary is from 2,900,000 YEN per month + bonuses. It will be easy to 
+begin. We provide a probationary period. We need decent people that can be 
+entrusted with large amounts of money. If you are interested, please, 
+respond to my letter immediately: AllisEklund@yahoo.co.jp
+

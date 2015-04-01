@@ -1,0 +1,57 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.6 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_PH_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: mhr.ro]
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  1.5 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: mhr.ro]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9969]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.4 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9KFu5sJ086346
+	for <hobby.division@sportshobby.co.jp>; Mon, 21 Oct 2013 00:56:05 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:64097 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1382284565.1566
+Received: from 37.45.177.59 ([37.45.177.59])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9KFu3ST086337
+	for <hobby.division@sportshobby.co.jp>; Mon, 21 Oct 2013 00:56:04 +0900 (JST)
+Date: Mon, 21 Oct 2013 00:56:03 +0900 (JST)
+Message-Id: <201310201556.r9KFu3ST086337@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (lawriewallace@hwt.com.au@159.120.232.116)
+	by 37.45.177.59 with ESMTPA; Sun, 20 Oct 2013 18:58:44 +0300
+From: lawriewallace@hwt.com.au
+To: hobby.division@sportshobby.co.jp
+Subject: The best way to satisfy your baby
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 20102013 #11143248, status: clean
+
+http://mhr.ro/fewer.html Keep your girl entertained at night
+

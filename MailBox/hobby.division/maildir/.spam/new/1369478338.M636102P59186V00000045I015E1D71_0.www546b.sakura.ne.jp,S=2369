@@ -1,0 +1,45 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.2 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_JP_SURBL,URIBL_MW_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5041]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: webdoanhnghiep.org]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  3.2 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4PActxY059183
+	for <hobby.division@sportshobby.co.jp>; Sat, 25 May 2013 19:38:55 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:64600 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1369478335.21957
+Received: from 46.191.72.83 ([46.191.74.231])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4PAc4cY059022
+	for <hobby.division@sportshobby.co.jp>; Sat, 25 May 2013 19:38:34 +0900 (JST)
+Message-Id: <201305251038.r4PAc4cY059022@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (order@hrn.ru@169.117.158.187)
+	by 46.191.74.231 with ESMTPA; Sat, 25 May 2013 13:38:28 +0200
+From: order@hrn.ru
+To: hobby.division@sportshobby.co.jp
+Subject: Lift your woman to heavens this night
+Date: Sat, 25 May 2013 13:28:48 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 25052013 #10130268, status: clean
+
+How to improve your life 
+http://balolaptopcaocap.webdoanhnghiep.org/union.html
+

@@ -1,0 +1,212 @@
+Return-Path: <aikotakahashi@pressupdates.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.8 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MPART_ALT_DIFF,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URIBL_SBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: pressupdates.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: pressupdates.com]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.8 MPART_ALT_DIFF BODY: HTML and text parts are different
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: pressupdates.com]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: pressupdates.com]
+Received: from www546b.sakura.ne.jp (ksav112.sakura.ne.jp [59.106.188.110])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s67KWgqH056383
+	for <hobby.division@sportshobby.co.jp>; Tue, 8 Jul 2014 05:32:42 +0900 (JST)
+	(envelope-from aikotakahashi@pressupdates.com)
+X-Nat-Received: from [112.78.125.46]:49791 [ident-empty]
+	by ksav112.sakura.ne.jp with TPROXY id 1404765162.5503
+Received: from 9645181391.pressupdates.com (9645181391.pressupdates.com [96.45.18.139])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s67KWfrd056374
+	for <hobby.division@sportshobby.co.jp>; Tue, 8 Jul 2014 05:32:42 +0900 (JST)
+	(envelope-from aikotakahashi@pressupdates.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=pressupdates.com;
+ h=To:Subject:Message-ID:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding:Date; i=aikotakahashi@pressupdates.com;
+ bh=Rqa5Z0gv3tOHLUJ5BIyKhnx0maw=;
+ b=iScUhgYqus94uKgIt1C08rFOwRp2yhN34oTaVakv2rjSMLZrVYudP5OC4ZFtGNizkbkjCVigIL3N
+   IW+XfwZknGWjQapH9L47jEkFtJB9azr/V0VugK9mTjcuIIc38eKAbAKjCRaDM9SCBniUlgUbhiBW
+   sNTqV4qy97GOAEfYxudBBNzOGX8rKWKdDADjLy2ehIgQQW6ASiGMp3AQlhnoeH2aEIntFW0rZtnr
+   ovGUetO0fqWE50PdUtnkRoTQ1K1jbhnQE1tPMQusEN63CofWe3cFyr75TVLIPfBpS8QP6QxT4oSb
+   W5RDXqulHoI+q4i+7qjRlZU1lS2HJtOCiAHsrw==
+To: hobby.division@sportshobby.co.jp
+Subject: =?UTF-8?B?56eB44Gv44Km44Or44OV44Kq44OW44Km44Kp44O844Or44K544OI44Oq44O844OI44GL44KJ55CG6Kej44Gn44GN44G+44GX44Gf44CC?=
+Message-ID: <45181a9f8fee049b21b3baa3593ee6ac@pressupdates.com>
+From: =?UTF-8?B?5oSb5a2QIOmrmOapiw==?= <aikotakahashi@pressupdates.com>
+Reply-To: aikotakahashi@pressupdates.com
+MIME-Version: 1.0
+X-Mailer-RecptId: 248072614
+X-Mailer-SID: 52868
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_e5c6ca2adb0c7fe764b958e62d851fc4"
+Content-Transfer-Encoding: 8bit
+Date: Mon, 7 Jul 2014 20:33:56 +0000
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+--b1_e5c6ca2adb0c7fe764b958e62d851fc4
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://pressupdates.com/display.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&S=52868&L=4061&N=27646
+
+こんにちは
+
+
+
+実際にウルフオブウォールストリートのような映画を見ている時可能性君はとても落ち込んで気分にさせる。
+
+一部の人々はとても豊かであり、それは君が考えさせる。。。
+
+彼らがどのようにそのような生活を買う余裕ができますか。
+
+とても悲しいことですね。
+
+しかし、私はとてもいい解決策を持っています。
+
+この事は私の人生を変えました。
+
+
+
+そして、私はことを後悔していないです。
+
+私はこれを見つけたので。。。
+
+
+こちらをクリックしてください
+http://pressupdates.com/link.php?M=248072614&N=52868&K=b83e243ef3ce471728189305ff043726&L=88799&F=T&X=1
+
+慎重にこのアドバイスを読んでください。
+
+
+
+どういたしまして
+
+愛子 高橋
+
+
+メール配信中止ご希望の方は,
+こちらへ:http://pressupdates.com/unsubscribe.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&L=4061&N=52868
+
+
+
+
+
+--b1_e5c6ca2adb0c7fe764b958e62d851fc4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">こんにちは</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">&nbsp;</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">実際にウルフオブウォールストリートのような映画を見ている時可能性君はとても落ち込んで気分にさせる。</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">一部の人々はとても豊かであり、それは君が考えさせる。。。</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">彼らがどのようにそのような生活を買う余裕ができますか。</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">とても悲しいことですね。</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">しかし、私はとてもいい解決策を持っています。</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">この事は私の人生を変えました。</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">&nbsp;</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">そして、私はことを後悔していないです。</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">私はこれを見つけたので。。。</span></p>
+<p>&nbsp;</p>
+<p><a
+href="http://pressupdates.com/link.php?M=248072614&N=52868&K=b83e243ef3ce471728189305ff043726&L=88799&F=H&X=1"><span
+style="font-size: small; font-family: arial, helvetica,
+sans-serif;">こちらをクリックしてください</span></a></p>
+<p>&nbsp;</p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">慎重にこのアドバイスを読んでください。</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">&nbsp;</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">どういたしまして</span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: small;">愛子 高橋</span></p>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">&nbsp;</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size: xx-small; font-family: arial, helvetica,
+sans-serif;">メール配信中止ご希望の方は,&nbsp;<a
+href="http://pressupdates.com/unsubscribe.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&L=4061&N=52868">こちらへ</a></span></p>
+<p><!-- Were the Japanese to be its masters The two friends had gloomy
+forebodings Quite unexpectedly however their hopes revived There was a
+smart shipping agent in Port Darwin As it happened he personated the
+Opposition which meant that he had fallen out with the official bosses Also
+he was occasional correspondent for a pushful Melbourne daily He heard the
+story Probably he did not set much store by it but he chose as a true
+Oppositionist to differ from the authorities It occurred to him that if
+they had not reported to headquarters about the affair he might catch them
+napping So after a conversation with Thomas Burt he condensed the news into
+a stirring summary which he telegraphed to his paper The editor on receipt
+was worried by grave doubts The sensational character of the copy appealed
+to his journalistic instincts but he was not sure whether its publication
+would not offend his readers For he catered for a highly respectable
+merchant community who might resent an attempt to scare them which bore the
+stamp of impossibility In this dilemma he decided to bring the message
+under the notice of the Federal Government Next day the Resident at
+Palmerston received an official inquiry by wire and after the exchange of
+several more telegrams he was instructed to carry out a search The Federal
+Government had come to the conclusion that a cargo of Chinamen might have
+been dumped somewhere upon the coast in evasion of immigration restrictions
+as had often been rumoured before  --></p>
+<p><!-- The next step of the Federal Cabinet was the publication of the
+full text of their cable interchanges with London under the plea that the
+sovereign people were vitally interested and had a right to know the full
+extent of their danger This piece of strategy was contrary to diplomatic
+traditions and certain to hurt Imperial susceptibilities Its result as
+intended was a startling convulsion of Australian and Colonial sentiment
+leaving no doubt that the Commonwealth was wedded to the principle of a
+White Continent and would not tolerate any leader who did not champion it
+against all odds That manifestation was of the highest value to the
+Ministry at this moment for Parliamentary reasons It proved that the
+continuation of aggressive policy was the will of the people And the
+Opposition would have to conform to it when it came to deal with the bold
+measures which the Government was formulating  --></p>
+<p>&nbsp;</p>
+<img
+src="http://pressupdates.com/open.php?M=248072614&L=4061&N=52868&K=b83e243ef3ce471728189305ff043726&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_e5c6ca2adb0c7fe764b958e62d851fc4--
+
+

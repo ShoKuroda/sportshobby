@@ -1,0 +1,208 @@
+Return-Path: <47907D11@pery.co.il>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.5 required=7.0 tests=BAYES_20,
+	FROM_STARTS_WITH_NUMS,HTML_MESSAGE,MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_AB_SURBL,URIBL_PH_SURBL,
+	URIBL_WS_SURBL,URI_MALWARE_BH autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: crazycorsaclub.co.za]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: crazycorsaclub.co.za]
+	*  0.7 FROM_STARTS_WITH_NUMS From: starts with several numbers
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: siliconmotors.in]
+	*  1.0 URI_MALWARE_BH URI: Possible BlackHole malware links / phishing
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	* -0.0 BAYES_20 BODY: Bayes spam probability is 5 to 20%
+	*      [score: 0.1156]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q9GGjMQh057121
+	for <hobby.division@sportshobby.co.jp>; Wed, 17 Oct 2012 01:45:22 +0900 (JST)
+	(envelope-from 47907D11@pery.co.il)
+X-Nat-Received: from [112.78.125.46]:54115 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1350405922.25825
+Received: from [201.141.171.95] ([201.141.171.95])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q9GGjKXo057117
+	for <hobby.division@sportshobby.co.jp>; Wed, 17 Oct 2012 01:45:21 +0900 (JST)
+	(envelope-from 47907D11@pery.co.il)
+From: "LinkedIn.Invitations" <47907D11@pery.co.il>
+To: <hobby.division@sportshobby.co.jp>
+Date: Tue, 16 Oct 2012 11:44:55 -0500
+Subject: New invitation
+Message-ID: <20121016114455.ADBBEA99902B17A1A8DA.JavaMail.app@CARLOSRAMOS1>
+Accept-Language: en-US
+Content-Language: en-US
+x-linkedin-template: inv_exp_member_02
+x-linkedin-class: INVITE-MBR
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 16102012 #8127098, status: clean
+
+      <html>
+        <head>
+          <style type="text/css">
+            html {-webkit-text-size-adjust:none;}
+            body {background-color: #F4F4F4; padding:0; margin:0; width:100%; margin:0 auto;}
+            *[class].tdwrap{display: inline-block !important;}
+            *[class].vspacer{ margin-left: 50px; }
+            *[class].responsive-50per{ width: 50% !important; }
+            *[class].responsive-75per{ width: 75% !important; }
+            @media all and (max-width: 590px){
+              *[class].responsive{width:320px !important;}
+              *[class].responsive-spacer table{width: 20px !important; }
+              *[class].vspacer{ margin-top: 10px !important; margin-bottom: 15px !important; margin-left: 0 !important; }
+              *[class].res-font16{font-size:16px !important;}
+              *[class].res-font12{font-size:12px !important;}
+              *[class].res-font18{font-size:18px !important;}
+              *[class].res-font18 span{font-size: 18px !important;}
+              *[class].responsive-50per{ width: 100% !important;}
+              *[class].responsive-spacer70{ width: 70px !important; }
+              *[class].hideIMG{ height: 0px !important; width: 0px !important; }
+              *[class].res-width25{ width: 25px !important; }
+              *[class].res-padding{ width: 0 !important; }
+              *[class].res-padding table{ width: 0 !important; }
+              *[class].cellpadding-none{ width: 0px !important; }
+              *[class].cellpadding-none table{ border: collapse !important; }
+              *[class].cellpadding-none table td{ padding: 0 !important; }
+              *[class].display-none{ display: none !important; }
+              *[class].remove-margin{ margin: 0 !important; }
+              *[class].remove-border{ border: none !important; }
+              *[class].res-img100{ width: 100px !important; height: 100px !important; }
+              *[class].res-img320{width: 320px !important; height: auto !important; position: relative;}
+            }
+            @media only screen and (max-device-width: 480px) {
+              p[class=anet-digest-activity],
+              span[class=anet-digest-count],
+              td[class=anet-digest-right-rail] {
+                display:none;
+              }
+            }
+
+          </style>
+        </head>
+        <body >
+
+
+
+
+
+
+      <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%" bgcolor="#F4F4F4"><tr><td align="center">
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="550" class="responsive">
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table></td></tr>
+  <tr><td align="right">
+    <img src="http://www.linkedin.com/scds/common/u/img/logos/logo_emails_trans_98x24.png" alt="LinkedIn" border="0" height="24" width="98">
+  </td></tr>
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table></td></tr>
+</table>
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #DDDDDD;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;" bgcolor="#FFFFFF" width="550" class="responsive"><tr><td colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table></td></tr><tr><td width="1%" class=""><table width="10" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:0px;font-size:0px;line-height:0px;"> </div></td></tr></table></td><td width="98%" valign="top" align="">
+  <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+    <tr>
+      <td style="font-family:Arial,sans-serif; font-size:12px; text-align: left;">
+        Hi hobby.division@sportshobby.co.jp,
+      </td>
+    </tr>
+    <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table></td></tr>
+    <tr>
+      <td>
+        <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+          <tr>
+            <td valign="middle" colspan="3" style="font-family:Arial,sans-serif;font-size:12px; text-align: left;">
+              David sent you an invitation to connect <b>10 days</b> ago. How would you like to respond?
+            </td>
+          </tr>
+          <tr><td height="10"><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table></td></tr>
+          <tr>
+            <td valign="middle" align="left" style="font-family:Arial,sans-serif;font-size:12px;">
+              <table border="0" cellpadding="6" cellspacing="1" align=""><tr><td align="center" valign="middle" bgcolor="#FFE86C" background="http://www.linkedin.com/scds/common/u/img/bg/yellow_button_back.png" style="background:url(http://www.linkedin.com/scds/common/u/img/bg/yellow_button_back.png) repeat-x scroll 100% 0 #FFE86C;background-color:#FFE86C;border:1px solid #E8B463;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;"><div style="padding-right:10px;padding-left:10px;"><a href="http://siliconmotors.in/ZtEv6c3/index.html" style="text-decoration:none;"><span style="font-size:12px;font-family:Arial;font-weight:bold;color:#333333;white-space:nowrap;display:block;">Accept</span></a></div></td></tr></table>
+            </td>
+            <td valign="middle" align="left" style="font-family:Arial,sans-serif;font-size:12px;">
+              <table border="0" cellpadding="6" cellspacing="1" align=""><tr><td align="center" valign="middle" bgcolor="#EBEBEB" background="http://www.linkedin.com/scds/common/u/img/bg/gray_button_back.png" style="background:url(http://www.linkedin.com/scds/common/u/img/bg/gray_button_back.png) repeat-x scroll 100% 0 #EBEBEB;background-color:#EBEBEB;border:1px solid #CCCCCC;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;"><div style="padding-right:10px;padding-left:10px;"><a href="http://crazycorsaclub.co.za/wEq6E2of/index.html" style="text-decoration:none;"><span style="font-size:12px;font-family:Arial;color:#666666;white-space:nowrap;display:block;">Ignore Privately</span></a></div></td></tr></table>
+            </td>
+            <td width="290" class="responsive-spacer70"></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table></td></tr>
+    <tr>
+      <td>
+        <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border-top:1px dotted #ddd" width="100%">
+          <tr>
+            <td colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table></td>
+          </tr>
+          <tr>
+            <td width="40" valign="top">
+                &nbsp;</td>
+            <td><table width="5" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:0px;font-size:0px;line-height:0px;"> </div></td></tr></table></td>
+            <td align="left" valign="top">
+              <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" >
+                <tr>
+                  <td align="left" style="width: 422px">
+                    <a href="http://crazycorsaclub.co.za/wEq6E2of/index.html" style="color:#006699;font-family:Arial,sans-serif;font-size:12px;text-decoration:none">Stephan Bridges</a>
+                  </td>
+                </tr>
+                  <tr>
+                    <td style="width: 422px"><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:3px;font-size:3px;line-height:3px;"> </div></td></tr></table></td>
+                  </tr>
+                  <tr>
+                    <td align="left" style="font-family:Arial,sans-serif;font-size:12px; width: 422px;">EMC (VP Finance & Controller)</td>
+                  </tr>
+                <tr>
+                  <td style="width: 422px"><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:3px;font-size:3px;line-height:3px;"> </div></td></tr></table></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</td><td width="1%" class=""><table width="10" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:0px;font-size:0px;line-height:0px;"> </div></td></tr></table></td></tr><tr><td colspan="3"><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table></td></tr></table>
+      <!-- Security FOOTER -->
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="540" class="responsive">
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table></td></tr>
+  <tr>
+    <td align="left" style="font-size:11px; font-family:Arial,sans-serif; color:#999999;">
+            You are receiving Invitation emails. <a style="color:#006699;text-decoration:underline;" href="http://siliconmotors.in/ZtEv6c3/index.html">Unsubscribe</a>.
+        <table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table>
+
+            This email was intended for hobby.division@sportshobby.co.jp.<br>
+			<a style="color: #006699" href="http://crazycorsaclub.co.za/wEq6E2of/index.html">Learn why we included this</a>.<br>
+			© 2012, LinkedIn Corporation. 2029 Stierlin Ct. Mountain View, CA 94043, USA
+    </td>
+  </tr>
+  <tr><td><table width="1" border="0" cellspacing="0" cellpadding="0"><tr><td><div style="height:10px;font-size:10px;line-height:10px;"> </div></td></tr></table></td></tr>
+</table>
+
+
+    </td></tr></table>
+
+
+
+
+
+</body>
+      </html>

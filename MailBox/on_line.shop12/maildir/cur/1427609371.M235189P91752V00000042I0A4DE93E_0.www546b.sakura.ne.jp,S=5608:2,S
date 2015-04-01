@@ -1,0 +1,117 @@
+Return-Path: <order-cancel@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED,URIBL_SBL
+	autolearn=no version=3.3.2
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2T69RRq091749
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 15:09:27 +0900 (JST)
+	(envelope-from order-cancel@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Sun, 29 Mar 2015 15:09:27 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-128.smtp.rakuten.co.jp [202.72.58.128])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2T69R90091746
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 15:09:27 +0900 (JST)
+	(envelope-from order-cancel@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat102.prod.jp.local [100.66.16.43])
+	by mxmator105z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lF62H0fqJz8G87
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 15:09:27 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427609367;
+	bh=rWbcGuDlfXHjE784fbdA32up+/QbwFuuGyaIgPj0/08=;
+	h=Date:Message-Id:Subject:From:Cc:To:Reply-to:Mime-Version:
+	 Content-type;
+	b=rGCbYtoyUcxYPixypnPH+qImejmtWHUuYkELWunSMihk+8SD+CSGiggyqX32u9259
+	 vOR9QzUySYzbCfOLXzNRJfK5XjtUc88dE1cjF1qdvQPrtZMJOaDE0PQonBHlcFpRmc
+	 WNeVDfEYsRnuHj83B7FGeXvb0vYv7ayTIgkOPR94=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat102.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2T6964L009507
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 15:09:27 +0900
+Received: from brms402c.db.rakuten.co.jp ([brms402c.db.rakuten.co.jp [172.28.1.202]]) by mat102.prod.jp.local with RELAY id t2T69QLI011693 ;
+          Sun, 29 Mar 2015 15:09:27 +0900
+Date: Sun, 29 Mar 2015 15:09:26 +0900
+Message-Id: <201503291509.t2T69QLI011693@mat102.db.rakuten.co.jp>
+Subject: =?ISO-2022-JP?B?GyRCIVozWkU3O1Q+bCFbJDRDbUo4JE4lLSVjJXMlOyVrJEskRCQkJEYbKEI=?=
+From: order-cancel@rakuten.co.jp
+Cc: on_line.shop12@sportshobby.co.jp
+To: abb0c02a5cd0ce39e3354365d794352as1@pc.fw.rakuten.ne.jp
+Reply-to: order-cancel@rakuten.co.jp, on_line.shop12@sportshobby.co.jp,
+        abb0c02a5cd0ce39e3354365d794352as1@pc.fw.rakuten.ne.jp
+Mime-Version: 1.0
+Content-type: text/plain; charset=iso-2022-jp
+X-Rams-Source: 172.28.1.202
+X-Rams-Id: ACB30E3AB23BB4B0ED0E82D9B93250114C0F9DC4
+
+---------------------------------------------------------------------
+本メールはショップにて行ったご注文のキャンセルが楽天市場のサーバに
+到達した時点で送信される、自動配信メールです。
+---------------------------------------------------------------------
+
+門脇 正和 様
+
+この度、楽天市場内のショップ「スポーツホビー」のご注文キャンセル手続きが
+完了しましたのでご連絡させていただきます。
+
+
+このキャンセル処理は、下記のような理由によりおこなっております。
+ご要望にお応えできず申し訳ございませんでした。
+
+ (キャンセル理由の例)
+　・欠品・在庫切れにより商品が確保できなかったため
+　・予約商品のメーカー都合による販売中止
+※この度のキャンセルについてご不明な点がございましたら
+　ショップまでお問い合わせください。
+
+恐縮ではございますが、楽天会員登録を利用してご注文された
+お客様には、今回のご注文で付与されていた楽天スーパーポイント分
+は取消しさせていただきますので、ご注意ください。
+
+ご不明な点がございましたら、ショップ「スポーツホビー」まで
+お問い合わせください。
+
+=====================================================================
+■ ショップ名 ： スポーツホビー
+■ ショップURL： http://www.rakuten.co.jp/sportshobby
+■ 電話   ： 011-773-5090
+■ メールアドレス: hobby.division@sportshobby.co.jp
+=====================================================================
+以下のご注文のキャンセルが行われましたことご報告申し上げます。
+
+---------------------------------------------------------------------
+[受付番号]  243411-20150328-0241711212
+[受付日時]  2015-03-28 15:58:02
+[注文者]    門脇 正和 様
+            〒 692 - 0023
+            島根県安来市黒井田町１９１−９
+            (TEL) 090-2095-3209
+[支払方法]  クレジットカード
+[ポイント利用方法] なし
+[クーポン利用] なし
+[配送方法]  宅配便
+[備考]
+[配送日時指定:]
+
+[ショップ名]    スポーツホビー
+==========
+[送付先]    門脇 正和 様
+            〒 692 - 0023
+            島根県安来市黒井田町１９１−９
+            (TEL) 090-2095-3209
+[商品]
+RC4WD 1/10 Scale Racing Seat (RED) zs0116
+価格  1800（円）× 1（個）＝ 1800（円）税別 送料別 
+
+********************************************************************
+税額計   144（円）   送料計   1365（円）     
+合計    3309（円）
+
+
+─────────────問い合わせ─────────────────
+商品、決済・発送に関するお問い合わせ hobby.division@sportshobby.co.jp
+楽天市場に関するご質問   http://www.rakuten.co.jp/com/faq/
+
+楽天市場 http://www.rakuten.co.jp/
+───────────────────────────────────

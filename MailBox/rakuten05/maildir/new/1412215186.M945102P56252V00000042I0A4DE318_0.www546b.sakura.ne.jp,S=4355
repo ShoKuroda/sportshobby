@@ -1,0 +1,97 @@
+Return-Path: <dev-null@emx.rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=0.1 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,SUBJECT_UNNEEDED_ENCODING,URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s921xhFd056247
+	for <rakuten05@sportshobby.co.jp>; Thu, 2 Oct 2014 10:59:43 +0900 (JST)
+	(envelope-from dev-null@emx.rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Thu, 02 Oct 2014 10:59:43 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from rakuten.co.jp (mgw7.rakuten.co.jp [133.237.15.7])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s921xhw2056243
+	for <rakuten05@sportshobby.co.jp>; Thu, 2 Oct 2014 10:59:43 +0900 (JST)
+	(envelope-from dev-null@emx.rakuten.co.jp)
+Received: from wlogin102z.prod.jp.local (wlogin102z.prod.jp.local [100.66.200.14])
+	by mx605z.prod.jp.local (Rakuten MGW 2.0.0) with ESMTP id 3j7cwH0Gq4z2hfp
+	for <rakuten05@sportshobby.co.jp>; Thu,  2 Oct 2014 10:59:43 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=rakuten0020130400; t=1412215183;
+	bh=sBauC1vYCYB4gatwlx2W/biFjgH+n4y+wRNBUdi1RYk=;
+	h=Date:Message-Id:To:Subject:From:Reply-To:Mime-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=qaB9cDmRGZDUAm9mI711IUlwfYCjyOuft4WRnpHIGxslUGS4iJQc6N1KSbx0vOYxH
+	 ZzbGfcON8mADZzO7/253o7kmiic686sN3a9OVjn+R8x5k8+EFc/D+zuIWF9Lg7desk
+	 iKqjUTlBeKTueERpsLBD8G6Tvsc7rgEpOzxOCrZc=
+Received: from wlogin102z.prod.jp.local (localhost.localdomain [127.0.0.1])
+	by wlogin102z.prod.jp.local (8.13.8/8.13.8) with ESMTP id s921xgEE003291
+	for <rakuten05@sportshobby.co.jp>; Thu, 2 Oct 2014 10:59:42 +0900
+Received: (from nobody2@localhost)
+	by wlogin102z.prod.jp.local (8.13.8/8.13.8/Submit) id s921xgG9003288;
+	Thu, 2 Oct 2014 10:59:42 +0900
+Date: Thu, 2 Oct 2014 10:59:42 +0900
+Message-Id: <201410020159.s921xgG9003288@wlogin102z.prod.jp.local>
+To: rakuten05@sportshobby.co.jp
+Subject: =?ISO-2022-JP?B?GyRCIVozWiF8RTchWxsoQlItTG9n?=
+ =?ISO-2022-JP?B?aW4bJEIlUSU5JW8hPCVJSlE5OSROJDQwRkZiGyhC?=
+From: rlogin-info@mail.rakuten.com
+Reply-To: rlogin-info@mail.rakuten.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+
+
+────────────────────────────────────
+【R-Login】R-Loginパスワード変更のご案内
+────────────────────────────────────
+
+　お世話になっております、楽天株式会社です。
+
+※本メールは管理者の方にお送りしています。
+
+  御社のR-Loginパスワードが変更されましたのでご連絡をいたします。
+以下の変更内容を確認ください。
+
+  変更された管理者から、ほかのR-Login利用者の方へ、ただ今変更しました
+R-Loginパスワードをお知らせください。
+
+
+────────────────────────────────────
+■変更内容
+────────────────────────────────────
+【変更日時】
+     2014年10月02日 10時59分
+【変更者】
+     黒田 雄 様
+
+【R-Loginパスワード有効期間】
+     2014年10月16日まで
+【R-Loginパスワード】
+     セキュリティのため、表示は行ないません。
+
+
+────────────────────────────────────
+■よく分からないときは■
+────────────────────────────────────
+【ヘルプはこちら】
+  https://glogin.gl.rakuten.co.jp/help/
+
+【R-Loginメニューはこちら】
+  https://glogin.gl.rakuten.co.jp/?sp_id=0
+
+
+────────────────────────────────────
+■ご注意ください■
+────────────────────────────────────
+当メールは送信専用で配信されており、返信できません。
+ご返信頂きましても、ご案内できかねますのでご了承ください。
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+楽天株式会社
+〒140-0002
+東京都品川区東品川4-12-3品川シーサイド楽天タワー

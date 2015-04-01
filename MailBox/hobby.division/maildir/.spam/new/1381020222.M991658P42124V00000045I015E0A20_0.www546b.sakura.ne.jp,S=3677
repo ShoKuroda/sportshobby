@@ -1,0 +1,76 @@
+Return-Path: <r.vidhya@kpriet.ac.in>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********************************
+X-Spam-Status: Yes, score=34.3 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_50,FORGED_MUA_OUTLOOK,FREEMAIL_FORGED_REPLYTO,FREEMAIL_REPLYTO,
+	FROM_MISSPACED,FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,
+	FROM_MISSP_TO_UNDISC,FROM_MISSP_USER,FSL_CTYPE_WIN1251,LOTS_OF_MONEY,
+	MONEY_FROM_MISSP,MSGID_FROM_MTA_HEADER,MSOE_MID_WRONG_CASE,NSL_RCVD_FROM_USER,
+	T_FROM_MISSP_DKIM,URIBL_BLOCKED autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.1 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  3.5 NSL_RCVD_FROM_USER Received from User
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: yahoo.com.hk]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  2.6 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  3.1 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  2.6 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  2.0 FROM_MISSP_USER From misspaced, from "User"
+	*  1.9 MONEY_FROM_MISSP Lots of money and misspaced From
+	*  2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  1.5 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  1.7 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  3.9 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r960hfjq042121
+	for <hobby.division@sportshobby.co.jp>; Sun, 6 Oct 2013 09:43:41 +0900 (JST)
+	(envelope-from r.vidhya@kpriet.ac.in)
+X-Nat-Received: from [112.78.125.46]:50021 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1381020221.1795
+Received: from s1.hosting4you.biz (s1.hosting4you.biz [193.107.145.140])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r960hdi7042116
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Sun, 6 Oct 2013 09:43:41 +0900 (JST)
+	(envelope-from r.vidhya@kpriet.ac.in)
+Message-Id: <201310060043.r960hdi7042116@www546b.sakura.ne.jp>
+Received: from User (unknown [74.208.74.136])
+	by s1.hosting4you.biz (Postfix) with ESMTPA id 8CCA12A75200;
+	Sat,  5 Oct 2013 16:35:43 +0200 (CEST)
+Reply-To: <zcordric@live.com>
+From: "Towes.R"<r.vidhya@kpriet.ac.in>
+Subject: Winning E-ticket Number: ERP-45188@
+Date: Sat, 5 Oct 2013 08:35:49 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 05102013 #11166773, status: clean
+
+Allotment Number: ML/0211ELOT-203
+
+
+You have been conferred the sum of 2.5m from Electronic Reward services.Contact the handling agent, 
+Mr. Waters for details to receive the allotted sum. Tel: +44-742-355-7454; Email:waters.damien@yahoo.com.hk
+
+
+Your Faithfully,
+
+
+Ricky Towers

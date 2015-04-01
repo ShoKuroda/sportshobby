@@ -1,0 +1,118 @@
+Return-Path: <james-hobby.division=sportshobby.co.jp@eemonklot.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.0 required=7.0 tests=BAYES_80,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_ONLY_12,HTML_MESSAGE,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: eemonklot.com]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.8227]
+	*  2.1 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: eemonklot.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: eemonklot.com]
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0GNq73V075068
+	for <hobby.division@sportshobby.co.jp>; Sat, 17 Jan 2015 08:52:07 +0900 (JST)
+	(envelope-from james-hobby.division=sportshobby.co.jp@eemonklot.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Sat, 17 Jan 2015 08:52:07 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from mail.eemonklot.com (no-rdns.free.clues.ro [89.46.101.98] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0GNq6N4075063
+	for <hobby.division@sportshobby.co.jp>; Sat, 17 Jan 2015 08:52:06 +0900 (JST)
+	(envelope-from james-hobby.division=sportshobby.co.jp@eemonklot.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=eemonklot.com;
+ h=Mime-Version:Date:From:Subject:Message-ID:To:Content-Type; i=james@eemonklot.com;
+ bh=vFcsYnJPzKO9hXVS9qPOGzy0QNk=;
+ b=jbEvq1rkbIsS/yiz+JH2mh2PD3UlafH0bwlvcBx7svX3ToE0lt8WjYY2J7jL2s7LPVWGw3bAemMj
+   GKNKzk/UyZvU+4Pocc1CYhGToZM5V4dOfBuPRjzso5TZfHvkJI1cnJaE7NGED48ZHOtIgChgTkwO
+   baNXm/pbRZSMMx8wGqw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=eemonklot.com;
+ b=pjSpFND5PtMbFVCZyUk7sazYAN3m2bBm1lnLroEqXb/I+uFxRuQ8+k9h9wqAtAFVcEplm0AweebK
+   I7yePNuDBLjxmhAVYuAw/X4oG/qErDBscozJIoAZUUkh7SZmBvVdVC09W1n27X7mdzPal8bN7/Vj
+   2heIwLWp5uRn1NpVV8Q=;
+Mime-Version: 1.0
+Date: Sat, 17 Jan 2015 00:51:40 +0100
+From: James <james@eemonklot.com>
+Subject: =?UTF-8?B?WW91ci5OZXcuQWNjb3VudC5IYXMuQmVlbi5BcHByb3ZlZA==?=
+Message-ID: <b4877fc84b639a5f78fe827f162e7122@eemonklot.com>
+To: <hobby.division@sportshobby.co.jp>
+Content-Type: multipart/alternative; boundary=b4877fc84b639a5f78fe827f162e7122
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/plain; charset=UTF-8
+
+Hey, 
+
+Your account is setup and ready to 
+payout your commission earnings.
+
+Please confirm your account here -> http://click.eemonklot.com/index.php?id=3525725&a=666610&b=3624&c=57
+
+We will make sure you get the 
+commission money you are owed. 
+
+Best Regards, 
+James
+
+
+
+
+
+Our address is Mahe, Providence, Secyhelles, Secyhelles
+If you do not wish to receive future email, click here.
+http://click.eemonklot.com/index.php?o=2&a=666610&b=3624&c=57
+(You can also send your request to Customer Care at the street address above.) 
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/html; charset=UTF-8
+
+<html>
+<head>
+</head>
+
+<body>
+<p>Hey, </p>
+<p>Your account is setup and ready to payout <br>
+your commission <a href="http://click.eemonklot.com/index.php?id=3525725&a=666610&b=3624&c=57">earnings</a>.<br>
+<br>
+<a href="http://click.eemonklot.com/index.php?id=3525725&a=666610&b=3624&c=57"><strong>Please confirm your account here </strong></a><br>
+<br>
+We will make sure you get the <br>
+commission money you are <a href="http://click.eemonklot.com/index.php?id=3525725&a=666610&b=3624&c=57">owed</a>. <br>
+<br>
+Best Regards, <br>
+James</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Our address is Mahe, Providence, Secyhelles, Secyhelles<br>
+If you do not wish to receive future email, <a href="http://click.eemonklot.com/index.php?o=2&a=666610&b=3624&c=57" target="_blank">click here</a>.<br>
+(You can also send your request to Customer Care at the street address above.) </p>
+
+<img src="http://click.eemonklot.com/index.php?o=1&a=666610&b=3624&c=57" width="1" height="1" border="0" />
+</body>
+</html>
+
+
+--b4877fc84b639a5f78fe827f162e7122--

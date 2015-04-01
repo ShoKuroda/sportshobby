@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.4 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: levitratabkorsinsky.ml]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: levitratabkorsinsky.ml]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: levitratabkorsinsky.ml]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: levitratabkorsinsky.ml]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: levitratabkorsinsky.ml]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: levitratabkorsinsky.ml]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rALHRNwe035873
+	for <hobby.division@sportshobby.co.jp>; Fri, 22 Nov 2013 02:27:23 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:49156 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1385054843.29856
+Received: from 194.158.204.250 ([194.158.204.250])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rALHRLTS035867
+	for <hobby.division@sportshobby.co.jp>; Fri, 22 Nov 2013 02:27:22 +0900 (JST)
+Message-Id: <201311211727.rALHRLTS035867@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (umka2all@rosneft.ru@231.99.133.63)
+	by 194.158.204.250 with ESMTPA; Thu, 21 Nov 2013 19:32:53 +0200
+X-Originating-IP: 231.99.133.63
+From: umka2all@rosneft.ru
+To: hobby.division@sportshobby.co.jp
+Subject: The greatest way to please your lover
+Date: Thu, 21 Nov 2013 19:29:16 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 21112013 #8473100, status: clean
+
+http://debutante.levitratabkorsinsky.ml/ Be prepared for love
+

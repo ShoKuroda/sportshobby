@@ -1,0 +1,82 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.3 required=7.0 tests=BAYES_00,URIBL_BLOCKED,
+	URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav404.sakura.ne.jp (fsav404.sakura.ne.jp [133.242.250.103])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U9W7ol077211
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:32:07 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav404.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp);
+ Mon, 30 Mar 2015 18:32:07 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-192.smtp.rakuten.co.jp [202.72.58.192])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U9W71s077208
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:32:07 +0900 (JST)
+Received: from mat.rakuten.co.jp (emat101z.prod.jp.local [100.71.16.100])
+	by emxmat101z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lFpTg12J3z9s1c
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:32:07 +0900 (JST)
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by emat101z.prod.jp.local (Switch-3.3.3/Switch-3.3.3) with ESMTP id t2U9VeAc022353
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:32:07 +0900
+Received: by mxmattx104z.prod.jp.local (Rakuten MGw 1.3.7)
+	id 3lFpTf4sMHzRKfF; Mon, 30 Mar 2015 18:32:06 +0900 (JST)
+Date: Mon, 30 Mar 2015 18:32:06 +0900 (JST)
+From: MAILER-DAEMON@rakuten.co.jp (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: hobby.division@sportshobby.co.jp
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="----=_Part_1417357_7438678.1427707927076"
+Message-Id: <3lFpTf4sMHzRKfF@mxmattx104z.prod.jp.local>
+
+------=_Part_1417357_7438678.1427707927076
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_1417357_7438678.1427707927076
+Content-Type: message/delivery-status
+
+
+Reporting-MTA: dns; mxmattx104z.prod.jp.local
+
+Final-Recipient: rfc822; ccbba44cb106cad5225d3c4f49373fa5s1@km.fw.rakuten.ne.jp
+Action: failed
+Status: 5.0.0
+
+
+------=_Part_1417357_7438678.1427707927076
+Content-Type: text/rfc822-headers
+
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+Received: from mat.rakuten.co.jp (mat110.prod.jp.local [100.66.16.67])
+	by mxmattx104z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lFpTf3VwdzRKfK
+	for <ccbba44cb106cad5225d3c4f49373fa5s1@km.fw.rakuten.ne.jp>; Mon, 30 Mar 2015 18:32:06 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shop.rakuten.co.jp;
+	s=mfw0132014080; t=1427707926;
+	bh=GvrQ4ChLOZt2O2smsSRoi06ZjZ/gV0HEv+hMzeUC4I0=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=i7u93DANCf6ZUQK8R++8Rtb6PiJlncxIQwrzVifn9Tkv4cLXX6yIEcS4UotQgRZKe
+	 SjtvmG1pOG1outX234HFVoXroLXmSel/q2QMBxjPzmdzwtCzXLuKxwUW8mDRBr3xx7
+	 P4Z31+vGCQO5thlHP8gjFK72nZ53CO1mw92XblFQ=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat110.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2U9Um5V027716
+	for <ccbba44cb106cad5225d3c4f49373fa5s1@km.fw.rakuten.ne.jp>; Mon, 30 Mar 2015 18:32:06 +0900
+Received: from armsrb205c.ap.rakuten.co.jp ([armsrb205c.ap.rakuten.co.jp [172.28.246.149]]) by mat110.prod.jp.local with RELAY id t2U9W53x004430 ;
+          Mon, 30 Mar 2015 18:32:06 +0900
+Date: Mon, 30 Mar 2015 18:32:05 +0900 (JST)
+From:   =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: ccbba44cb106cad5225d3c4f49373fa5s1@km.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503301832.t2U9W53x004430@mat110.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJDRDbUo4JCIkaiQsJEgkJiQ0JDYkJCReJDkhIxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.246.149
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: 46A0C1B040A96143D822D37DB6D95A466B5AC906
+------=_Part_1417357_7438678.1427707927076--

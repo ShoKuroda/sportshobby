@@ -1,0 +1,44 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.1 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_JP_SURBL,
+	URIBL_MW_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: ekmekcilerotomotiv.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: ekmekcilerotomotiv.com]
+	*  3.5 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: ekmekcilerotomotiv.com]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: ekmekcilerotomotiv.com]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6426]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4KESWNt061459
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 20 May 2013 23:28:32 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:59950 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1369060112.25180
+Received: from 111.193.133.17 ([111.193.133.17])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4KESTgd061450
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 20 May 2013 23:28:31 +0900 (JST)
+Date: Mon, 20 May 2013 23:28:29 +0900 (JST)
+Message-Id: <201305201428.r4KESTgd061450@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (12ia95880bd86jd4@fedsfm.ru@102.230.89.110)
+	by 111.193.133.17 with ESMTPA; Mon, 20 May 2013 22:28:31 +0800
+X-Originating-IP: 102.230.89.110
+From: 12ia95880bd86jd4@fedsfm.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: The best way to feel better
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 20052013 #10069473, status: clean
+
+A quick way to be the best man http://ekmekcilerotomotiv.com/greatest.html
+

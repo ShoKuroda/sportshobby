@@ -1,0 +1,76 @@
+Return-Path: <5DAB4F1242@akbs.co.nz>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.1 required=7.0 tests=BAYES_50,HTML_MESSAGE,
+	MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	RISK_FREE,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: yendoctors.ru]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: yendoctors.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: yendoctors.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: yendoctors.ru]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5124]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  3.7 RISK_FREE No risk!
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r2RN6bcX003612
+	for <hobby.division@sportshobby.co.jp>; Thu, 28 Mar 2013 08:06:37 +0900 (JST)
+	(envelope-from 5DAB4F1242@akbs.co.nz)
+X-Nat-Received: from [112.78.125.46]:49280 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1364425597.11357
+Received: from bl20-12-189.dsl.telepac.pt (bl20-12-189.dsl.telepac.pt [2.81.12.189])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r2RN6Z61003608
+	for <hobby.division@sportshobby.co.jp>; Thu, 28 Mar 2013 08:06:36 +0900 (JST)
+	(envelope-from 5DAB4F1242@akbs.co.nz)
+Message-ID: <20130327230633.9429A8A9926FB04B912F.CA0FE@bl20-12-189.dsl.telepac.pt>
+Date: Wed, 27 Mar 2013 23:06:33 +0100
+From: "Notification" <5DAB4F1242@akbs.co.nz>
+To: <hobby.division@sportshobby.co.jp>
+Subject: Get One Free! 48 Hours Only
+List-Unsubscribe: <mailto:unsubscribe-862ABCD1F4AE1@abbeyroadsalon.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 27032013 #9789207, status: clean
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<br>
+Dear hobby.division,<br>
+Buy Two, Get Another FREE On All our shop.<br>
+<br><br>Do You Like Things In Threes?<br>
+
+<br>Important: We sell only 100% quality and 100% safe pills.<br>
+<br>
+Few examples of our prices:<br>
+* Propceia only $0.13
+<br>
+* Leivtra only $1.88
+<br>
+* Cailis only $1.80
+<br>
+* Viagr only $0.52
+<br>
+<br>Thank you for choosing our shop.<br>
+<br>
+<a href="http://QTu.yendoctors.ru/" target="_blank">Buy now!</a>
+</BODY></HTML>

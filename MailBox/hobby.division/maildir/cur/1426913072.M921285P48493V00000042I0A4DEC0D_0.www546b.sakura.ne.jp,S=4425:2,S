@@ -1,0 +1,83 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED,URIBL_SBL
+	autolearn=no version=3.3.2
+Received: from fsav404.sakura.ne.jp (fsav404.sakura.ne.jp [133.242.250.103])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2L4iTSk048490
+	for <hobby.division@sportshobby.co.jp>; Sat, 21 Mar 2015 13:44:29 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav404.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp);
+ Sat, 21 Mar 2015 13:44:29 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-132.smtp.rakuten.co.jp [202.72.58.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2L4iT44048486
+	for <hobby.division@sportshobby.co.jp>; Sat, 21 Mar 2015 13:44:29 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat107.prod.jp.local [100.66.16.58])
+	by mxmator104z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l88Wx1S7Sz9cQH
+	for <hobby.division@sportshobby.co.jp>; Sat, 21 Mar 2015 13:44:29 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426913069;
+	bh=k7NfzRUaXeg4g7IFYv0Rxxj6NVoMT44/2cAPXSE697c=;
+	h=Message-ID:Date:From:Reply-To:To:Subject:Cc:Mime-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=WctgKWjeEjYWnWyAltKY7A8g1qGa8Ia2/j2jXvqYr2k8LldlXK8uiow2iOj6zN+La
+	 INqkN9EN0emcw3nbcCNH2r2gGDIsP//AGmKUtgB3xZeAFVV3e5GDyAXyH5ubXcRxOh
+	 v3ZSMOOCpZnTMnICw82Y7MJikdaI7UZkpsam7DAM=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat107.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2L4i1F5010341
+	for <hobby.division@sportshobby.co.jp>; Sat, 21 Mar 2015 13:44:29 +0900
+Received: from arms702c.ap.rakuten.co.jp ([arms702c.ap.rakuten.co.jp [172.28.45.106]]) by mat107.prod.jp.local with RELAY id t2L4iSTD011503 ;
+          Sat, 21 Mar 2015 13:44:29 +0900
+Message-ID: <201503211344.t2L4iSTD011503@mat107.db.rakuten.co.jp>
+Date: Sat, 21 Mar 2015 13:44:28 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: bb79b2b3aa95e462e12e30cb7e196576s1@pc.fw.rakuten.ne.jp,
+        hobby.division@sportshobby.co.jp
+To: bb79b2b3aa95e462e12e30cb7e196576s1@pc.fw.rakuten.ne.jp
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbTGQkJDlnJG8kO0ZiGyhC?=
+ =?iso-2022-jp?B?GyRCTUYkNDNORychSjwrRjBHWz8uJWEhPCVrIUsbKEI=?=
+Cc: hobby.division@sportshobby.co.jp
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.45.106
+X-Rams-Id: 3F9A4F093BFA16F32151143F880A1B8E814AA6D0
+
+---------------------------------------------------------------------
+本メールはお客様からお送りいただいた情報が、楽天市場のサーバに到達した
+時点で送信される、自動配信メールです。
+---------------------------------------------------------------------
+この度は楽天市場内のショップ「スポーツホビー」を
+ご利用いただきまして、誠にありがとうございます。
+
+ご不明な点、送信内容に誤りなどございましたら、下記ショップまで直接
+お問い合わせください。
+
+==================================================
+■ ショップ名 ： スポーツホビー
+■ ショップURL： http://www.rakuten.co.jp/sportshobby/
+■ 電話   ： 011-773-5090
+■ メールアドレス: hobby.division@sportshobby.co.jp
+==================================================
+
+以下の送信内容がご利用のショップに届いております。
+------------------------------------------------------------------
+（お客様のお名前） 荒木利一
+（問合わせ商品）   となりのトトロ　回転腕時計“トトロ” 
+   		（ http://item.rakuten.co.jp/sportshobby/10009153/ ）
+（問合わせ内容）
+次はいつ入る予定ですか？
+------------------------------------------------------------------
+
+─────────────問い合わせ─────────────────
+商品、決済・発送に関するお問い合わせ hobby.division@sportshobby.co.jp
+楽天市場に関するご質問　 http://www.rakuten.co.jp/com/faq/
+個人情報保護方針　http://privacy.rakuten.co.jp/
+
+楽天市場 http://www.rakuten.co.jp/ 
+───────────────────────────────────
+

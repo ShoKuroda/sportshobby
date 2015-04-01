@@ -1,0 +1,44 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.8 required=7.0 tests=BAYES_50,FROM_12LTRDOM,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.3 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.1 FROM_12LTRDOM From a 12-letter domain
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r7GCrTeS057788
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 16 Aug 2013 21:53:29 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:58749 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1376657609.5607
+Received: from 37.215.93.81 ([37.215.93.81])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r7GCrPQh057776
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 16 Aug 2013 21:53:27 +0900 (JST)
+Message-Id: <201308161253.r7GCrPQh057776@www546b.sakura.ne.jp>
+X-AntiVirus: Checked by Dr.Web [version: 7.0.4.09220, engine: 7.0.100.09170, virus records: 4395369, updated: 16.08.2013]
+Received: from unknown (HELO localhost) (mail@arabelastroy.ru@237.99.115.197)
+	by 37.215.93.81 with ESMTPA; Fri, 16 Aug 2013 15:56:35 +0300
+From: mail@arabelastroy.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: Early Stock Pick
+Date: Fri, 16 Aug 2013 15:45:42 +0300
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 16082013 #10991375, status: clean
+
+This Company had a huge day today. Get Charged up with our New Hot 
+Stock Idea!
+
+5-Day Target: $0.55
+Buy it at: .1
+Company: Imogo Mobile, Inc
+Trading Date: Fri, Aug 16th, 2013
+Ticker: I_M_TC
+
+New Sub-Penny Alert! You Want To Read This...
+

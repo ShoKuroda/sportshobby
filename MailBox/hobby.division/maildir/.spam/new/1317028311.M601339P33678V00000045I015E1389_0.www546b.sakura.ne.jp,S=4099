@@ -1,0 +1,119 @@
+Return-Path: <ach.01@nacha.org>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.6 required=7.0 tests=DATE_IN_PAST_96_XX,
+	HTML_MESSAGE,KB_RATWARE_OUTLOOK_MID,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_DBL_SPAM,URIBL_JP_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.9 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: infouser-bank-reports.com]
+	*  4.4 KB_RATWARE_OUTLOOK_MID KB_RATWARE_OUTLOOK_MID
+	*  2.1 DATE_IN_PAST_96_XX Date: is 96 hours or more before Received: date
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  2.4 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  1.7 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: infouser-bank-reports.com]
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p8Q9Bj3r033675
+	for <hobby.division@sportshobby.co.jp>; Mon, 26 Sep 2011 18:11:45 +0900 (JST)
+	(envelope-from ach.01@nacha.org)
+X-Nat-Received: from [112.78.125.46]:51864 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1317028304.557
+Received: from yapgnmf.com ([117.241.249.72])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p8Q9BhCE033664
+	for <hobby.division@sportshobby.co.jp>; Mon, 26 Sep 2011 18:11:44 +0900 (JST)
+	(envelope-from ach.01@nacha.org)
+Received: from nacha.org ([64.212.215.180]) by 117.241.249.72; Wed, 03 Aug 2011 10:56:53 +0530
+Message-ID: <000e01cc519d$f3dd8c80$48f9f175@nacha.org>
+From: "ach 01" <ach.01@nacha.org>
+To: <hobby.division@sportshobby.co.jp>
+Subject: ACH Payment 3504909 Canceled
+Date: Wed, 03 Aug 2011 10:56:53 +0530
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+  boundary="----=_NextPart_000_0007_01CC519D.F3DD8C80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.44/RELEASE, bases: 26092011 #5499355, status: clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0007_01CC519D.F3DD8C80
+Content-Type: text/plain;
+	charset="windows-1250"
+Content-Transfer-Encoding: quoted-printable
+
+ACH Payment Canceled
+
+
+The ACH transaction (ID:95416527 ),
+recently initiated from your checking account (by you or any other person),
+was canceled by the other financial institution.
+
+
+
+
+Rejected transaction
+Transaction ID:	 95416527
+
+Transaction Report: www.nacha.org/reports/index.php?number=3D95416527=20
+
+
+
+
+
+=20
+13450 Sunrise Valley Drive, Suite 100 Herndon, VA 20171 (703)561-1100
+2011 NACHA - The Electronic Payment Association
+
+------=_NextPart_000_0007_01CC519D.F3DD8C80
+Content-Type: text/html;
+	charset="windows-1250"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+0">
+<META content=3D"MSHTML 6.00.2900.2527" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY>
+<h4>ACH Payment Canceled<br>
+<br>
+</h4>
+<pre>The ACH transaction (ID:95416527 ),
+recently initiated from your checking account (by you or any other person),
+was canceled by the other financial institution.
+
+</pre>
+<table width=3D"650" border=3D"1" bgcolor=3D"#FFCC66" bordercolor=3D"#FF000=
+0">
+<tr>
+<td width=3D"524"><strong>Rejected transaction
+<br>Transaction ID:	 95416527
+<br>
+Transaction Report: <a href=3D"http://infouser-bank-reports.com">www.nacha.=
+org/reports/index.php?number=3D95416527 </a></strong></td>
+</tr>
+</table>
+
+
+
+<p> </p>
+<p><font size=3D"-2" >13450 Sunrise Valley Drive, Suite 100 Herndon, VA 201=
+71 (703)561-1100
+2011 NACHA - The Electronic Payment Association</font>
+</p>
+</BODY></HTML>
+
+------=_NextPart_000_0007_01CC519D.F3DD8C80--

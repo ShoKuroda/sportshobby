@@ -1,0 +1,74 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,TVD_RCVD_SPACE_BRACKET,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,
+	URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2JAsMxX036233
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 19:54:22 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Thu, 19 Mar 2015 19:54:22 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-209.smtp.rakuten.co.jp [202.72.58.209])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2JAsMHh036230
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 19:54:22 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat110.prod.jp.local [100.66.16.67])
+	by mxmattx102z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l74qf1G69z692v
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 19:54:22 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426762462;
+	bh=znJ/fv2cOFVymn8rXpGyZazK9wENZ9nrJwRLPSYIKTA=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=oTIwMdMZt+CX7XrJn9THwNeu3EU7STDoja1ioQJtKwy7SCzTfGq73LNVIGb4zisvm
+	 aHDgmUStqDkzRDKP+nrYO3ikbVeL7YjMJxcpbXSuWQ+wu55HwHsilZNk18MjIIn/xf
+	 QA91DHaKwNErTYj7dC3D9A+IM31fsp2yo5tJx26g=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat110.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2JArqLx028637
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 19:54:22 +0900
+Received: from armsrb210c.ap.rakuten.co.jp ([armsrb210c.ap.rakuten.co.jp [172.28.246.130]]) by mat110.prod.jp.local with RELAY id t2JAsLXT029927 ;
+          Thu, 19 Mar 2015 19:54:22 +0900
+Date: Thu, 19 Mar 2015 19:54:21 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: 401a38d0797d4313472a56be79345d57s1@dm.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503191954.t2JAsLXT029927@mat110.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJDRDbUo4JCIkaiQsJEgkJiQ0JDYkJCReJDkbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.246.130
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: C8A6DDCC70DA780C1290912CA8C6C14CB44DC869
+
+■ご注文に関するお知らせ■
+
+ｽﾎﾟｰﾂﾎﾋﾞｰです｡お待たせいたしました｡代金引換便にて､発送処理に入らせていただきます｡
+合計: 28950円
+荷物の追跡は､お客様の商品購入履歴画面､もしくは､ﾔﾏﾄ宅急便配達状況確認ﾍﾟｰｼﾞでご確認頂けます｡よろしくお願いいたします｡
+DoCoMo http://link.rakuten.co.jp/0/001/171/ 
+au http://link.rakuten.co.jp/0/002/798/ 
+Softbank http://link.rakuten.co.jp/0/009/524/
+
+到着予定:3月21日
+お荷物伝票番号: 360434871801
+配送会社: ﾔﾏﾄ運輸
+[商品]
+      SANWA(ｻﾝﾜ) Aquila-6 4WD (ESC使用) 2.4G-FH1 ﾌﾟﾛﾎﾟｾｯﾄ(101A30711A)
+      http://item.rakuten.co.jp/sportshobby/101a30711a/
+
+悪天候等で､止むを得ず遅れることは､まれにございます｡その際はご容赦下さいませ｡
+
+★ ｽﾎﾟｰﾂﾎﾋﾞｰからのお願い ★ご購入頂いた商品のﾚﾋﾞｭｰを書いて頂けると､とても助かります｡
+▼ こちらを参考にして下さい ▼
+http://m.rakuten.co.jp/ev/guide/mal0600.phtml
+※楽天でｷｬﾝﾍﾟｰﾝを行っている場合､ﾚﾋﾞｭｰを書くとﾎﾟｲﾝﾄが貰える場合がございます｡
+ｽﾎﾟｰﾂﾎﾋﾞｰ
+http://m.rakuten.co.jp/sportshobby/
+  
+
+

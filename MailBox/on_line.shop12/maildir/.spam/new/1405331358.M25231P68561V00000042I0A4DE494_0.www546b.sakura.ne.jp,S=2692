@@ -1,0 +1,52 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.4 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_PH_SURBL,
+	URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5486]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: ecotot.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: ecotot.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: ecotot.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: ecotot.ru]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: ecotot.ru]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: ecotot.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav418.sakura.ne.jp [153.120.85.53])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s6E9nCr5068554
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 14 Jul 2014 18:49:13 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:28820 [ident-empty]
+	by ksav418.sakura.ne.jp with TPROXY id 1405331352.18738
+Received: from 178.184.55.215 (215-55-184-178.pppoe.irtel.ru [178.184.55.215] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s6E9nBSk068538
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 14 Jul 2014 18:49:12 +0900 (JST)
+Date: Mon, 14 Jul 2014 18:49:11 +0900 (JST)
+Message-Id: <201407140949.s6E9nBSk068538@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (thkeadd@sbcglobal.net@189.177.136.36)
+	by 178.184.55.215 with ESMTPA; Mon, 14 Jul 2014 18:53:28 +0800
+X-Originating-IP: 189.177.136.36
+From: thkeadd@sbcglobal.net
+To: on_line.shop12@sportshobby.co.jp
+Subject: Power more size day by day
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+http://slim.ecotot.ru/ Make your lover contented
+

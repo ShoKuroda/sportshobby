@@ -1,0 +1,55 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.9 required=7.0 tests=BAYES_50,FREEMAIL_FROM,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_MW_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  3.8 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: pc-mediacorner.de]
+	*  2.1 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (stevencape[at]mailpanda.com)
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4065]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4HI4GJO082038
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 18 May 2013 03:04:16 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:56026 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1368813856.21886
+Received: from 74.11.197.38 ([74.11.197.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4HI4EUt082032
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 18 May 2013 03:04:15 +0900 (JST)
+Date: Sat, 18 May 2013 03:04:14 +0900 (JST)
+Message-Id: <201305171804.r4HI4EUt082032@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (stevencape@mailpanda.com@118.222.28.89)
+	by 74.11.197.38 with ESMTPA; Fri, 17 May 2013 14:07:49 -0500
+From: stevencape@mailpanda.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Enhance your bedroom performance
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 17052013 #10039423, status: clean
+
+To those who search great healthiness http://pc-mediacorner.de/notice.html
+

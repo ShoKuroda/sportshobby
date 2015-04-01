@@ -1,0 +1,54 @@
+Return-Path: <order-cancel@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham
+	version=3.3.2
+Received: from fsav201.sakura.ne.jp (fsav201.sakura.ne.jp [210.224.168.163])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J3wsWf048682
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 12:58:54 +0900 (JST)
+	(envelope-from order-cancel@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav201.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp);
+ Thu, 19 Mar 2015 12:58:54 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-132.smtp.rakuten.co.jp [202.72.58.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J3wsFZ048679
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 12:58:54 +0900 (JST)
+	(envelope-from order-cancel@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat110.prod.jp.local [100.66.16.67])
+	by mxmator103z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l6vcG4Hy6zQxl1
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 12:58:54 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426737534;
+	bh=/5dVChCD5FYQWHgoAPdcf1WrJP4vBno6KVopOGJ/M1M=;
+	h=Date:Message-Id:Subject:From:Cc:To:Mime-Version:Content-type;
+	b=Dg3Rcde5FRwmyfLze83/N0CeWzgQWvO/hMSVKBqMXISDQa4kQT/YNksh3N+Zprafp
+	 T2d0DPFjfO68cWbFSYzd2eETukUiiJ8Je+k3OerS3M/U+3WdR6ACxIdjiCJD1D0WQR
+	 B63QaZSACibmC1FRKnp0FkYsUeE+SGbCLZbmo9kI=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat110.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2J3vtp0007564
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 12:58:54 +0900
+Received: from brms402c.db.rakuten.co.jp ([brms402c.db.rakuten.co.jp [172.28.1.202]]) by mat110.prod.jp.local with RELAY id t2J3wsjG013840 ;
+          Thu, 19 Mar 2015 12:58:54 +0900
+Date: Thu, 19 Mar 2015 12:58:53 +0900
+Message-Id: <201503191258.t2J3wsjG013840@mat110.db.rakuten.co.jp>
+Subject: =?ISO-2022-JP?B?GyRCIVozWkU3O1Q+bCFbJDRDbUo4JE4lLSVjJXMlOyVrJEskRCQkJEYbKEI=?=
+From: order-cancel@rakuten.co.jp
+Cc: on_line.shop12@sportshobby.co.jp
+To: 61d1b889a1af1f3c671c5ec69d4e548fs1@dm.fw.rakuten.ne.jp
+Mime-Version: 1.0
+Content-type: text/plain; charset=iso-2022-jp
+X-Rams-Source: 172.28.1.202
+X-Rams-Id: 3C1698858173DB67B9CFA0020E7601A5B4BC8E88
+
+楽天市場です。
+以下のご注文が、ご利用の店舗にてキャンセルされました。
+
+注文番号:243411-20150317-0131952303
+※上記の番号にリンクが表示されている場合でもこのリンクから楽天市場やショップへのお問い合わせはできません。
+商品名:
+魔女の宅急便　ジオラマ置時計“街角のジジ” 
+ご利用店舗:スポーツホビー
+メールアドレス:hobby.division@sportshobby.co.jp
+ご不明な点がございましたら、ご利用の店舗まで直接お問い合わせください。

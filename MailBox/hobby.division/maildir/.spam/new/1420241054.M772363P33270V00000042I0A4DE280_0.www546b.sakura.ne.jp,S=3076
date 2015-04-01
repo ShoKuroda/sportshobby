@@ -1,0 +1,60 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.7 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_HELO_IP_MISMATCH,
+	RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,
+	URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: rhin.ru]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: rhin.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: rhin.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: rhin.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: rhin.ru]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: rhin.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.1 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.5 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav205.sakura.ne.jp (fsav205.sakura.ne.jp [210.224.168.167])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t02NOCLv033267
+	for <hobby.division@sportshobby.co.jp>; Sat, 3 Jan 2015 08:24:12 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav205.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp);
+ Sat, 03 Jan 2015 08:24:12 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp)
+Received: from 5.234.204.244 ([5.234.205.107])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t02NOAHI033261
+	for <hobby.division@sportshobby.co.jp>; Sat, 3 Jan 2015 08:24:11 +0900 (JST)
+Message-Id: <201501022324.t02NOAHI033261@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (savana3322657.7cb6d@libtrade.com@62.149.58.63)
+	by 5.234.205.107 with ESMTPA; Sat, 3 Jan 2015 02:54:36 +0330
+From: savana3322657.7cb6d@libtrade.com
+To: hobby.division@sportshobby.co.jp
+Subject: Choose the hottest energizer
+Date: Sat, 3 Jan 2015 02:45:41 +0330
+
+http://blitz.rhin.ru/ Are you ready to amaze your beloved one today?
+

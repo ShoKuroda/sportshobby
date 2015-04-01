@@ -1,0 +1,18 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(sportshobby\.co\.jp)(:80)? [NC]
+RewriteRule ^(.*)$ http://www.sportshobby.co.jp/$1 [R=301,L]
+RewriteRule ^(.*)/item(.*).html http://www.sportshobby.co.jp/$1/item$2 [L]
+RewriteRule ^(.*)/page(.*).html http://www.sportshobby.co.jp/$1/ [L]
+
+<IfModule mod_rewrite.c>
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+</IfModule>
+
+<FilesMatch "^\admin$">
+AuthUserFile /home/sportshobby2/www/.htpasswd
+AuthName "Please enter your ID and password"
+AuthType Basic
+require valid-user
+</FilesMatch>

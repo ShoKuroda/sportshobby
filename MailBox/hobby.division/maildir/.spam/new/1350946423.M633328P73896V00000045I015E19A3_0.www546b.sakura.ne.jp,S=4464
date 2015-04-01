@@ -1,0 +1,87 @@
+Return-Path: <alias@mx478.cxugqb.mobi>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.4 required=7.0 tests=BAYES_00,DATE_IN_FUTURE_06_12,
+	FROM_STARTS_WITH_NUMS,HTML_IMAGE_ONLY_08,HTML_MESSAGE,MIME_HTML_ONLY,
+	MIME_HTML_ONLY_MULTI,MPART_ALT_DIFF,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_NUMERIC_HELO autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.7 FROM_STARTS_WITH_NUMS From: starts with several numbers
+	*  1.9 DATE_IN_FUTURE_06_12 Date: is 6 to 12 hours after Received: date
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.7 HTML_IMAGE_ONLY_08 BODY: HTML: images with 400-800 bytes of words
+	*  0.8 MPART_ALT_DIFF BODY: HTML and text parts are different
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q9MMreGc073893
+	for <hobby.division@sportshobby.co.jp>; Tue, 23 Oct 2012 07:53:40 +0900 (JST)
+	(envelope-from alias@mx478.cxugqb.mobi)
+X-Nat-Received: from [112.78.125.46]:60062 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1350946420.17649
+Received: from mx478.cxugqb.mobi (mx478.jptqah.mobi [208.98.46.78] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id q9MMrctI073890
+	for <hobby.division@sportshobby.co.jp>; Tue, 23 Oct 2012 07:53:39 +0900 (JST)
+	(envelope-from alias@mx478.cxugqb.mobi)
+Received: (qmail 17910 invoked from network); 23 Oct 2012 06:11:23 +0800
+Received: from unknown (HELO 0.0.0.0) (127.0.0.1)
+  by 0 with SMTP; 23 Oct 2012 06:11:23 +0800
+Date: Tue, 23 Oct 2012 06:11:23
+From: 117Shoping <117shoping@117.com>
+Reply-To: 117shoping@117.com
+To: hobby.division@sportshobby.co.jp
+Message-ID: <11934385.3940211350943883105.JavaMail.root@0.0.0.0>
+Subject: =?UTF-8?B?5r+A5a6J77yB5qC85a6J77yB5rW35aSW5q2j6KaP54mIIERWRC1CbHUtcmE=?=
+ =?UTF-8?B?eSDjg43jg4Pjg4jjgrfjg6fjg4Pjg5fjgIDmmKA=?=
+ =?UTF-8?B?55S7MeS9nOWTgeOBquOCk+OBqDE1MOWGhg==?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_397665_6644484.1350943883096"
+X-FP-CID: 117shop_C_97_C_2596372_C_hobby.division@sportshobby.co.jp
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 22102012 #8182686, status: clean
+
+------=_Part_397665_6644484.1350943883096
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+    <head>
+    </head>
+    <body>
+        <div>=E4=B8=96=E7=95=8C=E4=B8=80=E5=AE=89=E4=BE=A1=E3=81=A7DVD=E5=
+=95=86=E5=93=81=E3=80=8C=E6=98=A0=E7=94=BB=E3=80=81=E9=9F=B3=E6=A5=BD=E3=80=
+=81=E3=82=A2=E3=83=8B=E3=83=A1=E3=80=81=E6=97=A5=E6=9C=AC=E3=83=89=E3=83=A9=
+=E3=83=9E=E3=80=81=E9=9F=93=E5=9B=BD=E3=83=89=E3=83=A9=E3=83=9E=E3=80=81=E6=
+=B5=B7=E5=A4=96=E3=83=89=E3=83=A9=E3=83=9E=E3=81=AA=E3=81=A9<br>
+=E3=82=92=E8=B2=A9=E5=A3=B2=E3=81=97=E3=81=A6=E3=81=84=E3=81=BE=E3=81=99=E3=
+=80=81=E6=98=AF=E9=9D=9E=E3=81=94=E5=88=A9=E7=94=A8=E3=81=8F=E3=81=A0=E3=81=
+=95=E3=81=84=E3=80=82<br>
+=E6=97=A5=E6=9C=AC=E3=81=B8=E3=81=AF=E3=82=82=E3=81=A1=E3=82=8D=E3=82=93=E3=
+=80=81=E5=85=A8=E4=B8=96=E7=95=8C=E7=99=BA=E9=80=81=E5=8F=AF=E8=83=BD=EF=BC=
+=81=EF=BC=81=EF=BC=81 <br>
+=E6=AF=8E=E6=97=A5=E6=96=B0=E3=82=BF=E3=82=A4=E3=83=88=E3=83=AB=E8=BF=BD=E5=
+=8A=A0 =E7=99=BA=E9=80=81=E3=81=AF=E3=82=892=EF=BC=8D3=E6=97=A5=E3=81=A7=E5=
+=88=B0=E7=9D=80<br>
+ HP=E3=81=AF=E4=B8=8B=E8=A8=98=E3=81=A7=E3=81=99=E3=81=AE=E3=81=A7=E3=80=81=
+=E6=98=AF=E9=9D=9E=E4=B8=80=E5=BA=A6=E3=81=94=E8=A6=A7=E3=81=AB=E3=81=AA=E3=
+=81=A3=E3=81=A6=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84=E3=80=82<br><br>
+<A href=3D"http://cn21.fpstarmail.com/web2/?p=3D117shop-78-97-2596372-aHR0c=
+DovL3d3dy4xMTdzaG9wcGluZy5jb20%3D">http://www.117shopping.com</A>
+
+</div>
+    </body>
+</html><img src=3D"http://cn21.fpstarmail.com/web2/rd.php?p=3D117shop-97-25=
+96372" width=3D"5" height=3D"5">
+------=_Part_397665_6644484.1350943883096--
+

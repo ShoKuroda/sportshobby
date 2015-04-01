@@ -1,0 +1,51 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.6 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_JP_SURBL,URIBL_MW_SURBL,
+	URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: emeraude-strategy.com]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: emeraude-strategy.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: emeraude-strategy.com]
+	*  3.7 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: emeraude-strategy.com]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4O1lsi8065607
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 24 May 2013 10:47:54 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:65359 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1369360074.27302
+Received: from 221.121.196.139 (cc221-121-196-139.ccnw.ne.jp [221.121.196.139])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4O1lq1V065600
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 24 May 2013 10:47:53 +0900 (JST)
+Date: Fri, 24 May 2013 10:47:52 +0900 (JST)
+Message-Id: <201305240147.r4O1lq1V065600@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (dazzlesk023@uiuc.edu@149.54.98.236)
+	by cc221-121-196-139.ccnw.ne.jp with ESMTPA; Fri, 24 May 2013 10:49:09 +0900
+X-Originating-IP: 149.54.98.236
+From: dazzlesk023@uiuc.edu
+To: on_line.shop12@sportshobby.co.jp
+Subject: The greatest way to satisfy your loved one
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 23052013 #10112848, status: clean
+
+You can have pleasance over again http://emeraude-strategy.com/plates.html
+

@@ -1,0 +1,90 @@
+Return-Path: <E18BCEC582E989DD54E0E5A3E25CF95FC3B71457@mfu.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.7 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FROM_LOCAL_HEX,HTML_FONT_FACE_BAD,HTML_MESSAGE,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED autolearn=no
+	version=3.3.2
+Received: from fsav403.sakura.ne.jp (fsav403.sakura.ne.jp [133.242.250.102])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2N8wQhu044175
+	for <hobby.division@sportshobby.co.jp>; Mon, 23 Mar 2015 17:58:27 +0900 (JST)
+	(envelope-from E18BCEC582E989DD54E0E5A3E25CF95FC3B71457@mfu.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav403.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav403.sakura.ne.jp);
+ Mon, 23 Mar 2015 17:58:26 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav403.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-226.smtp.rakuten.co.jp [202.72.58.226])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2N8wQsu044172
+	for <hobby.division@sportshobby.co.jp>; Mon, 23 Mar 2015 17:58:26 +0900 (JST)
+	(envelope-from E18BCEC582E989DD54E0E5A3E25CF95FC3B71457@mfu.rakuten.ne.jp)
+Received: from matuser.rakuten.co.jp (matuser101z.prod.jp.local [100.66.178.7])
+	by mxmatuser101z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l9V425BNdzSRJf
+	for <hobby.division@sportshobby.co.jp>; Mon, 23 Mar 2015 17:58:26 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pc.fw.rakuten.ne.jp;
+	s=mfw0082014080; t=1427101106;
+	bh=9ycuVJgfdWDvh+7qb9A/h4d1VOM31qfiOA9uFIcXFOk=;
+	h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+	b=ElfI+OkHgRn87RMjSVdtcqlRpkNxhPDH4RrCmLo7Du8jBBNkLCQxgmBzmtRpqLCH8
+	 ja3YHZJmCWYVdzam0ewMLQmRNXh+TFd3TZwpCtv3lVaJHPd0GJxw4bN8b9O5jecZy+
+	 c2/rJamhD0C5w2FK2PpK1KTAbE6qzlE3y3QmmOCM=
+Received: from matusermx.rakuten.co.jp (matusermx102.prod.jp.local [100.66.16.72])
+	by matuser101z.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2N8wQuZ029114
+	for <sportshobby@shop.rakuten.co.jp>; Mon, 23 Mar 2015 17:58:26 +0900
+Message-ID: <201503231758.t2N8wQ02021268@matusermx102.db.rakuten.co.jp>
+From:   =?iso-2022-jp?B?GyRCS1w2NiEhOUBPQhsoQg==?= <eadbb10c3802e1ba817b08f8602bac4es1@pc.fw.rakuten.ne.jp>
+To:   =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Subject: =?iso-2022-jp?B?GyRCRn42YjQwTjskTiQqQ04kaSQ7GyhC?=
+Date: Mon, 23 Mar 2015 17:58:26 +0900
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0019_01D06592.F6275DB0"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0019_01D06592.F6275DB0
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: quoted-printable
+
+=1B$B%9%]!<%D%[%S!<MM=1B(B
+
+=1B$B$3$NEY!"3ZE7;T>l$h$j%/%m!<%i!<%&%'%$%H$rCmJ8$$$?$7$^$7$?!#=1B(B
+=1B$BK\66$H?=3D$7$^$9!#K\F|!"$4;XDj$N8}:B$N$[$&$XF~6b40N;$$$?$7$^$7$?!#=1B=
+(B
+=1B$B$h$m$7$/$*4j$$$$$?$7$^$9!#=1B(B
+
+=1B$BK\66=1B(B
+
+------=_NextPart_000_0019_01D06592.F6275DB0
+Content-Type: text/html;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-2022-jp" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 9.00.8112.16633">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 =
+face=3DMeiryo>=1B$B%9%]!<%D%[%S!<MM=1B(B</FONT></DIV>
+<DIV><FONT size=3D2 face=3D=1B$B%a%$%j%*=1B(B></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 =
+face=3D=1B$B%a%$%j%*=1B(B>=1B$B$3$NEY!"3ZE7;T>l$h$j%/%m!<%i!<%&%'%$%H$rCm=
+J8$$$?$7$^$7$?!#=1B(B</FONT></DIV>
+<DIV><FONT size=3D2 =
+face=3D=1B$B%a%$%j%*=1B(B>=1B$BK\66$H?=3D$7$^$9!#K\F|!"$4;XDj$N8}:B$N$[$&=
+$XF~6b40N;$$$?$7$^$7$?!#=1B(B</FONT></DIV>
+<DIV><FONT size=3D2 =
+face=3D=1B$B%a%$%j%*=1B(B>=1B$B$h$m$7$/$*4j$$$$$?$7$^$9!#=1B(B</FONT></DI=
+V>
+<DIV><FONT size=3D2 face=3D=1B$B%a%$%j%*=1B(B></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 =
+face=3D=1B$B%a%$%j%*=1B(B>=1B$BK\66=1B(B</FONT></DIV>
+<DIV><FONT size=3D2 =
+face=3D=1B$B%a%$%j%*=1B(B></FONT>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_000_0019_01D06592.F6275DB0--
+

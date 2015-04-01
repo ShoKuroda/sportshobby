@@ -1,0 +1,43 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.2 required=7.0 tests=BAYES_99,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: zeyzmlvy.com]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9982]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: zeyzmlvy.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: zeyzmlvy.com]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: zeyzmlvy.com]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: zeyzmlvy.com]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s2C91Gfa039302
+	for <hobby.division@sportshobby.co.jp>; Wed, 12 Mar 2014 18:01:17 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:52276 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1394614876.10326
+Received: from 113.178.13.13 (localhost [113.178.13.13] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s2C91EHX039289
+	for <hobby.division@sportshobby.co.jp>; Wed, 12 Mar 2014 18:01:15 +0900 (JST)
+Message-Id: <201403120901.s2C91EHX039289@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (clarissaibarra@wagner-solartechnik.de@32.96.204.191)
+	by 113.178.13.13 with ESMTPA; Wed, 12 Mar 2014 15:58:17 +0700
+From: clarissaibarra@wagner-solartechnik.de
+To: hobby.division@sportshobby.co.jp
+Subject: Get rid of bad nights
+Date: Wed, 12 Mar 2014 15:48:08 +0700
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 12032014 #7493944, status: clean
+
+http://risky.zeyzmlvy.com/ The best technique to please your wife
+

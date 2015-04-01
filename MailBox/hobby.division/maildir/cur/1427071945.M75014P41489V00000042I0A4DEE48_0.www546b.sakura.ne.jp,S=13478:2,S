@@ -1,0 +1,286 @@
+Return-Path: <spiral-error-278766051f500b8f4c3234b4ae05490e@rcv31.smp.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.5 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,LOTS_OF_MONEY,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,
+	URIBL_BLOCKED,URIBL_SBL,WEIRD_QUOTING autolearn=no version=3.3.2
+Received: from fsav405.sakura.ne.jp (fsav405.sakura.ne.jp [133.242.250.104])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2N0qKfc041486
+	for <hobby.division@sportshobby.co.jp>; Mon, 23 Mar 2015 09:52:20 +0900 (JST)
+	(envelope-from spiral-error-278766051f500b8f4c3234b4ae05490e@rcv31.smp.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav405.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp);
+ Mon, 23 Mar 2015 09:52:20 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp)
+Received: from agt3102.smp.ne.jp (agt3102.smp.ne.jp [59.106.100.150])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t2N0qKHh041481
+	for <hobby.division@sportshobby.co.jp>; Mon, 23 Mar 2015 09:52:20 +0900 (JST)
+	(envelope-from spiral-error-278766051f500b8f4c3234b4ae05490e@rcv31.smp.ne.jp)
+Received: (qmail 21030 invoked by uid 200); 23 Mar 2015 09:52:17 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=n01.smp.ne.jp;
+	s=D20140617-spiral; t=1427071937;
+	bh=O1XZL74fOjYAsXbxg128oSYBRQ5Exw4wj0wEdH/RxPI=;
+	h=Message-Id:Date:From:Subject:To:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=PfjOQC1GT16bj7TVh6o6GIGrCqSgCFjWxKGI4x5ze2EkPVBqgKbAqzzrrLH352i4c
+	 XFCfx2+jDE9RUXa4DivRtXi1dbITCO19LV96S+YmJowUg5DjCavpkXr1/YgesLCIPw
+	 rDqQFShxSrhjWiJq4xKvNKrjTQ6NZvmRvpmm42gGxequlIUMqVMbXOMiYIOJ+gNqnx
+	 zscTiz2ehgutRpzsm+riLpcalT1PTEG6NI7O76mqcSiXKWn+Nze5CGwQrbExpPFEQb
+	 Z8vzqg89AboIrfDy2YXmztfl/P1HgRE3qkZzdtInWYPfq/P+JZlPO4yyg2tHrPO3QJ
+	 RmU510irhdpZw==
+Message-Id: <SMP29_769852_62387328.1427071937@agt3102.smp.ne.jp>
+Date: Mon, 23 Mar 2015 09:52:17 +0900
+From: =?iso-2022-jp?B?GyRCJTklSCUiISYlKCUtJTklVyVsJTkbKEI=?= <news@tenken.co.jp>
+Subject: =?iso-2022-jp?B?GyRCR2QkbDZaIXpKbCRORnwkTiVXITwlSSVrJSshPCVNITwbKEI=?=
+ =?iso-2022-jp?B?GyRCJTclZyVzJGQbKEJXRUIbJEI4QkRqJVwlRyUjJEokSSRyJDQbKEI=?=
+ =?iso-2022-jp?B?GyRCPlIycCFaJTklSCUiISYlKCUtJTklVyVsJTkhWxsoQg==?=
+To: hobby.division@sportshobby.co.jp
+Reply-To: news@tenken.co.jp
+User-Agent: Spiral/1.11; Messaging Agent
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆
+　　　┏━━┓　　　店舗応援マガジン
+　　　┃＼／┃　　　ストア・エキスプレスＮＥＷＳ　号外
+　　　┗━━┛　　　株式会社店研創意　＜2015.3.23発行＞
+　　　　　　　　　　https://www.store-express.com/CGI/index.cgi
+◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆
+※このメールは「MSゴシック」など等幅フォントできれいに見られます。
+
+　　　＼今年の母の日は5月10日(日)！／
+ ★     ★     ★     ★     ★     ★     ★
+ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+ ■　　　　☆★【母の日特集】☆★　　　　　■
+ ■　　　　＝＝＝＝＝＝＝＝＝＝＝　　　　　■
+ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+ ★     ★     ★     ★     ★     ★     ★
+　　　　母の日のご準備はお済みですか？
+ハートフルな演出で集客アップを目指しましょう♪
+
+▼こちらがオススメ！
+
+毎年、人気のプードルカーネーション♪/／
+○プードルバスケット ミニ
+420円
+http://r31.smp.ne.jp/u/No/769852/J8yK27GDgMG6_62387328/769852_150320001.html
+
+○プードルアイアンバスケット
+1,080円
+http://r31.smp.ne.jp/u/No/769852/39bm14GDgMG6_62387328/769852_150320002.html
+
+○2プードルバスケット
+900円
+http://r31.smp.ne.jp/u/No/769852/aa7uf2GDgMG6_62387328/769852_150320003.html
+
+ギフト需要に欠かせないラッピンググッズ♪/／
+●マザーズデイカーネーション不織布巾着バッグ
+10枚 1,998円〜(単価200円〜)
+http://r31.smp.ne.jp/u/No/769852/d4L9djGDgMG6_62387328/769852_150320004.html
+
+●ギフトカード
+10枚 486円(単価48.6円)
+http://r31.smp.ne.jp/u/No/769852/Hcdq40GDgMG6_62387328/769852_150320005.html
+
+●母の日ワイヤータイ
+10個 475円(単価47.5円)
+http://r31.smp.ne.jp/u/No/769852/6JF6JdGDgMG6_62387328/769852_150320006.html
+
+▼『母の日特集』特集ページはこちら
+http://r31.smp.ne.jp/u/No/769852/1KPI0AGDgMG6_62387328/769852_150320007.html
+
+↓『母の日特集』商品一覧はこちら
+http://r31.smp.ne.jp/u/No/769852/JFEiJeGDgMG6_62387328/769852_150320008.html
+
+＼ご請求は無料！／
+◇『春の装飾品〜母の日特集〜』カタログご請求はこちら
+http://r31.smp.ne.jp/u/No/769852/I8lNGKGDgMG6_62387328/769852_150320009.html
+※ログイン後、ご請求いただけます。
+
+◆『春の装飾品〜母の日特集〜』デジタルカタログはこちら
+http://r31.smp.ne.jp/u/No/769852/10KKIbGDgMG6_62387328/769852_150320010.html
+
+　　　　　　　☆オンラインショップ限定☆
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+　　グレード感のあるWEB限定ボディがズラリ！要チェック！
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+腕付きなのでいろんなポーズを取らせることができます！
+♪婦人ローコスト芯地張ボディ ベージュ樹脂腕付き
+22,422円
+http://r31.smp.ne.jp/u/No/769852/6aVahdGDgMG6_62387328/769852_150320011.html
+
+大きめサイズの売場にぴったりのキングサイズボディ！
+♪紳士キングサイズボディ 
+23,430円
+http://r31.smp.ne.jp/u/No/769852/bJbyK1GDgMG6_62387328/769852_150320012.html
+
+腕時計やアクセサリーなどのディスプレーに最適！
+♪紳士ハンドディスプレー
+6,191円
+http://r31.smp.ne.jp/u/No/769852/K94756GDgMG6_62387328/769852_150320013.html
+
+パンツスタイルを美しく魅せるベーシックボディ。
+♪子供卓上パンツボディ 白塗装
+5,502円〜
+http://r31.smp.ne.jp/u/No/769852/A0IaIaGDgMG6_62387328/769852_150320014.html
+
+ベビーの可愛らしさをしっかり表現できる、丈夫で軽量なベビーマネキンです。
+♪ベビーリアルマネキン アイボリー塗装
+22,186円
+http://r31.smp.ne.jp/u/No/769852/hB7c3fGDgMG6_62387328/769852_150320015.html
+
+他にも多数、取り揃えております♪
+▼『ボディ・マネキン大特集』特集ページはこちら
+http://r31.smp.ne.jp/u/No/769852/HjGSkBGDgMG6_62387328/769852_150320016.html
+
+▼『オンラインショップ限定ボディ』はこちら
+http://r31.smp.ne.jp/u/No/769852/073B2HGDgMG6_62387328/769852_150320017.html
+
+　　　　　☆お見逃しなく！今月の激安セール☆
+┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐
+│在┝┥庫┝┥処┝┥分┝┥Ｓ┝┥Ａ┝┥Ｌ┝┥Ｅ┝┥！│
+└▽┘└▽┘└▽┘└▽┘└▽┘└▽┘└▽┘└▽┘└▽┘
+http://r31.smp.ne.jp/u/No/769852/9hUydjGDgMG6_62387328/769852_150320018.html
+
+　お得なアレコレ大放出！激安セールは3月31日(火)まで
+　　↓　　 ↓　　↓　　↓　　↓　　↓　　↓　　↓
+＼20％OFF／
+◆LEDチューブライト さくらモチーフ
+9,155円⇒7,324円！
+http://r31.smp.ne.jp/u/No/769852/98rgADGDgMG6_62387328/769852_150320019.html
+
+＼20％OFF／
+◆LEDピンクフラワー立ち木ライト H180cm
+19,800円⇒15,840円！
+http://r31.smp.ne.jp/u/No/769852/h8_fdgGDgMG6_62387328/769852_150320020.html
+
+＼52.8％OFF／
+◆システムワゴン シルバー
+18,309円⇒8,640円！
+http://r31.smp.ne.jp/u/No/769852/d74787GDgMG6_62387328/769852_150320021.html
+
+＼30％OFF／
+◆木製テーブル テーパー脚 ホワイト
+27,565円⇒19,295円！
+http://r31.smp.ne.jp/u/No/769852/1agWeIGDgMG6_62387328/769852_150320022.html
+
+＼8.8％OFF／
+◆木製ワゴン 花車タイプ
+69,120円⇒63,000円！
+http://r31.smp.ne.jp/u/No/769852/BIln0CGDgMG6_62387328/769852_150320023.html
+
+赤字覚悟の大特価♪在庫処分セールは3月31日(火)まで♪
+▼『在庫処分セール』特集ページはこちら
+http://r31.smp.ne.jp/u/No/769852/k8CmhFGDgMG6_62387328/769852_150320024.html
+
+▼『在庫処分セール』商品一覧はこちら
+http://r31.smp.ne.jp/u/No/769852/9hUydjGDgMG6_62387328/769852_150320018.html
+
+
+※品切れ・完売の際は何卒ご容赦ください。
+
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
+
+　　　　　来月のストエキの日は【4月8日(水)と15日(水)】です！
+　　　　　━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　キャンペーン内容は当日発表！次回も是非お楽しみに(＾▽＾）／
+
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
+┣━┓━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┏━┓
+┃□┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　┃
+┃∵┃　　　★スマートフォンサイト＆モバイルサイトのご案内★　　　┃∩┃
+┗━┛━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┗|hnn
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　L  」
+☆スマートフォンサイト☆　　　　　　　　　　　　　　　　　　　　　　││
+========================
+スマホで楽々ご注文♪デジタルカタログもご覧いただけます。
+iPhone・Android用壁紙ダウンロードは無料です！
+スマホ版メルマガも配信中！
+
+▼スマホサイトはこちら↓
+http://r31.smp.ne.jp/u/No/769852/jjdF63GDgMG6_62387328/769852_150320025.html
+※PC、タブレット、フィーチャーフォンからはご利用になれません。
+
+　☆モバイルサイト☆
+======================
+タイムセールなど、モバイルだけのお得なサービスがあります！
+モバイルサイト限定メルマガ購読キャンペーンも♪
+
+＊モバイルサイトについて＊
+http://r31.smp.ne.jp/u/No/769852/bbQl6aGDgMG6_62387328/769852_150320026.html
+
+＼モバイル版メルマガも配信中！／
+▼モバイルサイトはこちら↓
+https://st-exp.com/
+※PC、スマートフォンからはご利用になれません。
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+今号も、最後までお付き合いいただき、ありがとうございました。
+皆様のご利用を、心よりお待ち申し上げております。
+それでは、次号もお楽しみに〜(＾-＾)ノ~
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+□メールマガジンの配信停止
+
+今後メールマガジンの配信をご希望でないお客様は・・・
+
+オンラインショップ お客様専用マイページの『メルマガ購読の変更』画面にて、
+＊メールマガジン購読希望＊の項目を“希望しない”とご変更ください。
+
+※当メールマガジンは購読をご希望いただいた方に、お送りしております。
+
+　-------------------------------------------------------------------------
+
+□この記事や、商品に関するお問い合わせは
+
+　株式会社店研創意　ストア・エキスプレス　カスタマーサービス
+　https://www.store-express.com/CGI/contact/customer.cgi
+　TEL：06-6203-6660　FAX：0120-933-530
+
+※皆様のご意見・ご希望などもお待ちしております。(＾O＾)／(＾O＾)／
+
+　-------------------------------------------------------------------------
+
+□店研創意「企業サイト」はこちら(各店舗営業日も掲載しています。)
+　http://www.tenken.co.jp/
+
+　------------------------------------------------------------------------
+
+＼お近くにお越しの際は是非お立ち寄りください／
+　★-★-★-★-★各店舗のご案内★-★-★-★-★
+
+■エキスプレス・デポ全店■
+春のレジスターフェア開催中♪≪〜4/30(木)まで≫
+
+【ストア・エキスプレス】
+・東京本店　【3/25(水)〜3/31(火)はポイント2倍！】
+http://r31.smp.ne.jp/u/No/769852/i7ZhDIGDgMG6_62387328/769852_150320027.html
+・大阪本店
+※3/27(金)は社内行事のため、16:30で閉店します。
+http://r31.smp.ne.jp/u/No/769852/ei649CGDgMG6_62387328/769852_150320028.html
+・名古屋店　【3/25(水)〜3/31(火)はポイント2倍！】
+http://r31.smp.ne.jp/u/No/769852/EJtI2CGDgMG6_62387328/769852_150320029.html
+・福岡店　【3/25(水)〜3/31(火)はポイント2倍！】
+http://r31.smp.ne.jp/u/No/769852/dca_BKGDgMG6_62387328/769852_150320030.html
+
+【ストアデポ】
+★デポ全店★
+★毎週水曜日はポイント2倍！
+★日・祝のみ、お買上げ税込500円毎に1ポイント加算サービス中！
+★3/25(水)〜3/31(火)ラッピング用品5％OFF！
+・三条寺町店　
+　※下記の通り、営業時間を変更しております。
+　【月〜金】10:00〜19:00【土】10:00〜18:00【日・祝】10:00〜17:00
+http://r31.smp.ne.jp/u/No/769852/D3uT4cGDgMG6_62387328/769852_150320031.html
+・四条烏丸店
+　※下記の通り、営業時間を変更しております。
+　【月〜金】10:00〜19:00【土・日・祝】10:00〜17:00
+http://r31.smp.ne.jp/u/No/769852/8KvX8EGDgMG6_62387328/769852_150320032.html
+・神戸元町店　【土・日・祝は飲食用備品5％OFF！】
+http://r31.smp.ne.jp/u/No/769852/9eBnecGDgMG6_62387328/769852_150320033.html
+
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+Copyright(C)TENKENSOUI Co., Ltd. All Rights reserved.
+*ご商友への転送は、大歓迎いたします。
+

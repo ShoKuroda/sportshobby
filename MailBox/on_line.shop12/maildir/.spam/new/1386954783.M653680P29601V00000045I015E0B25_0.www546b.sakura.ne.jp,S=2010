@@ -1,0 +1,42 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.4 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4908]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBDHD0WI029593
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 14 Dec 2013 02:13:00 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:56368 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1386954780.4919
+Received: from 212.76.10.217 (comp10-217.tnsplus.kz [212.76.10.217] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rBDHCtIJ029555
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 14 Dec 2013 02:12:59 +0900 (JST)
+Date: Sat, 14 Dec 2013 02:12:55 +0900 (JST)
+Message-Id: <201312131712.rBDHCtIJ029555@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (laujann@traderesources.com@238.56.144.76)
+	by 212.76.10.217 with ESMTPA; Fri, 13 Dec 2013 23:14:58 +0600
+From: laujann@traderesources.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: New Trading Idea Coming This Evening
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 13122013 #7114513, status: clean
+
+This Stock Needs Your Full Attention Today! Exciting News Just Issued!!! 
+Premarket Analysis is Ready!
+
+Ticker: R-G_T_X
+Trade Date: Dec, 13
+Company Name: REGISTERED EXPRESS CORPORATION
+Closed at: .0128
+
+This Stock Needs Your Full Attention Today! Exciting News Just Issued!!! 
+Premarket Analysis is Ready!
+

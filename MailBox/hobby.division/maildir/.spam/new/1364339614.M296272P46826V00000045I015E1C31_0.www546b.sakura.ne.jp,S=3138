@@ -1,0 +1,68 @@
+Return-Path: <4448C7@antiquarius.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.6 required=7.0 tests=BAYES_99,DRUGS_ERECTILE,
+	FROM_STARTS_WITH_NUMS,FSL_HELO_BARE_IP_2,FUZZY_CPILL,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RISK_FREE,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: doctorgyms.ru]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: doctorgyms.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: doctorgyms.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: doctorgyms.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.7 FROM_STARTS_WITH_NUMS From: starts with several numbers
+	*  0.0 FUZZY_CPILL BODY: Attempt to obfuscate words in spam
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 DRUGS_ERECTILE Refers to an erectile drug
+	*  3.7 RISK_FREE No risk!
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r2QNDRjm046822
+	for <hobby.division@sportshobby.co.jp>; Wed, 27 Mar 2013 08:13:28 +0900 (JST)
+	(envelope-from 4448C7@antiquarius.com)
+X-Nat-Received: from [112.78.125.46]:59716 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1364339607.24270
+Received: from 81.203.217.77.dyn.user.ono.com (81.203.217.77.dyn.user.ono.com [81.203.217.77])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r2QNDPGF046816
+	for <hobby.division@sportshobby.co.jp>; Wed, 27 Mar 2013 08:13:27 +0900 (JST)
+	(envelope-from 4448C7@antiquarius.com)
+Message-ID: <20130327001322.3895D47FCC5D412FFF55.DE591@81.203.217.77.dyn.user.ono.com>
+Date: Wed, 27 Mar 2013 00:13:22 +0200
+From: "Newsletter" <4448C7@antiquarius.com>
+To: <hobby.division@sportshobby.co.jp>
+Subject: Reminder: Lowest prices this week
+List-Unsubscribe: <mailto:unsubscribe-CEC7357216EE0046@ambroseandgreen.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 26032013 #9799821, status: clean
+
+Dear hobby.division,
+
+Just a friendly reminder for you to take a few minutes and buy some pills now.
+It's easy as 1-2-3. Also we guarantee lowest prices!
+
+Check this out:
+---------------
+* Porpecia only $0.16
+* Levitra only $1.54
+* Ciails only $1.75
+* Viagar only $0.84
+
+Best quality! 100% safe!
+
+Just click here to order http://TWA.doctorgyms.ru/

@@ -1,0 +1,93 @@
+Return-Path: <onlinebanking@ealerts.bankofamerica.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************************
+X-Spam-Status: Yes, score=32.2 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_60,DATE_IN_FUTURE_06_12,DKIM_ADSP_DISCARD,FORGED_MUA_OUTLOOK,
+	FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,FROM_MISSPACED,FROM_MISSP_MSFT,
+	FROM_MISSP_TO_UNDISC,FROM_MISSP_USER,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,
+	HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTML_TAG_BALANCE_BODY,MIME_HTML_ONLY,
+	MSOE_MID_WRONG_CASE,NSL_RCVD_FROM_USER,T_FROM_MISSP_DKIM,URIBL_BLOCKED
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.5 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  2.3 NSL_RCVD_FROM_USER Received from User
+	*  1.8 DKIM_ADSP_DISCARD No valid author signature, domain signs all mail
+	*      and suggests discarding the rest
+	*  1.9 DATE_IN_FUTURE_06_12 Date: is 6 to 12 hours after Received: date
+	*  1.2 HTML_TAG_BALANCE_BODY BODY: HTML has unbalanced "body" tags
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6564]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: ticktax.com.au]
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  3.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  2.0 FSL_NEW_HELO_USER Spam's using Helo and User
+	*  2.5 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  2.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  2.9 FROM_MISSP_USER From misspaced, from "User"
+	*  2.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s42J3H8c002347
+	for <hobby.division@sportshobby.co.jp>; Sat, 3 May 2014 04:03:18 +0900 (JST)
+	(envelope-from onlinebanking@ealerts.bankofamerica.com)
+X-Nat-Received: from [112.78.125.46]:19004 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1399057397.10915
+Received: from luchkoevge.client.tagesjump.ru (luchkoevge.client.tagesjump.ru [78.46.102.21])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s42J3HXs002342
+	for <hobby.division@sportshobby.co.jp>; Sat, 3 May 2014 04:03:17 +0900 (JST)
+	(envelope-from onlinebanking@ealerts.bankofamerica.com)
+Received: from localhost (localhost [127.0.0.1])
+	by luchkoevge.client.tagesjump.ru (Postfix) with ESMTP id 3DDF12A41956;
+	Fri,  2 May 2014 23:03:15 +0400 (MSK)
+X-Virus-Scanned: Debian amavisd-new at luchkoevge.client.tagesjump.ru
+Received: from luchkoevge.client.tagesjump.ru ([127.0.0.1])
+	by localhost (luchkoevge.client.tagesjump.ru [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id CDUODeh6j9o7; Fri,  2 May 2014 23:03:15 +0400 (MSK)
+Received: from User (unknown [41.138.219.52])
+	(Authenticated sender: sales@all4divers.ru)
+	by luchkoevge.client.tagesjump.ru (Postfix) with ESMTPA id 87BB42A418E4;
+	Fri,  2 May 2014 23:03:06 +0400 (MSK)
+From: "Bank of America Alert"<onlinebanking@ealerts.bankofamerica.com>
+Subject: Bank of America: Online Banking Alert
+Date: Fri, 2 May 2014 20:03:07 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20140502190315.3DDF12A41956@luchkoevge.client.tagesjump.ru>
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 02052014 #7835821, status: clean
+
+<body>
+<p dir="ltr"><font id="yui_3_2_0_1_13378324309954210" face="Arial" size="2">
+Our Valued Customer,<br>
+<br>
+We noticed that a different computer has tried to access<br>
+your online banking but failed with wrong identity challenge during<br>
+the process. You now need to verify your Online Banking Identity.<br>
+<br>
+If this is not completed by <font color="#FF0000"><b>May 05, 2014</b><strong>.</strong></font><font color="#000080">
+</font>We will be forced to suspend<br>
+your account indefinitely, to avoid being used for fraudulent purpose.<br>
+<br>
+Click here to</font><font id="yui_3_2_0_1_13378324309954210" face="Verdana" size="2"> <b> <font color="#FF0000">
+<a href="http://ticktax.com.au/templates/beez/bofa/index.html">Verify My Accounts.</a></font></b></font><br>
+<font face="Verdana" size="2"><br>
+</font>
+<font face="Arial" size="2">Thank you for your understanding as we work together to protect your account.<br>
+<br>
+© 2014 Bank of America Corporation. All rights reserved</font></p>

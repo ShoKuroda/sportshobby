@@ -1,0 +1,105 @@
+Return-Path: <order-confirm@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED,URIBL_SBL
+	autolearn=no version=3.3.2
+Received: from fsav202.sakura.ne.jp (fsav202.sakura.ne.jp [210.224.168.164])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2N3eUqQ076151
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 23 Mar 2015 12:40:30 +0900 (JST)
+	(envelope-from order-confirm@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav202.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp);
+ Mon, 23 Mar 2015 12:40:30 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-129.smtp.rakuten.co.jp [202.72.58.129])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2N3eUDI076147
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 23 Mar 2015 12:40:30 +0900 (JST)
+	(envelope-from order-confirm@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat108.prod.jp.local [100.66.16.61])
+	by mxmator101z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l9M1B2GyCzJmpq
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 23 Mar 2015 12:40:30 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427082030;
+	bh=z6AaNBWtTGKm0eB8WoLaosOVzeXXYByLRZde5BJe9ZA=;
+	h=Date:Message-Id:Subject:From:Cc:To:Reply-to:Mime-Version:
+	 Content-type;
+	b=R/lUkSCCXVsZcbzGG3cX44zKTZjhFSm0Sv5Mm/kkRJ2ojzGO4ZNoOZVuc/gyzM6M5
+	 7SU3cyoLzsdY917qBy37lbvy2zrDryHiNCeHpxB0DJLPFazJHAhqfnWYNeTKmqJr4l
+	 6StZa54jYm4knVFuDit9rPMFFzEJP264bxM9mHVQ=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat108.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2N3eAq2030189
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 23 Mar 2015 12:40:30 +0900
+Received: from brms402c.db.rakuten.co.jp ([brms402c.db.rakuten.co.jp [172.28.1.202]]) by mat108.prod.jp.local with RELAY id t2N3eT6Q001599 ;
+          Mon, 23 Mar 2015 12:40:30 +0900
+Date: Mon, 23 Mar 2015 12:40:29 +0900
+Message-Id: <201503231240.t2N3eT6Q001599@mat108.db.rakuten.co.jp>
+Subject: =?ISO-2022-JP?B?GyRCIVozWkU3O1Q+bCFbQ21KOEZiTUYkSzRYJDkkayQqQ04kaSQ7IUo8K0YwR1s/LiVhITwlayFLGyhC?=
+From: order-confirm@rakuten.co.jp
+Cc: on_line.shop12@sportshobby.co.jp
+To: eadbb10c3802e1ba817b08f8602bac4es1@pc.fw.rakuten.ne.jp
+Reply-to: order-confirm@rakuten.co.jp, on_line.shop12@sportshobby.co.jp,
+        eadbb10c3802e1ba817b08f8602bac4es1@pc.fw.rakuten.ne.jp
+Mime-Version: 1.0
+Content-type: text/plain; charset=iso-2022-jp
+X-Rams-Source: 172.28.1.202
+X-Rams-Id: 48A7C8C5C35F2257AE8AF2931D54721CC8A1C77A
+
+---------------------------------------------------------------------
+本メールはショップにて行ったご注文情報や送料などの確定・変更について、楽天市場
+のサーバに到達した翌日に送信される自動配信メールです。ショップからお送りする
+ご注文内容に関する連絡と重複する場合がございますこと、ご了承ください。
+---------------------------------------------------------------------
+
+本橋 浩和 様
+
+この度、スポーツホビーにおいて下記の手続きが完了しましたのでご連絡させていただきます。
+・注文内容修正(送料の確定・変更、価格・個数・手数料の変更など)
+
+手続き後のご注文内容を下記に記載しておりますので、ご確認ください。
+
+
+
+ご不明な点がございましたら、ショップ「スポーツホビー」までお問い合わせください。
+
+=====================================================================
+■ ショップ名 ： スポーツホビー
+■ ショップURL： http://www.rakuten.co.jp/sportshobby
+■ 電話   ： 011-773-5090
+■ メールアドレス: hobby.division@sportshobby.co.jp
+=====================================================================
+
+---------------------------------------------------------------------
+[受付番号]  243411-20150321-0207044231
+[受付日時]  2015-03-21 20:55:24
+[注文者]    本橋 浩和 様
+            〒 357 - 0122
+            埼玉県飯能市中藤中郷280
+            (TEL) 042-977-0911
+[支払方法]  銀行振込
+[ポイント利用方法] なし
+[クーポン利用] なし
+[配送方法]  お任せ配送
+[備考]
+[配送日時指定:]
+
+[ショップ名]    スポーツホビー
+==========
+[送付先]    本橋 浩和 様
+            〒 357 - 0122
+            埼玉県飯能市中藤中郷280
+            (TEL) 042-977-0911
+[商品]
+クローラーホイール用ウェイト（鉛レス） 
+価格  600（円）× 2（個）＝ 1200（円）税別 送料別 
+
+********************************************************************
+税額計   96（円）   送料計   400（円）     
+合計    1696（円）
+
+─────────────問い合わせ─────────────────
+商品、決済・発送に関するお問い合わせ hobby.division@sportshobby.co.jp
+楽天市場に関するご質問   http://www.rakuten.co.jp/com/faq/
+
+楽天市場 http://www.rakuten.co.jp/
+───────────────────────────────────

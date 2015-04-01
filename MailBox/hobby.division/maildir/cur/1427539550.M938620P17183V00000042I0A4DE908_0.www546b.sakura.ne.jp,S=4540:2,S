@@ -1,0 +1,83 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED,URIBL_SBL
+	autolearn=no version=3.3.2
+Received: from fsav205.sakura.ne.jp (fsav205.sakura.ne.jp [210.224.168.167])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2SAjl2r017180
+	for <hobby.division@sportshobby.co.jp>; Sat, 28 Mar 2015 19:45:47 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav205.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp);
+ Sat, 28 Mar 2015 19:45:47 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-130.smtp.rakuten.co.jp [202.72.58.130])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2SAjljr017177
+	for <hobby.division@sportshobby.co.jp>; Sat, 28 Mar 2015 19:45:47 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat106.prod.jp.local [100.66.16.55])
+	by mxmator102z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lDcCb3YqNzGggZ
+	for <hobby.division@sportshobby.co.jp>; Sat, 28 Mar 2015 19:45:47 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427539547;
+	bh=mWmhBlXANVukyKyDvZw5fjJVpe3baMkh0R7coLdQTjA=;
+	h=Message-ID:Date:From:Reply-To:To:Subject:Cc:Mime-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=MBlFWCQ9J/waxvp/h+EbNoGUBEVDTFpkPVdHvGCjiOIeb6QrXLeTuaRy85WODpwYu
+	 z4T0JZRfeb4iqqgMLV5whQgA23I3FttFXxo5vtqITpA2uFuZ1i5wvgtzQnhr79JYQV
+	 BPT/IVbvmHO0ytnJCdK05MeL8lGhCjeiK0WeOwfw=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat106.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2SAjCJU027430
+	for <hobby.division@sportshobby.co.jp>; Sat, 28 Mar 2015 19:45:47 +0900
+Received: from arms702c.ap.rakuten.co.jp ([arms702c.ap.rakuten.co.jp [172.28.45.106]]) by mat106.prod.jp.local with RELAY id t2SAjkv6028548 ;
+          Sat, 28 Mar 2015 19:45:47 +0900
+Message-ID: <201503281945.t2SAjkv6028548@mat106.db.rakuten.co.jp>
+Date: Sat, 28 Mar 2015 19:45:46 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: 175c38f95af782b018d8166087edca7fs1@pc.fw.rakuten.ne.jp,
+        hobby.division@sportshobby.co.jp
+To: 175c38f95af782b018d8166087edca7fs1@pc.fw.rakuten.ne.jp
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbTGQkJDlnJG8kO0ZiGyhC?=
+ =?iso-2022-jp?B?GyRCTUYkNDNORychSjwrRjBHWz8uJWEhPCVrIUsbKEI=?=
+Cc: hobby.division@sportshobby.co.jp
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.45.106
+X-Rams-Id: 8E01D97855793238CF68D3F5503E941B88D1FCB4
+
+---------------------------------------------------------------------
+本メールはお客様からお送りいただいた情報が、楽天市場のサーバに到達した
+時点で送信される、自動配信メールです。
+---------------------------------------------------------------------
+この度は楽天市場内のショップ「スポーツホビー」を
+ご利用いただきまして、誠にありがとうございます。
+
+ご不明な点、送信内容に誤りなどございましたら、下記ショップまで直接
+お問い合わせください。
+
+==================================================
+■ ショップ名 ： スポーツホビー
+■ ショップURL： http://www.rakuten.co.jp/sportshobby/
+■ 電話   ： 011-773-5090
+■ メールアドレス: hobby.division@sportshobby.co.jp
+==================================================
+
+以下の送信内容がご利用のショップに届いております。
+------------------------------------------------------------------
+（お客様のお名前） 福園建冶
+（問合わせ商品）   BOOM 1.9クローラータイヤセット90mm　K1（ブラックホイール付)2本入 BRK624190BK
+   		（ http://item.rakuten.co.jp/sportshobby/brk624190bk/ ）
+（問合わせ内容）
+BOOM1.9クローラータイヤセット90mmはスコーピオンにそのまま使用可能ですか？
+------------------------------------------------------------------
+
+─────────────問い合わせ─────────────────
+商品、決済・発送に関するお問い合わせ hobby.division@sportshobby.co.jp
+楽天市場に関するご質問　 http://www.rakuten.co.jp/com/faq/
+個人情報保護方針　http://privacy.rakuten.co.jp/
+
+楽天市場 http://www.rakuten.co.jp/ 
+───────────────────────────────────
+

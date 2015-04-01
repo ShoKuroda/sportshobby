@@ -1,0 +1,146 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav406.sakura.ne.jp (fsav406.sakura.ne.jp [133.242.250.105])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2TFkNqr090508
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 30 Mar 2015 00:46:23 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav406.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav406.sakura.ne.jp);
+ Mon, 30 Mar 2015 00:46:23 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav406.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-130.smtp.rakuten.co.jp [202.72.58.130])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2TFkNK0090505
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 30 Mar 2015 00:46:23 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat104.prod.jp.local [100.66.16.49])
+	by mxmator103z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lFLqy6m3bzQxjp
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 30 Mar 2015 00:46:22 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427643982;
+	bh=7dRITeSpQURLabhtJdKphhgZZ8hKWrevT+FT7+M2YOo=;
+	h=Date:From:Reply-To:To:Cc:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=kch/ZKV/v5PQ5DT90o3xTjYM8Do38NF/NVnYMkgFsbSYB8p/QMoedGB3qcouaZkbH
+	 ImqGbEvWJ4GhkQ6n4NPVuzhT3+rYmjDEvbJdfXf6xP1DH+dZdbKgNy23Xs04MoZW4n
+	 3zuCBPSA3R0+obhgCvKiDJvP03bfTnAw9pg6MLDM=
+Received: from rakuten.co.jp (matqor102zc.zd.rakuten.co.jp [172.18.92.3])
+	by mat104.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2TFkMMm003493
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 30 Mar 2015 00:46:22 +0900
+Date: Mon, 30 Mar 2015 00:46:22 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: bcceb7f970d7ff89db54b77451c5f589s1@pc.fw.rakuten.ne.jp,
+        on_line.shop12@sportshobby.co.jp
+To: bcceb7f970d7ff89db54b77451c5f589s1@pc.fw.rakuten.ne.jp
+Cc: on_line.shop12@sportshobby.co.jp
+Message-ID: <201503300046.t2TFkMMm003493@mat104.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbQ21KOEZiTUYkNBsoQg==?=
+ =?iso-2022-jp?B?GyRCM05HJyFKPCtGMEdbPy4lYSE8JWshSxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.18.92.3
+X-Rams-Id: A1F48F1472D3E97366B99E413C361BCD3BDC6579
+
+---------------------------------------------------------------------
+本メールはお客様のご注文情報が楽天市場のサーバに到達した時点で送信
+される、自動配信メールです。ショップからの確認の連絡、または商品の発送
+をもって売買契約成立となります。
+---------------------------------------------------------------------
+
+
+
+この度は楽天市場内のショップ「スポーツホビー」を
+ご利用いただきまして、誠にありがとうございます。
+
+■　購入履歴
+https://order.my.rakuten.co.jp/?page=myorder&act=detail_view&shop_id=243411&order_number=243411-20150330-0251881222&scid=me_ich_conf_07
+
+■　ご注文いただいた商品、決済・配送方法に関するお問い合わせはこちら…
+スポーツホビー　　hobby.division@sportshobby.co.jp
+
+■　その他、楽天市場の各サービスに関するお問い合わせは…
+楽天市場　　http://ichiba.faq.rakuten.co.jp/app/home/?scid=me_ich_conf_01
+
+【ご注意】
+お客様のお取引先は下記ショップとなりますので、ご不明な点、ご注文内容に誤り
+がある場合は、直接ショップ「スポーツホビー」まで
+お問い合わせください。
+
+以下の注文内容がご利用のショップに届いております。
+ご確認ください。
+=====================================================================
+■ ショップ名 ： スポーツホビー
+■ ショップURL： http://www.rakuten.co.jp/sportshobby/?scid=me_ich_conf_02
+■ 電話   ： 011-773-5090
+■ メールアドレス: hobby.division@sportshobby.co.jp
+=====================================================================
+
+---------------------------------------------------------------------
+[受注番号] 243411-20150330-0251881222
+[日時]     2015-03-30 00:46:19
+[注文者]   福西 大作 (フクニシ ダイサク) 様
+           〒619-1124 京都府木津川市加茂町勝風和所50
+           (TEL) 0774-76-3740
+
+[支払方法] クレジットカード決済 一括払い
+[ポイント利用方法] 全て
+[配送方法] 宅配便
+[配送日時指定]
+2015-04-04(土)
+午前中
+この度注文をさせていただきますので、宜しくお願いいたします。可能な限り早期に発送をいただけますと助かりますので併せてお願いいたしたく。
+[備考]
+[ショップ名]   スポーツホビー
+==========
+[送付先]   福西 大作 (フクニシ ダイサク) 様
+           〒619-1124 京都府木津川市加茂町勝風和所50
+           (TEL) 0774-76-3740
+[商品]
+オリジナル TRAXXAS ロッドエンド (ラージ) /ボール付き (8個)(spo01)
+価格  1,080(円) x 2(個) = 2,160(円)   (税込、送料別)
+獲得ポイント21
+*********************************************************************
+小計     2,160(円)
+送料     1,365(円)  離島・一部地域では別途料金が必要な場合があります
+ポイント利用 -465(円)
+---------------------------------------------------
+合計     3,060(円)
+---------------------------------------------------------------------
+今回のお買い物で獲得するポイント　21
+---------------------------------------------------------------------
+＊消費税について
+　消費税率　　　　　　8％
+　消費税計算順序　　　１商品毎に消費税計算
+　１円未満消費税端数　切り捨て
+---------------------------------------------------------------------
+＊送料等の諸費用は変わる場合があります。
+＊ポイント利用方法で「全て」を選択している場合は、購入後の金額変更や
+  利用可能ポイント数の変更により、利用ポイント数が増減する場合があり
+  ます。
+＊楽天会員を利用したご注文の場合、キャンペーン特典ポイントが本メール
+  記載の獲得ポイントとは別に計算、付与される場合があります。
+ご不明な点がありましたらショップ「スポーツホビー」まで
+お問い合わせください。
+---------------------------------------------------------------------
+★こちらの注文に覚えがない場合は？
+他の方が誤ってあなたのメールアドレスで注文した可能性があります。
+その場合は、たいへんお手数ですが、上記ショップならびに楽天市場まで
+お知らせください。
+---------------------------------------------------------------------
+
+★楽天市場は、取引の当事者とはならず、取引に関する責任は負いません。
+したがって、万一取引に関してトラブルが生じた際には、お客様とショップ
+との間で直接解決していただくことになります。
+⇒ http://www.rakuten.co.jp/doc/info/rule/service.html?scid=me_ich_conf_03
+
+─────────────問い合わせ─────────────────
+商品、決済・発送に関するお問い合わせ hobby.division@sportshobby.co.jp
+楽天市場に関するご質問　 http://ichiba.faq.rakuten.co.jp/app/home/?scid=me_ich_conf_04
+個人情報保護方針　http://privacy.rakuten.co.jp/?scid=me_ich_conf_05
+
+楽天市場（楽天株式会社） http://www.rakuten.co.jp/?scid=me_ich_conf_06
+───────────────────────────────────
+

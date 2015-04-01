@@ -1,0 +1,71 @@
+Return-Path: <support@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2S6FJ8f070666
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 28 Mar 2015 15:15:19 +0900 (JST)
+	(envelope-from support@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Sat, 28 Mar 2015 15:15:19 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from mx61-009.smtp.rakuten.co.jp (mx61-009.smtp.rakuten.co.jp [202.72.61.9])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2S6FJvd070663
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 28 Mar 2015 15:15:19 +0900 (JST)
+	(envelope-from support@rakuten.co.jp)
+Received: from absktapi102c.db.rakuten.co.jp (absktapi102c.db.rakuten.co.jp [172.30.123.5])
+	by mxtr603zc.rakuten.co.jp (Rakuten MGW 2.0.0) with ESMTP id 3lDVCW3VqYz2hfp
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 28 Mar 2015 15:15:19 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=rakuten0702014040; t=1427523319;
+	bh=mvgYVI9Qf2chazG5Tr2BC+ela7LFEMk4Dy1v/BqklPU=;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=pbCbWl2Lz7GFF0RygLFsM3YGISO+ct8N3zP3fqNl3jkAQEj7VyLp6zixyA6axuXyj
+	 fV4q6naNVHmV81vNJYO/ktmlb2bd3hw+H+76HfvycLVe3rVN7FozF5IW+Dvp6UDQk5
+	 qmVsdD1/XUly3EtCJ4qZL3pvBn3rUwMHprqUsVmI=
+Received: from absktapi102c.db.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by absktapi102c.db.rakuten.co.jp (8.13.8/8.13.8) with ESMTP id t2S6FJkR024710
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 28 Mar 2015 15:15:19 +0900
+Date: Sat, 28 Mar 2015 15:15:19 +0900 (JST)
+From: support@rakuten.co.jp
+To: on_line.shop12@sportshobby.co.jp
+Message-ID: <26270993.9982.1427523319470.JavaMail.order@rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbOl84SyU8JW0kTiQqQ04kaSQ7GyhC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+スポーツホビー ご担当者様
+
+楽天市場よりお知らせいたします。
+御社でお取り扱いの商品
+「ATLAS ロッククライマー　クローラーモーター 40T〜130T(AT7147)
+　ターン数:70T」
+に注文があり、
+今回の注文で商品の在庫数が０（ゼロ）になりました。
+最後の注文の受注番号は 243411-20150328-0239200302 です。
+
+在庫数が０（ゼロ）になりましたので
+
+   -商品の説明文を変更する（例：お蔭様で売り切れました…など）
+   -在庫数を増やす
+   -商品を削除する
+   -商品を倉庫に入れる
+
+などの処理を行うことをおすすめします。
+
+商品情報の変更についてはRMSコールセンターまでお願いいたします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+◆ページ編集等、RMSに関するご質問はRMSコールセンターまで 
+　　support-rms@rakuten.co.jp 
+───────────────────────────── 
+◆運営に関するご相談・ご質問は下記連絡先まで 
+　　support@rakuten.co.jp 
+───────────────────────────── 
+楽天市場  http://www.rakuten.co.jp/ 
+楽天株式会社 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

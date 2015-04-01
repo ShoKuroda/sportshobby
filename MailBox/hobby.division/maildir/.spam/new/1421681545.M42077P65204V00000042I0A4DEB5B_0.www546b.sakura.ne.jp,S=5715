@@ -1,0 +1,144 @@
+Return-Path: <mike-hobby.division=sportshobby.co.jp@gazovelot.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.6 required=7.0 tests=BAYES_80,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_ONLY_16,HTML_MESSAGE,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_RHS_DOB autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.5 URIBL_RHS_DOB Contains an URI of a new domain (Day Old Bread)
+	*      [URIs: gazovelot.com]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: gazovelot.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: gazovelot.com]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: gazovelot.com]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.9245]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.1 HTML_IMAGE_ONLY_16 BODY: HTML: images with 1200-1600 bytes of words
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0JFWM4p065201
+	for <hobby.division@sportshobby.co.jp>; Tue, 20 Jan 2015 00:32:22 +0900 (JST)
+	(envelope-from mike-hobby.division=sportshobby.co.jp@gazovelot.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Tue, 20 Jan 2015 00:32:22 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from mail.gazovelot.com (no-rdns-yet [89.46.100.116] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0JFWKrs065196
+	for <hobby.division@sportshobby.co.jp>; Tue, 20 Jan 2015 00:32:22 +0900 (JST)
+	(envelope-from mike-hobby.division=sportshobby.co.jp@gazovelot.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=gazovelot.com;
+ h=Mime-Version:Date:From:Subject:Message-ID:To:Content-Type; i=mike@gazovelot.com;
+ bh=tew+MuCio6yBpWtwCo/uygR9Dtw=;
+ b=XEeiSVSZxOi9hmHvH6OpINyBylu+sv7uaudcFMEzho2F+U6LZNednNSLCXkuud4N3FVIcPlz+sm+
+   3rtdtNyN0z8Fg+rkMM8aT7GwYP5F7KunFDoXK5VKEPmvH7TMnu5xzvFzRx/dS95AsNpVFdXn6zVN
+   gyp5lhc9FSnnFz/ksvI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=gazovelot.com;
+ b=TlTHvRArwayqQ3ejMk+tvno24tI6R5oC40ZPCB0vu+4rSjaXz45xbHzYYaQoefnXL8Dv/IU8C8EP
+   WaOSxMCLwVAEu+wJ/SCshA+/ZqdIFl51gPQI+3sPXAeS9J9KBsk9R7g4sfrciY/KdxK485DRT+YA
+   et2/16r9AeSx7fiKk3M=;
+Mime-Version: 1.0
+Date: Mon, 19 Jan 2015 16:27:48 +0100
+From: Mike <mike@gazovelot.com>
+Subject: =?UTF-8?B?RG9uJ3QgbG9vc2UgdGhpcyBHSVJMIGFnYWluISEhIA==?=
+Message-ID: <b4877fc84b639a5f78fe827f162e7122@gazovelot.com>
+To: <hobby.division@sportshobby.co.jp>
+Content-Type: multipart/alternative; boundary=b4877fc84b639a5f78fe827f162e7122
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/plain; charset=UTF-8
+
+Hey there,
+
+Sometimes in life you're faced with a rare
+chance ...
+
+Like seeing that incredibly hot red-dress chick
+standing all by herself in some Vegas Bar...
+
+You simply MUST go talk to her. Otherwise,
+the opportunity will just vanish never to
+return again...
+
+So here you are again , looking at a 
+once-in-a-lifetime opportunity to turn the tables
+on your regular boring life and make a real
+man's fortune...
+
+That "Girl" is right HERE:
+
+=> http://click.gazovelot.com/index.php?id=4584780&a=666610&b=3647&c=57
+
+Regards
+
+Mike
+
+
+
+
+
+
+
+Our address is Mahe, Providence, Secyhelles, Secyhelles
+If you do not wish to receive future email, click here.
+http://click.gazovelot.com/index.php?o=2&a=666610&b=3647&c=57
+(You can also send your request to Customer Care at the street address above.) 
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/html; charset=UTF-8
+
+<html>
+<head>
+</head>
+Hey there,<br>
+<br>
+Sometimes in life you're faced with a rare<br>
+chance ...<br>
+<br>
+Like seeing that incredibly hot red-dress chick<br>
+standing all by herself in some Vegas Bar...<br>
+<br>
+You simply MUST go talk to her. Otherwise,<br>
+the opportunity will just vanish never to<br>
+return again...<br>
+<br>
+So here you are again , looking at a <br>
+<a href="http://click.gazovelot.com/index.php?id=4584780&a=666610&b=3647&c=57"><b>once-in-a-lifetime</b></a> opportunity to turn the tables<br>
+on your regular boring life and make a real<br>
+man's fortune...<br>
+<br>
+<a href="http://click.gazovelot.com/index.php?id=4584780&a=666610&b=3647&c=57"><b>That "Girl" is right HERE</b></a><br>
+<br>
+Regards<br>
+<br>
+Mike<br>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Our address is Mahe, Providence, Secyhelles, Secyhelles<br>
+If you do not wish to receive future email, <a href="http://click.gazovelot.com/index.php?o=2&a=666610&b=3647&c=57" target="_blank">click here</a>.<br>
+(You can also send your request to Customer Care at the street address above.) </p>
+<img src="http://click.gazovelot.com/index.php?o=1&a=666610&b=3647&c=57" width="1" height="1" border="0" /><br>
+</body>
+</html>
+
+--b4877fc84b639a5f78fe827f162e7122--

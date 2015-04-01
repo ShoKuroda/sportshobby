@@ -1,0 +1,48 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.7 required=7.0 tests=BAYES_95,BODY_URI_ONLY,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: vinmajor.com.tw]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: vinmajor.com.tw]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: vinmajor.com.tw]
+	*  1.3 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: vinmajor.com.tw]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: vinmajor.com.tw]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9787]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.4 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.2 BODY_URI_ONLY Message body is only one line containing a URI
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9FGuv95018563
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 16 Oct 2013 01:56:57 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:63904 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1381856217.23732
+Received: from 91.201.246.14 ([91.201.246.14])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9FGutsF018558
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 16 Oct 2013 01:56:56 +0900 (JST)
+Message-Id: <201310151656.r9FGutsF018558@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (surbhibhargava@aastocks.com@209.160.210.42)
+	by 91.201.246.14 with ESMTPA; Tue, 15 Oct 2013 19:59:13 +0200
+From: surbhibhargava@aastocks.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Incredible solution for long nights
+Date: Tue, 15 Oct 2013 19:50:57 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 15102013 #11255371, status: clean
+
+http://www.vinmajor.com.tw/fold.html Keep your girlfriend contented every 
+night
+

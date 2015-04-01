@@ -1,0 +1,94 @@
+Return-Path: <mike.sfsd4f564s6df45dswrms@gmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.9 required=7.0 tests=BAYES_99,BAYES_999,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+	MIME_HTML_ONLY,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: advertise-bz.cn]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (mike.sfsd4f564s6df45dswrms[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+Received: from fsav301.sakura.ne.jp (fsav301.sakura.ne.jp [153.120.85.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0HIhf4a051258
+	for <hobby.division@sportshobby.co.jp>; Sun, 18 Jan 2015 03:43:41 +0900 (JST)
+	(envelope-from mike.sfsd4f564s6df45dswrms@gmail.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav301.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp);
+ Sun, 18 Jan 2015 03:43:41 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp)
+Received: from gmail.com ([121.166.215.70])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t0HIhdM6051254
+	for <hobby.division@sportshobby.co.jp>; Sun, 18 Jan 2015 03:43:40 +0900 (JST)
+	(envelope-from mike.sfsd4f564s6df45dswrms@gmail.com)
+Message-ID: <912B176B.8A383D83@gmail.com>
+Date: Sat, 17 Jan 2015 22:33:44 +0400
+Reply-To: "SEO MAX PACK" <mike.sfsd4f564s6df45dswrms@gmail.com>
+From: "SEO MAX PACK" <mike.sfsd4f564s6df45dswrms@gmail.com>
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.17) Gecko/20080914 Thunderbird/2.0.0.17
+MIME-Version: 1.0
+To: <hobby.division@sportshobby.co.jp>
+Subject: Get Found Online, Get More Customers
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+<p><font face="Tahoma" size="2">All SEO efforts are more successful when
+they&nbsp;<br>
+are a part of the powerful SEO campaign.<br>
+<br>
+With this max package you can rest&nbsp;<br>
+assured that your positions will start getting higher.<br>
+<br>
+If you take your business seriously this is an ideal solution for you.<br>
+<br>
+<a href="http://www.advertise-bz.cn/maxpack/">Click here</a> to visit our
+website:<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Unsubscrbie option available in the footer of our website</font></p>
+
+

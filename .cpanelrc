@@ -1,0 +1,5 @@
+Mail	1
+MailQuota	200
+VirusScan	0
+SpamFilter	0
+SpamAction	1

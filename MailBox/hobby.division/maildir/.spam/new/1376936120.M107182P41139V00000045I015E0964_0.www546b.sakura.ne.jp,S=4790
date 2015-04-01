@@ -1,0 +1,82 @@
+Return-Path: <quickupdate@uva.nl>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************************
+X-Spam-Status: Yes, score=28.2 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_50,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+	FROM_MISSPACED,FROM_MISSP_EH_MATCH,FROM_MISSP_MSFT,FROM_MISSP_TO_UNDISC,
+	FROM_MISSP_USER,FSL_CTYPE_WIN1251,HTML_MESSAGE,MIME_HTML_ONLY,
+	MSOE_MID_WRONG_CASE,NSL_RCVD_FROM_USER,SUBJ_ALL_CAPS,T_FROM_MISSP_DKIM,
+	URIBL_BLOCKED autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: mytinyurl.com]
+	*  3.9 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  2.7 NSL_RCVD_FROM_USER Received from User
+	*  1.5 SUBJ_ALL_CAPS Subject is all capitals
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5516]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  1.9 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  2.4 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  3.5 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  2.4 FROM_MISSP_USER From misspaced, from "User"
+	*  2.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.7 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from www546b.sakura.ne.jp (ksav53.sakura.ne.jp [219.94.192.133])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r7JIFFVT041134
+	for <hobby.division@sportshobby.co.jp>; Tue, 20 Aug 2013 03:15:16 +0900 (JST)
+	(envelope-from quickupdate@uva.nl)
+X-Nat-Received: from [112.78.125.46]:50149 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1376936115.9718
+Received: from fep13.mx.upcmail.net (fep13.mx.upcmail.net [62.179.121.33])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r7JIFEIp041130
+	for <hobby.division@sportshobby.co.jp>; Tue, 20 Aug 2013 03:15:15 +0900 (JST)
+	(envelope-from quickupdate@uva.nl)
+Received: from edge01.upcmail.net ([192.168.13.236])
+          by viefep13-int.chello.at
+          (InterMail vM.8.01.05.05 201-2260-151-110-20120111) with ESMTP
+          id <20130819180448.OQFG1939.viefep13-int.chello.at@edge01.upcmail.net>;
+          Mon, 19 Aug 2013 20:04:48 +0200
+Received: from User ([89.231.96.118])
+	by edge01.upcmail.net with edge
+	id Ei3u1m00L2ZEjw901i3v4e; Mon, 19 Aug 2013 20:04:45 +0200
+X-SourceIP: 89.231.96.118
+X-Authenticated-Sender: 481772.905691@kabelbw.de
+From: "UPCwebmail UPDATE"<quickupdate@uva.nl>
+Subject: VERMIJDEN SLUITING VAN DEZE ACCOUNT
+Date: Mon, 19 Aug 2013 20:04:42 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20130819180448.OQFG1939.viefep13-int.chello.at@edge01.upcmail.net>
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 19082013 #11025863, status: clean
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+<FONT size=2 color=#000080 face="Times New Roman"><B><I>Geachte klant</B></I></FONT><BR>
+<FONT size=2 color=#000080 face="Times New Roman"><B><I>We merken dat uw account wordt gebruikt in een niet-geautoriseerde locatie ip om spam te verzenden</B></I></FONT><BR>
+<FONT size=2 color=#000080 face="Times New Roman"><B><I>Gelieve bescherm je account nu om schorsing van deze rekening te vermijden</B></I></FONT><BR>
+<FONT size=2 color=#000080 face="Times New Roman"><B><I>Voor meer veiligheid op uw rekening. </B></I></FONT><A href="http://mytinyurl.com/fw9wgmygzn"><FONT size=2 color=#0000FF face="Times New Roman"><B><I><U>VEILIGMIJNACCOUNT</B></I></U></FONT></A><FONT size=2 color=#000080 face="Times New Roman"><B><I> om uw account te upgraden met ons</B></I></FONT><BR>
+<FONT size=2 color=#000080 face="Times New Roman"><B><I>dank</B></I></FONT><BR>
+<FONT size=2 color=#000080 face="Times New Roman"><B><I>UPC Team</B></I></FONT><BR>
+<FONT size=2 color=#000080 face="Times New Roman"><B><I>© 2013 UPC Admin Update. Alle rechten voorbehouden.</B></I></FONT></DIV>
+</FONT>
+</BODY></HTML>

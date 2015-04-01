@@ -1,0 +1,57 @@
+Return-Path: <thwqwzps@evt.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.9 required=7.0 tests=BAYES_50,DATE_IN_FUTURE_24_48,
+	FORGED_OUTLOOK_HTML,HK_RANDOM_ENVFROM,HK_RANDOM_FROM,HTML_MESSAGE,
+	MIME_BASE64_BLANKS,MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.0 HK_RANDOM_FROM From username looks random
+	*  0.0 HK_RANDOM_ENVFROM Envelope sender username looks random
+	*  2.0 DATE_IN_FUTURE_24_48 Date: is 24 to 48 hours after Received: date
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4988]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.0 MIME_BASE64_BLANKS RAW: Extra blank lines in base64 encoding
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+Received: from www546b.sakura.ne.jp (ksav208.sakura.ne.jp [210.224.168.170])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5CJAGEe045736
+	for <hobby.division@sportshobby.co.jp>; Fri, 13 Jun 2014 04:10:16 +0900 (JST)
+	(envelope-from thwqwzps@evt.net)
+X-Nat-Received: from [112.78.125.46]:56423 [ident-empty]
+	by ksav208.sakura.ne.jp with TPROXY id 1402600216.5036
+Received: from evt.net ([117.151.138.157])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5CJAFkr045724
+	for <hobby.division@sportshobby.co.jp>; Fri, 13 Jun 2014 04:10:15 +0900 (JST)
+	(envelope-from thwqwzps@evt.net)
+Message-ID: <621C901CBEEF2E6453B84E3CEF939FC6@evt.net>
+From: =?utf-8?B?54Sm5ryU?= <thwqwzps@evt.net>
+To: <hobby.division@sportshobby.co.jp>
+Subject: =?utf-8?B?5Lqy77yM5aSa5LmF5rKh5YGa5LqG77yf?=
+Date: Sat, 14 Jun 2014 03:22:53 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0
+Zi04IiBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZT4NCjxNRVRBIG5hbWU9R0VORVJBVE9SIGNvbnRl
+bnQ9Ik1TSFRNTCA4LjAwLjYwMDEuMTg5OTkiPjwvSEVBRD4NCjxCT0RZPjxJTlBVVCBpZD1sYmF2
+YyBib3JkZXI9MCBzcmM9Imh0dHA6Ly9kd3ouY24va05HNEUiIHR5cGU9aW1hZ2U+IA0KPC9CT0RZ
+PjwvSFRNTD4NCg==
+
+

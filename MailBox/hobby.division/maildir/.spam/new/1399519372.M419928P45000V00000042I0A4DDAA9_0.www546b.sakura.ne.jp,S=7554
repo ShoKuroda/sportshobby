@@ -1,0 +1,75 @@
+Return-Path: <gwendla-iheimsua@oralabs.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.4 required=7.0 tests=BAYES_50,DATE_IN_FUTURE_06_12,
+	HTML_MESSAGE,IP_LINK_PLUS,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_PH_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.9 DATE_IN_FUTURE_06_12 Date: is 6 to 12 hours after Received: date
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: 116.127.121.26]
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  0.0 IP_LINK_PLUS URI: Dotted-decimal IP address followed by CGI
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4926]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s483Mmpq044996
+	for <hobby.division@sportshobby.co.jp>; Thu, 8 May 2014 12:22:48 +0900 (JST)
+	(envelope-from gwendla-iheimsua@oralabs.com)
+X-Nat-Received: from [112.78.125.46]:18999 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1399519368.23837
+Received: from localhost ([182.79.252.246])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s483MkHM044972
+	for <hobby.division@sportshobby.co.jp>; Thu, 8 May 2014 12:22:47 +0900 (JST)
+	(envelope-from gwendla-iheimsua@oralabs.com)
+Date: Thu, 8 May 2014 09:15:34 -0500
+To: "Hobby Division" <hobby.division@sportshobby.co.jp>
+From: FacebookReminder <gwendla-iheimsua@oralabs.com>
+Subject: Hobby Division Technical Support just sent you a message friedman
+Message-ID: <fbb1c_e2f544_c2612b9@localhost>
+Errors-To: gwendla-iheimsua@oralabs.com
+X-Priority: 1
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 08052014 #7865486, status: clean
+
+<html>
+<head></head>
+<body style="margin: 0; padding: 0;" dir="ltr">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:98%;" border="0"><tr><td style="font-size:12px;font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-serif;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:620px;"><tr><td style="font-size:16px;font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vertical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:10px 38px 4px;"><span style="background:#3b5998;color:#FFFFFF;font-weight:bold;font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-serif;vertical-align:middle; font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:baseline;">facebook</span></td></tr></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:620px;"><tr><td style="padding:10px 20px;background-color:#fff;border-left:1px solid #ccc;border-right:1px solid #ccc;border-top:1px solid #ccc;border-bottom:1px solid #ccc;line-height:16px;">
+<table cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;padding:10px 20px;line-height:16px;width:620px;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:13px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;padding:10px 0 15px 0;">Hobby Division,<br/><br/>You have a new message.</td></tr><tr><td height="1" style="font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;background-color:#ccc;"></td></tr><tr><td style="font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;padding:15px 20px 15px 0;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td valign="top"><a href="http://116.127.121.26/~up1adstop/dative.php?profile=hobby.division" style="color:#3b5998;text-decoration:none;font-size:13px;">
+Your
+Profile has been updated.</a></td></tr>
+</table>
+</td></tr></table>
+</td></tr><tr><td style="font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;padding:10px 0 15px 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;width:100%;"><tr><td style="padding:10px;background-color:#f2f2f2;border-left:none;border-right:none;border-top:1px solid #ccc;border-bottom:1px solid #ccc;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;padding-right:10px;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="border-width: 1px; border-style: solid; border-color: #29447E #29447E #1a356e; background-color: #5b74a8;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;padding:2px 6px 4px;border-top:1px solid #8a9cc2;"><a href="http://116.127.121.26/~up1adstop/dative.php?profile=hobby.division" style="font-weight: bold; color: #fff; font-size: 13px; text-decoration:none;">View Messages</a></td></tr></table>
+</td></tr></table>
+</td><td style="font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="border-width: 1px; border-style: solid; border-color: #999 #999 #888; background-color: #eee;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;padding:2px 6px 4px;border-top:1px solid #fff;"><a href="http://116.127.121.26/~up1adstop/dative.php?profile=hobby.division" style="font-weight: bold; color: #333; font-size: 13px; text-decoration:none;">Find More Friends</a></td></tr></table>
+</td></tr></table></td></tr></table></td></tr></table>
+</td></tr></table></td></tr></table></td></tr></table>
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;width:620px;"><tr><td style="padding:10px;background-color:#fff;border-left:none;border-right:none;border-top:none;border-bottom:none;font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, verdana, arial, sans-serif;color:#999999;border:none;">This message was sent to hobby.division&#064;sportshobby.co.jp. If you don't want to receive these emails from Facebook in the future, please click: <a href="http://116.127.121.26/~up1adstop/dative.php?profile=hobby.division" style="color:#3b5998;text-decoration:none;">unsubscribe</a>.<br /> Facebook, Inc. Attention: Department 415 P.O Box 10005 Palo Alto CA 94303 </td></tr></table></td></tr></table>
+</body></html>
+

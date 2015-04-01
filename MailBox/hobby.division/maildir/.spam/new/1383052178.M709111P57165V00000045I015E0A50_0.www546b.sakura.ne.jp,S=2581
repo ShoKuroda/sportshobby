@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.4 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,URIBL_BLOCKED
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4998]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: we.ve]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9TD9atc057162
+	for <hobby.division@sportshobby.co.jp>; Tue, 29 Oct 2013 22:09:36 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:63955 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383052176.14414
+Received: from 213.138.81.44 ([213.138.81.44])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9TD9Xgb057157
+	for <hobby.division@sportshobby.co.jp>; Tue, 29 Oct 2013 22:09:35 +0900 (JST)
+Date: Tue, 29 Oct 2013 22:09:33 +0900 (JST)
+Message-Id: <201310291309.r9TD9Xgb057157@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (s_hirai@kaisin.co.jp@233.53.212.111)
+	by 213.138.81.44 with ESMTPA; Tue, 29 Oct 2013 17:10:38 +0400
+X-Originating-IP: 233.53.212.111
+From: s_hirai@kaisin.co.jp
+To: hobby.division@sportshobby.co.jp
+Subject: This Company is Creating a BUZZ, so BUY NOW!
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 29102013 #10561896, status: clean
+
+Good afternoon, we.ve received your mail address from a recruitment agency. 
+You were recommended as a responsible and smart person.
+
+I am an HR Manager in a a well-known organization. We are hiring employees 
+in Japan to represent our firm in their home town. We have several vacancies 
+available. But the Company Representative. vacancy is the most interesting 
+and well paid.
+
+The salary is from 3,000,000 YEN per month plus premiums. It will be easy to 
+begin. We provide a trial period. We need decent partners that can be 
+entrusted with large amounts of money. If you are interested, please, 
+respond to my letter as soon as possible: brucepaynne@yahoo.co.jp
+

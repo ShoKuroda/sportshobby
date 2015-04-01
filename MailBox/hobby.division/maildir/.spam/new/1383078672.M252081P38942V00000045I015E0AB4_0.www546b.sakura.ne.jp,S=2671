@@ -1,0 +1,51 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.4 required=7.0 tests=BAYES_95,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9590]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: walgreenwelness.nl]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9TKV8Vu038938
+	for <hobby.division@sportshobby.co.jp>; Wed, 30 Oct 2013 05:31:08 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:49166 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383078668.20700
+Received: from 92.84.22.85 ([92.84.22.85])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9TKV4wj038931
+	for <hobby.division@sportshobby.co.jp>; Wed, 30 Oct 2013 05:31:06 +0900 (JST)
+Message-Id: <201310292031.r9TKV4wj038931@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (pochidoudeshow@nk-create.co.jp@206.124.118.216)
+	by 92.84.22.85 with ESMTPA; Thu, 28 Oct 2004 06:43:20 +0200
+X-Originating-IP: 206.124.118.216
+From: pochidoudeshow@nk-create.co.jp
+To: hobby.division@sportshobby.co.jp
+Subject: Are you ready to see her happy this night?
+Date: Thu, 28 Oct 2004 06:34:47 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 29102013 #10512848, status: clean
+
+Now you can forget about marriage problems 
+http://paraffin.walgreenwelness.nl/
+

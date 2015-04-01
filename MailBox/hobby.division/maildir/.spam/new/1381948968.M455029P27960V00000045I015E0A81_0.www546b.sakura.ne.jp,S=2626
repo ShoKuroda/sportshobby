@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.2 required=7.0 tests=BAYES_80,BODY_URI_ONLY,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: actes-lyon.org]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.3 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.9422]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.4 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.2 BODY_URI_ONLY Message body is only one line containing a URI
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9GIgjQR027956
+	for <hobby.division@sportshobby.co.jp>; Thu, 17 Oct 2013 03:42:45 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:59196 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1381948965.26457
+Received: from 159.255.164.7 ([159.255.164.7])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9GIghS4027953
+	for <hobby.division@sportshobby.co.jp>; Thu, 17 Oct 2013 03:42:44 +0900 (JST)
+Date: Thu, 17 Oct 2013 03:42:43 +0900 (JST)
+Message-Id: <201310161842.r9GIghS4027953@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (jamproject.1011.trombe@nelson-securities.com@162.72.46.190)
+	by 159.255.164.7 with ESMTPA; Wed, 16 Oct 2013 21:43:05 +0300
+From: jamproject.1011.trombe@nelson-securities.com
+To: hobby.division@sportshobby.co.jp
+Subject: She will stay amazed by your stamina
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 16102013 #11266284, status: clean
+
+http://ACTES-LYON.ORG/your.html Great solution to your marriage probs
+

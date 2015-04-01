@@ -1,0 +1,86 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.5 required=7.0 tests=BAYES_40,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,
+	TO_NO_BRKTS_PCNT,T_FILL_THIS_FORM_SHORT,URIBL_BLOCKED autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: gmx.com]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	* -0.0 BAYES_40 BODY: Bayes spam probability is 20 to 40%
+	*      [score: 0.3399]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.6 TO_NO_BRKTS_PCNT To: misformatted + percentage
+	*  0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal
+	*      information
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBU2b8Pd021429
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Dec 2013 11:37:08 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:58047 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1388371028.5058
+Received: from 84.46.62.193 (port-53414.pppoe.wtnet.de [46.59.209.80])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rBU2b6tF021422
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Dec 2013 11:37:07 +0900 (JST)
+Message-Id: <201312300237.rBU2b6tF021422@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (arturas.dubickas@psd.nara.sharp.co.jp@236.142.90.152)
+	by port-16003.pppoe.wtnet.de with ESMTPA; Mon, 30 Dec 2013 03:42:00 +0100
+From: arturas.dubickas@psd.nara.sharp.co.jp
+To: hobby.division@sportshobby.co.jp
+Subject: Manage your career.
+Date: Mon, 30 Dec 2013 03:32:45 +0100
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 29122013 #7197019, status: clean
+
+Greetings,
+
+Wiver Group is a distinguished multinational consulting company. We have been 
+working on the market for more than ten years. As a result of our long 
+practice, we have got a large customer base. The style of our work helps us 
+to increase this base and gather more business experience.
+
+Now we declare a vacant position.
+
+Position: Operations Assistant
+Hours: 15/week flextime
+Salary: 2000 USD/month + 5% of every completed order
+
+This position is a home-office position. All applicants will be considered, 
+regardless of nationality.
+
+General purpose.
+Accomplish clerical tasks related to the effective sustenance and handling 
+agreements with customers. To get to be Operations Assistant you must be a 
+good organizer and manage with working under deadline a stress.
+
+Work activities.
+1. Take payments from customers;
+2. Process requests;
+3. Forwarding the transfers through Western Union or Money Gram systems;
+4. Make up monthly reports;
+5. Maintain all necessary records;
+6. Keeping error-free records of operations.
+
+Required skills.
+1. Possibility to work from home;
+2. Constantly living in Japan;
+3. Resistance to stress;
+4. Japanese language: Conversational level;
+5. English language: Intermediate level;
+6. Experienced PC user.
+7. Previous experience as operations assistant is a plus.
+
+If the position suits you and you have an interest, please, reply this e-mail 
+wivergroup.uk@gmx.com and attach your resume.
+
+With respect,
+Hiring manager
+Wiver Group, LLC
+wivergroup.uk@gmx.com
+

@@ -1,0 +1,48 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.2 required=7.0 tests=BAYES_60,FROM_12LTRDOM,
+	MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO,
+	T_FSL_HELO_BARE_IP_2,URIBL_AB_SURBL,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,
+	URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.7909]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+	*  0.1 FROM_12LTRDOM From a 12-letter domain
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s28BsvAY081861
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 8 Mar 2014 20:54:57 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:56060 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1394279697.6165
+Received: from 82.199.127.130 ([84.51.93.41])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s28BsqkS081854
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 8 Mar 2014 20:54:55 +0900 (JST)
+Message-Id: <201403081154.s28BsqkS081854@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (koczera@lawexaminers.state.co.us@177.126.103.87)
+	by 84.51.93.41 with ESMTPA; Sat, 8 Mar 2014 14:56:30 +0300
+X-Originating-IP: 177.126.103.87
+From: koczera@lawexaminers.state.co.us
+To: on_line.shop12@sportshobby.co.jp
+Subject: Excellent growth effect
+Date: Sat, 8 Mar 2014 14:50:08 +0300
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 08032014 #7444467, status: clean
+
+Make her come in pleasance http://oceanography.zmmlwzae.eu/
+

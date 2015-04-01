@@ -1,0 +1,43 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.5 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: wjdyozsx.at]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: wjdyozsx.at]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: wjdyozsx.at]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: wjdyozsx.at]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9VJhMhq032226
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 1 Nov 2013 04:43:22 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:53443 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383248602.15714
+Received: from 178.121.86.11 (mm-11-86-121-178.dynamic.pppoe.mgts.by [178.121.86.11] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9VJhIxb032205
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 1 Nov 2013 04:43:20 +0900 (JST)
+Message-Id: <201310311943.r9VJhIxb032205@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (cleon@squirtit.com@133.56.229.88)
+	by 178.121.86.11 with ESMTPA; Thu, 31 Oct 2013 21:41:56 +0300
+X-Originating-IP: 133.56.229.88
+From: cleon@squirtit.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: The only way to unleash your intimate life
+Date: Thu, 31 Oct 2013 21:30:06 +0300
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 31102013 #10207023, status: clean
+
+Right ways to please your women http://delicatessen.wjdyozsx.at/
+

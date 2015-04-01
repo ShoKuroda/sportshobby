@@ -1,0 +1,45 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.3 required=7.0 tests=BAYES_99,
+	MSGID_FROM_MTA_HEADER,URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: actes-lyon.org]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.7 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav55.sakura.ne.jp [219.94.192.135])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9JINWc4056883
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 20 Oct 2013 03:23:32 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:63997 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1382207012.16905
+Received: from host-178-159-125-126.mirgiga.net (host-178-159-125-126.mirgiga.net [178.159.125.126] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9JINTBD056880
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 20 Oct 2013 03:23:31 +0900 (JST)
+Date: Sun, 20 Oct 2013 03:23:29 +0900 (JST)
+Message-Id: <201310191823.r9JINTBD056880@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (sony@wwf.org.au@35.47.225.200)
+	by host-178-159-125-126.mirgiga.net with ESMTPA; Sat, 19 Oct 2013 21:25:44 +0200
+From: sony@wwf.org.au
+To: on_line.shop12@sportshobby.co.jp
+Subject: Get encouraging changes in your life
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 19102013 #11159456, status: clean
+
+Make your girlfriend satisfied http://ACTES-LYON.ORG/twice.html
+

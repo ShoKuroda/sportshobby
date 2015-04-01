@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.8 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,HTTP_EXCESSIVE_ESCAPES,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,
+	T_FSL_HELO_BARE_IP_2,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: curf.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 HTTP_EXCESSIVE_ESCAPES URI: Completely unnecessary %-escapes inside
+	*      a URL
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: curf.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: curf.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: curf.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav303.sakura.ne.jp (fsav303.sakura.ne.jp [153.120.85.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sAAI2bTI047636
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 11 Nov 2014 03:02:37 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav303.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp);
+ Tue, 11 Nov 2014 03:02:37 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp)
+Received: from 50.204.161.246 (50-204-161-246-static.hfc.comcastbusiness.net [50.204.161.246])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id sAAI2YF0047630
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 11 Nov 2014 03:02:36 +0900 (JST)
+Message-Id: <201411101802.sAAI2YF0047630@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (tmmilews@syntegra.com@25.126.81.57)
+	by 50.204.161.246 with ESMTPA; Mon, 10 Nov 2014 13:07:45 -0500
+From: tmmilews@syntegra.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Become the greatest man for her
+Date: Mon, 10 Nov 2014 12:55:25 -0500
+
+Dream of being in good health? http://www.google.com/url?q=http%3A%2F%2Fwa%72%72%61%6E%74%79.%63u%72f%2E%72%75%2F&sa=D&usg=AFQjCNHck5XD0ot5NVK_CbAG97phnPY_9w
+

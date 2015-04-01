@@ -1,0 +1,101 @@
+Return-Path: <service31@hxtradehx.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.3 required=7.0 tests=BAYES_50,DEAR_FRIEND,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,FAKE_REPLY_C,HTML_MESSAGE,URIBL_DBL_SPAM
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.6 DEAR_FRIEND BODY: Dear Friend? That's not very dear!
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4977]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: hxtradehx.com]
+	*  1.5 FAKE_REPLY_C FAKE_REPLY_C
+Received: from www546b.sakura.ne.jp (ksav404.sakura.ne.jp [153.120.85.39])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5KCe7Rx084408
+	for <hobby.division@sportshobby.co.jp>; Fri, 20 Jun 2014 21:40:08 +0900 (JST)
+	(envelope-from service31@hxtradehx.com)
+X-Nat-Received: from [112.78.125.46]:37892 [ident-empty]
+	by ksav404.sakura.ne.jp with TPROXY id 1403268007.23007
+Received: from mail.hxtradehx.com (hxtradehx.com [192.157.208.145])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5KCe5Pk084391
+	for <hobby.division@sportshobby.co.jp>; Fri, 20 Jun 2014 21:40:07 +0900 (JST)
+	(envelope-from service31@hxtradehx.com)
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.hxtradehx.com 1C66870A96FA
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=hxtradehx.com;
+	s=hxtradehx; t=1403267385;
+	bh=62gzAkh60JKNinLq/EWLaonPSlUi4YezOyuqXXwK6eA=;
+	h=Reply-To:Message-ID:From:To:Subject:Date:MIME-Version:
+	 Content-Type;
+	b=f02vNLb4lgtcGbYKohM+cTlaB0hDWZK8AKuDXZywlJJwhM7zLNq+nSRFfcwL3i2LG
+	 cG71nrHgHmBQ4SHGJY/dx82kq16EpCaK2Yh/Ni5F0M+KCq6rdzPU8TUuct9O/Ie1Z+
+	 6euzp2CAjjWhZBf97s1eN5x5ihMrIfF8TZoXx+Rk=
+Reply-To: <huixinsoft47@foxmail.com>
+Message-ID: <89D0FBE11E5F73F73E490E5D341F14C8@fqnvnrxua>
+From: "Titanium" <service31@hxtradehx.com>
+To: <hobby.division@sportshobby.co.jp>
+Subject: Re: Quoted the MOQ price please
+Date: Fri, 20 Jun 2014 20:29:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_025E_01AE6EA7.19EAFBB0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_025E_01AE6EA7.19EAFBB0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+RGVhciBmcmllbmQsDQpOaWNlIGRheSB0byB5b3UhDQpJZiB5b3UgYXJlIGxvb2tpbmcgZm9yIHRp
+dGFuaXVtIHByb2R1Y3RzLCB3ZWxjb21lIHRvIGNvbnRhY3QgbWUuDQpXZSBhcmUgZW5nYWdlZCBp
+biBub24tZmVycm91cyBtZXRhbCBtYXRlcmlhbHMgd2l0aCB0aXRhbml1bSBhcyB0aGUgY29yZSBy
+ZXNlYXJjaCBhbmQgZGV2ZWxvcG1lbnQsIHByb2R1Y3Rpb24gYW5kIHByb2Nlc3NpbmcgYW5kIHNh
+bGVzIG9mIGhpZ2gtdGVjaCBlbnRlcnByaXNlcy4NCk91ciBwcm9kdWN0IHJhbmdlczoNCnRpdGFu
+aXVtIGJhcix0aXRhbml1bSBwbGF0ZS9zaGVldCx0aXRhbml1bSBwaXBlL3R1YmUsdGl0YW5pdW0g
+d2lyZSAsdGl0YW5pdW0gc2NyZXdzL2JvbHQvZmFzdGVuZXIsdGl0YW5pdW0gZmlsdGVyLHRpdGFu
+aXVtIHJpbmcsdGl0YW5pdW0gcGFydCBldGMuDQpNb3JlIGRldGFpbHMgcGxzIHRvIGNoZWNrIHRo
+ZSBhdHRlY2htZW50Lg0KQmVzdCAmIFJnZHMNCg0KVGVsOiAwMjktODYxMzAwODggDQpFLW1haWzv
+vJp4YXN0bHdqMzY5QDE2My5jb20NClhpJ2FuIFNJVEEgaW5kdXN0cmlhbCBDby4sIEx0ZA==
+
+------=_NextPart_000_025E_01AE6EA7.19EAFBB0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MIHhtbG5zOm8geG1sbnM6byA9ICJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29t
+Om9mZmljZTpvZmZpY2UiIHhtbG5zOnYgPSANCiJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOnZt
+bCI+PEhFQUQ+DQo8TUVUQSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIGh0dHAt
+ZXF1aXY9Q29udGVudC1UeXBlPg0KPE1FVEEgbmFtZT1HRU5FUkFUT1IgY29udGVudD0iTVNIVE1M
+IDguMDAuNjAwMS4yMzUzNiI+PC9IRUFEPg0KPEJPRFk+DQo8UD48Rk9OVCBjb2xvcj1ibHVlPkRl
+YXIgZnJpZW5kLDwvRk9OVD48L1A+DQo8UD48Rk9OVCBjb2xvcj1ibHVlPk5pY2UgZGF5IHRvIHlv
+dSE8QlI+SWYgeW91IGFyZSBsb29raW5nIGZvciB0aXRhbml1bSANCnByb2R1Y3RzLCB3ZWxjb21l
+IHRvIGNvbnRhY3QgbWUuPC9GT05UPjwvUD4NCjxQPjxGT05UIGNvbG9yPWJsdWU+V2UgYXJlIGVu
+Z2FnZWQgaW4gbm9uLWZlcnJvdXMgbWV0YWwgbWF0ZXJpYWxzIHdpdGggdGl0YW5pdW0gDQphcyB0
+aGUgY29yZSByZXNlYXJjaCBhbmQgZGV2ZWxvcG1lbnQsIHByb2R1Y3Rpb24gYW5kIHByb2Nlc3Np
+bmcgYW5kIHNhbGVzIG9mIA0KaGlnaC10ZWNoIGVudGVycHJpc2VzLjwvRk9OVD48L1A+DQo8UD48
+Rk9OVCBjb2xvcj1ibHVlPk91ciBwcm9kdWN0IHJhbmdlczo8QlI+dGl0YW5pdW0gYmFyLHRpdGFu
+aXVtIA0KcGxhdGUvc2hlZXQsdGl0YW5pdW0gcGlwZS90dWJlLHRpdGFuaXVtIHdpcmUgLHRpdGFu
+aXVtIA0Kc2NyZXdzL2JvbHQvZmFzdGVuZXIsdGl0YW5pdW0gZmlsdGVyLHRpdGFuaXVtIHJpbmcs
+dGl0YW5pdW0gcGFydCBldGMuPC9GT05UPjwvUD4NCjxQPjxGT05UIGNvbG9yPWJsdWU+TW9yZSBk
+ZXRhaWxzIHBscyB0byBjaGVjayB0aGUgYXR0ZWNobWVudC48L0ZPTlQ+PC9QPg0KPFA+PEZPTlQg
+Y29sb3I9Ymx1ZT5CZXN0ICZhbXA7IFJnZHM8L0ZPTlQ+PC9QPg0KPFA+PEZPTlQgY29sb3I9Ymx1
+ZT48L0ZPTlQ+Jm5ic3A7PC9QPg0KPFA+PEZPTlQgY29sb3I9Ymx1ZT5UZWw6IDAyOS04NjEzMDA4
+OCA8QlI+RS1tYWls77yaeGFzdGx3ajM2OUAxNjMuY29tPEJSPlhpJ2FuIA0KU0lUQSBpbmR1c3Ry
+aWFsIENvLiwgTHRkPC9GT05UPjwvUD48L0JPRFk+PC9IVE1MPg0K
+
+------=_NextPart_000_025E_01AE6EA7.19EAFBB0--
+

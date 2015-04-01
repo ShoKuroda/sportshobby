@@ -1,0 +1,87 @@
+Return-Path: <Jessica-hobby.division=sportshobby.co.jp@shutteremail.info>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.4 required=7.0 tests=BAYES_20,DKIM_SIGNED,
+	HTML_IMAGE_ONLY_04,HTML_MESSAGE,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,T_DKIM_INVALID,T_FROM_12LTRDOM,
+	T_REMOTE_IMAGE,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URI_NO_WWW_INFO_CGI autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: shutteremail.info]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: shutteremail.info]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: shutteremail.info]
+	*  2.1 URI_NO_WWW_INFO_CGI URI: CGI in .info TLD other than third-level
+	*      "www"
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.2 HTML_IMAGE_ONLY_04 BODY: HTML: images with 0-400 bytes of words
+	* -0.0 BAYES_20 BODY: Bayes spam probability is 5 to 20%
+	*      [score: 0.1608]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+	*  0.0 T_FROM_12LTRDOM From a 12-letter domain
+	*  0.0 T_REMOTE_IMAGE Message contains an external image
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t05IUb6G040694
+	for <hobby.division@sportshobby.co.jp>; Tue, 6 Jan 2015 03:30:37 +0900 (JST)
+	(envelope-from Jessica-hobby.division=sportshobby.co.jp@shutteremail.info)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Tue, 06 Jan 2015 03:30:37 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from mail.shutteremail.info (unassigned.nexhost.net [198.52.130.219] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t05IUas9040690
+	for <hobby.division@sportshobby.co.jp>; Tue, 6 Jan 2015 03:30:37 +0900 (JST)
+	(envelope-from Jessica-hobby.division=sportshobby.co.jp@shutteremail.info)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=shutteremail.info;
+ h=Mime-Version:Content-Type:Date:From:Subject:Message-ID:To; i=Jessica@shutteremail.info;
+ bh=6YLftFKfC0lPRaH89nZIohK00+Q=;
+ b=2rvZlTJ7JNQOcyGv2Z0TAfAzeRpI27gcAHffXHFO3b4rXD6uBVUwL//N/HeiT5TcczjPqHJwL61+
+   sb2TWxvzBuUgcnuze1CsWutjtfR47y8/GcFAVqvE3UKc8ST/TtQTwyxy03cwotiRSe7tozX1QWh6
+   m5aHNyHfqfmY9q4I+kI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=shutteremail.info;
+ b=gzO7NzjabktTlKuh8fdkvY/+LJFua1ylN8oKpTIh1MMG1x2533oDda9KFPSY5bvOfXt+jVvI4eu0
+   uCbSv1Lp49ya3Nxi9mTdm0b7k0JUrHMVgt9gSlIjb9xYewtHo13OKZxPFTdZa+6IbFtgUoppc5pv
+   aGlzgIrETdrOs4A4rDs=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=b4877fc84b639a5f78fe827f162e7122
+Date: Mon, 5 Jan 2015 19:22:32 +0100
+From: Jessica <Jessica@shutteremail.info>
+Subject: =?UTF-8?B?SSBsb3ZlIHlvdSAhISEhISEhISE=?=
+Message-ID: <b4877fc84b639a5f78fe827f162e7122@shutteremail.info>
+To: <hobby.division@sportshobby.co.jp>
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/plain; charset=UTF-8
+
+hey 
+
+Happy new year !!!!!!!!!
+I made a nice greeting card for you : http://click.shutteremail.info/index.php?id=273036&a=666610&b=3384&c=56
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/html; charset=UTF-8
+
+hey 
+
+I made a nice greeting card for you : <br>
+<img src="http://i.123g.us/c/ejan_ny_happy/card/109529.gif">
+
+
+
+
+<img src="http://click.shutteremail.info/index.php?o=1&a=666610&b=3384&c=56">
+
+--b4877fc84b639a5f78fe827f162e7122--

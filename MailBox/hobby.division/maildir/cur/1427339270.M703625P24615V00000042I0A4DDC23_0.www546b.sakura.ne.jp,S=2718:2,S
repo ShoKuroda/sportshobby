@@ -1,0 +1,59 @@
+Return-Path: <service7@mx1.homecarefoyou.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.8 required=7.0 tests=BAYES_00,
+	CHARSET_FARAWAY_HEADER,DATE_IN_PAST_24_48,DKIM_SIGNED,T_DKIM_INVALID,
+	URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2Q372qd024586
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 12:07:18 +0900 (JST)
+	(envelope-from service7@mx1.homecarefoyou.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Thu, 26 Mar 2015 12:07:02 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from mail.mx1.homecarefoyou.com ([198.98.103.243])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2Q36eFt024534
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 12:07:02 +0900 (JST)
+	(envelope-from service7@mx1.homecarefoyou.com)
+Message-Id: <201503260307.t2Q36eFt024534@www546b.sakura.ne.jp>
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx1.homecarefoyou.com 9E24B1818806A
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mx1.homecarefoyou.com;
+	s=mx1.homecarefoyou; t=1427197213;
+	bh=vyxJ3KTqbXhlYpbl6tVKVazMfwmZNwSOvi1Vg1fZTLY=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=iH6/ulIO+sDEp0co7STHOWw+waUGKyCt/MsGSVdOCv4haPhVJZEoOvlzE2u0c51N/
+	 bo0n685sUs0t//H7Icek7q5nf6B9Z7VnHxlOwkjSV5fKdQBPmse8XmvFaS3q8whQar
+	 VxqbbeAzF56j51nBjMxLDr7bsCAY7pnWJoqrQ28E=
+Date: Tue, 24 Mar 2015 19:40:13 +0800
+From: "Jordon" <service7@mx1.homecarefoyou.com>
+To: "cintiaviana" <cintiaviana@correios.com.br>
+Reply-To: <sddf43dg@yeah.net>
+Subject: =?GB2312?B?bWFudWZhY3R1cmluZyBtZWNoYW5pY2FsIHBhcnRz?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id t2Q372qd024586
+
+
+Dear Purchasing Manager/Engineering Manger
+
+We provide one stop service of precise CNC machining, die casting, stamping service according to your engineering drawing or samples.   
+
+Steel, Aluminum, brass and plastic material are all available for us to manufacture.
+
+Our manufactured components involve in many area, Such as electronic, military, medical, motorcycle, auto and all kinds of machine.
+
+Welcome your inquiry¡­.Thank you!
+ 
+Best Regards 
+Jordon 
+
+YKT Metal Manufacturing Co.,Ltd
+Add: No 9,Xintian Street,Baizhou Village,Dongcheng District,Dongguan City,523113,China
+MB:0086-13428431041
+

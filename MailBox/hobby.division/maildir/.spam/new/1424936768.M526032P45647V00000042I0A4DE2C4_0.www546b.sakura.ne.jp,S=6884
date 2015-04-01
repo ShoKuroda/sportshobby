@@ -1,0 +1,159 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.6 required=7.0 tests=BAYES_00,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	XPRIO autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0010]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.2 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  1.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav402.sakura.ne.jp (fsav402.sakura.ne.jp [133.242.250.101])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1Q7k53x045643
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Feb 2015 16:46:05 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav402.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp);
+ Thu, 26 Feb 2015 16:46:05 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1Q7k5Bs045639
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Feb 2015 16:46:05 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCJUlBRz9NJEckYk4pJEE+ZSQyMkRHPSRKNF1FaiQyREwbKEI=?=
+	=?iso-2022-jp?B?GyRCSE4lTiUmJU8lJiIuGyhC?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Thu, 26 Feb 2015 16:46:05 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150226074605.2E1D740DD9@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11031
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+〓■広告文３：ド素人でも立ち上げ可能な丸投げ通販ノウハウ〓
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝〓〓
+
+アフィリエイトやせどり、情報販売など、
+〓副業系の実践である程度稼げるようになった人達が〓
+最近密かに実践し始めているのが「通販」への参入。〓〓
+という話はご存知でしょうか。
+
+〓↓
+〓http://agar-ex.jp/kldd28454/21031〓〓
+
+特に、せどりなど転売系の経験がある人にとっては
+〓販売のプラットフォームが変わる事と、
+〓商品が自社商品に変わるだけの差である事から
+〓感覚的に取り組みやすいという事で実践者が増えているようです。
+
+
+〓〓ただ、自社商品を開発したりメーカー品を仕入れるにしても、
+〓「相応の資金が必要になるのでは？リスクが大きいと思う。」
+〓というのが大半の人のイメージでしょう。〓〓しかし、今やこれは間違いです。
+
+
+〓〓実はここ最近、通販に参入する企業数が莫大に増えた事もあり、
+〓あらゆる業者やサービスが、安く、丁寧な対応をしてくれますので、
+〓実は思ったほど資金が必要ないという状況になって来ています。
+
+〓〓また、あらゆる作業を代行してくれる業者が見つかりますから、〓
+それこそ「副業で通販をやっている」という〓サラリーマンも
+どんどん増えているぐらいです。
+〓〓下手に、副業系の実践をして時間を使うよりも、
+〓ほとんどの作業を外注化しても回す事の出来る通販の方が、
+〓もしかしたら副業には向いているのではないか？〓
+という意見も聞かれるようになって来ています。
+
+〓〓つまり、〓そういうノウハウが蓄積されて来た、という事でしょう。
+〓〓〓こちらのページで紹介されているノウハウでは、〓
+「何も知らない、できない素人が本当に3ヶ月で」
+〓サプリの通販を立ち上げてしまったそうです。
+
+〓↓〓
+http://agar-ex.jp/kldd28454/31031〓〓〓
+
+「自分の力で稼ぐ」という目的のために〓ネットで
+副業収入を目指す人が多いわけですが〓よく考えると
+「自分の力」である必要があるのでしょうか？
+〓〓目的は「自分に力を付ける事」ではなく〓「収入を得る事」なのであれば〓
+自分が作業を行う必要は無いわけです。〓〓
+
+
+
+そういう意味で、通販は仕組み化しやすい事、〓
+また、今や「商品企画の段階からリサーチや外注が可能」です。
+〓〓もちろん、自分でも調べたり勉強が必要でしょうが、
+〓究極的には「お金だけ払って全部やってもらう」事も可能。〓〓
+
+
+
+そして実際、そういう事が可能であり、〓
+今回のセミナーを開催する
+伊原さんは〓この業界では相当な実力者だそうです。〓〓
+
+
+通販業界では有名な「通販ヒットメーカー」と呼ばれる、〓
+ある方のブレーンとしてノウハウを蓄積し
+〓今回の「丸投げ通販」の仕組みを確立した方のようですね。
+
+〓〓〓通販に興味がある人は多いですが、
+〓相談できる場所もなかなか無いでしょうし、
+〓信頼できるセミナーや情報も見つかりにくいと思います。〓〓
+
+しかし今回、
+その伊原さんが初めて〓自分のノウハウをセミナーで公開し、
+〓しかも無料で開催されるという事ですので〓
+通販に興味があれば行ってみてはどうでしょうか。〓〓
+
+http://agar-ex.jp/kldd28454/41031〓〓〓
+
+という私も、〓実は通販に挑戦したいなと思っています・・・
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/51031
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

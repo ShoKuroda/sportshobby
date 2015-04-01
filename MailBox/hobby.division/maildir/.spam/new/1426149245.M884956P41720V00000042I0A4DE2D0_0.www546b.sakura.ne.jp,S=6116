@@ -1,0 +1,215 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.3 required=7.0 tests=BAYES_50,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	XPRIO autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.3 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  1.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav206.sakura.ne.jp (fsav206.sakura.ne.jp [210.224.168.168])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2C8Y32f041717
+	for <hobby.division@sportshobby.co.jp>; Thu, 12 Mar 2015 17:34:03 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav206.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp);
+ Thu, 12 Mar 2015 17:34:03 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2C8Y2s7041713
+	for <hobby.division@sportshobby.co.jp>; Thu, 12 Mar 2015 17:34:02 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIVpKcz03IVs3biMxIzAhQSMxIzAjMEt8MV8kTkw1TkEbKEI=?=
+	=?iso-2022-jp?B?GyRCJWIlSyU/ITwkSyRKJGokXiQ7JHMkKyEpGyhC?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Thu, 12 Mar 2015 17:34:02 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150312083402.CE658417A7@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11121
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+こんにちは、シンクウです。
+
+
+
+メール、LINE、スカイプのいずれかで
+
+１日数分、あなたの好きな時間帯に
+おしゃべりするだけの
+
+無料モニターを
+募集するそうです。
+
+→ http://agar-ex.jp/kldd28454/21121
+
+
+【注意】
+出会い系のような
+怪しいものではありません。
+
+れっきとした
+合法的なやり方で
+
+家族や友人に
+胸を張って言える分野です。
+
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+■報酬額
+月１０〜１００万円以上
+（あなたが得たい金額）
+
+■資格
+スマホ、パソコン、タブレット、ガラケーの
+いずれか１つ持っている方。
+
+■場所
+インターネットがつながればどこでもOK
+
+■時間
+２４時間以内にご自身の都合のいい時間帯
+
+■作業量
+１日数分のみ
+
+■初期費用
+０円から可能
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+このノウハウを
+教えてくれるのは、
+脱サラに成功した育メンパパです。
+
+毎日ほとんど何もせずに
+毎月１００万円以上の
+利益を出しているそうです。
+
+
+家族との時間を大切にしている
+世の中の理想のお父さん像ですね。
+
+
+
+■とりあえず
+やるやらないは別として
+
+無料登録をして
+内容をご覧になってください。
+
+→ http://agar-ex.jp/kldd28454/31121
+
+
+
+PS
+すでに数人のモニターが
+実践したらしいのですが、
+
+全員が全員初月から
+稼げているそうです。
+
+正真正銘の
+再現性１００％です。
+
+中には７０歳の
+パソコン初心者の方も
+
+モニターとして結果を
+出せているというのは驚きです。
+
+→ http://agar-ex.jp/kldd28454/41121
+
+
+PS２
+ビジネスをする上で
+気になるのは
+
+やはり資金ですが
+資金が０円でOK！
+という事も魅力的ですね。
+
+資金が０円なので
+リスクがなく
+
+手軽に始められるのが
+メリットですが
+
+皆が皆、同じやり方をしたら
+飽和してしまうのでは？
+と思いますが
+
+この仕組みなら飽和という概念も
+０というのも納得です。
+
+→ http://agar-ex.jp/kldd28454/51121
+
+
+PS3
+この方は断言していますが、
+この方の教え方が上手いから
+
+皆稼げているわけではなく
+
+このモデルが誰でも稼げるモデルと
+いう事ですが
+
+確かに内容を見れば
+このノウハウなら
+
+誰がやっても
+結果が出るのは納得です。
+
+→ http://agar-ex.jp/kldd28454/61121
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/71121
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

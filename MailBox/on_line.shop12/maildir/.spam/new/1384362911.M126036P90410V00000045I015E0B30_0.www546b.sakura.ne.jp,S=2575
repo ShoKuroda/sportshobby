@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.8 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL,URI_NOVOWEL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: gcrwwrnf.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: gcrwwrnf.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: gcrwwrnf.be]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: gcrwwrnf.be]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: gcrwwrnf.be]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: gcrwwrnf.be]
+	*  0.5 URI_NOVOWEL URI: URI hostname has long non-vowel sequence
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rADHF6d6090407
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 14 Nov 2013 02:15:06 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:52485 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1384362906.5277
+Received: from 151.77.62.223 ([151.77.62.223])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rADHF0xo090398
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 14 Nov 2013 02:15:04 +0900 (JST)
+Date: Thu, 14 Nov 2013 02:15:00 +0900 (JST)
+Message-Id: <201311131715.rADHF0xo090398@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (undeclarable@bilatron.it@137.218.32.70)
+	by 151.77.62.223 with ESMTPA; Wed, 13 Nov 2013 18:12:39 +0100
+X-Originating-IP: 137.218.32.70
+From: undeclarable@bilatron.it
+To: on_line.shop12@sportshobby.co.jp
+Subject: Ancient secret of nonstop nights of delight
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 13112013 #9626192, status: clean
+
+http://detective.gcrwwrnf.be/ How to make your girlfriend satisfied
+

@@ -1,0 +1,53 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.6 required=7.0 tests=BAYES_95,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_PH_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: mwuylppp.net]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: mwuylppp.net]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: mwuylppp.net]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: mwuylppp.net]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: mwuylppp.net]
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9509]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: mwuylppp.net]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s2IBKfSb066238
+	for <hobby.division@sportshobby.co.jp>; Tue, 18 Mar 2014 20:20:41 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:62290 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1395141641.12005
+Received: from 86.135.46.15 (host86-135-46-15.range86-135.btcentralplus.com [86.135.46.15])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s2IBKcfo066231
+	for <hobby.division@sportshobby.co.jp>; Tue, 18 Mar 2014 20:20:40 +0900 (JST)
+Message-Id: <201403181120.s2IBKcfo066231@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (leah.isaacs@curve.net@178.110.150.78)
+	by 86.135.46.15 with ESMTPA; Tue, 18 Mar 2014 11:21:23 -0000
+X-Originating-IP: 178.110.150.78
+From: leah.isaacs@curve.net
+To: hobby.division@sportshobby.co.jp
+Subject: Do you desire to please your wife at night?
+Date: Tue, 18 Mar 2014 11:10:09 -0000
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 18032014 #7540298, status: clean
+
+This could ensure your loving life greatly http://immoral.mwuylppp.net/
+

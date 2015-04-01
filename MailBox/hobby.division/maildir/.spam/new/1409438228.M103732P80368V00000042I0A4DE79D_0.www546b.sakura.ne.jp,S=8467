@@ -1,0 +1,138 @@
+Return-Path: <mmcont@yeah.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.8 required=7.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+	BAYES_50,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,LOTS_OF_MONEY,
+	MONEY_FRAUD_3,MONEY_FRAUD_5,MONEY_FROM_41,T_MONEY_PERCENT,T_SHARE_50_50,
+	UNPARSEABLE_RELAY autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4994]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.0 T_SHARE_50_50 Share the money 50/50
+	*  0.0 UNPARSEABLE_RELAY Informational: message has unparseable relay lines
+	*  2.0 MONEY_FROM_41 Lots of money from Africa
+	*  0.0 T_MONEY_PERCENT X% of a lot of money for you
+	*  0.0 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  4.2 MONEY_FRAUD_3 Lots of money and several fraud phrases
+	*  1.9 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+Received: from fsav301.sakura.ne.jp (fsav301.sakura.ne.jp [153.120.85.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s7UMb7ch080364
+	for <hobby.division@sportshobby.co.jp>; Sun, 31 Aug 2014 07:37:07 +0900 (JST)
+	(envelope-from mmcont@yeah.net)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav301.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp);
+ Sun, 31 Aug 2014 07:37:07 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp)
+Received: from m153-177.yeah.net (m153-178.yeah.net [123.58.178.153])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s7UMb6iH080354
+	for <hobby.division@sportshobby.co.jp>; Sun, 31 Aug 2014 07:37:06 +0900 (JST)
+	(envelope-from mmcont@yeah.net)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yeah.net;
+	s=s110527; h=Date:From:Subject:MIME-Version:Message-ID; bh=PHdMe
+	GU5xiHXy7J8+GFeiOadxOr2Ng80ExqFOKYLhQQ=; b=gtbslsh7ExYqC1t1N0rnE
+	6gGq90fePpjjcNJNGOidXTYH/d5nATg8Ltl4iqX2U3r1QOc4yxl7NoKu5R83/WMM
+	tLuZIsKdrtHjLW9fzfHD3t4uApTCA4w/kcwwTERIK8DQSlh2T0YVzzpv5fO/EpLV
+	lLiyeU9DOmmC67JSDtD/+g=
+Received: from mmcont$yeah.net ( [41.71.144.184, 203.14.188.254] ) by
+ ajax-webmail-app4 (Coremail) ; Sun, 31 Aug 2014 06:32:22 +0800 (CST)
+X-CM-HeaderCharset: UTF-8
+X-Originating-IP: [41.71.144.184, 203.14.188.254]
+Date: Sun, 31 Aug 2014 06:32:22 +0800 (CST)
+From: mmcont <mmcont@yeah.net>
+Subject: From Muhammed Khan
+X-Priority: 3
+X-Mailer: Coremail Webmail Server Version SP_ntes V3.5 build
+ 20140725(28226.6623) Copyright (c) 2002-2014 www.mailtech.cn yeah
+X-CM-CTRLDATA: H6vFSGZvb3Rlcl9odG09MTk2NToxODg=
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_34487_47855047.1409437942859"
+MIME-Version: 1.0
+Message-ID: <455c332.662.148290c444b.Coremail.mmcont@yeah.net>
+X-CM-TRANSID:NVUQrECZPkT3UAJUvGQcAA--.3417W
+X-CM-SenderInfo: pppf003w61vtnkoqv3/1tbiBAz3HVGSAhTrIQAEs5
+X-Coremail-Antispam: 1U5529EdanIXcx71UUUUU7vcSsGvfC2KfnxnUU==
+To: undisclosed-recipients:;
+
+------=_Part_34487_47855047.1409437942859
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+QXR0biBTaXIvTWFkYW0KIApTb3JyeSB0byBoYXZlIGNvbnRhY3RlZCB5b3UgdGhyb3VnaCB0aGlz
+IG1lZGl1bSB3aXRob3V0IGEgcHJldmlvdXMgbm90aWNlOyBJIGhhZCB0byB1c2UgdGhlIGVtYWls
+IGJlY2F1c2UgaXQgaXMgdGhlIGVhc2llc3QgYW5kIG1vcmUgY29uZmlkZW50aWFsIHdheSBvZiBt
+YWtpbmcgY29udGFjdCB3aXRoIHBlb3BsZSBhcm91bmQgdGhlIHdvcmxkLiBNeSBOYW1lIGlzIE11
+aGFtbWVkIEtoYW4sIEEgYmFua2VyIHdpdGggQmFyY2xheXMgQmFuayBvZiBFbmdsYW5kLgogClRo
+aXMgY29tbXVuaWNhdGlvbiBpcyB0byBpbmZvcm0geW91IHRoYXQgd2UgaGF2ZSBwcm9ncmFtbWVk
+IHlvdXIgcGF5bWVudCB0byBiZSByZWNlaXZlZCBieSB5b3UgaW4gY2FzaCBPRiAkMjAuNSBNaWxs
+aW9uIChUd2VudHkgbWlsbGlvbiBmaXZlIGh1bmRyZWQgdGhvdXNhbmQgKS4gWW91IGFyZSBmdXJ0
+aGVyIG5vdCBleHBlY3RlZCB0byBwYXkgYSBkaW1lIGZvciB0aGUgcmVjZWl2aW5nIG9mIHlvdXIg
+ZnVuZHMgYW5kIGFueWJvZHkgd2hvIGFza3MgeW91IHRvIHBheSBtb25leSBtdXN0IGJlIGx5aW5n
+IHRvIHlvdS4gV2UgaGF2ZSB3b3JrZWQgb3V0IGFsbCB0aGUgbW9kYWxpdHkgZm9yIHlvdSB0byBy
+ZWNlaXZlIHlvdXIgZnVuZHMgd2l0aG91dCBhbnkgZnVydGhlciBsYXBzZXMuCiAKVGhlIGZ1bmRz
+IGFyZSBjdXJyZW50bHkgaW4gb3VyIGNvcnJlc3BvbmRpbmcgdmF1bHQgaW4gSmFwYW4sIGFuZCBm
+b3Igc2VjdXJpdHkgcHVycG9zZSB3ZSBoYXZlIHRvIG1vdmUgdGhlIGRvY3VtZW50YXRpb24gdG8g
+b3VyIGNvcnJlc3BvbmRpbmcgdmF1bHQgaW4ga2VueWEgd2hlcmUgeW91IG5lZWQgdG8gY29tZSBh
+bmQgYXBwZWFyIGluIHBlcnNvbiB0byBzaWduIHlvdXIgdHJhbnNmZXIgbGVnYWxpemF0aW9uIHBh
+cGVyIHdvcmsuCiAKV2UgaGF2ZSBmdXJ0aGVyIGFycmFuZ2VkIHRvIHBheSB5b3VyIGZsaWdodCBj
+b3N0IGFuZCBob3RlbCByZXNlcnZhdGlvbiB0byBrZW55YSwgc28gdGhhdCBhcyBzb29uIGFzIHlv
+dXIgZnVuZHMgYXJlIHJlY2VpdmVkIGJ5IHlvdSB0aGVuIHlvdSBjYW4gcmVpbWJ1cnNlIG1lIG9m
+IGFsbCB0aGUgZXhwZW5zZXMgdGhhdCBpIG1hZGUgZm9yIHlvdXIgdHJpcCB0byBrZW55YSB3aGVy
+ZSB0aGUgbGVnYWxpemF0aW9uIHBhcGVyIHdpbGwgYmUgc2lnbiBieSB5b3UgaW4gcGVyc29uLiBZ
+b3Ugc2hvdWxkIGFsc28gbm90ZSB0aGF0IHRoZSBtb2RlIG9mIHNoYXJpbmcgcmF0aW8gaXMgNTAl
+IGZvciBtZSBhbmQgNDAlIGZvciB5b3Ugd2hpbGUgaSB3aWxsIHRha2UgMTAlIGZvciBhbGwgZXhw
+ZW5zZXMuCiAKVGhhbmsgeW91IGZvciB5b3VyIGNvb3BlcmF0aW9uIGFuZCB1bmRlcnN0YW5kaW5n
+IGFzIEkgbG9vayBmb3J3YXJkIHRvIGhlbHBpbmcgeW91IHJlY2VpdmUgeW91ciBmdW5kcyB3aXRo
+b3V0IGFueSBoaXRjaGVzLgoKRXhwZWN0IHlvdXIgdmFsdWVkIHJlc3BvbnNlLgogCiAKUmVnYXJk
+cwogCk11aGFtbWVkIEtoYW4K
+------=_Part_34487_47855047.1409437942859
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0ibGluZS1oZWlnaHQ6MS43O2NvbG9yOiMwMDAwMDA7Zm9udC1zaXplOjE0cHg7
+Zm9udC1mYW1pbHk6QXJpYWwiPjxzdHJvbmc+QXR0biBTaXIvTWFkYW08L3N0cm9uZz48YnI+PHN0
+cm9uZz4mbmJzcDs8L3N0cm9uZz48YnI+PHN0cm9uZz5Tb3JyeSB0byBoYXZlIGNvbnRhY3RlZCB5
+b3UgdGhyb3VnaCB0aGlzIG1lZGl1bSB3aXRob3V0IGEgcHJldmlvdXMgbm90aWNlOyBJIGhhZCB0
+byB1c2UgdGhlIGVtYWlsIGJlY2F1c2UgaXQgaXMgdGhlIGVhc2llc3QgYW5kIG1vcmUgY29uZmlk
+ZW50aWFsIHdheSBvZiBtYWtpbmcgY29udGFjdCB3aXRoIHBlb3BsZSBhcm91bmQgdGhlIHdvcmxk
+LiBNeSBOYW1lIGlzIE11aGFtbWVkIEtoYW4sIEEgYmFua2VyIHdpdGggQmFyY2xheXMgQmFuayBv
+ZiBFbmdsYW5kLjwvc3Ryb25nPjxicj48c3Ryb25nPiZuYnNwOzwvc3Ryb25nPjxicj48c3Ryb25n
+PlRoaXMgY29tbXVuaWNhdGlvbiBpcyB0byBpbmZvcm0geW91IHRoYXQgd2UgaGF2ZSBwcm9ncmFt
+bWVkIHlvdXIgcGF5bWVudCB0byBiZSByZWNlaXZlZCBieSB5b3UgaW4gY2FzaCBPRiAkMjAuNSBN
+aWxsaW9uIChUd2VudHkgbWlsbGlvbiBmaXZlIGh1bmRyZWQgdGhvdXNhbmQgKS4gWW91IGFyZSBm
+dXJ0aGVyIG5vdCBleHBlY3RlZCB0byBwYXkgYSBkaW1lIGZvciB0aGUgcmVjZWl2aW5nIG9mIHlv
+dXIgZnVuZHMgYW5kIGFueWJvZHkgd2hvIGFza3MgeW91IHRvIHBheSBtb25leSBtdXN0IGJlIGx5
+aW5nIHRvIHlvdS4gV2UgaGF2ZSB3b3JrZWQgb3V0IGFsbCB0aGUgbW9kYWxpdHkgZm9yIHlvdSB0
+byByZWNlaXZlIHlvdXIgZnVuZHMgd2l0aG91dCBhbnkgZnVydGhlciBsYXBzZXMuPC9zdHJvbmc+
+PGJyPjxzdHJvbmc+Jm5ic3A7PC9zdHJvbmc+PGJyPjxzdHJvbmc+VGhlIGZ1bmRzIGFyZSBjdXJy
+ZW50bHkgaW4gb3VyIGNvcnJlc3BvbmRpbmcgdmF1bHQgaW4gSmFwYW4sIGFuZCBmb3Igc2VjdXJp
+dHkgcHVycG9zZSB3ZSBoYXZlIHRvIG1vdmUgdGhlIGRvY3VtZW50YXRpb24gdG8gb3VyIGNvcnJl
+c3BvbmRpbmcgdmF1bHQgaW4ga2VueWEgd2hlcmUgeW91IG5lZWQgdG8gY29tZSBhbmQgYXBwZWFy
+IGluIHBlcnNvbiB0byBzaWduIHlvdXIgdHJhbnNmZXIgbGVnYWxpemF0aW9uIHBhcGVyIHdvcmsu
+PC9zdHJvbmc+PGJyPjxzdHJvbmc+Jm5ic3A7PC9zdHJvbmc+PGJyPjxzdHJvbmc+V2UgaGF2ZSBm
+dXJ0aGVyIGFycmFuZ2VkIHRvIHBheSB5b3VyIGZsaWdodCBjb3N0IGFuZCBob3RlbCByZXNlcnZh
+dGlvbiB0byBrZW55YSwgc28gdGhhdCBhcyBzb29uIGFzIHlvdXIgZnVuZHMgYXJlIHJlY2VpdmVk
+IGJ5IHlvdSB0aGVuIHlvdSBjYW4gcmVpbWJ1cnNlIG1lIG9mIGFsbCB0aGUgZXhwZW5zZXMgdGhh
+dCBpIG1hZGUgZm9yIHlvdXIgdHJpcCB0byBrZW55YSB3aGVyZSB0aGUgbGVnYWxpemF0aW9uIHBh
+cGVyIHdpbGwgYmUgc2lnbiBieSB5b3UgaW4gcGVyc29uLiBZb3Ugc2hvdWxkIGFsc28gbm90ZSB0
+aGF0IHRoZSBtb2RlIG9mIHNoYXJpbmcgcmF0aW8gaXMgNTAlIGZvciBtZSBhbmQgNDAlIGZvciB5
+b3Ugd2hpbGUgaSB3aWxsIHRha2UgMTAlIGZvciBhbGwgZXhwZW5zZXMuPC9zdHJvbmc+PGJyPjxz
+dHJvbmc+Jm5ic3A7PC9zdHJvbmc+PGJyPjxzdHJvbmc+VGhhbmsgeW91IGZvciB5b3VyIGNvb3Bl
+cmF0aW9uIGFuZCB1bmRlcnN0YW5kaW5nIGFzIEkgbG9vayBmb3J3YXJkIHRvIGhlbHBpbmcgeW91
+IHJlY2VpdmUgeW91ciBmdW5kcyB3aXRob3V0IGFueSBoaXRjaGVzLjwvc3Ryb25nPjxicj48YnI+
+PHN0cm9uZz5FeHBlY3QgeW91ciB2YWx1ZWQgcmVzcG9uc2UuPC9zdHJvbmc+PGJyPjxzdHJvbmc+
+Jm5ic3A7PC9zdHJvbmc+PGJyPjxzdHJvbmc+Jm5ic3A7PC9zdHJvbmc+PGJyPjxzdHJvbmc+UmVn
+YXJkczwvc3Ryb25nPjxicj48c3Ryb25nPiZuYnNwOzwvc3Ryb25nPjxicj48c3Ryb25nPk11aGFt
+bWVkIEtoYW48L3N0cm9uZz48YnI+PC9kaXY+PGJyPjxicj48c3BhbiB0aXRsZT0ibmV0ZWFzZWZv
+b3RlciI+PHNwYW4gaWQ9Im5ldGVhc2VfbWFpbF9mb290ZXIiPjxzcGFuIHRpdGxlPSJuZXRlYXNl
+Zm9vdGVyIj48c3BhbiBpZD0ibmV0ZWFzZV9tYWlsX2Zvb3RlciI+PGEgaHJlZj0iIyIgdGFyZ2V0
+PSJfYmxhbmsiPjwvYT48L3NwYW4+PC9zcGFuPg0KPC9zcGFuPjwvc3Bhbj4=
+------=_Part_34487_47855047.1409437942859--
+

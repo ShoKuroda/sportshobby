@@ -1,0 +1,1023 @@
+Return-Path: <195765@rmailmf.rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_FONT_SIZE_LARGE,HTML_MESSAGE,NORMAL_HTTP_TO_IP,
+	T_REMOTE_IMAGE,URIBL_BLOCKED,WEIRD_QUOTING autolearn=ham version=3.3.2
+Received: from fsav304.sakura.ne.jp (fsav304.sakura.ne.jp [153.120.85.135])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V97712040959
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 18:07:07 +0900 (JST)
+	(envelope-from 195765@rmailmf.rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav304.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp);
+ Tue, 31 Mar 2015 18:07:07 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp)
+Received: from rmail1001c.rakuten.co.jp (rmail1026c.rakuten.co.jp [202.72.55.153])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V977LM040955
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 18:07:07 +0900 (JST)
+	(envelope-from 195765@rmailmf.rakuten.co.jp)
+Received: from mdrmail110-03zc (mdrmail110-03zc-postfix.local [127.0.0.2])
+	by mdrmail110-03zc.rakuten.co.jp (Rakuten DKIM-MGwO 0.1.0) with ESMTP id 6BD463AC602
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 18:07:07 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shop.rakuten.co.jp;
+	s=rmail2012041600; t=1427792827;
+	bh=6+kUosiYoqEKzttg1gDbVaISkIxHjJgQMYkqvIPC0jE=;
+	h=To:MIME-Version:Subject:From:Sender:Content-Type:Message-Id:Date;
+	b=11iAVLIiB8si/4uDxlSsWlj6JOW4Mrh2dhhYBw0WwV7XoALOVhXeh25dj7XuX3VTl
+	 uW4v7QDwnkkvHXg77SqVnUurN9xZGAotyTvsDddKQtAEi4PhAUbftBMHTz/pj7WHGD
+	 lbjRrL6/FBaYVPMAMQZ+qpp0KcltyGTnO7b4j4G8=
+Received: from mdrmail110-03zc.rakuten.co.jp (localhost.localdomain
+        [127.0.0.1])
+        by mdrmail110-03zc.db.rakuten.co.jp (Sendmail OMA v1.6.7-p3)
+        with SMTP id t2VI7702085OIyh5; Tue, 31 Mar 2015 18:07:07 +0900
+        (JST)
+Received: from rmail-dkim-vip.db.rakuten.co.jp (bmctr101c.db.rakuten.co.jp [172.30.162.1])
+	by mdrmail110-03zc.rakuten.co.jp (Postfix) with ESMTP id 556A23AC5D3
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 18:07:07 +0900 (JST)
+To: hobby.division@sportshobby.co.jp
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCIVolYSVrJV4lLDhCRGolLyE8JV0lc0lVIVslXSUkJXMlSDw6GyhC?=
+ =?ISO-2022-JP?B?GyRCOHokXiRHJCIkSCRvJDokKxsoQiEbJEJLXEZ8GyhCMjA=?=
+ =?ISO-2022-JP?B?GyRCO34kaCRqJTshPCVrJTklPyE8JUgbKEIh?=
+From: =?ISO-2022-JP?B?GyRCJVYlaSVzJUk4RUNlJE5HYzxoSE5HZCUrJXMlVSVrGyhCIA==?=<kanful@shop.rakuten.co.jp>
+X-R-url: kanful
+Sender: 195765@rmailmf.rakuten.co.jp
+Keywords: R-Mail
+X-R-Mail_shop: =?ISO-2022-JP?B?GyRCJVYlaSVzJUk4RUNlJE5HYzxoSE5HZCUrJXMlVSVrGyhC?=
+Content-Type: multipart/alternative;
+	boundary="=_4ba68b17de59380401d784d4e1326e5d"
+Message-Id: <20150331090707.556A23AC5D3@mdrmail110-03zc.rakuten.co.jp>
+Date: Tue, 31 Mar 2015 18:07:07 +0900 (JST)
+
+--=_4ba68b17de59380401d784d4e1326e5d
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+
+【メルマガ限定クーポン付】ポイント失効まであとわずか!本日20時よりセールスタート!
+
+▼配信停止はこちら▼
+http://emagazine.rakuten.co.jp/q?u=kanful&k=joHOBDK%27%26f%3d6ih1%24xUKY4b%5e-ymdx%24%21cN%7df23&scid=rm_195765
+
+▼アドレス変更はこちら▼
+http://www.rakuten.co.jp/kanful/news.html?scid=rm_195765
+
+
+黒田 雄 様
+
+
+ブランド古着の買い取りと販売専門店
+Ｋ　Ａ　Ｎ  Ｆ　Ｕ　Ｌ
+SPECIAL　MAIL　MAGAZINE
+-------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Rakuten Super Point Information!　本日の楽天ポイントは最大何倍？
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+コチラからポイントCHECK!!
+ → http://m3.rakuten.co.jp/gold/kanful/index.html%253fscid%3drm_195765%2523rakutenpoint/-/4/471x/acmhy/1/1avbcv/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+スマートフォン用のサイトはこちら
+ → http://m3.rakuten.co.jp/gold/kanful/mailmag/mailmag0331.html%253fscid%3drm_195765/-/4/471x/acmhy/2/1avbcv/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+いつもカンフルをご利用頂き、
+誠にありがとうございます。
+カンフルからのお得な情報をお届けいたします♪
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+                            ┏━┓┏━┓┏━┓
+期間限定ポイント消失まであと┃わ┃┃ず┃┃か┃
+　　　　　　 　　　　　　　 ┗━┛┗━┛┗━┛
+ＳＴＯＰ★ＴＨＥ　うっかり失効
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+ポイントキャンペーンを利用して
+沢山お買い物をした方も多いのではないでしょうか・・
+
+しかし！気をつけてください！
+
+その際、付与されたポイントは
+【期間限定ポイント】である可能性が高いんです
+しかも、2015年03月末までの期間限定ポイント
+
+↓あなたの現在の保有ポイントはコチラからチェック
+ https://point.rakuten.co.jp/PointHistory/PointHistoryDisplay/?scid=rm_195765
+
+ポイントは消えて無くなる前に、有効利用しちゃいましょう♪
+
+------------------------------------------------------------------
+
+03月31日(火)20:00から!!!
+皆様お待ちかね！の
+【メルマガ読者様限定配布】クーポンをプレゼント！
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+72時間限定スペシャルクーポン
+期間中、アイテム2,160円(税込)以上のご購入で
+【　店　内　全　品　送　料　無　料　ク　ー　ポ　ン　】
+　===================================================
+
+カンフル内のアイテムを2,160円(税込)以上買うだけで送料無料になっちゃいます！
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+使用期限【03月31日(火)20:00〜04月03日(金)19:59まで】
+
+↓クーポンゲットはコチラから　
+http://m3.rakuten.co.jp/getCoupon%253fgetkey%3dNFJBSi1UVTZSLVQzS04tUVpZUw--%26rt%3d%26scid%3drm_195765/-/b/471x/acmhy/3/1avbcv/
+
+※クーポンは03月31日(火)20:00からご利用可能です。
+
+※必ず、ご注文時にクーポンのご利用をお願い致します。
+
+※ご注文後のクーポンのご利用はできかねますので何卒、
+　ご了承下さいますよう宜しくお願い申し上げます。
+
+※1回のご注文で必ずアイテムを2,160円(税込)以上をご購入ください。
+
+※ご注文回数が複数となり同梱にて合計金額が
+　2,160円(税込)以上になった場合は対応外となります。
+
+※ご利用可能回数はおひとり様１回限りです。
+
+※海外発送は未対応です。
+
+
+------------------------------------------------------------------
+
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+プロ野球開幕記念! 
+楽天イーグルス応援キャンペーン
+【第2弾】買い回りで最大9倍キャンペーン開催中
+
+さらに9ショップ以上購入で、抽選で50名様に、
+期間中の購入金額合計を全額ポイントバック（最大10万円相当）！！
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+開催期間【03月30日(月)10：00〜04月03日(金)01:59まで】
+
+↓エントリーはこちらからどうぞ
+ http://m3.rakuten.co.jp/campaign/eagles/%253fscid%3drm_195765/-/6/471x/acmhy/4/1avbcv/
+
+
+------------------------------------------------------------------
+
+本日、03月31日(火)20:00からは
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+カンフルなら春のお気に入りみつかる!
+SPRING SALEスタートします!!!
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+↓セールアイテムはコチラからチェック　
+http://m3.rakuten.co.jp/kanful/c/0000002962/%253fscid%3drm_XXXXXX%26scid%3drm_195765/-/2/471x/acmhy/5/1avbcv/
+
+
+●セールアイテムをさがす
+▼ＬＡＤＹ’Ｓアイテム
+http://m3.rakuten.co.jp/kanful/c/0000002964/%253fscid%3drm_195765/-/2/471x/acmhy/6/1avbcv/
+
+▼ＭＥＮ’Ｓアイテム
+http://m3.rakuten.co.jp/kanful/c/0000002963/%253fscid%3drm_195765/-/2/471x/acmhy/7/1avbcv/
+
+●お得ランクでさがす
+--------------------------------------------------------------
+★☆☆　得　　→　ブロンズオヤジプライス
+http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2580%2590%25E3%2582%25AA%25E3%2583%25A4%25E3%2582%25B8%25E3%2580%2591%2520%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/8/1avbcv/
+--------------------------------------------------------------
+★★☆大得　→　シルバーフル子プライス
+http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2580%2590%25E3%2583%2595%25E3%2583%25AB%25E5%25AD%2590%25E3%2580%2591%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/9/1avbcv/
+--------------------------------------------------------------
+★★★超得　→　ゴールドカン太プライス
+http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2580%2590%25E3%2582%25AB%25E3%2583%25B3%25E5%25A4%25AA%25E3%2580%2591%2520%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/10/1avbcv/
+--------------------------------------------------------------
+※販売開始から割引率が高いほど「得」→「大得」→「超得」になります。
+※商品名に「お得ランク」がわかるキーワードが入っています。
+【カン太】…超得、【フル子】…大得、【オヤジ】…得
+
+------------------------------------------------------------------
+
+大人気★おなじみのキャンペーンももちろん開催中
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+5,400円(税込)以上のご購入で
+送　料　無　料　キ　ャ　ン　ペ　ー　ン　開　催　中!!!
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+開催期間【03月21日(土)10：00〜04月01日(水)10:00まで】
+
+↓お買い物はコチラから!今すぐGO!!!
+http://m3.rakuten.co.jp/gold/kanful/index.html%253fscid%3drm_195765/-/4/471x/acmhy/11/1avbcv/
+
+------------------------------------------------------------------
+
+Ｗ┃　Ａ┃　Ｎ┃　Ｔ┃　Ｅ┃　Ｄ┃　！┃
+━┛　━┛　━┛　━┛　━┛　━┛　━┛
+買取ブランド数16000以上のKanfulなら、
+あなたが諦めかけたその服も買取可能かもしれません。
+
+あなたの着なくなった大切なお洋服、
+カンフルなら高くお買い取りいたします!!!
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+Ａｌｗａｙｓ　Ｈａｐｐｙ　Ｃａｍｐａｉｇｎ！！
+
+いつでもカンフルの強化買取ブランドは査定額から更に
+２ ０ ％ Ｕ Ｐ ！ ！
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+※対象ブランドのみの適用となります。
+
+尚、他のキャンペーンとの併用はできません、予めご了承下さい。
+
+
+■ ↓強化買取ブランド一覧はコチラからからチェック↓
+http://m3.rakuten.co.jp/gold/kanful/kaitori/brand.html%253fscid%3drm_195765%2523kyoka-brand/-/4/471x/acmhy/12/1avbcv/
+
+■ ↓カンフルのお買取りページはコチラから↓
+http://m3.rakuten.co.jp/gold/kanful/kaitori/takuhai-kaitori.html%253fscid%3drm_195765/-/4/471x/acmhy/13/1avbcv/
+
+■ ↓お買取りの詳しい情報はコチラから↓
+http://m3.rakuten.co.jp/gold/kanful/kaitori/index.html%253fscid%3drm_195765/-/4/471x/acmhy/14/1avbcv/
+
+-------------------------------------------------------
+
+【服売るなら今がチャンス!!!】
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+初めての買取成約(3,000円(税込)以上)で1,300ポイント
+プレゼントキャンペーン開催中
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+開催期間【3月27日（金）10:00〜4月1日（水）09:59】
+
+↓エントリーコチラからどうぞ
+http://buyback.rakuten.co.jp/event/beginner/?l-id=used_flash_34
+
+-------------------------------------------------------
+
+お子様がいらっしゃる方にうれしいお知らせ♪
+もう着れなくなってしまったお子様のお洋服、
+整理できないままになっていませんか？？
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+★　子　供　服　高　価　買　取　中　★
+
+いつでもカンフルの強化買取ブランドは査定額から更に
+２ ０ ％ Ｕ Ｐ ！ ！          
+    
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+買ったものの着る機会がなかったあのお洋服、
+いただきものでサイズが合わずに置きっぱなしになっているあのお洋服も!
+1点1点丁寧に扱い、しっかりと査定させていただきます! 
+
+
+■ ↓強化買取ブランド、取り扱いブランド一覧はコチラから↓
+http://m3.rakuten.co.jp/gold/kanful/kaitori/brand.html%253fscid%3drm_195765%2523kyoka-kids/-/4/471x/acmhy/15/1avbcv/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+■ カンフルでは簡単だけど【安心】の買取査定を行っております
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+安心の理由１.査定料　宅配買取の送料　宅配買取キット【 無料！ 】
+-------------------------------------------------------
+
+
+安心の理由２.【　幅広い買取ブランド　】
+-------------------------------------------------------
+
+
+安心の理由３.98.9％の高い回転率だから【　高価買取りが可能　】
+-------------------------------------------------------
+
+
+安心の理由４.お見積りにご納得いただけなければ【　査定後のキャンセルOK　】
+-------------------------------------------------------
+
+
+安心の理由５.お客様の【　個人情報を大切に管理　】しています
+-------------------------------------------------------
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+■ 買取の流れ　お申込みからお支払いまでの流れ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+１.お申込み　→　２．査定　→　３．査定額にご納得！　→お支払い
+-------------------------------------------------------
+
+便利な「宅配買取キットお届けサービス」を開始しました。
+お電話一本で専用の段ボールをお届けいたします！
+
+
+キット料金　【無料】　配送料金　【当社持ち】　ご返送の際の配送料金も　【無料】
+
+
+■ ↓無料買取キットのご案内ページへ↓
+http://m3.rakuten.co.jp/gold/kanful/kaitori/kit.html%253fscid%3drm_195765/-/4/471x/acmhy/16/1avbcv/
+
+カンフルでは常に様々なアイテムの買取依頼にお応えできるよう努力しております。
+しかし、お取り扱いできないものもございますのであらかじめご了承ください。
+■ ↓お洋服を送られる前に予めご確認をお願いします↓
+http://m3.rakuten.co.jp/gold/kanful/kaitori/ng-item.html%253fscid%3drm_195765/-/4/471x/acmhy/17/1avbcv/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+お電話での　お問い合わせ先
+対応時間AM10:00〜PM8：00まで
+
+お気軽にお問い合わせください！
+
+カンフル買取査定部フリーダイヤル
+０１２０-９９９-４１４
+10:00-20:00 年中無休
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+４月カレンダー付き
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ＯＲＩＧＩＮＡＬ★ＷＡＬＬＰＡＰＥＲ無料配信中　 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+「カンフルキャッツのお花畑探検♪」
+壁紙を無料配信しちゃいます
+
+↓ダウンロードはこちらから↓
+http://m3.rakuten.co.jp/gold/kanful/wallpaper/wallpaper-04.html%253fscid%3drm_195765/-/4/471x/acmhy/18/1avbcv/
+
+------------------------------------------------------------------
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+ス　タ　ッ　フ　募　集　中
+
+カンフルでは現在、各店舗にてアルバイトのスタッフを募集しています。
+商品を買取業務をされていた方やブランドに詳しい方、
+経験により優遇いたします。（社員雇用あり）
+服が好きな方、古着が好きな方、
+インターネットが好きな方、接客が好きな方、大歓迎です。
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+【勤務地】
+●KANFUL ネット販売部・買取査定部(滋賀県草津市)
+●KANFUL 裏原宿店　(東京都渋谷区)
+●KANFUL 京都裏寺店(京都市中京区)
+●KANFUL 南堀江店　(大阪市西区)
+
+
+↓詳しくはコチラから
+http://m3.rakuten.co.jp/gold/kanful/info/recruit.html%253fscid%3drm_195765/-/4/471x/acmhy/19/1avbcv/
+
+------------------------------------------------------------------
+
+本日も最後までメルマガをご購読頂き
+誠に、ありがとうございます!!
+それでは引き続きカンフルでのお買い物をお楽しみください♪
+
+▼配信停止はこちら▼
+http://emagazine.rakuten.co.jp/q?u=kanful&k=Mqjh%27TIbmOCxY-T%7eBjM5mRe%249Ji%2b%5eQFz%7dn25&scid=rm_195765
+
+▼アドレス変更はこちら▼
+http://www.rakuten.co.jp/kanful/news.html?scid=rm_195765
+
+
+************************************************
+　　【カンフル ネット販売部】　
+    〒525-0003　滋賀県草津市長束町235番地
+    (TEL)0800-888-4129　受付時間/10:00〜18:00
+    齊藤  mailto:kanful@shop.rakuten.co.jp
+    (URL) http://www.rakuten.co.jp/kanful/?scid=rm_195765
+************************************************
+
+────────── 【楽天市場からのお知らせ】 ──────────
+【4月3日（金）9：59まで ！】
+　年会費永年無料★楽天カード新規入会でもれなく5,000ポイントのところ、今なら5,300ポイントプレゼント！
+　　⇒ http://link.rakuten.co.jp/1/008/531/?url=2/831/68809/0/RC4 
+　楽天カードなら楽天市場でのお買い物はいつでも2倍★
+
+　楽天市場トップはこちら
+　　⇒ http://www.rakuten.co.jp/?l-id=top_091&scid=rm_195765 
+──────────────────────────────────
+--=_4ba68b17de59380401d784d4e1326e5d
+Content-Type: text/html; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-2022-jp">
+<meta http-equiv="Content-Language" content="ja">
+<title> 【楽天市場】ブランド古着の買取販売カンフル </title>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" alink="#ff0000" vlink="#0000ff"><table width="100%" cellspacing="0" cellpadding="1"  border="0" bgcolor="#bf0000">
+<img src="http://m3.rakuten.co.jp/open.phtml/-/471x/acmhy/1avbcv" width="1" height="1" border="0"><tr>
+<td>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0"  bgcolor="#ffffff">
+<tr>
+<td width="92">
+<table width="100%" cellpadding="5" cellspacing="0" border="0">
+<tr>
+<td><a href="http://www.rakuten.co.jp/?scid=rm_195765" target="_blank" ><img src="http://event.rakuten.co.jp/com/img/logo/base/w080.gif" width="80" height="36" alt="" border="0"></a></td></tr></table></td>
+
+<td>
+<table width="100%" border="0"cellpadding="5" cellspacing="0">
+<tr>
+<td><a href="http://ad2.trafficgate.net/t/r/2/831/68809/0/RC1/" target="_blank" ><img src="http://event.rakuten.co.jp/com/img/shop/navi/20100301_eagles_135x36.gif" alt="" width="100%" border="0" style="min-width: 95px; max-width: 135px;"></a></td>
+<td align="right">
+<a href="http://ad2.trafficgate.net/t/r/922/3629/198512_234039/" target="_blank" ><img src="http://image.infoseek.rakuten.co.jp/content/toolbar/news/r_mail/toolbar_136x40.gif" alt="" width="100%" border="0" style="min-width: 95px; max-width: 135px;"></a></td>
+</tr>
+</table></td>
+</tr></table></td>
+
+</tr>
+</table>
+
+<br />
+<br><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><table width="100%" border="0" cellspacing="4" cellpadding="0" ><tr><td><div align="left"><font size="-1">
+黒田 雄 様
+</font></div></td></tr></table>
+<div align="center">
+
+<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-mainhead7.jpg" border="0" usemap="#Map3">
+<map name="Map3">
+  <area shape="rect" coords="13,202,345,232" href="http://m3.rakuten.co.jp/gold/kanful/index.html%253fscid%3drm_195765/-/4/471x/acmhy/20/1avbcv/" target="_blank" >
+  <area shape="rect" coords="210,55,346,86" href="http://m3.rakuten.co.jp/gold/kanful/ladys.html%253fscid%3drm_195765/-/4/471x/acmhy/21/1avbcv/" target="_blank" >
+  <area shape="rect" coords="349,55,485,86" href="http://m3.rakuten.co.jp/gold/kanful/mens.html%253fscid%3drm_195765/-/4/471x/acmhy/22/1avbcv/" target="_blank" >
+  <area shape="rect" coords="211,92,486,124" href="http://m3.rakuten.co.jp/gold/kanful/index.html%253fscid%3drm_195765%2523footer/-/4/471x/acmhy/23/1avbcv/"  target="_blank" >
+  <area shape="rect" coords="352,203,678,233" href="http://m3.rakuten.co.jp/gold/kanful/kaitori/index.html%253fscid%3drm_195765/-/4/471x/acmhy/24/1avbcv/"  target="_blank" >
+	<!--↓新着日付をメルマガ配信日に変更-->
+	<area shape="rect" coords="17,245,685,276" href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d1%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E3%2580%2590cabfaddb-%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/25/1avbcv/" target="_blank" >
+	<!--↑新着日付をメルマガ配信日に変更ここまで-->
+
+	<area shape="rect" coords="19,287,687,339" href="http://m3.rakuten.co.jp/gold/kanful/mailmag/mailmag0331.html%253fscid%3drm_195765/-/4/471x/acmhy/26/1avbcv/" target="_blank" >
+</map>
+</div>
+
+<p>
+
+<!-- 本編開始 -->
+
+<!-- ↓消さない↓ -->
+
+<table width="683" border="0" cellpadding="10" cellspacing="1" bgcolor="#999999" align="center">
+  <tr>
+    <td width="661" align="center" bordercolor="0" bgcolor="#FFFFFF">
+
+<p>
+  <!-- ↑消さない↑ --><br />
+
+こんにちは! カンフルです。<br />
+
+
+いつもメールマガジンをご購読いただきまして誠にありがとうございます。<br />
+本日もメルマガ読者様にカンフルからのお得情報をお届けします♪<br />
+<a href="https://point.rakuten.co.jp/PointHistory/PointHistoryDisplay/?scid=rm_XXXXXX&scid=rm_195765" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/kikangenteipoint00.gif" border="0" width="610" /></a><br />
+
+
+<!--<font size="+3" color="#fa0505">本日、最大３倍の<br />ポイントゲットのチャンス!!!</font><br /><br />
+<!--<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag_yokoku.gif" border="0" width="610">
+<br />-->
+
+<!--<a href="http://m3.rakuten.co.jp/campaign/thanks_week/%253fscid%3drm_195765/-/6/471x/acmhy/27/1avbcv/	" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/campaign/0314point-smp.jpg" border="0" width="610">
+<br />
+<font size="-1">▲エントリーはコチラから!今すぐGO♪▲</font>
+<br /><br />
+
+<strong>
+<font size="+2" color="#fa0505">
+72時間限定！2ショップ以上の購入でポイント3倍<br />＋買いまわりで最大3000ポイントプレゼント	</font></strong></a>
+<br /><br />
+
+
+
+<hr size="1"><br />-->
+
+
+<a href="https://point.rakuten.co.jp/PointHistory/PointHistoryDisplay/?scid=rm_XXXXXX&scid=rm_195765" target="_blank" ><br />
+<font size="-1">▲あなたの現在の保有ポイントはコチラからチェック▲</font></a><br />
+
+
+ポイントは消えて無くなる前に、有効利用しちゃいましょう♪
+
+<br />
+
+<hr size="1"><br />
+
+
+
+<font size="+2" color="#ff0000">お待たせいたしました!<br />03月31日(火)20:00からご使用可能クーポン<br />【メールマガジン読者様★限定配布】</font><br /><br />
+
+<img src="http://image.rakuten.co.jp/kanful/cabinet/sale/0331coupon-head.gif" border="0" width="610"><br /><br />
+<a href="http://m3.rakuten.co.jp/getCoupon%253fgetkey%3dNFJBSi1UVTZSLVQzS04tUVpZUw--%26rt%3d%26scid%3drm_195765/-/b/471x/acmhy/28/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/sale/0331coupon.gif" border="0" width="610">
+<br />
+
+<font size="-1">▲［03月31日(火)20:00からご使用可能］クーポンゲットはコチラから▲</font>
+<br /><br />
+
+<strong>
+<font color="#ff0000">期間中、アイテム2,160円(税込)以上のご購入で送料０円になる！</font><br />
+
+<font size="+2" color="#ff0000">【72時間限定】<br />送料無料クーポンプレゼント</font>
+
+</strong></a>
+<br />
+
+<table width="550" border="0" cellpadding="10" cellspacing="1" bgcolor="#fff100" align="center">
+<tr>
+<td>
+<font size="-1" color="#000000"><strong>
+<!----><font size="-1" color="red">※クーポンは03月31日(火)20:00からご利用可能です。</font><br /><br />
+
+※必ず、ご注文時にクーポンのご利用をお願い致します。<br /><br />
+
+※ご注文後のクーポンのご利用はできかねますので何卒、ご了承下さいますよう宜しくお願い申し上げます。<br /><br />
+
+※1回のご注文で必ずアイテムを2,160円(税込)以上をご購入ください。<br />
+<br />
+
+※ご注文回数が複数となり同梱にて合計金額が2,160円(税込)以上になった場合は対応外となります。 <br />
+<br />
+
+※ご利用可能回数はおひとり様１回限りです。<br />
+<br />
+
+※海外発送は未対応です。</strong></font>
+</td>
+</tr>
+</table>
+<br />
+
+<hr size="1"><br />
+
+<a href="http://m3.rakuten.co.jp/campaign/eagles/%253fscid%3drm_195765/-/6/471x/acmhy/29/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/kanful/cabinet/campaign/0331point-smp.gif" border="0" width="610"><br>
+<font size="-1">▲エントリーはこちらからどうぞ▲</font><br>
+<strong>
+<font size="+2" color="#fa0505">プロ野球開幕記念! <br>
+楽天イーグルス応援キャンペーン<br />【第2弾】買い回りで最大9倍キャンペーン開催中</font></strong>
+<br /><br />
+
+さらに9ショップ以上購入で、抽選で50名様に、<br />
+期間中の購入金額合計を全額ポイントバック（最大10万円相当）！！</a>
+
+<hr size="1"><br />
+
+
+
+
+<font size="+2" color="#fa0505">本日、03月31日(火)20:00からは</font><br />
+
+<a href="http://m3.rakuten.co.jp/kanful/c/0000002962%253fscid%3drm_195765/-/2/471x/acmhy/30/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/sale/0331sale-main2.jpg" border="0" width="610">
+<br />
+<font size="-1">▲セールアイテムはコチラからチェック▲</font>
+<br /><br />
+
+<strong>
+<font size="+2" color="#fa0505">カンフルなら春のお気に入りみつかる!</font><br />
+<font size="+3" color="#fa0505">SPRING SALEスタートします!!!</font><br />
+
+
+</strong></a>
+
+
+<!--セール案内ここまで-->
+
+<br /><br />
+
+
+<!--セール詳細検索ここから-->
+<font size="-1">▼セールアイテムをさがす▼</font>
+<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag_sale.jpg" width="610" border="0" usemap="#Map2">
+<map name="Map2">
+	<area shape="rect" coords="0,-1,303,40" href="http://m3.rakuten.co.jp/kanful/c/0000002964/%253fscid%3drm_195765/-/2/471x/acmhy/31/1avbcv/" target="_blank" >
+	<area shape="rect" coords="307,-6,609,41" href="http://m3.rakuten.co.jp/kanful/c/0000002963/%253fscid%3drm_195765/-/2/471x/acmhy/32/1avbcv/" target="_blank" >
+	<area shape="rect" coords="37,91,214,252" href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2580%2590%25E3%2582%25AA%25E3%2583%25A4%25E3%2582%25B8%25E3%2580%2591%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/33/1avbcv/" target="_blank" >
+	<area shape="rect" coords="213,91,383,252" href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2580%2590%25E3%2583%2595%25E3%2583%25AB%25E5%25AD%2590%25E3%2580%2591%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/34/1avbcv/" target="_blank" >
+	<area shape="rect" coords="382,90,545,252" href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2580%2590%25E3%2582%25AB%25E3%2583%25B3%25E5%25A4%25AA%25E3%2580%2591%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/35/1avbcv/" target="_blank" >
+	<area shape="rect" coords="2,353,79,413" href="http://m3.rakuten.co.jp/search/inshop-mall/%E2%98%85%E3%82%BB%E3%83%BC%E3%83%AB%E2%98%85/-/f.3-max.999-p.1-s.1-sf.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/36/1avbcv/" target="_blank" >
+	<area shape="rect" coords="78,351,185,410" href="http://m3.rakuten.co.jp/search/inshop-mall/%E2%98%85%E3%82%BB%E3%83%BC%E3%83%AB%E2%98%85/-/f.3-max.4999-min.1000-p.1-s.1-sf.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/37/1avbcv/" target="_blank" >
+	<area shape="rect" coords="185,351,294,412" href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E2%2598%2585%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%25AB%25E2%2598%2585%26st%3dA%26nitem%3d%26min%3d5000%26max%3d9999%26scid%3drm_195765/-/d/471x/acmhy/38/1avbcv/" target="_blank" >
+	<area shape="rect" coords="294,351,402,412" href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E2%2598%2585%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%25AB%25E2%2598%2585%26st%3dA%26nitem%3d%26min%3d10000%26max%3d14999%26scid%3drm_195765/-/d/471x/acmhy/39/1avbcv/" target="_blank" >
+	<area shape="rect" coords="401,351,509,409" href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E2%2598%2585%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%25AB%25E2%2598%2585%26st%3dA%26nitem%3d%26min%3d15000%26max%3d19999%26scid%3drm_195765/-/d/471x/acmhy/40/1avbcv/" target="_blank" >
+	<area shape="rect" coords="509,352,619,411" href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d%25E2%2598%2585%25E3%2582%25BB%25E3%2583%25BC%25E3%2583%25AB%25E2%2598%2585%26st%3dA%26nitem%3d%26min%3d20000%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/41/1avbcv/" target="_blank" >
+</map>
+<br /><br />
+
+<hr size="1"><br />
+
+<!---->
+
+<!--ピックアップアイテムここから
+<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag-pickup_title.jpg" border="0" width="610"><br />
+<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag-pickup_l.jpg" border="0" width="610" /><br />-->
+
+	<!--ピックアップレディースここから
+
+	<table width="610" border="0" cellpadding="10" cellspacing="0" align="center" background="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag-pickup_02.jpg" >
+		<tr align="center">
+			<td><a href="http://m3.rakuten.co.jp/kanful/g002348395/%253fscid%3drm_195765/-/2/471x/acmhy/42/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/59/38/2348395.jpg" border="0" width="100"><br /><font size="-2">MUGUET<br />
+		リボントートバッグ</font></a></td>
+		
+			<td><a href="http://m3.rakuten.co.jp/kanful/g002349034/%253fscid%3drm_195765/-/2/471x/acmhy/43/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/43/09/2349034.jpg" border="0" width="100"><br /><font size="-2" >JUNYA WATANABE<br />
+		半袖ワンピース</font></a></td>
+
+			<td><a href="http://m3.rakuten.co.jp/kanful/g006101380/%253fscid%3drm_195765/-/2/471x/acmhy/44/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/08/31/6101380.jpg" border="0" width="100"><br /><font size="-2">MARC BY<br />MARC JACOBS<br />
+		長袖ブラウス</font></a></td>
+		
+			<td><a href="http://m3.rakuten.co.jp/kanful/g002345743/%253fscid%3drm_195765/-/2/471x/acmhy/45/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/34/75/2345743.jpg" border="0" width="100"><br /><font size="-2">TRICKERS×SHIPS <br />
+		スウェードブーツ</font></a></td>
+		
+		</tr>
+
+</table><br />
+	<!--ピックアップレディースここまで-->
+	
+	<!--ピックアップメンズここから
+	<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag-pickup_m.jpg" border="0" width="610">
+	<table width="610" border="0" cellpadding="10" cellspacing="0" align="center" background="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag-pickup_02.jpg">
+		<tr align="center">
+			<td><a href="http://m3.rakuten.co.jp/kanful/g004029693/%253fscid%3drm_195765/-/2/471x/acmhy/46/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/39/69/4029693.jpg" border="0" width="100"><br /><font size="-2">REEBOK<br />PUMP FURY<br />OGスニーカー</font></a></td>
+		
+			<td><a href="http://m3.rakuten.co.jp/kanful/g008027215/%253fscid%3drm_195765/-/2/471x/acmhy/47/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/51/27/8027215.jpg" border="0" width="100"><br /><font size="-2" >foot the coacher<br />
+		レザーシューズ</font></a></td>
+
+			<td><a href="http://m3.rakuten.co.jp/kanful/g008027221/%253fscid%3drm_195765/-/2/471x/acmhy/48/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/12/27/8027221.jpg" border="0" width="100"><br /><font size="-2">N.HOOLYWOOD<br />
+		テーラードジャケット</font></a></td>
+		
+			<td><a href="http://m3.rakuten.co.jp/kanful/g008027253/%253fscid%3drm_195765/-/2/471x/acmhy/49/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/35/27/8027253.jpg" border="0" width="100"><br /><font size="-2">AKM<br />
+		コットンパンツ</font></a></td>
+		
+		</tr>
+
+	</table><br />
+	<!--ピックアップメンズここまで-->
+	
+	<!--ピックアップスーパーブランドここから
+	<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag-pickup_s.jpg" border="0" width="610">
+	<table width="610" border="0" cellpadding="10" cellspacing="0" align="center" background="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag-pickup_02.jpg">
+		<tr align="center">
+			<td><a href="http://m3.rakuten.co.jp/kanful/g002324446/%253fscid%3drm_195765/-/2/471x/acmhy/50/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/64/44/2324446.jpg" border="0" width="100"><br /><font size="-2">PRADA<br />
+		PMトートバッグ</font></a></td>
+		
+			<td><a href="http://m3.rakuten.co.jp/kanful/g002339867/%253fscid%3drm_195765/-/2/471x/acmhy/51/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/76/89/2339867.jpg" border="0" width="100"><br /><font size="-2" >GUCCI<br />
+		トートバッグ</font></a></td>
+
+			<td><a href="http://m3.rakuten.co.jp/kanful/g002325465/%253fscid%3drm_195765/-/2/471x/acmhy/52/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/56/45/2325465.jpg" border="0" width="100"><br /><font size="-2">PRADA<br />
+		ショルダーバッグ</font></a></td>
+		
+			<td><a href="http://m3.rakuten.co.jp/kanful/g008026863/%253fscid%3drm_195765/-/2/471x/acmhy/53/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/36/86/8026863.jpg" border="0" width="100" /><br /><font size="-2">LOUIS VUITTON<br />
+		トートバッグ</font></a></td>
+		
+		</tr>
+
+	</table>
+	
+	<hr size="1"><br />
+	<!--ピックアップスーパーブランドここまで-->
+	
+<!--ピックアップアイテムここまで-->
+
+
+<!--楽天ポイント案内ここから
+<!--
+<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag_point.jpg" border="0" width="610">-->
+
+
+<!--<font size="+3" color="#fa0505">しかも今なら最大6倍の<br />ポイントゲットのチャンス!!!</font>-->
+<!--<font size="-1">▼エントリーはこちらから▼</font>-->
+
+<!----><!--その他のお得なポイントアップキャンペーンはコチラ<br />-->
+<!--<font size="-1">▼エントリーはこちらから▼</font>
+
+<table width="600" border="0" cellpadding="0" cellspacing="3" align="center">
+<tr align="center">
+		<td><a href="http://m3.rakuten.co.jp/campaign/point-up/reward/%253fscid%3drm_195765/-/6/471x/acmhy/54/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/campaign/0224gohoubi-footer.jpg" border="0" width="300"><br /><font size="-1">今月もよく頑張りました！<br />自分へのご褒美応援キャンペーン</font></a></td>
+</tr>
+
+</table>-->
+
+<!--楽天ポイント案内ここまで-->
+<table width="600" border="0" cellpadding="0" cellspacing="3" align="center">
+	<!--<tr align="center">
+		<td><a href="http://m3.rakuten.co.jp/campaign/point-up/max3000/150125/%253fscid%3drm_195765/-/6/471x/acmhy/55/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/campaign/0125point-footer.jpg" border="0" width="300"><br /><font size="-1">72時間限定！2ショップ以上の購入で全ショップ3倍<br />＋買いまわりで最大3000ポイントプレゼント</font></a></td>
+</tr>-->
+	<!--<tr align="center">
+		<td><a href="http://m3.rakuten.co.jp/campaign/point-up/dpg/141109/%253fscid%3drm_195765/-/6/471x/acmhy/56/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/campaign/1109point-footer.gif" border="0" width="300"><br /><font size="-1">24時間限定！<br />エントリーでダイヤモンド会員はポイント4倍、<br />プラチナ会員はポイント3倍、ゴールド会員はポイント2倍</font></a></td>
+		
+		<td><a href="http://m3.rakuten.co.jp/used/point/%253fl-id%3dtop_normal_flashbnr_10_032%26l-id%3dppf_pc_s1_pc_web_t1_6352%26scid%3drm_195765/-/6/471x/acmhy/57/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/campaign/point-chyuko3-footer.gif" border="0" width="300"><br /><font size="-1">期間限定！<br />エントリー＆中古商品をお買いものでポイント3倍<br /><br />
+</font></a></td>
+		
+</tr>-->
+</table>
+
+<!--
+<font size="+2" color="#fa0505">本日01月29日(木)23:59まで!!!</font><br />
+<a href="http://m3.rakuten.co.jp/campaign/point-up/shop3/150129/%253fscid%3drm_195765/-/6/471x/acmhy/58/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/kanful/cabinet/campaign/14h-point3-footer.gif" border="0" width="400"><br>
+<font size="-1">▲エントリーはコチラから!今すぐGO!▲</font><br>
+<strong>
+<font size="+2" color="#fa0505">14時間限定！エントリーで<br>ポイント3倍キャンペーン</font></strong></a>
+<br /><br />
+
+
+<font size="+3" color="#fa0505">何を買っても、何点買ってもポイント３倍♪</font><br />-->
+
+
+
+
+<!--
+<font size="-1">▼注目のトピックス▼</font>
+
+
+<table width="600" border="0" cellpadding="0" cellspacing="3" align="center">
+<tr align="center">
+		<td><a href="http://m3.rakuten.co.jp/kanful/c/0000003322/%253fscid%3drm_195765/-/2/471x/acmhy/59/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/parts/horidashimono-topmin.jpg" border="0" width="300"><br />
+
+<font size="-1">
+
+あのブランドがこの価格!?<br />お宝発見!掘り出し物♪</font></a></td>
+		
+		<td>
+		<a href="http://m3.rakuten.co.jp/kanful/c/0000002489/%253fs%3d1%26i%3d1%26scid%3drm_195765%2523risFil/-/2/471x/acmhy/60/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/kanful/cabinet/rakuten_koukoku/2014summer-kids.jpg" border="0" width="300"><br /><font size="-1">
+
+おしゃれキッズ＆ママ集まれ〜<br />KID'S WEAR</font></a></td>
+</tr>
+
+</table><br /><br />
+
+<hr size="1"><br />
+
+
+<!--
+<font size="-1">▼注目のトピックス▼</font>
+
+<table width="600" border="0" cellpadding="0" cellspacing="3" align="center">
+<tr align="center">
+		<td><a href="http://m3.rakuten.co.jp/kanful/c/0000002489/%253fs%3d1%26i%3d1%26scid%3drm_195765%2523risFil/-/2/471x/acmhy/61/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/rakuten_koukoku/2014summer-kids.jpg" border="0" width="300"><br /><font size="-1">キッズアイテム続々入荷中</font></a></td>
+		
+		<td><a href="http://m3.rakuten.co.jp/search/inshop-mall/%E3%82%AE%E3%83%B3%E3%82%AC%E3%83%A0%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/-/f.3-p.1-s.1-sf.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/62/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/rakuten_koukoku/2014summer-check2.jpg" border="0" width="300"><br /><font size="-1">ギンガムチェックコレクション
+</font></a></td>
+		
+</tr>
+
+</table>
+
+<hr size="1"><br />-->
+
+<font size="+2" color="#fa0505">大人気★おなじみのキャンペーンももちろん開催中</font><br />
+
+<a href="http://m3.rakuten.co.jp/gold/kanful/index.html%253fscid%3drm_195765/-/4/471x/acmhy/63/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/kanful/cabinet/sale/0321souryou-smp.gif" border="0" width="610"><br>
+<font size="-1">▲お買い物はコチラから!今すぐGO!▲</font><br>
+<strong>
+<font size="+2" color="#fa0505">5,400円(税込)以上のご購入で<br>送料無料キャンペーン開催中!!!</font></strong></a>
+<br /><br />
+
+
+<hr size="1"><br />
+
+
+<!-- 買取ここから -->
+<font color="#fa0505">【 Ｗ Ａ Ｎ Ｔ Ｅ Ｄ ！】<br />あなたの着なくなった大切なお洋服、<br />カンフルなら高くお買い取りいたします!!!</font><br />
+
+
+<strong>
+<a href="http://m3.rakuten.co.jp/gold/kanful/kaitori/takuhai-kaitori.html%253fscid%3drm_195765/-/4/471x/acmhy/64/1avbcv/" target="_blank" ><font size="+2" color="#fa0505">いつでもカンフルの強化買取ブランドは</font>
+<br />
+
+<font color="#fa0505" size="+2">査定額からさらに20%UP!!!!</font>
+
+<br />
+
+<img src="http://image.rakuten.co.jp/kanful/cabinet/kaitori/kaitori-title-image.gif" border="0" width="610"><br>
+</a></strong>
+<!----><a href="http://m3.rakuten.co.jp/gold/kanful/kaitori/brand.html%253fscid%3drm_195765%2523kyoka-brand/-/4/471x/acmhy/65/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/ahc-linc.gif" border="0" width="610"></a><br /><br />
+
+<!---->
+<a href="http://buyback.rakuten.co.jp/event/beginner/" target="_blank" >
+<img src="http://image.rakuten.co.jp/kanful/cabinet/campaign/point1300-footer.jpg" border="0" width="400px">
+<br />
+<font size="-1">▲04月01日(水)09:59まで開催中!今すぐエントリーはこちら▲</font></a>
+<br />
+
+<a href="http://buyback.rakuten.co.jp/event/1000point/?l-id=used_flash_18" target="_blank" ><font size="+2" color="#f80404">【服売るなら今がチャンス!!!】<br />
+初めての買取成約(3,000円(税込)以上)で1,300ポイント<br />
+プレゼントキャンペーン開催中</font></a><br /><br />
+
+
+お子様がいらっしゃる方にうれしいお知らせ♪<br />
+もう着れなくなってしまったお子様のお洋服、<br />整理できないままになっていませんか？？<br /><br />
+
+
+<a href="http://m3.rakuten.co.jp/gold/kanful/kaitori/brand.html%253fscid%3drm_195765%2523kyoka-kids/-/4/471x/acmhy/66/1avbcv/" target="_blank" ><strong>
+<font size="+2" color="#fa0505">★子供服高価買取中★</font>
+</strong><br />
+
+<img src="http://image.rakuten.co.jp/kanful/cabinet/sale/2014_kids_ahc-20-bar.jpg" border="0" width="610" /><br />
+
+<font size="-1">▲強化買取ブランド、取り扱いブランド一覧はコチラから▲</font></a>
+<br />
+
+<font>
+お子様の大切な思い出が詰まった、お洋服。<br />
+その思い出をこわさぬよう1点1点丁寧に扱い、<br />
+しっかりと査定させていただきます!
+</font>
+<br />
+
+<a href="http://m3.rakuten.co.jp/gold/kanful/kaitori/index.html%253fscid%3drm_195765/-/4/471x/acmhy/67/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/kaitori-mail.jpg" border="0" width="600"><br /></a>
+
+<a href="http://m3.rakuten.co.jp/gold/kanful/kaitori/ng-item.html%253fscid%3drm_195765/-/4/471x/acmhy/68/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mailmag-ngitem.jpg" border="0" width="600"><br /><br /></a>
+
+<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/tel_1_.gif" border="0" width="600">
+<br /><br />
+<!-- 買取ここまで -->
+
+
+
+
+
+
+
+<table width="600" border="0" cellpadding="0" cellspacing="3" align="center">
+<tr align="center">
+		<td><a href="http://m3.rakuten.co.jp/gold/kanful/wallpaper/wallpaper-04.html%253fscid%3drm_195765/-/4/471x/acmhy/69/1avbcv/" target="_blank" >
+<font size="+2" color="#0000ff">◎4月カレンダー付き◎<br />ORIGINAL WALLPAPER<br />無料プレゼント中</font><br />
+</a>
+
+<font size="-1">
+
+「カンフルキャッツのお花畑探検♪」<br />
+壁紙を無料配信しちゃいます</font></td>
+		
+		<td><a href="http://m3.rakuten.co.jp/gold/kanful/wallpaper/wallpaper-04.html%253fscid%3drm_195765/-/4/471x/acmhy/70/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/sale/20154-walltop.jpg" border="0" width="300"></a></td>
+</tr>
+
+</table><br />
+
+<hr size="1"><br />
+<a href="http://m3.rakuten.co.jp/gold/kanful/info/recruit.html%253fscid%3drm_195765/-/4/471x/acmhy/71/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/201412kyuujin-top.jpg" border="0" width="600"><br />
+
+<font size="-1">▲詳しくはコチラから▲</font></a>
+<br />
+
+カンフルでは現在、各店舗にてアルバイトのスタッフを募集しています。<br />
+商品を買取業務をされていた方やブランドに詳しい方、<br />経験により優遇いたします。（社員雇用あり）<br />
+
+服が好きな方、古着が好きな方、<br />インターネットが好きな方、接客が好きな方、大歓迎です。<br /><br />
+
+【勤務地】<br />
+●KANFUL ネット販売部・買取査定部(滋賀県草津市)<br />
+●KANFUL 裏原宿店　(東京都渋谷区)<br />
+●KANFUL 京都裏寺店(京都市中京区)<br />
+●KANFUL 南堀江店　(大阪市西区)<br />
+
+<br />
+
+<hr size="1"><br />
+本日も最後までメルマガをご購読頂き<br />
+誠に、ありがとうございます!!<br />
+
+それでは引き続きカンフルでのお買い物をお楽しみください♪<br />
+
+
+<!-- ↓消さない↓ -->
+    </td>
+  </tr>
+</table>
+<p>
+	<!-- ↑消さない↑ -->
+	
+	<!-- 本編終了 -->
+
+
+<!-- newピックアップブランド　ここから -->
+</p>
+
+<div align="center">
+<br />
+
+<img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brandtitle.jpg" border="0" width="700">
+<br />
+<br />
+<table width="661" border="0" cellpadding="0" cellspacing="5" align="center" background="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-waku2.jpg">
+
+	<tr align="center">
+		<td><a href="http://m3.rakuten.co.jp/search/inshop-mall/KAPITAL/-/f.3-p.0-s.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/72/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-kapital2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall/MARGARET+HOWELL/-/f.3-p.1-s.1-sf.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/73/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-mh2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall/VISVIM/-/f.3-p.0-s.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/74/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-visvim2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3dCOMME%2520des%2520GARCONS%25E3%2580%2580JUNYA%2520WATANABE%26st%3dO%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/75/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-cg2.jpg" border="0"></a></td>
+    </tr>
+    
+    <tr align="center">
+		<td><a href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3dyohji%2520yamamoto%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/76/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-yy2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall/TSUMORI+CHISATO/-/f.3-p.0-s.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/77/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-tc2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall/HYSTERIC+GLAMOUR/-/f.3-p.0-s.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/78/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-hg2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall/ENGINEERED+GARMENTS/-/f.3-p.0-s.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/79/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-eg2.jpg" border="0"></a></td>
+    </tr>
+    
+        
+    <tr align="center">
+		<td><a href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3d45rpm%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/80/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-45r2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3dRALPH%2520LAUREN%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/81/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-rl2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall/mina+perhonen/-/f.3-p.0-s.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/82/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-mp2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall/JOURNAL+STANDARD/-/f.3-p.0-s.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/83/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-js2.jpg" border="0"></a></td>
+    </tr>
+    
+        
+    <tr align="center">
+		<td><a href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3dSUPREME%26st%3dA%26nitem%3d-l%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/84/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-supreme2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3dBURBERRY%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/85/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-burberry2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall%253ff%3d3%26v%3d3%26sid%3d195765%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3dzucca%26st%3dA%26nitem%3d%26min%3d%26max%3d%26scid%3drm_195765/-/d/471x/acmhy/86/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-zucca2.jpg" border="0"></a></td>
+        <td><a href="http://m3.rakuten.co.jp/search/inshop-mall/RRL/-/f.3-p.0-s.0-sid.195765-st.A-v.3%253fscid%3drm_195765/-/d/471x/acmhy/87/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-brand-rrl2.jpg" border="0"></a></td>
+    </tr>
+    
+</table>
+    
+</div>
+<!-- ピックアップブランド　ここまで -->
+
+
+
+<!-- メルマガ下部　ここから -->
+<br />
+<br />
+
+<div align="center">
+
+
+  <img src="http://image.rakuten.co.jp/kanful/cabinet/mm/mm-footerinfo-ok.jpg" border="0" usemap="#Map">
+
+    <map name="Map">
+      <area shape="rect" coords="227,47,464,62" href="http://m3.rakuten.co.jp/gold/kanful/%253fscid%3drm_195765/-/4/471x/acmhy/88/1avbcv/" target="_blank" >
+      <area shape="rect" coords="269,89,430,103" href="mailto:kanful@shop.rakuten.co.jp " target="_blank" >
+      <area shape="rect" coords="212,362,476,377" href="http://m3.rakuten.co.jp/kanful/news.html%253fscid%3drm_195765/-/1/471x/acmhy/89/1avbcv/" target="_blank" >
+    </map>
+
+  <br /><br /><br />
+	
+</div>
+
+<!-- メルマガ下部　ここまで -->
+</td></tr></table><br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td width="1%"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="1" alt=""></td>
+<td><font size="-1" color="#000000">●</font><font size="-1">配信停止は<a href="http://emagazine.rakuten.co.jp/q?u=kanful&k=n%7eOHy%25ewljrggyS%214lhTi.D%3fcxC%608AWf%7d.25&scid=rm_195765" target="_blank" >こちら</a>のページからお願いします。</font></td>
+</tr>
+<tr>
+<td width="1%"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="1" alt=""></td>
+<td><font size="-1" color="#000000">●</font><font size="-1">アドレス変更は、<a href="http://www.rakuten.co.jp/kanful/news.html?scid=rm_195765" target="_blank" >こちら</a>のページから
+お願いします。</font></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td bgcolor="#cdcdcd">
+<font size="-1">
+<a href="http://www.rakuten.co.jp/?scid=rm_rakuten_footer_top&scid=rm_195765" target="_blank" >楽天トップ</a>
+| <a href="http://www.rakuten.co.jp/category/ladiesfashion/?scid=rm_rakuten_footer_lfs&scid=rm_195765" target="_blank" >レディースファッション</a>
+| <a href="http://www.rakuten.co.jp/category/shoes/?scid=rm_rakuten_footer_sho&scid=rm_195765" target="_blank" >靴</a>
+| <a href="http://www.rakuten.co.jp/auction/?scid=rm_rakuten_footer_auc&scid=rm_195765" target="_blank" >オークション</a>
+| <a href="http://event.rakuten.co.jp/present/?scid=rm_rakuten_footer_pre&scid=rm_195765" target="_blank" >懸賞市場</a>
+| <a href="http://affiliate.rakuten.co.jp/?scid=rm_rakuten_footer_aff" target="_blank" >楽天アフィリエイト</a>
+| <a href="http://emagazine.rakuten.co.jp/?scid=rm_rakuten_footer_mail&scid=rm_195765" target="_blank" >楽天のメルマガ申込</a>
+| <a href="http://www.rakuten.co.jp/ec/?camp=70110000000XRf4&scid=mi_ich_rm&scid=rm_195765" target="_blank" >出店のご案内</a>
+</font>
+</td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#999999"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="1" alt=""></td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#BF0000"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="2" alt=""></td>
+</tr>
+</table>
+
+<div><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="8" height="8" alt=""></div>
+
+<table width="80%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>
+<a href="http://link.rakuten.co.jp/1/008/531/?url=2/831/68809/0/RC2" target="_blank" ><img src="http://image.rakuten.co.jp/com/img/email/rmail/item/2009/0527/okaimono_02.gif" width="100%" alt="" border="0"></a></td>
+</tr>
+</table>
+
+</body>
+</html>
+--=_4ba68b17de59380401d784d4e1326e5d--

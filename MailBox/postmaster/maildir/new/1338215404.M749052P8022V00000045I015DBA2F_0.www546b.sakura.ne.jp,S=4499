@@ -1,0 +1,113 @@
+Return-Path: <>
+Received: from blu0-omc2-s30.blu0.hotmail.com (blu0-omc2-s30.blu0.hotmail.com [65.55.111.105])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q4SEU32V008018
+	for <sportshobby2@www546b.sakura.ne.jp>; Mon, 28 May 2012 23:30:04 +0900 (JST)
+Received: from BAY0-MC2-F46.Bay0.hotmail.com ([65.55.111.71]) by blu0-omc2-s30.blu0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Mon, 28 May 2012 07:30:03 -0700
+From: postmaster@hotmail.com
+To: sportshobby2@www546b.sakura.ne.jp
+Date: Mon, 28 May 2012 07:30:02 -0700
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9B095B5ADSN=_01CD37F94E19D4B40053F64EBAY0?MC2?F46.Bay"
+X-DSNContext: 335a7efd - 4480 - 00000001 - 80040546
+Message-ID: <MDQ3CsYx7000cd239@BAY0-MC2-F46.Bay0.hotmail.com>
+Subject: Delivery Status Notification (Failure)
+X-OriginalArrivalTime: 28 May 2012 14:30:03.0107 (UTC) FILETIME=[5E987B30:01CD3CDE]
+
+This is a MIME-formatted message.  
+Portions of this message may be unreadable without a MIME-capable mail program.
+
+--9B095B5ADSN=_01CD37F94E19D4B40053F64EBAY0?MC2?F46.Bay
+Content-Type: text/plain; charset=unicode-1-1-utf-7
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+       m.k1980.xxx@hotmail.co.jp
+
+
+
+
+--9B095B5ADSN=_01CD37F94E19D4B40053F64EBAY0?MC2?F46.Bay
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;BAY0-MC2-F46.Bay0.hotmail.com
+Received-From-MTA: dns;www546b.sakura.ne.jp
+Arrival-Date: Mon, 28 May 2012 07:30:02 -0700
+
+Final-Recipient: rfc822;m.k1980.xxx@hotmail.co.jp
+Action: failed
+Status: 5.5.0
+Diagnostic-Code: smtp;550 Requested action not taken: mailbox unavailable (-949396564:3735:-2147467259)
+
+--9B095B5ADSN=_01CD37F94E19D4B40053F64EBAY0?MC2?F46.Bay
+Content-Type: message/rfc822
+
+Received: from www546b.sakura.ne.jp ([112.78.125.46]) by BAY0-MC2-F46.Bay0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4900);
+	 Mon, 28 May 2012 07:30:02 -0700
+Received: from www546b.sakura.ne.jp (localhost [127.0.0.1])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q4SEU15I007990
+	for <m.k1980.xxx@hotmail.co.jp>; Mon, 28 May 2012 23:30:01 +0900 (JST)
+	(envelope-from sportshobby2@www546b.sakura.ne.jp)
+Received: (from sportshobby2@localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3/Submit) id q4SEU1OQ007989;
+	Mon, 28 May 2012 23:30:01 +0900 (JST)
+	(envelope-from sportshobby2)
+Date: Mon, 28 May 2012 23:30:01 +0900 (JST)
+To: =?iso-2022-jp?B?GyRCNkBMIxsoQiAbJEI4LTcxGyhC?= <m.k1980.xxx@hotmail.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVolOSVdITwlRCVbJVMhPCFbOl84SyROJCpMZCQkOWcbKEI=?=
+	=?iso-2022-jp?B?GyRCJG8kOyRyPHUkMUlVJDEkXiQ3JD8bKEI=?=
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Message-Id: <Qdmail.1.2.6b_312bf213b1e460906314e988e726c54830945878@hal456.net>
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-PHP-Qdmail: version-1.2.6b The_MIT_License http://hal456.net/qdmail PHPver 5.2.17
+	send-by MailFunction
+Return-Path: sportshobby2@www546b.sakura.ne.jp
+X-OriginalArrivalTime: 28 May 2012 14:30:02.0423 (UTC) FILETIME=[5E301C70:01CD3CDE]
+
+-------------------------------
+このメールは在庫のお問合せの自動返信メールとなっております。
+-------------------------------
+鏡味 賢訓  様
+
+ライラクス　フォールディング・グリップの在庫確認を承りました。
+担当者より返信いたしますので、少々お待ち下さい。
+
+お急ぎの場合はお電話でお問合わせください。
+電話番号：011-773-5090
+
+-------下記情報を送信いたしました-----------
+商品ID　：　243411-0010001002
+商品名　：　ライラクス　フォールディング・グリップ
+価格　：　6961 円
+
+電話番号　：　090-2263-5107
+メール　　：　m.k1980.xxx@hotmail.co.jp
+都道府県　：　愛知県
+住所（市区町村）　　：　名古屋市緑区大高町字蛇池下
+住所（番地・建物名）　　：　18番地
+
+お問い合わせ内容：　在庫はありますでしょうか？
+-------------------------------
+当社理由　：　Google
+
+**********************************************
+ご不明な点など御座いましたらお気軽にご相談ください。
+
+ラジコンショップ｜スポーツホビー
+運営会社：有限会社SHK
+
+URL：http://www.sportshobby.co.jp
+
+〒002-0859 北海道札幌市北区屯田11条3丁目
+TEL 011-773-5090
+代表取締役　黒田　民雄
+E-mail <info@sportshobby.co.jp>
+**********************************************
+
+
+--9B095B5ADSN=_01CD37F94E19D4B40053F64EBAY0?MC2?F46.Bay--

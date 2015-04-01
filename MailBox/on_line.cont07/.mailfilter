@@ -1,0 +1,8 @@
+if ( ! ( /^From:\s*(.*)/ && lookup( $MATCH1, ".whitelist" ) ) )
+{
+	xfilter "/usr/local/bin/spamc"
+}
+if ( /^X-Spam-Flag:.*YES/ )
+{
+	to "maildir/.spam/"
+}

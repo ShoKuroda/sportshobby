@@ -1,0 +1,17 @@
+<? 
+$this->layout="no_action";
+$this->set('title', 'お問い合わせ');
+$this->set('h1', 'お気軽にお問い合わせください！');
+$this->set('keywords', "お問い合わせ,ラジコン");
+$this->set('description', "札幌でラジコン(RC)を購入するなら在庫量日本一のスポーツホビーでショッピング！！");
+?>
+
+<h2 class="pages">お問い合わせを受け付けました</h2>
+<p class="pankuzu"><a href="/">トップページ</a>　>　お問い合わせ　完了</p>
+<h3>スポーツホビーへのお問い合わせを受け付けました</h3>
+
+<p class="center" style="line-height:2.0">
+<span class="lg">お問い合わせありがとうございました。</span><br />
+<p class="center">1営業日以内に担当者よりご返信いたします。</p>
+<p class="center">今後とも何卒よろしくお願いします。</p>
+<p class="center line bold"><a href="/">＞＞　トップへ戻る　＜＜</a></p>

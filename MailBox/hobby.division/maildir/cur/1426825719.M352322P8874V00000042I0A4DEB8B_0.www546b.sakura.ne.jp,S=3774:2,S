@@ -1,0 +1,77 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,TVD_RCVD_SPACE_BRACKET,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,
+	URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav402.sakura.ne.jp (fsav402.sakura.ne.jp [133.242.250.101])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2K4Sap5008871
+	for <hobby.division@sportshobby.co.jp>; Fri, 20 Mar 2015 13:28:36 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav402.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp);
+ Fri, 20 Mar 2015 13:28:36 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-211.smtp.rakuten.co.jp [202.72.58.211])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2K4SaTb008868
+	for <hobby.division@sportshobby.co.jp>; Fri, 20 Mar 2015 13:28:36 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat110.prod.jp.local [100.66.16.67])
+	by mxmattx102z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l7XD41rNrz692y
+	for <hobby.division@sportshobby.co.jp>; Fri, 20 Mar 2015 13:28:36 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426825716;
+	bh=ctxyzmb8M5/fRFhiHEWCDnkr54Zl0v3tLMPAXi2xaVg=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=RQAl6eo/gcLj635Fe+1UHVnqn/5QaxHEyI6kSnS55JvoKCs2QvEl8MF4mk19dPwaD
+	 4YBI9C/y5fAjbzWX3JuVKmNU1i7vs1Fil6bS0dsCkbEB0lrwqiHUY15uY+Ko1xRJI+
+	 Ru+mUnheN7GDACrYd1S3eZ8a7XIMPx8bjiziePkY=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat110.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2K4RJlg003368
+	for <hobby.division@sportshobby.co.jp>; Fri, 20 Mar 2015 13:28:36 +0900
+Received: from armsrb210c.ap.rakuten.co.jp ([armsrb210c.ap.rakuten.co.jp [172.28.246.130]]) by mat110.prod.jp.local with RELAY id t2K4SZQe008027 ;
+          Fri, 20 Mar 2015 13:28:36 +0900
+Date: Fri, 20 Mar 2015 13:28:35 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: f1321dc9ff245bb1681632bf961e1d1bs1@dm.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503201328.t2K4SZQe008027@mat110.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJDRDbUo4JCIkaiQsJEgkJiQ0JDYkJBsoQg==?=
+ =?iso-2022-jp?B?GyRCJF4kOSEjIVo3Z0lKJE4kKkNOJGkkOyFbGyhC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.246.130
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: 08F06CA70642B896FDE654BB0F68DE2E2C29631E
+
+■ご注文に関するお知らせ■
+
+この度は､ご注文ありがとうございます｡
+
+大変申し訳ございませんが､店頭販売と在庫を兼ねている関係で､
+
+･SANWA(ｻﾝﾜ) MX-V  RX-37W PC(送信機&防水受信機)(mxvpcw)   
+
+が品切れしてしまいました｡
+
+お手数をお掛け致しますが､以下のうちから対応をお選び､ご連絡頂けますでしょうか｡
+
+1:ﾉｰﾏﾙ送受信機ｾｯﾄからRX-371W(防水受信機)を差し替えにて発送する
+ ※受信機が上位ﾓﾃﾞﾙになります｡
+
+2:入荷次第発送する(約1週間程度の入荷予定)
+
+3:一度､注文全体をｷｬﾝｾﾙする｡
+
+
+
+こちらの不手際でご迷惑をお掛け致しますが､よろしくお願い致します｡
+ご連絡いただきしだい､対応させていただきます｡
+
+ｽﾎﾟｰﾂﾎﾋﾞｰ
+http://m.rakuten.co.jp/sportshobby/
+  
+
+

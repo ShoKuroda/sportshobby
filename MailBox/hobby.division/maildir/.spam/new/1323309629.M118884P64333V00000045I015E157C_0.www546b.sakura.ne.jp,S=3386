@@ -1,0 +1,69 @@
+Return-Path: <test.test@aol.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.6 required=7.0 tests=FAKE_REPLY_C,FREEMAIL_FROM,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	RCVD_FAKE_HELO_DOTCOM,STOX_REPLY_TYPE,URIBL_AB_SURBL,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: tabdrugstorefitness.net]
+	*  0.2 STOX_REPLY_TYPE STOX_REPLY_TYPE
+	*  2.4 RCVD_FAKE_HELO_DOTCOM Received contains a faked HELO hostname
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (test.test[at]aol.com)
+	*  2.4 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  1.7 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: tabdrugstorefitness.net]
+	*  1.7 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: tabdrugstorefitness.net]
+	*  1.9 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: tabdrugstorefitness.net]
+	*  0.6 URIBL_SBL Contains an URL listed in the SBL blocklist
+	*      [URIs: tabdrugstorefitness.net]
+	*  0.0 FAKE_REPLY_C FAKE_REPLY_C
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id pB820P5O064329
+	for <hobby.division@sportshobby.co.jp>; Thu, 8 Dec 2011 11:00:25 +0900 (JST)
+	(envelope-from test.test@aol.com)
+X-Nat-Received: from [112.78.125.46]:50493 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1323309625.5049
+Received: from smtp.tigo.net.gt-3G (core183.network49.161.tigo.net.gt [200.49.161.183] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id pB820Mov064322
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Thu, 8 Dec 2011 11:00:24 +0900 (JST)
+	(envelope-from test.test@aol.com)
+Received: from vewdijq.com ([10.200.70.50])
+	by smtp.tigo.net.gt-3G (8.13.8/8.13.1) with ESMTP id pB820EpV010571
+	for <hobby.division@sportshobby.co.jp>; Wed, 7 Dec 2011 20:00:20 -0600
+Received: from (unknown [10.248.87.99]) by scmgateway.tigo.com.gt with smtp
+	 id 6ac6_04b7_7f2b3eb2_213d_11e1_bd03_00237d24f324;
+	Wed, 07 Dec 2011 19:39:46 -0600
+Received: from aol.com ([205.188.100.58]) by vewdijq.com with SMTP; Sun, 25 Sep 2011 16:19:37 -0600
+Message-ID: <000e01cc7bd1$35ece280$e3a231c8@aol.com>
+From: "test test" <test.test@aol.com>
+To: <hobby.division@sportshobby.co.jp>
+Subject: Re: Re:
+Date: Sun, 25 Sep 2011 16:18:01 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="windows-1250";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2741.2600
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2741.2600
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.44/RELEASE, bases: 07122011 #5950841, status: clean
+
+We know how to ensure your ultimate health and optimism! Visit our trusted pharmacy!
+
+http://tabdrugstorefitness.net/
+

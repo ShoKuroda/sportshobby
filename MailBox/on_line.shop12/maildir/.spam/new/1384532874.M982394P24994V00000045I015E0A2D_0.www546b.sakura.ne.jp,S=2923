@@ -1,0 +1,56 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.2 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: ailiek.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9919]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: ailiek.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: ailiek.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: ailiek.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: ailiek.ru]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: ailiek.ru]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: ailiek.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rAFGRpTg024991
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 16 Nov 2013 01:27:51 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:60968 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1384532871.6267
+Received: from 86.150.169.227 (host86-150-169-227.range86-150.btcentralplus.com [86.150.169.227])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rAFGRnSK024975
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 16 Nov 2013 01:27:50 +0900 (JST)
+Message-Id: <201311151627.rAFGRnSK024975@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (aandreou@lmlaw.it@26.45.57.37)
+	by 86.150.169.227 with ESMTPA; Fri, 15 Nov 2013 16:31:53 -0000
+From: aandreou@lmlaw.it
+To: on_line.shop12@sportshobby.co.jp
+Subject: Incredible recharging effect on male health
+Date: Fri, 15 Nov 2013 16:26:18 -0000
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 15112013 #9365068, status: clean
+
+http://resolute.ailiek.ru/ Give to your girlfriend a night of enjoyment
+

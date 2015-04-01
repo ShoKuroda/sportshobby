@@ -1,0 +1,64 @@
+Return-Path: <C48E1C67D@attachpoint.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.0 required=7.0 tests=BAYES_95,HTML_MESSAGE,
+	MIME_HTML_ONLY,RAZOR2_CHECK,TO_NO_BRKTS_HTML_ONLY,URIBL_AB_SURBL,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: zxgirls.ru]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: zxgirls.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: zxgirls.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: zxgirls.ru]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9846]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.3 TO_NO_BRKTS_HTML_ONLY To: misformatted and HTML only
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id qA2GfJpJ080144
+	for <hobby.division@sportshobby.co.jp>; Sat, 3 Nov 2012 01:41:19 +0900 (JST)
+	(envelope-from C48E1C67D@attachpoint.com)
+X-Nat-Received: from [112.78.125.46]:59974 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1351874479.16853
+Received: from [190.90.81.24] ([190.90.81.24])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id qA2GfI2Q080140
+	for <hobby.division@sportshobby.co.jp>; Sat, 3 Nov 2012 01:41:19 +0900 (JST)
+	(envelope-from C48E1C67D@attachpoint.com)
+Message-ID: <20121102114146.08E9F3A42F46D36C240C6.46A2753@ECHOZISTDIW701>
+Date: Fri, 02 Nov 2012 11:41:46 -0500
+From: "Update Profile" <C48E1C67D@attachpoint.com>
+MIME-Version: 1.0
+To: hobby.division@sportshobby.co.jp
+Subject: Alexandra has just updated new her profile
+Content-Type: text/html; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 02112012 #8293068, status: clean
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Update</title>
+</head>
+
+<body>
+
+<p style="font-size: medium; font-family: Calibri; color: #000080"><strong>Dear
+Member of our site.</strong></p>
+<p style="font-size: medium; font-family: Calibri">Julya has just updated new her
+profile.</p>
+<p><span style="font-size: medium; font-family: Calibri">For looking through her
+new info and photos, please, </span><a href="http://zxgirls.ru/">
+<span style="font-size: medium; font-family: Calibri">follow the link</span></a></p>
+
+</body>
+
+</html>

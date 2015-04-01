@@ -1,0 +1,59 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.5 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: safenaturalwebmart.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: safenaturalwebmart.ru]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: safenaturalwebmart.ru]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: safenaturalwebmart.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.3 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: safenaturalwebmart.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav205.sakura.ne.jp (fsav205.sakura.ne.jp [210.224.168.167])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1INJB3N097617
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Feb 2015 08:19:11 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav205.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp);
+ Thu, 19 Feb 2015 08:19:11 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp)
+Received: from 186.119.93.211 ([186.119.93.211])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t1INJ9ls097609
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Feb 2015 08:19:10 +0900 (JST)
+Date: Thu, 19 Feb 2015 08:19:09 +0900 (JST)
+Message-Id: <201502182319.t1INJ9ls097609@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (jesus.arcos@e-technik.uni-rostock.de@234.215.83.135)
+	by 186.119.93.211 with ESMTPA; Fri, 13 Feb 2015 09:07:25 -0500
+X-Originating-IP: 234.215.83.135
+From: jesus.arcos@e-technik.uni-rostock.de
+To: hobby.division@sportshobby.co.jp
+Subject: She will be impressed by your power
+
+The greatest method to satisfy your lover http://double.safenaturalwebmart.ru/
+

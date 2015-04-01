@@ -1,0 +1,45 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.6 required=7.0 tests=BAYES_60,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: hwsvzoww.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: hwsvzoww.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: hwsvzoww.eu]
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: hwsvzoww.eu]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: hwsvzoww.eu]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6366]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s4OEgXhr017334
+	for <hobby.division@sportshobby.co.jp>; Sat, 24 May 2014 23:42:33 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:26406 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1400942553.32655
+Received: from 178.126.93.168 ([178.126.93.168])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s4OEgUEP017328
+	for <hobby.division@sportshobby.co.jp>; Sat, 24 May 2014 23:42:32 +0900 (JST)
+Date: Sat, 24 May 2014 23:42:30 +0900 (JST)
+Message-Id: <201405241442.s4OEgUEP017328@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (ok72.50.43.231julio40@k-brighton.co.jp@127.42.80.216)
+	by 178.126.93.168 with ESMTPA; Sat, 24 May 2014 17:43:24 +0300
+From: ok72.50.43.231julio40@k-brighton.co.jp
+To: hobby.division@sportshobby.co.jp
+Subject: Boost strength
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 24052014 #7997700, status: clean
+
+Be her best experience http://hotel.hwsvzoww.eu/
+

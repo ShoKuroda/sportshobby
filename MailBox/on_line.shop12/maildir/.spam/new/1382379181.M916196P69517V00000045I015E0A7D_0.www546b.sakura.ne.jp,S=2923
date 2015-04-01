@@ -1,0 +1,58 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.6 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_PH_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: mhr.ro]
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  1.5 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: mhr.ro]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.4 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9LICvf1069513
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 22 Oct 2013 03:12:57 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:61612 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1382379177.16585
+Received: from 151.55.27.26 ([151.55.27.26])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9LICssW069508
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 22 Oct 2013 03:12:56 +0900 (JST)
+Date: Tue, 22 Oct 2013 03:12:54 +0900 (JST)
+Message-Id: <201310211812.r9LICssW069508@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (fkuchar@vyber-reality.cz@151.122.95.89)
+	by 151.55.27.26 with ESMTPA; Mon, 21 Oct 2013 20:11:51 +0100
+X-Originating-IP: 151.122.95.89
+From: fkuchar@vyber-reality.cz
+To: on_line.shop12@sportshobby.co.jp
+Subject: Very good method to energize your loving life
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 21102013 #11087529, status: clean
+
+http://mhr.ro/pride.html How about changes in bedroom life?
+

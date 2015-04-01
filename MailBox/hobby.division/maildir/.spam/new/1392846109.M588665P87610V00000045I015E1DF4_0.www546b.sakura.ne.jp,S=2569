@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.8 required=7.0 tests=BAYES_999,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,
+	URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: incla.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: incla.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: incla.ru]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: incla.ru]
+	*  1.0 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 0.9999]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: incla.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s1JLfjnZ087607
+	for <hobby.division@sportshobby.co.jp>; Thu, 20 Feb 2014 06:41:45 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:54428 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1392846105.22857
+Received: from 37.213.243.213 ([37.213.243.213])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s1JLffm2087601
+	for <hobby.division@sportshobby.co.jp>; Thu, 20 Feb 2014 06:41:44 +0900 (JST)
+Date: Thu, 20 Feb 2014 06:41:41 +0900 (JST)
+Message-Id: <201402192141.s1JLffm2087601@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (fishcarp@dca.state.ga.us@102.133.154.179)
+	by 37.213.243.213 with ESMTPA; Thu, 20 Feb 2014 00:42:50 +0300
+X-Originating-IP: 102.133.154.179
+From: fishcarp@dca.state.ga.us
+To: hobby.division@sportshobby.co.jp
+Subject: Are you ready to amaze her this night?
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 19022014 #7234763, status: clean
+
+Solution to your health problems http://divorce.incla.ru/
+

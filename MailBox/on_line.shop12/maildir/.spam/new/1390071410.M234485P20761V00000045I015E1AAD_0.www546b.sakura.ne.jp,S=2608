@@ -1,0 +1,52 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.3 required=7.0 tests=BAYES_95,FROM_12LTRDOM,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: icipel.ru]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: icipel.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: icipel.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: icipel.ru]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: icipel.ru]
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9676]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.1 FROM_12LTRDOM From a 12-letter domain
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s0IIukj5020756
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 19 Jan 2014 03:56:46 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:57916 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1390071406.28136
+Received: from 41.164.20.194 ([41.164.20.194])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s0IIuear020744
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 19 Jan 2014 03:56:44 +0900 (JST)
+Date: Sun, 19 Jan 2014 03:56:40 +0900 (JST)
+Message-Id: <201401181856.s0IIuear020744@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (tkennedy@piercefamily.com@58.85.29.79)
+	by 41.164.20.194 with ESMTPA; Sat, 18 Jan 2014 18:58:20 -0000
+X-Originating-IP: 58.85.29.79
+From: tkennedy@piercefamily.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Don't disappoint her at night
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 18012014 #7355441, status: clean
+
+Disclose your power http://glacier.icipel.ru/
+

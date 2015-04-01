@@ -1,0 +1,48 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.7 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: tabdietfat.at]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: tabdietfat.at]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: tabdietfat.at]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: tabdietfat.at]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: tabdietfat.at]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.7754]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: tabdietfat.at]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rA3CjVqQ055782
+	for <hobby.division@sportshobby.co.jp>; Sun, 3 Nov 2013 21:45:31 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:52085 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383482731.8268
+Received: from 111.252.204.45 (111-252-204-45.dynamic.hinet.net [111.252.204.45])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rA3CjTld055778
+	for <hobby.division@sportshobby.co.jp>; Sun, 3 Nov 2013 21:45:30 +0900 (JST)
+Message-Id: <201311031245.rA3CjTld055778@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (katjleen.goss@york.k12.sc.us@233.112.202.135)
+	by 111.252.204.45 with ESMTPA; Sun, 3 Nov 2013 20:48:52 +0800
+From: katjleen.goss@york.k12.sc.us
+To: hobby.division@sportshobby.co.jp
+Subject: Give your wife good time
+Date: Sun, 3 Nov 2013 20:40:03 +0800
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 03112013 #9896071, status: clean
+
+We'll help to enhance your health http://intuitive.tabdietfat.at/
+

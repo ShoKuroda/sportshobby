@@ -1,0 +1,54 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.3 required=7.0 tests=BAYES_60,BODY_URI_ONLY,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,
+	SUBJECT_NEEDS_ENCODING,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URIBL_PH_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: dsonhejk.be]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6595]
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: dsonhejk.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: dsonhejk.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: dsonhejk.be]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: dsonhejk.be]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: dsonhejk.be]
+	*  0.0 SUBJECT_NEEDS_ENCODING Subject is encoded but does not specify the
+	*      encoding
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.6 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sBQ5xiWk035889
+	for <hobby.division@sportshobby.co.jp>; Fri, 26 Dec 2014 14:59:44 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Fri, 26 Dec 2014 14:59:44 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from 200.149.251.249 (200-149-251-249.user.veloxzone.com.br [200.149.251.249])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id sBQ5xg4M035880
+	for <hobby.division@sportshobby.co.jp>; Fri, 26 Dec 2014 14:59:43 +0900 (JST)
+Message-Id: <201412260559.sBQ5xg4M035880@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (crazypj@sbcglobal.net@225.120.220.79)
+	by 200.149.251.249 with ESMTPA; Fri, 26 Dec 2014 03:00:02 -0300
+X-Originating-IP: 225.120.220.79
+From: crazypj@sbcglobal.net
+To: hobby.division@sportshobby.co.jp
+Subject: Be ¹1 for your girlfriend
+Date: Fri, 26 Dec 2014 02:55:27 -0300
+
+http://shrimp.dsonhejk.be/ The best technique to gratify your lover
+

@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+table tr td,table tr th {
+	font-size:14px;
+	line-height:1.5;
+}
+
+#pages_main {
+	width:766px;
+	margin:0 auto;
+	text-align:left;
+	line-height:1.5;
+
+}
+
+#pages_main p{
+	font-size:14px;
+	line-height:1.5;
+	padding:0 0 10px 0;
+}
+
+#pages_main h2.pages {
+	width:721px;
+	height:70px;
+	background:url(/img/bg_h2.gif) 0 0 no-repeat;
+	font-size:18px;
+	font-weight:bold;
+	padding:85px 0 0 45px;
+	margin:0;
+}
+
+#pages_main  h4{
+	width:741px;
+	height:25px;
+	padding:5px 0 0 25px;
+	margin:15px 0 5px 0;
+	background:url(/img/bg_h4.gif) 0 0 no-repeat;
+	font-size:14px;
+	font-weight:bold;
+	clear:both;
+}
+
+#pages_main .pankuzu {
+	border-bottom:none;
+}
+
+#pages_main ul.topic_list li {
+	background: url("/img/arrow/arrow04.jpg") no-repeat scroll 0 6px transparent;
+	font-weight: bold;
+	margin-left: 20px;
+	padding: 3px 0 5px 17px;
+	font-size:14px;
+	line-height:1.5;
+}
+
+.pages_topic_box {
+	margin:0 auto;
+}
+
+ul.pages_category {
+	border-top:dotted 1px #999999;
+	padding-top:10px;
+}
+
+.pages_category li {
+	width:200px;
+	float:left;
+}
+
+.def_ul li {
+    list-style: disc outside none;
+    margin: 0 30px;
+	line-height:1.5;
+}
+
+.def_ol li {
+    list-style: decimal outside none;
+    margin: 0 30px;
+	line-height:1.5;
+}
+
+#pages_main p.k_text_box {
+    background: none repeat scroll 0 0 #FFFFCC;
+    border: 1px solid #0099CB;
+	padding:10px;
+}
+
+.map_box {
+    float: left;
+    width: 420px;
+	margin-left:15px;
+}
+
+table.lined_table {
+	border: 1px solid #DDD;
+	border-collapse: collapse;
+	padding: 0.5em;
+	margin: 10px auto 20px auto
+}
+
+table.lined_table tr th {
+	background: #EAEAEA;
+	text-align: center;
+}
+
+table.lined_table tr td, table.lined_table tr th {
+	border: 1px solid #DDD;
+	border-collapse: collapse;
+	padding: 0.5em;
+}

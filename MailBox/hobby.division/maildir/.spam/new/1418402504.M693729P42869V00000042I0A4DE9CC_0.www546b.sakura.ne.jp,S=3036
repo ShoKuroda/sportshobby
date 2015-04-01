@@ -1,0 +1,58 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.9 required=7.0 tests=BAYES_95,BODY_URI_ONLY,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,
+	TVD_FROM_1,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,
+	URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.0 TVD_FROM_1 From address appears to be a throwaway domain
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9719]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: herbalgenericsdeal.ru]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: herbalgenericsdeal.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: herbalgenericsdeal.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: herbalgenericsdeal.ru]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: herbalgenericsdeal.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav206.sakura.ne.jp (fsav206.sakura.ne.jp [210.224.168.168])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sBCGffci042866
+	for <hobby.division@sportshobby.co.jp>; Sat, 13 Dec 2014 01:41:42 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav206.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp);
+ Sat, 13 Dec 2014 01:41:41 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp)
+Received: from 151.18.233.236 ([151.18.233.236])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id sBCGfc1O042859
+	for <hobby.division@sportshobby.co.jp>; Sat, 13 Dec 2014 01:41:40 +0900 (JST)
+Date: Sat, 13 Dec 2014 01:41:38 +0900 (JST)
+Message-Id: <201412121641.sBCGfc1O042859@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (george69@maine207.org@225.155.194.224)
+	by 151.18.233.236 with ESMTPA; Fri, 12 Dec 2014 17:44:21 +0100
+X-Originating-IP: 225.155.194.224
+From: george69@maine207.org
+To: hobby.division@sportshobby.co.jp
+Subject: The wonderful curing that really works
+
+http://inheritance.herbalgenericsdeal.ru/ Big masculinity can please her
+

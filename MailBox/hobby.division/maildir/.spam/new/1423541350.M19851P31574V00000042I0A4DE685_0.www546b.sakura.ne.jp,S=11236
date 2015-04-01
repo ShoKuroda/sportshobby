@@ -1,0 +1,214 @@
+Return-Path: <admin@mail4business.org>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.4 required=7.0 tests=BAYES_50,DKIM_ADSP_CUSTOM_MED,
+	DKIM_SIGNED,FREEMAIL_FROM,FREEMAIL_REPLYTO,HTML_MESSAGE,NML_ADSP_CUSTOM_MED,
+	RAZOR2_CHECK,T_DKIM_INVALID,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_RHS_DOB,
+	URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (rbitsols[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: rbitsolution.info]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: mail4business.org]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: rbitsolution.info]
+	*  1.5 URIBL_RHS_DOB Contains an URI of a new domain (Day Old Bread)
+	*      [URIs: mail4business.org]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+Received: from fsav402.sakura.ne.jp (fsav402.sakura.ne.jp [133.242.250.101])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1A4962d031570
+	for <hobby.division@sportshobby.co.jp>; Tue, 10 Feb 2015 13:09:07 +0900 (JST)
+	(envelope-from admin@mail4business.org)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav402.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp);
+ Tue, 10 Feb 2015 13:09:06 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp)
+Received: from mta9.mail4business.org (mta9.mail4business.org [92.243.70.88])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1A496GB031561
+	for <hobby.division@sportshobby.co.jp>; Tue, 10 Feb 2015 13:09:06 +0900 (JST)
+	(envelope-from admin@mail4business.org)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=gmail.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=rbitsols@gmail.com;
+ bh=76thiUa+id02l+uBj+/MvrG13jw=;
+ b=GWkwgF9d4doBrALqbBd3mhXMJmp26/JsnbFp3n6kXQRcPYWS28rwyRUrPOHvhvFWMTyIi3t2HU1Q
+   oLjV/1auzHzdWp9GP4+TSrEBEkFYiYRHOO/3fRzAZAxfmH/Q0nFiHLymeW50gO/4iPmR+uaYCrLJ
+   dxKP4nEt/VLHO3Lz8Hs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=gmail.com;
+ b=IpPObDGVrg7u9zJQVte33lVCOren5bsVmk32NUNkzjx+WSDa7a006l3tvbFtsIma8yinaa362Al5
+   eky+T7VWxaFbPn0fhj/qYmIPVUxG0yR1VDGwiK8o9SD0spKNIKLY9DOMQ/uKztTMmjlYbQL9DDeW
+   WD2ip8aiAOwoKUtTUYk=;
+To: hobby.division@sportshobby.co.jp
+Subject: Grow Your Business With Excellent Way Of Email Marketing
+Message-ID: <d9efc0b28ce60b5e47b715b27cc32fdd@mail4business.org>
+Date: Tue, 10 Feb 2015 07:15:20 +0400
+From: "RBIT Solution Pvt Ltd" <rbitsols@gmail.com>
+Reply-To: rbitinternational@gmail.com
+MIME-Version: 1.0
+X-Mailer-LID: 5
+List-Unsubscribe: <http://mail4business.org/unsubscribe.php?M=162142&C=4deecc0750ba959df3d3be95f50ccd73&L=5&N=8>
+X-Mailer-RecptId: 162142
+X-Mailer-SID: 8
+X-Mailer-Sent-By: 3
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_32f089121a7e842c348c56fb23fbd2f7"
+Content-Transfer-Encoding: 8bit
+
+--b1_32f089121a7e842c348c56fb23fbd2f7
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://mail4business.org/display.php?M=162142&C=4deecc0750ba959df3d3be95f50ccd73&S=8&L=5&N=5
+
+
+To stop receiving these
+emails:http://mail4business.org/unsubscribe.php?M=162142&C=4deecc0750ba959df3d3be95f50ccd73&L=5&N=8
+Powered by Interspire
+
+--b1_32f089121a7e842c348c56fb23fbd2f7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><p><span style="font-size: x-large;
+background-color: #ffffff; color: #000080;"><b><br /></b></span></p>
+<p><span style="color: #000080;"><strong><span style="text-decoration:
+underline;"><span style="font-size: x-large; background-color:
+#ffffff;">Welcome To RB IT Solution (P)
+Ltd.</span></span></strong></span></p>
+<p><span style="font-size: x-large; background-color: #ffffff; color:
+#000080;"><b><br /></b></span></p>
+<p><span style="font-size: medium; color: #333333;">Email Marketing is a
+Very Cost Effective &amp; Great ROI (Return Of Investment) Marketing  tool
+in Internet world. Email Marketing is a very Economical &amp; user
+friendly Marketing tool for your Business Promotion.</span></p>
+<p><span style="font-size: medium; color:
+#800000;"><b>&nbsp;</b></span></p>
+<br /><strong><span style="font-size: medium; color: #0000ff;">*Bulk Email
+Service Provider in India/International</span></strong><br /><br
+/><strong><span style="font-size: medium; color: #0000ff;">*Small
+Investments Long Benefits&nbsp;&nbsp;&nbsp; </span></strong><br /><br
+/><strong><span style="font-size: medium; color: #0000ff;">*Free Database
+(According to Client Requirement)</span></strong><br /><br /><strong><span
+style="font-size: medium; color: #0000ff;">*Challenging Price (National
+&amp; International)</span></strong><br /><br /><strong><span
+style="font-size: medium; color: #0000ff;">*Great Response Or
+ROI</span></strong><br /><br /><strong><span style="font-size: medium;
+color: #0000ff;">*Excellent Service Support, Last 5 years</span></strong>
+<p><span style="font-size: medium;"><b>&nbsp;</b></span></p>
+<p><span style="font-size: large; color: #ff0000;"><strong><u>Our Prices
+:</u></strong></span></p>
+<p><span style="font-size: large;"><strong><span style="color:
+#0000ff;"><u><br /></u></span></strong></span></p>
+<p><span style="font-size: medium;"><b><span style="font-size: large;">Bulk
+Emails:&nbsp;500K / 500000 Email &ndash; $200/- </span><br
+/></b></span></p>
+<p><span style="font-size: x-large; color: #0000ff;"><b>Call&nbsp;For Sales
+Enquiry /Demo: +91-9871700611, 9871700822</b></span></p>
+<p><span style="font-size: x-large; color: #0000ff;">&nbsp;</span></p>
+<p><span style="font-size: medium;"><b><u>No Setup Cost</u></b><b>
+&nbsp;&nbsp;&nbsp;&nbsp; l &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Technical
+support</u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; l&nbsp; &nbsp; <u>Just
+Click and Promote Your Business</u></b></span></p>
+<p><span style="font-size: medium;">&nbsp;</span></p>
+<p>&nbsp;<span style="font-size: medium;"><span style="color:
+#0000ff;"><b><u>Email Marketing Features <br /></u></b></span></span></p>
+<p><span style="font-size: medium;"><span style="color:
+#0000ff;">&nbsp;</span> <br /></span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Email Marketing is a cost effective Marketing tool.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Reduced Time &amp; Effort to Get Your Marketing Message to
+Consumers.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Improved Ability to Personalize Messages.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Easier Capability to Segment User and Customer Database
+Information.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ability to Send More Frequent Communications.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Easier Capability to Test Marketing Messages.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Exponentially Better Ability to Track Sales and User Engagement</span></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: medium; color: #0000ff;"><u>Why Choose
+Us?</u></span></strong></p>
+<p>&nbsp;</p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Web Based &ndash; Nothing to download or installed on your
+computer</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Simple and Easy to use.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Full Reporting with each email marketing campaign.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Cost Effective and time saving.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Mass Market your product or service via emails</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Manage your marketing efforts from one place.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Execute and Deploy a marketing campaign for anywhere in the
+world.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+No long term contract, use it month to month.</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Utilize our resources like bandwidth and servers</span></p>
+<p><span style="font-size:
+medium;">&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+All inclusive price structure</span></p>
+<p>&nbsp;</p>
+<p><span style="font-size:
+medium;">--------------------------------------------------------------------------------------------------------------------------------------------</span></p>
+<p><span style="font-size: medium;"><b><u>Regards</u></b></span></p>
+<p><span style="font-size: medium;">RBIT Solution (P) Ltd.</span></p>
+<p><span style="font-size: medium;">Email Sales &amp; support
+Team.</span></p>
+<p><span style="font-size: medium;">M: +91-9871700611,
+9871700447</span></p>
+<p><span style="font-size: medium;"><b>Email us:&nbsp;</b><a
+href="mailto:support@rbitsolution.info"
+target="_blank"><b>support@rbitsolution.info</b></a></span></p>
+<p>&nbsp;</p>
+<p><br /> <br clear="all" /></p>
+<p>&nbsp;</p><img
+src="http://mail4business.org/open.php?M=162142&L=5&N=8&F=H&image=.jpg"
+height="1" width="10"><br/><a
+href="http://mail4business.org/unsubscribe.php?M=162142&C=4deecc0750ba959df3d3be95f50ccd73&L=5&N=8">Click
+here to unsubscribe</a></body></html>
+
+--b1_32f089121a7e842c348c56fb23fbd2f7--
+
+

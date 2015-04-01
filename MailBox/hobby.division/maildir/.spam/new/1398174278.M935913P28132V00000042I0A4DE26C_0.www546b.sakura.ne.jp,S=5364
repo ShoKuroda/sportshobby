@@ -1,0 +1,101 @@
+Return-Path: <sylvestrone263@gmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************************
+X-Spam-Status: Yes, score=25.4 required=7.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+	ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_MONEY,ADVANCE_FEE_4_NEW,
+	ADVANCE_FEE_4_NEW_MONEY,BAYES_50,DEAR_SOMETHING,DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,FREEMAIL_REPLYTO,
+	LOTS_OF_MONEY,MILLION_USD,MONEY_FRAUD_3,MONEY_FRAUD_5 autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  2.0 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+	*  3.2 MILLION_USD BODY: Talks about millions of dollars
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (sylvestrone263[at]gmail.com)
+	*  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (sylvestrone263[at]gmail.com)
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  0.0 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  3.7 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  3.5 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  3.9 MONEY_FRAUD_3 Lots of money and several fraud phrases
+	*  1.2 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	*  2.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	*  3.9 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s3MDiZWA028129
+	for <hobby.division@sportshobby.co.jp>; Tue, 22 Apr 2014 22:44:36 +0900 (JST)
+	(envelope-from sylvestrone263@gmail.com)
+X-Nat-Received: from [112.78.125.46]:21444 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1398174275.23794
+Received: from mail-qa0-f47.google.com (mail-qa0-f47.google.com [209.85.216.47])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s3MDiYmO028124
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <hobby.division@sportshobby.co.jp>; Tue, 22 Apr 2014 22:44:35 +0900 (JST)
+	(envelope-from sylvestrone263@gmail.com)
+Received: by mail-qa0-f47.google.com with SMTP id m5so4957194qaj.6
+        for <hobby.division@sportshobby.co.jp>; Tue, 22 Apr 2014 06:44:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:reply-to:date:message-id:subject:from:to:content-type;
+        bh=eiN/cuXKEC08hBavAI6K3jvt6TX9aFhDDlHRvBpa+oI=;
+        b=YF+TauVMCGaQUYRfQ3BUE13ZPGag7WJ2xSONXHPe7pJkucetMEvwbBej0ZDopdyyXT
+         VgyV6mEw+KxjKINWtz+awohaiuNrxkJnbUP+bGkN4cPI6gOBqX3g/c3SDx5t7AYdGWuF
+         HekQCg33a7EsbS2CjgFNrJ/Idt8kQQ8hEfxT2yFjO/ObYBp8wxfgqYjuVSY4D4odhayP
+         bGMK8ZnpRpOXaT2doIxarvqY5VAZIQLTNxWb6atEtOiwlA4fo6loW5iJL15heBFPGlOZ
+         aPR2C4Ayst3FoUk9xILgEPdJrLq4hrfsYPXHrai7XUXOIOC3xh55stAZ2GdvkHXx3Lfi
+         DhFQ==
+MIME-Version: 1.0
+X-Received: by 10.224.103.66 with SMTP id j2mr40591116qao.15.1398174273417;
+ Tue, 22 Apr 2014 06:44:33 -0700 (PDT)
+Received: by 10.140.26.38 with HTTP; Tue, 22 Apr 2014 06:44:33 -0700 (PDT)
+Reply-To: wiikins.peter@yahoo.co.uk
+Date: Tue, 22 Apr 2014 06:44:33 -0700
+Message-ID: <CAOeQRf=p5prcA3rLBebH+FXFugjq_0snp46Rh0LsUei+N0ONYw@mail.gmail.com>
+Subject: I need your help
+From: Wiikins Peter <sylvestrone263@gmail.com>
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset=UTF-8
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 21042014 #7800136, status: clean
+
+Dear Sir/Madam,
+
+My name is Wiikins Peter, I have been diagnosed with Esophageal Cancer
+which was discovered very late, due to my laxity in carrying for my
+health. It has defiled all forms of medicine, and right now I have
+only about a few months to live, according to medical experts.
+
+Now that my health has deteriorated so badly, I cannot do this myself
+any more. I once asked my lawyer and members of my family to close my
+accounts and distribute the money which I have there to charity
+organization and to the less privileged in Bulgaria and Pakistan; they
+refused and kept the money to themselves. Hence, I do not trust them
+anymore, as they seem not to be contended with what I have left for
+them.
+
+The last of my money which no one knows of it, is the huge cash
+deposit of Ten Million and Five Hundred Thousand Dollars (USD10.5m)
+that I have with a Security Company in United Arab Emirates for safe
+keeping. I will want you to help me collect this deposit to enable me
+come over to your country and disburse it to some charity
+organizations and to the less privileged,for me to know if the
+Almighty God will accept the offering and heal my disease or accept my
+soul in his Kingdom.
+
+Please send me a mail to indicate if you will assist me in this
+disbursement, to enable me forward to you the entire document which
+will back you up to claim the funds on my behalf.
+
+Remain blessed.
+
+Wiikins

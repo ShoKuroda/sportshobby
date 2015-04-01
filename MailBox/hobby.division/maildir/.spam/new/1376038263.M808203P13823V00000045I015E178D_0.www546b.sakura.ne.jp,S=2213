@@ -1,0 +1,43 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.0 required=7.0 tests=BAYES_50,DEAR_SOMETHING,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.0 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+	*  2.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4895]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r798p1F2013820
+	for <hobby.division@sportshobby.co.jp>; Fri, 9 Aug 2013 17:51:01 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:49900 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1376038261.14825
+Received: from 178.121.101.208 (mm-208-101-121-178.dynamic.pppoe.mgts.by [178.121.101.208] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r798owZs013807
+	for <hobby.division@sportshobby.co.jp>; Fri, 9 Aug 2013 17:51:00 +0900 (JST)
+Date: Fri, 9 Aug 2013 17:50:58 +0900 (JST)
+Message-Id: <201308090851.r798owZs013807@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (tau@yml.com.tw@233.81.112.48)
+	by 178.121.101.208 with ESMTPA; Fri, 9 Aug 2013 11:53:09 +0200
+From: tau@yml.com.tw
+To: hobby.division@sportshobby.co.jp
+Subject: Fantastic opportunities!
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 09082013 #10906404, status: clean
+
+Dear sir. 
+
+My name is Martin. I'm sending this letter to you concerning cooperation. 
+If you are still looking for new job, there several positions which could 
+interest you.
+
+Your electronic address was given to us by a recruiting agency. We have 
+openings with flexible hours, as well as full-time employment options. 
+Expected income is from 600000 Yen per month. If you are interested, 
+contact us as soon as you can: brandyroman@yahoo.co.uk
+

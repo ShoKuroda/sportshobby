@@ -1,0 +1,127 @@
+Return-Path: <4910822-m-120912082041-n58@ret.bestpartner.co>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.4 required=7.0 tests=BAYES_00,HTML_FONT_SIZE_LARGE,
+	HTML_IMAGE_ONLY_20,HTML_MESSAGE,HTML_OBFUSCATE_10_20,MIME_QP_LONG_LINE,
+	MPART_ALT_DIFF,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	T_REMOTE_IMAGE,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: bestpartner.co]
+	*  1.5 HTML_IMAGE_ONLY_20 BODY: HTML: images with 1600-2000 bytes of words
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  0.1 HTML_OBFUSCATE_10_20 BODY: Message is 10% to 20% HTML obfuscation
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.0 HTML_FONT_SIZE_LARGE BODY: HTML font size is large
+	*  0.8 MPART_ALT_DIFF BODY: HTML and text parts are different
+	*  0.0 MIME_QP_LONG_LINE RAW: Quoted-printable line longer than 76 chars
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL listed in the SBL blocklist
+	*      [URIs: bestpartner.co]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: bestpartner.co]
+	*  0.0 T_REMOTE_IMAGE Message contains an external image
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q8BNKg9s067325
+	for <hobby.division@sportshobby.co.jp>; Wed, 12 Sep 2012 08:20:42 +0900 (JST)
+	(envelope-from 4910822-m-120912082041-n58@ret.bestpartner.co)
+X-Nat-Received: from [112.78.125.46]:60109 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1347405642.28386
+Received: from jzuokd.dolomag.net (jzuokd.dolomag.net [153.121.100.172])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q8BNKgq9067322
+	for <hobby.division@sportshobby.co.jp>; Wed, 12 Sep 2012 08:20:42 +0900 (JST)
+	(envelope-from 4910822-m-120912082041-n58@ret.bestpartner.co)
+Received: from cdpsvv.dolomag.net (cdpsvv.dolomag.net [153.121.100.164])
+	by jzuokd.dolomag.net (Postfix) with ESMTP id E4844223384
+	for <hobby.division@sportshobby.co.jp>; Wed, 12 Sep 2012 08:20:41 +0900 (JST)
+Received: from bestpartner.co (bestpartner.co [210.150.128.202])
+	by cdpsvv.dolomag.net (Postfix) with SMTP id D86BC2C9C55
+	for <hobby.division@sportshobby.co.jp>; Wed, 12 Sep 2012 08:20:41 +0900 (JST)
+Received: (qmail 80367 invoked by uid 1010); 12 Sep 2012 08:20:41 +0900
+Message-ID: <20120911232041.80366.qmail@bestpartner.co>
+UserAgent: SquirrelMail/1.4.5a        
+X-Mailer: SquirrelMail/1.4.5a        
+X-Priority: 3 (Normal)
+Importance: Normal
+To: hobby.division@sportshobby.co.jp
+From: =?ISO-2022-JP?B?GyRCJVklOSVIJVEhPCVIJUohPBsoQg==?= <info@bestpartner.co>
+Subject: =?ISO-2022-JP?B?GyRCOiMhIkVsNX5DZjF7TTlKWDZJJEskJCReJDkhKkVsNX5DZjF7TTlKWDZJJCskaTojJDkkMBsoQjUwMBskQkt8JHI/NiRqOX4kXyReJDkhIyQkJC0kSiRqJE5PIk1tISI8Ok5pJE8+NUNOJE4+ZSEjJD0kbCRHJGJPIk1tJDckSiQxJGwkUCQkJDEkSiQkPzwkJEx1JCwkIiRrJHMkRyQ5ISo7ZCROOEQ/TT5wSnNFeSRPGyhCUFIbJEJNcyRLNS06XCQ3JEYkIiRrJE4kRzNORyckNyRGMjwkNSQkISM3aCQ3JEYyeCQ3JCQ8VCRHJE84ZjpCJCQkXiQ7JHMhKhsoQg==?=
+Date: Wed, 12 Sep 2012 08:20:41 +0900
+Content-Language: ja
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----_a4f4342fc6253b97a90944e54198762b_MULTIPART_ALTERNATIVE_"
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 11092012 #7803750, status: clean
+
+------_a4f4342fc6253b97a90944e54198762b_MULTIPART_ALTERNATIVE_
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+
+////////
+
+////////
+
+////////
+
+≪《元銀行員》現大学教授：林田美津子≫さん(46才)からメールです。
+
+■■タイトル■■
+今、東京中央郵便局にいます！東京中央郵便局から今すぐ500万を振り込みます。いきなりの連絡、失礼は承知の上。それでも連絡しなければいけない深い訳があるんです！私の個人情報等はPR欄に記載してあるので確認して下さい。決して怪しい者では御座いません！
+
+↓写真のURL↓
+http://bestpartner.co/photo/l.5C.21.FC.0F.DC.AB4h.D3.jpg?1347405641
+http://bestpartner.co/photo/l_.21.FC.0F.DC.AB4h.D3.jpg?1347405641
+http://bestpartner.co/photo/l.5E.21.FC.0F.DC.AB4h.D3.jpg?1347405641
+
+
+返信はこちら
+http://bestpartner.co/t/mailbox.php?id=4910822&pass=QGm9yAmu&mid=75254381&m=detail
+
+ログインはこちら
+http://bestpartner.co/t/login.php?id=4910822&pass=QGm9yAmu
+
+------_a4f4342fc6253b97a90944e54198762b_MULTIPART_ALTERNATIVE_
+Content-Type: text/html; charset="Shift_JIS"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<p>=81=AB=89{=97=97 =8A=AE=91S =96=B3=97=BF=81=AB
+<p><font size=3D"+2"><a href=3D"http://bestpartner.co/t/n_campaign.php?id=3D4910822&pass=3DQGm9yAmu&gid=3D4fec6508c1bc6&cid=3D4fec656fcdd4e">=81=9A=91=FC=8D=A1=91=97=90M=8A=AE=91S=96=B3=97=BF=92=86!!</a><br />
+<br>
+</font>
+<hr color=3D#663300 size=3Dsmall>
+<font size=3D"+2">  =8D=A1=81A=93=8C=8B=9E=92=86=89=9B=97X=95=D6=8B=C7=82=C9=82=A2=82=DC=82=B7=81I=93=8C=8B=9E=92=86=89=9B=97X=95=D6=8B=C7=82=A9=82=E7=8D=A1=82=B7=82=AE500=96=9C=82=F0=90U=82=E8=8D=9E=82=DD=82=DC=82=B7=81B=82=A2=82=AB=82=C8=82=E8=82=CC=98A=97=8D=81A=8E=B8=97=E7=82=CD=8F=B3=92m=82=CC=8F=E3=81B=82=BB=82=EA=82=C5=82=E0=98A=97=8D=82=B5=82=C8=82=AF=82=EA=82=CE=82=A2=82=AF=82=C8=82=A2=90[=82=A2=96=F3=82=AA=82=A0=82=E9=82=F1=82=C5=82=B7=81I=8E=84=82=CC=8C=C2=90l=8F=EE=95=F1=93=99=82=CDPR=97=93=82=C9=8BL=8D=DA=82=B5=82=C4=82=A0=82=E9=82=CC=82=C5=8Am=94F=82=B5=82=C4=89=BA=82=B3=82=A2=81B=8C=88=82=B5=82=C4=89=F6=82=B5=82=A2=8E=D2=82=C5=82=CD=8C=E4=8D=C0=82=A2=82=DC=82=B9=82=F1=81I<br>
+<p>=81=A8<a href=3D"http://bestpartner.co/t/mailbox.php?id=3D4910822&pass=3DQGm9yAmu&mid=3D75254381&m=3Ddetail">=93=E0=97e=96=B3=97=BF=8Am=94F=81E=95=D4=90M</a>=81=A9<br>
+  <font color=3D"#FF00FF">=81=AA=8A=AE=91S=96=B3=97=BF=82=C5=82=B2=8Am=94F=89=BA=82=B3=82=A2=81=AA</font><br>
+  <br><br><img src=3D"http://bestpartner.co/photo/l.5C.21.FC.0F.DC.AB4h.D3.jpg?1347405641" border=3D0 alt=3D"=8E=CA=90^(1)"><img src=3D"http://bestpartner.co/photo/l_.21.FC.0F.DC.AB4h.D3.jpg?1347405641" border=3D0 alt=3D"=8E=CA=90^(2)"><img src=3D"http://bestpartner.co/photo/l.5E.21.FC.0F.DC.AB4h.D3.jpg?1347405641" border=3D0 alt=3D"=8E=CA=90^(3)"><br>
+  =81w=81s=8C=B3=8B=E2=8Ds=88=F5=81t=8C=BB=91=E5=8Aw=8B=B3=8E=F6=81F=97=D1=93c=94=FC=92=C3=8Eq=81x=97l=82=E6=82=E8<br>
+  =90V=92=85=83=81=83b=83Z=81[=83W=82=C5=82=B7=81=F4<br>
+<p>
+<font color=3D"red">=93=96=94=D4=91g=82=CD=95s=93=96=82=C8=89=DB=8B=E0=90=BF=8B=81=82=CD=88=EA=90=D8=8Ds=82=C1=82=C4=82=A8=82=E8=82=DC=82=B9=82=F1=81=F4=82=B2=88=C0=90S=82=CC=8F=E3=82=B2=97=98=97p=89=BA=82=B3=82=A2=81=F4</font></font>
+
+<hr color=3D#663300 size=3Dsmall>
+<font size=3D"+2">
+  =81=F4<a href=3D"http://bestpartner.co/t/login.php?id=3D4910822&pass=3DQGm9yAmu">=89=EF=88=F5TOP=83y=81[=83W</a><br>
+  =81=F4<a href=3D"http://bestpartner.co/t/buy_point.php?id=3D4910822&pass=3DQGm9yAmu">=83|=83C=83=93=83g=8Dw=93=FC=95=FB=96@</a><br>
+  =81=F4<a href=3D"http://bestpartner.co/t/support.php?id=3D4910822&pass=3DQGm9yAmu">=83T=83|=81[=83g=82=A8=96=E2=8D=87=82=B9</a><br>
+</font>
+<hr color=3D#663300 size=3Dsmall>
+    <font color=3D"deeppink" size=3D"+3">=97D=97=C7=8C=F6=8E=AE=BB=B2=C4=94F=92=E8=8D=CF<br>
+=87=93=83x=83X=83g=83p=81[=83g=83i=81[=87=93</font><font size=3D"+3"><br>
+
+</font>&lt;=94z =90M =92=E2 =8E~=8A=F3=96]=82=CC=95=FB&gt;<br>
+=81=A6<a href=3D"mailto:info@bestpartner.co?subject=3D=94z=90M=92=E2=8E~&body=3D=94z=90M=92=E2=8E~">=82=B1=82=BF=82=E7</a>=82=C9=81u=94z =90M =92=E2 =8E~=81v=82=C6=8BL=93=FC=82=CC=8F=E3=82=B2=98A=97=8D=82=AD=82=BE=82=B3=82=A2<br>
+1 8 =8D=CE =96=A2 =96=9E =97=98 =97p =8B=D6 =8E~<br>
+  <br>
+  </p>
+</body>
+</html>
+------_a4f4342fc6253b97a90944e54198762b_MULTIPART_ALTERNATIVE_--

@@ -1,0 +1,147 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav309.sakura.ne.jp (fsav309.sakura.ne.jp [153.120.85.140])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2S6FONW070694
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 28 Mar 2015 15:15:24 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav309.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav309.sakura.ne.jp);
+ Sat, 28 Mar 2015 15:15:24 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav309.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-130.smtp.rakuten.co.jp [202.72.58.130])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2S6FOGP070691
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 28 Mar 2015 15:15:24 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat102.prod.jp.local [100.66.16.43])
+	by mxmator103z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lDVCc0PhlzQxjd
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 28 Mar 2015 15:15:24 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427523324;
+	bh=W+nsfjd/Ippv4qDhSk96k++AVHgeMuDZErhKGYIX1JA=;
+	h=Date:From:Reply-To:To:Cc:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=fGsHgzXbuTBJmJCAkjQ9dAVeEnI5HyWeUeWbnh4SyQKQKrKBym3b7pUxZv2JP5kXt
+	 rLRmxnO5wMQONSRLgvXVBMtQKKeIJ3xs0fI3+ZZNEILkOsLiMqKJa2Ea4fmIEIOBTw
+	 rDQhMKgb0TkEz1ujIp+nLa2QNII6Mp5/fpd7mixU=
+Received: from rakuten.co.jp (matqor103zc.zd.rakuten.co.jp [172.18.92.5])
+	by mat102.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2S6FNSW003166
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 28 Mar 2015 15:15:23 +0900
+Date: Sat, 28 Mar 2015 15:15:23 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: 54f88c7028f79ea88dd8f3c495caab8fs1@pc.fw.rakuten.ne.jp,
+        on_line.shop12@sportshobby.co.jp
+To: 54f88c7028f79ea88dd8f3c495caab8fs1@pc.fw.rakuten.ne.jp
+Cc: on_line.shop12@sportshobby.co.jp
+Message-ID: <201503281515.t2S6FNSW003166@mat102.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbQ21KOEZiTUYkNBsoQg==?=
+ =?iso-2022-jp?B?GyRCM05HJyFKPCtGMEdbPy4lYSE8JWshSxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.18.92.5
+X-Rams-Id: 4C787B5E47464DE97E3A5802300C25A0C3A038AA
+
+---------------------------------------------------------------------
+本メールはお客様のご注文情報が楽天市場のサーバに到達した時点で送信
+される、自動配信メールです。ショップからの確認の連絡、または商品の発送
+をもって売買契約成立となります。
+---------------------------------------------------------------------
+
+
+
+この度は楽天市場内のショップ「スポーツホビー」を
+ご利用いただきまして、誠にありがとうございます。
+
+■　購入履歴
+https://order.my.rakuten.co.jp/?page=myorder&act=detail_view&shop_id=243411&order_number=243411-20150328-0239200302&scid=me_ich_conf_07
+
+■　ご注文いただいた商品、決済・配送方法に関するお問い合わせはこちら…
+スポーツホビー　　hobby.division@sportshobby.co.jp
+
+■　その他、楽天市場の各サービスに関するお問い合わせは…
+楽天市場　　http://ichiba.faq.rakuten.co.jp/app/home/?scid=me_ich_conf_01
+
+【ご注意】
+お客様のお取引先は下記ショップとなりますので、ご不明な点、ご注文内容に誤り
+がある場合は、直接ショップ「スポーツホビー」まで
+お問い合わせください。
+
+以下の注文内容がご利用のショップに届いております。
+ご確認ください。
+=====================================================================
+■ ショップ名 ： スポーツホビー
+■ ショップURL： http://www.rakuten.co.jp/sportshobby/?scid=me_ich_conf_02
+■ 電話   ： 011-773-5090
+■ メールアドレス: hobby.division@sportshobby.co.jp
+=====================================================================
+
+---------------------------------------------------------------------
+[受注番号] 243411-20150328-0239200302
+[日時]     2015-03-28 15:15:19
+[注文者]   沼口 裕司 (ヌマグチ ユウジ) 様
+           〒062-0055 北海道札幌市豊平区月寒東５条１１丁目１−２４
+           (TEL) 090-2810-4544
+
+[支払方法] クレジットカード決済 一括払い
+[ポイント利用方法] 全て
+[配送方法] 宅配便
+[配送日時指定]
+
+
+
+[備考]
+[ショップ名]   スポーツホビー
+==========
+[送付先]   沼口 裕司 (ヌマグチ ユウジ) 様
+           〒062-0055 北海道札幌市豊平区月寒東５条１１丁目１−２４
+           (TEL) 090-2810-4544
+[商品]
+ATLAS ロッククライマー　クローラーモーター 40T〜130T(AT7147)
+ターン数:70T
+価格  2,484(円) x 1(個) = 2,484(円)   (税込、送料別)
+獲得ポイント24
+*********************************************************************
+小計     2,484(円)
+送料     540(円)  離島・一部地域では別途料金が必要な場合があります
+ポイント利用 -1,738(円)
+---------------------------------------------------
+合計     1,286(円)
+---------------------------------------------------------------------
+今回のお買い物で獲得するポイント　24
+---------------------------------------------------------------------
+＊消費税について
+　消費税率　　　　　　8％
+　消費税計算順序　　　１商品毎に消費税計算
+　１円未満消費税端数　切り捨て
+---------------------------------------------------------------------
+＊送料等の諸費用は変わる場合があります。
+＊ポイント利用方法で「全て」を選択している場合は、購入後の金額変更や
+  利用可能ポイント数の変更により、利用ポイント数が増減する場合があり
+  ます。
+＊楽天会員を利用したご注文の場合、キャンペーン特典ポイントが本メール
+  記載の獲得ポイントとは別に計算、付与される場合があります。
+ご不明な点がありましたらショップ「スポーツホビー」まで
+お問い合わせください。
+---------------------------------------------------------------------
+★こちらの注文に覚えがない場合は？
+他の方が誤ってあなたのメールアドレスで注文した可能性があります。
+その場合は、たいへんお手数ですが、上記ショップならびに楽天市場まで
+お知らせください。
+---------------------------------------------------------------------
+
+★楽天市場は、取引の当事者とはならず、取引に関する責任は負いません。
+したがって、万一取引に関してトラブルが生じた際には、お客様とショップ
+との間で直接解決していただくことになります。
+⇒ http://www.rakuten.co.jp/doc/info/rule/service.html?scid=me_ich_conf_03
+
+─────────────問い合わせ─────────────────
+商品、決済・発送に関するお問い合わせ hobby.division@sportshobby.co.jp
+楽天市場に関するご質問　 http://ichiba.faq.rakuten.co.jp/app/home/?scid=me_ich_conf_04
+個人情報保護方針　http://privacy.rakuten.co.jp/?scid=me_ich_conf_05
+
+楽天市場（楽天株式会社） http://www.rakuten.co.jp/?scid=me_ich_conf_06
+───────────────────────────────────
+

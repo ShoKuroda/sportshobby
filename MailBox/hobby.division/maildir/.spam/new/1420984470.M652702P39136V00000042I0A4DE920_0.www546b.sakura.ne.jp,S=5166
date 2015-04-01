@@ -1,0 +1,169 @@
+Return-Path: <dan-hobby.division=sportshobby.co.jp@bristlesa.info>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.5 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	HTML_IMAGE_ONLY_12,HTML_MESSAGE,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,REMOVE_BEFORE_LINK,T_DKIM_INVALID,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_WS_SURBL,
+	URI_NO_WWW_INFO_CGI autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: bristlesa.info]
+	*  1.8 REMOVE_BEFORE_LINK BODY: Removal phrase right before a link
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: bristlesa.info]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: bristlesa.info]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: bristlesa.info]
+	*  2.1 URI_NO_WWW_INFO_CGI URI: CGI in .info TLD other than third-level
+	*      "www"
+	*  2.1 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+Received: from fsav405.sakura.ne.jp (fsav405.sakura.ne.jp [133.242.250.104])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0BDsQ6u039132
+	for <hobby.division@sportshobby.co.jp>; Sun, 11 Jan 2015 22:54:27 +0900 (JST)
+	(envelope-from dan-hobby.division=sportshobby.co.jp@bristlesa.info)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav405.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp);
+ Sun, 11 Jan 2015 22:54:26 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp)
+Received: from mail.bristlesa.info ([204.145.94.196])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0BDsP4V039126
+	for <hobby.division@sportshobby.co.jp>; Sun, 11 Jan 2015 22:54:26 +0900 (JST)
+	(envelope-from dan-hobby.division=sportshobby.co.jp@bristlesa.info)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=bristlesa.info;
+ h=Mime-Version:Content-Type:Date:From:Subject:Message-ID:To; i=dan@bristlesa.info;
+ bh=z1nxCyIsmScDGGxQkUVT1bhyIl4=;
+ b=jqq8kQyyVSgloVzVLpMd6mO5uMPlxvcVCdADT77Rju1Qg2+ee7ifzAILknZvv15enRKdVSC2X4MR
+   Tv+TeUGYLZeAOsW+f1aYRjS+7NR9XT6qdhMVK9w9piaEl69ggakelabcaU996drKx9jtRb17ikQw
+   LuRhaFbfiGshBxrBJTw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=bristlesa.info;
+ b=gKMLekf2uum3DzVO2UeTzz7qvTyy8tBKWodPqwWa6t01W4Zcp0CPM3x+HTil4Vs7/W9ty6ik1E/4
+   nj9T5OvlgCw3Pd3pTuUe2avdJs7glLLOBKctALiSv/qeiDZAKH+tx9NXyLtrkJso28mI9l2EOzRq
+   IsJuE21ozhqIKiJwkfQ=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=b4877fc84b639a5f78fe827f162e7122
+Date: Sun, 11 Jan 2015 12:56:54 +0100
+From: Melanie <dan@bristlesa.info>
+Subject: =?UTF-8?B?Rnc6IEluc3RhbnQgY29tbWlzc2lvbiBjaGVja3M=?=
+Message-ID: <b4877fc84b639a5f78fe827f162e7122@bristlesa.info>
+To: <hobby.division@sportshobby.co.jp>
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/plain; charset=UTF-8
+
+Most money systems put a limit on how much commissions you can make per month… 
+
+…and make you wait 45 days for your check. 
+
+Not this one. 
+
+>> http://click.bristlesa.info/index.php?id=4142824&a=666610&b=3515&c=57 << 
+
+Get instant direct deposit into your checking or PayPal account.. 
+
+…no limits…no delay. 
+
+>> http://click.bristlesa.info/index.php?id=4142824&a=666610&b=3515&c=57 << 
+
+Get paid now, 
+Melanie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unsubscribe Here : http://click.bristlesa.info/index.php?o=2&a=666610&b=3515&c=57
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+Most money systems put a limit on how much commissions you can make per month… <br>
+ <br>
+…and make you wait 45 days for your check.  <br>
+ <br>
+<a href="http://click.bristlesa.info/index.php?id=4142824&a=666610&b=3515&c=57"><b>Not this one.</b></a>  <br>
+ <br>
+Get instant direct deposit into your checking or PayPal account..  <br>
+ <br>
+…no limits…no delay.  <br>
+ <br>
+>><a href="http://click.bristlesa.info/index.php?id=4142824&a=666610&b=3515&c=57"><b> Learn more</b></a> <<  <br>
+ <br>
+Get paid now,  <br>
+Melanie <br>
+<br>
+
+</b>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<a href="http://click.bristlesa.info/index.php?o=2&a=666610&b=3515&c=57">Unsubscribe Here</a>
+
+<img src="http://click.bristlesa.info/index.php?o=1&a=666610&b=3515&c=57">
+
+</body>
+</html>
+
+
+
+
+
+--b4877fc84b639a5f78fe827f162e7122--

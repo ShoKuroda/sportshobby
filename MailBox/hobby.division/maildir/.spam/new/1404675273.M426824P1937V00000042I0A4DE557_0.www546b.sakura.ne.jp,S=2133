@@ -1,0 +1,41 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.1 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: durtol.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: durtol.ru]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: durtol.ru]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5003]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: durtol.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.2 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav410.sakura.ne.jp [153.120.85.45])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s66JYVTx001934
+	for <hobby.division@sportshobby.co.jp>; Mon, 7 Jul 2014 04:34:31 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:56057 [ident-empty]
+	by ksav410.sakura.ne.jp with TPROXY id 1404675271.327
+Received: from 2.134.163.29 ([2.134.163.29])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s66JYSrc001931
+	for <hobby.division@sportshobby.co.jp>; Mon, 7 Jul 2014 04:34:30 +0900 (JST)
+Date: Mon, 7 Jul 2014 04:34:28 +0900 (JST)
+Message-Id: <201407061934.s66JYSrc001931@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (hphilpot@sweetin.com@182.38.97.115)
+	by 2.134.163.29 with ESMTPA; Mon, 7 Jul 2014 01:36:18 +0400
+From: hphilpot@sweetin.com
+To: hobby.division@sportshobby.co.jp
+Subject: Endure as long as you want
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+http://founder.durtol.ru/ Make a good present for your girlfriend
+

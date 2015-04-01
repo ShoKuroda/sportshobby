@@ -1,0 +1,149 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.1 required=7.0 tests=BAYES_50,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	URIBL_SBL,XPRIO autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.5 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  0.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav201.sakura.ne.jp (fsav201.sakura.ne.jp [210.224.168.163])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2NN46GJ083691
+	for <hobby.division@sportshobby.co.jp>; Tue, 24 Mar 2015 08:04:06 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav201.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp);
+ Tue, 24 Mar 2015 08:04:06 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2NN45R5083688
+	for <hobby.division@sportshobby.co.jp>; Tue, 24 Mar 2015 08:04:06 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIVo0MEE0PCtGMDI9IVslbyE8JS0lcyUwJVclIiROQ0sbKEI=?=
+	=?iso-2022-jp?B?GyRCJCw8aiRLRn4kbCQ/S2g3biM1IzBLfDFfJE4hJiEmISYbKEI=?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Tue, 24 Mar 2015 08:04:05 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150323230405.D38CF4146B@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11221
+━━━━━━━━━━━━━━━━━━━━━━━━
+私は半年前まで
+超絶ブラックな仕出し屋のアルバイト
+で約1年半、昼夜問わず馬車馬のごとく
+働かされていました。
+
+でも私のような人間を雇って
+くれるのはこの職場しかありませんでした。
+
+生きていくために歯を食いしばって
+頑張りました。
+
+遅刻したら即クビなので
+近くの漫画喫茶に住んでました。
+
+睡眠時間は平均4時間〜5時間
+
+でも突然体を壊し、アルバイトはクビ。
+
+もう目の前が真っ暗でした。。。
+
+
+
+そんな私を救ってくれたのが
+【丸見え好男】さんです。
+
+この方が私に素敵なお仕事を与えてくれました。
+
+人の役に立ちながら【完全自動化】の
+システムを好男さんから提供され、
+毎月50万円の収入を得ています。
+
+来月、法人化する予定です。
+
+絶体絶命の窮地を救ってくれた
+好男さんが私を救ってくれたこのシステムを
+
+期間限定で配布するようです。
+
+→ http://agar-ex.jp/kldd28454/21221
+
+
+このシステムは
+
+・情報ビジネスではありません
+・アフィリエイトではありません
+・MLM、ネットワークビジネスではありません。
+・仕入れや在庫の必要なビジネスではありません。
+・ブラックやグレーな要素は一切ありません。
+
+さらに・・・
+
+・地道な拘束時間のない作業がいらない
+・他人の集客を利用できる
+・初期費用がかからない
+・メールやインターネットができれば
+　難しい操作やパソコンスキルは必要ない
+・もちろん経験0でもOK
+・顧客対応などわずらわしい作業がない
+・小額の稼ぎをドンドン多角化していく
+（キャッシュポイント失うリスクが少なくなる）
+・多くは望めないが月額30万円〜200万円なら
+　確実に稼ぐことが可能
+
+是非お勧めいたします。
+今なら全くリスクがない状態で
+完全無料でお試しが可能です。
+
+→ http://agar-ex.jp/kldd28454/31221
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/41221
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

@@ -1,0 +1,1 @@
+<p>Copyright c2007 ラジコンショップ｜スポーツホビー Co.,Ltd. All rights reserved.</p>

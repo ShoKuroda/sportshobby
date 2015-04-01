@@ -1,0 +1,53 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.4 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,HK_RANDOM_FROM,MSGID_FROM_MTA_HEADER,
+	RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,
+	URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: organicsmartbargain.eu]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: organicsmartbargain.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: organicsmartbargain.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: organicsmartbargain.eu]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.0 HK_RANDOM_FROM From username looks random
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: organicsmartbargain.eu]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: organicsmartbargain.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav404.sakura.ne.jp (fsav404.sakura.ne.jp [133.242.250.103])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1G9htM0075067
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 16 Feb 2015 18:43:55 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav404.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp);
+ Mon, 16 Feb 2015 18:43:55 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp)
+Received: from 61.5.145.162 ([61.5.145.162])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t1G9hq6a075058
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 16 Feb 2015 18:43:54 +0900 (JST)
+Message-Id: <201502160943.t1G9hq6a075058@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (debjjmk195071.84ff7@jedstock.com@149.31.69.168)
+	by 61.5.145.162 with ESMTPA; Mon, 16 Feb 2015 14:47:01 +0500
+From: debjjmk195071.84ff7@jedstock.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Little help for complete pleasance
+Date: Mon, 16 Feb 2015 14:35:19 +0500
+
+Tips to keeping your love life going http://custody.organicsmartbargain.eu/
+

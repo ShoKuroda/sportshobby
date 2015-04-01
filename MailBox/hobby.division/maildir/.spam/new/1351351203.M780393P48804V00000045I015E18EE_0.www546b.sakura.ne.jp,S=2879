@@ -1,0 +1,66 @@
+Return-Path: <DC5A301@rosenstein.co.il>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.7 required=7.0 tests=BAYES_80,HTML_MESSAGE,
+	MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	TO_NO_BRKTS_HTML_ONLY,URIBL_DBL_SPAM,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: dateffo.ru]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: dateffo.ru]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.8750]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.3 TO_NO_BRKTS_HTML_ONLY To: misformatted and HTML only
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q9RFJxbn048787
+	for <hobby.division@sportshobby.co.jp>; Sun, 28 Oct 2012 00:20:00 +0900 (JST)
+	(envelope-from DC5A301@rosenstein.co.il)
+X-Nat-Received: from [112.78.125.46]:60042 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1351351199.9589
+Received: from [197.31.76.173] ([197.31.76.173])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q9RFJub4048781
+	for <hobby.division@sportshobby.co.jp>; Sun, 28 Oct 2012 00:19:58 +0900 (JST)
+	(envelope-from DC5A301@rosenstein.co.il)
+Message-ID: <20121027161954.B86CCCC06714D54ABD30.84AFDC@PC-DE-THABET>
+Date: Sat, 27 Oct 2012 16:19:54 +0100
+From: "Dating" <DC5A301@rosenstein.co.il>
+MIME-Version: 1.0
+To: hobby.division@sportshobby.co.jp
+Subject: New messages from ladies
+Content-Type: text/html; charset=ISO-8859-1;
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 27102012 #8231884, status: clean
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>New messages</title>
+</head>
+
+<body>
+
+<p><span style="font-family: 'Book Antiqua'">Dear member of our Dating site!<br />
+</span></p>
+<p><span style="font-family: 'Book Antiqua'">You have 22 unread messages from
+ladies.<br />
+Please, check them <a href="http://dateffo.ru/" target="_blank" title="">here</a><br />
+</span></p>
+<p><span style="font-family: 'Book Antiqua'">Best wishes to you,<br />
+administrator<br />
+Galina</span></p>
+
+</body>
+
+</html>

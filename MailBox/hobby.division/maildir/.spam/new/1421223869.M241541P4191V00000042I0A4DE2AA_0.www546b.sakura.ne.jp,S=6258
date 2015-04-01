@@ -1,0 +1,196 @@
+Return-Path: <lily-hobby.division=sportshobby.co.jp@ceandoweds.info>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.7 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_ONLY_12,HTML_MESSAGE,LOTS_OF_MONEY,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	REMOVE_BEFORE_LINK,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URI_NO_WWW_INFO_CGI autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: ceandoweds.info]
+	*  1.8 REMOVE_BEFORE_LINK BODY: Removal phrase right before a link
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: ceandoweds.info]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: ceandoweds.info]
+	*  2.1 URI_NO_WWW_INFO_CGI URI: CGI in .info TLD other than third-level
+	*      "www"
+	*  2.1 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5112]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0E8OQOs004188
+	for <hobby.division@sportshobby.co.jp>; Wed, 14 Jan 2015 17:24:26 +0900 (JST)
+	(envelope-from lily-hobby.division=sportshobby.co.jp@ceandoweds.info)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Wed, 14 Jan 2015 17:24:26 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from mail.ceandoweds.info (mail.ceandoweds.info [23.249.160.138])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0E8OPKR004184
+	for <hobby.division@sportshobby.co.jp>; Wed, 14 Jan 2015 17:24:25 +0900 (JST)
+	(envelope-from lily-hobby.division=sportshobby.co.jp@ceandoweds.info)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ceandoweds.info;
+ h=Mime-Version:Content-Type:Date:From:Subject:Message-ID:To:Reply-To:List-Id:List-Unsubscribe:Sender; i=bounce-666610@ceandoweds.info;
+ bh=jFEnQjIun7rydqUFzSjQOfCEXis=;
+ b=W7vCzW69JEhOUI6RngB/wMixWp5c99cyiKLEt9nAbKUCUgYhI64pj1TgknWMuixJajfN1bIJuwr/
+   tR1keY0NSF51gQlOf+0UBz0+dfxoLmtYQNqHf+uGOVT8i9hTvykGbRh67LB6Vz7MIwW5AeB/plQk
+   6/Ubkcf+/rv5C4Q2cps=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=ceandoweds.info;
+ b=IOLnJGfKFRWi8wak3c3mEP8Anyz92TLQyfT1bmHJYX2HdcU3CDWkZ2iCBLsCJDWyARvqnnhHypoz
+   WRr/4kOnxZLNN5lRQvwAJj85ZoR0OpAwQnHhuQZ7Yp1hBlCKr1D7P66H2cMT+lJd8D2248wmwvD3
+   Gvi47GKIhYPfNlxalMw=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=b4877fc84b639a5f78fe827f162e7122
+Date: Wed, 14 Jan 2015 09:24:32 +0100
+From: Lily <lily@ceandoweds.info>
+Subject: =?UTF-8?B?V2hhdCB3ZSBzcG9rZSBvZuKApg==?=
+Message-ID: <b4877fc84b639a5f78fe827f162e7122@ceandoweds.info>
+To: <hobby.division@sportshobby.co.jp>
+Reply-To: <bounce-666610@ceandoweds.info>
+Envelope-to: hobby.division@sportshobby.co.jp
+Importance: Normal
+List-Id: 57
+List-Unsubscribe: <mailto:unsub-666610@ceandoweds.info?subject=unsubscribe>, <http://click.ceandoweds.info/index.php?a=3&b=666610&c=666610>
+Sender: <bounce-666610@ceandoweds.info>
+X-Priority: 3 (Normal)
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/plain; charset=UTF-8
+
+Hi Patrick,
+
+Hope you've seen 
+the APPROVED ACTIVATION link 
+I sent yesterday.
+If not, here it is again…
+
+http://click.ceandoweds.info/index.php?id=5934372&a=666610&b=3538&c=57
+
+You’ve been approved to this FREE software 
+that has made $672,149.67 
+and more to 50 members across the globe
+
+They are ready with the SET UP...
+You'll be taking home DAILY PROFITS of 
+$1,253.92, $2,431.86 and more every single day…
+
+Since they’ve done the TWEAKING FOR YOU
+you simply get started by activating the software…
+
+It will then work for you 
+and bring YOU DAILY PROFITS!
+Just click the ACTIVATION Link
+ and follow simple steps
+
+http://click.ceandoweds.info/index.php?id=5934372&a=666610&b=3538&c=57
+It’s that easy! 
+
+Best wishes 
+Lily
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unsubscribe Here : http://click.ceandoweds.info/index.php?o=2&a=666610&b=3538&c=57 
+
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+Hi Patrick,<br>
+<br>
+Hope you've seen <br>
+the APPROVED ACTIVATION link <br>
+I sent yesterday.<br>
+If not, <a href=http://click.ceandoweds.info/index.php?id=5934372&a=666610&b=3538&c=57><b>here it is again…</b></a><br>
+<br>
+You’ve been approved to this FREE software <br>
+that has made $672,149.67 <br>
+and more to 50 members across the globe<br>
+<br>
+They are ready with the SET UP...<br>
+You'll be taking home DAILY PROFITS of <br>
+$1,253.92, $2,431.86 and more every single day…<br>
+<br>
+Since they’ve done the TWEAKING FOR YOU<br>
+you simply get started by activating the software…<br>
+<br>
+It will then work for you <br>
+and bring YOU DAILY PROFITS!<br>
+Just click the <a href=http://click.ceandoweds.info/index.php?id=5934372&a=666610&b=3538&c=57><b>ACTIVATION Link</b></a><br>
+ and follow simple steps<br>
+<br>
+It’s that easy! <br>
+<br>
+Best wishes <br>
+Lily<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<a href="http://click.ceandoweds.info/index.php?o=2&a=666610&b=3538&c=57">Unsubscribe Here</a>
+
+<img src="http://click.ceandoweds.info/index.php?o=1&a=666610&b=3538&c=57">
+
+</body>
+</html>
+
+--b4877fc84b639a5f78fe827f162e7122--

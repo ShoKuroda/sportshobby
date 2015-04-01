@@ -1,0 +1,44 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.5 required=7.0 tests=BAYES_50,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: lcrthovn.eu]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5004]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: lcrthovn.eu]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: lcrthovn.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: lcrthovn.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: lcrthovn.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav112.sakura.ne.jp [59.106.188.110])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5HBf41n066709
+	for <hobby.division@sportshobby.co.jp>; Tue, 17 Jun 2014 20:41:05 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:55305 [ident-empty]
+	by ksav112.sakura.ne.jp with TPROXY id 1403005264.21958
+Received: from 91.192.123.38 (ip-91-192-123-38.mnc.pl [91.192.123.38] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s5HBf2CL066696
+	for <hobby.division@sportshobby.co.jp>; Tue, 17 Jun 2014 20:41:04 +0900 (JST)
+Date: Tue, 17 Jun 2014 20:41:02 +0900 (JST)
+Message-Id: <201406171141.s5HBf2CL066696@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (jgindler@goldfieldaccess.net@216.171.100.105)
+	by 91.192.123.38 with ESMTPA; Tue, 17 Jun 2014 13:44:09 +0100
+X-Originating-IP: 216.171.100.105
+From: jgindler@goldfieldaccess.net
+To: hobby.division@sportshobby.co.jp
+Subject: Do you want to amaze your gf today?
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+Increase energy and gain more size http://content.lcrthovn.eu/
+

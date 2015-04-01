@@ -1,0 +1,54 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.6 required=7.0 tests=BAYES_99,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_AB_SURBL,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_PH_SURBL,URIBL_SBL,URIBL_SC_SURBL,
+	URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: egafsckj.in]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9948]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: egafsckj.in]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: egafsckj.in]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: egafsckj.in]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: egafsckj.in]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: egafsckj.in]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: egafsckj.in]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s4R8qQqw031679
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 27 May 2014 17:52:26 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:56688 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1401180746.19692
+Received: from 185.2.106.97 (185-2-106-97.k-telecom.org [185.2.106.97] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s4R8qPXp031666
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 27 May 2014 17:52:25 +0900 (JST)
+Date: Tue, 27 May 2014 17:52:25 +0900 (JST)
+Message-Id: <201405270852.s4R8qPXp031666@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (b.hunger@jurasic-park-ranch.de@35.204.121.36)
+	by 185.2.106.97 with ESMTPA; Tue, 27 May 2014 14:46:03 +0600
+From: b.hunger@jurasic-park-ranch.de
+To: on_line.shop12@sportshobby.co.jp
+Subject: Give to your girl happiness
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 27052014 #8037545, status: clean
+
+For those who dream to please ladies http://agreed.egafsckj.in/
+

@@ -1,0 +1,69 @@
+Return-Path: <D9833148@syovate.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.9 required=7.0 tests=BAYES_50,HTML_MESSAGE,
+	MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	URIBL_AB_SURBL,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: loveed.ru]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: loveed.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: loveed.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: loveed.ru]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id qABGdd6d086666
+	for <hobby.division@sportshobby.co.jp>; Mon, 12 Nov 2012 01:39:39 +0900 (JST)
+	(envelope-from D9833148@syovate.com)
+X-Nat-Received: from [112.78.125.46]:56628 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1352651979.9233
+Received: from [64.228.149.21] ([64.228.149.21])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id qABGdb0D086659
+	for <hobby.division@sportshobby.co.jp>; Mon, 12 Nov 2012 01:39:38 +0900 (JST)
+	(envelope-from D9833148@syovate.com)
+Message-ID: <20121111113939.5EB0E7F9CF41D30189F6D.3D2E401@MORPHEUS>
+Date: Sun, 11 Nov 2012 11:39:39 -0400
+From: "Julya" <D9833148@syovate.com>
+MIME-Version: 1.0
+To: hobby.division@sportshobby.co.jp
+Subject: Sign up
+Content-Type: text/html; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 11112012 #8362008, status: clean
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Invitation</title>
+</head>
+
+<body>
+
+<p><span style="font-size: medium"><span style="font-family: Andalus">Hello dear
+hobby.division, do you remember how we communicated with you?<br />
+Long ago you could not see, I am Tanya - with Russia, do you remember me?<br />
+</span></span></p>
+<p>&quot;<a href="http://loveed.ru/" target="_blank" title="hobby.division"><span style="font-size: medium; font-family: Andalus">Come to
+my page</span></a><span style="font-size: medium; font-family: Andalus"> - let&#39;s
+talk, I&#39;m waiting!</span></p>
+
+</body>
+
+</html>

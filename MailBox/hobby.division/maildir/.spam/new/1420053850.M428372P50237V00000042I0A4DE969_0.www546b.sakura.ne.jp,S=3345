@@ -1,0 +1,70 @@
+Return-Path: <service3@mx1.hxtradehx.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.6 required=7.0 tests=BAYES_50,
+	CHARSET_FARAWAY_HEADER,DEAR_SOMETHING,DKIM_SIGNED,T_DKIM_INVALID,
+	URIBL_BLOCKED,URIBL_DBL_SPAM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: hxtradehx.com]
+	*  2.0 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: hxtradehx.com]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+Received: from fsav302.sakura.ne.jp (fsav302.sakura.ne.jp [153.120.85.133])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sBVJO9N0050232
+	for <hobby.division@sportshobby.co.jp>; Thu, 1 Jan 2015 04:24:09 +0900 (JST)
+	(envelope-from service3@mx1.hxtradehx.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav302.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp);
+ Thu, 01 Jan 2015 04:24:09 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp)
+Received: from mail.mx1.hxtradehx.com (89.0-24.239.88.23.rdns.scalabledns.com [23.88.239.89] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sBVJO8BL050225
+	for <hobby.division@sportshobby.co.jp>; Thu, 1 Jan 2015 04:24:09 +0900 (JST)
+	(envelope-from service3@mx1.hxtradehx.com)
+Message-Id: <201412311924.sBVJO8BL050225@www546b.sakura.ne.jp>
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx1.hxtradehx.com 0A6EEE229FD6
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mx1.hxtradehx.com;
+	s=mx1.hxtradehx; t=1420048000;
+	bh=+hmaESqfcm38D3Eeg83nYGwgCH7hidfVy3yfw0GcWX0=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=wqDb3CNf4y5/XRjzysgzmc2JOyOF41+2vOZEFHg962x8rHtb5HQlAbQER0+n11Ei0
+	 70Kl9n2FUCyMFHOM4f/U+6x1y8UkJUMvcbDEkzx7f79f1bd9w18V/BZl9KKlQdc9Pg
+	 MA2RCVmSSIVd73yjD4XB7e2BE3t37EkQM8BsZ3yE=
+Date: Thu, 1 Jan 2015 01:46:31 +0800
+From: "Jaja" <service3@mx1.hxtradehx.com>
+To: "webtamogatas" <webtamogatas@makit.hu>
+Reply-To: <huixinsoft14@foxmail.com>
+Subject: =?GB2312?B?UmU6IG9yZGVyIGRldGFpbHMsIHBsZWFzZSBjaGVjay4=?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id sBVJO9N0050232
+
+Dear Sir,
+ 
+I'm so glad to know you will have needs of custom precision components.
+
+We are a precision machining supplier based in Shenzhen,China. 
+
+With extensive experience in machining precision components for custom machinery,automation systems,medical equipment,etc,we can provide you high quality,good price and fast delivery.
+
+Please visit our website for more information. We look forward to your reply. Thank you.
+ 
+Best Regards,
+Jaja Chen
+Runsom Precision Co Ltd 
+

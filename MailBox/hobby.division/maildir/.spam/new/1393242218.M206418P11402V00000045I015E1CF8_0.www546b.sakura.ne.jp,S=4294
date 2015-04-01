@@ -1,0 +1,71 @@
+Return-Path: <sales01@zxzmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.4 required=7.0 tests=BAYES_50,DEAR_FRIEND,
+	FROM_EXCESS_BASE64,FROM_MISSP_REPLYTO,HTML_IMAGE_ONLY_16,HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG,MIME_BASE64_BLANKS,MIME_HTML_ONLY,T_REMOTE_IMAGE
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.6 DEAR_FRIEND BODY: Dear Friend? That's not very dear!
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4606]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.1 HTML_IMAGE_ONLY_16 BODY: HTML: images with 1200-1600 bytes of words
+	*  0.0 MIME_BASE64_BLANKS RAW: Extra blank lines in base64 encoding
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  1.0 FROM_EXCESS_BASE64 From: base64 encoded unnecessarily
+	*  1.9 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  0.0 T_REMOTE_IMAGE Message contains an external image
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s1OBhXcc011398
+	for <hobby.division@sportshobby.co.jp>; Mon, 24 Feb 2014 20:43:33 +0900 (JST)
+	(envelope-from sales01@zxzmail.com)
+X-Nat-Received: from [112.78.125.46]:64201 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1393242213.24710
+Received: from mx206.newsletter.idosend.com (mx206.newsletter.idosend.com [103.31.240.59])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s1OBhVTJ011387
+	for <hobby.division@sportshobby.co.jp>; Mon, 24 Feb 2014 20:43:33 +0900 (JST)
+	(envelope-from sales01@zxzmail.com)
+To:hobby.division@sportshobby.co.jp
+Subject:=?utf-8?B?UmU6IFJlOiBMaXBvIEJhdHRlcmllcyBGb3IgUkMgSG9iYnk=?=
+Reply-To:sales01@rc-baby.com
+List-Help:<http://image.trustemta.com/focussend/list-help.htm?xid=878051-785>
+List-Owner:<mailto:sales01@zxzmail.com>
+List-Unsubscribe:<http://image.trustemta.com/focussend/Unsubscribe.aspx?xid=878051-785>
+X-MessageId:878051-785
+X-Prifocus:0
+From:=?utf-8?B?S2l0dHk=?=<sales01@zxzmail.com>
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: base64
+Message-Id: <20140224114329.5977F17940C2@mx206.newsletter.idosend.com>
+Date: Mon, 24 Feb 2014 19:43:17 +0800 (CST)
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 24022014 #7276764, status: clean
+
+PHA+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxNHB4OyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5
+OiB0YWhvbWEsIGdlbmV2YSwgc2Fucy1zZXJpZjsgIj5EZWFyIEZyaWVuZCw8YnIgLz4NCjxiciAv
+Pg0KVGhpcyBpcyBLaXR0eSBmcm9tIFN1eGluIENvLiwgTHRkLCB3ZSBhcmUgc2Vla2luZyBEaXN0
+cmlidXRvcnMvQWdlbnRzKE9FTSB0b28pIG9mIExpLXBvIGJhdHRlcmllcyBpbiB5b3VyIGNvdW50
+cnksZm9yIFJDIEhvYmJ5OiBSQyBDYXJzL0FpcnBsYW5lcy9IZWxpL0JvYXRzLjxiciAvPg0KPGJy
+IC8+DQpXZSBzcGVjaWFsaXplZCBpbiBSJmFtcDtEIGJhdHRlcnkgZm9yIG1hbnkgeWVhcnMsIGFu
+ZCBob3BlIHRvIGZpbmQgYSB3YXkgdG8gY29vcGVyYXRlIHdpdGggeW91ISBXaHkgZG9uJnJzcXVv
+O3QgY2hvc2UgdXM/PGJyIC8+DQo8YnIgLz4NCjEuV2UgYWx3YXlzIG9mZmVyIHRoZSBtb3N0IGNv
+bXBldGl0aXZlIHByaWNlcyBlc3BlY2lhbGx5IGZvciB0aGVzZSBiaWcgb3JkZXJzIGFuZCBvbGQg
+Y3VzdG9tZXJzLiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOzxiciAvPg0KPGJyIC8+DQoyLlNob3J0
+IGRlbGl2ZXJ5IHRpbWUsNSB3b3JraW5nIGRheXMgZm9yIHNhbXBsZSBvcmRlcixhbmQgNy0xNSB3
+b3JraW5nIGRheXMgZm9yIGZvcm1hbCBvcmRlci4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+cDs8YnIgLz4NCiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOzxiciAvPg0KQW55
+IGNvbW1lbnRzLCB0aGF0J2xsIGJlIGFwcHJlY2lhdGVkISBUaGFua3MuPGJyIC8+DQo8YnIgLz4N
+CkJlc3QgcmVnYXJkcywmbmJzcDsmbmJzcDs8YnIgLz4NCjxiciAvPg0KS2l0dHk8YnIgLz4NCjxi
+ciAvPg0KU3VueGluIENPLkxURDxiciAvPg0KPGJyIC8+DQpFbWFsaTogc2FsZXMwMUByYy1iYWJ5
+LmNvbTxiciAvPg0KPGJyIC8+DQpXZWJzaXRlOiB3d3cucmMtYmFieS5jb208YnIgLz4NCjxiciAv
+Pg0KVGVsOiA4Ni0wNzU1LTI4MTAtNjc5MSZuYnNwOyZuYnNwOyBGYXg6IDg2LTA3NTUtMjk5OC05
+ODU2PGJyIC8+DQo8YnIgLz4NClNhbGVzIENlbnRlciA6IE5vLjExMCwgWGlheW91c29uZywgTWlu
+emhpIFN1Yi1kaXN0cmljdCwgTG9uZ2h1YSwgU2hlbnpoZW4sNTE4MDAwIFAuUi4gQ2hpbmE8YnIg
+Lz4NCjxiciAvPg0KRmFjdG9yeSBBZGRyZXNzOiBCdWlsZGluZyBBLCBUYW5neGkgaW5kdXN0cmlh
+bCBwYXJrLCBYaXhpYW5nR3VzaHUsIEJhb2FuIFN1Yi1kaXN0cmljdCwgU2hlbnpoZW4sIDUxODAw
+MCBQLlIuIENoaW5hJm5ic3A7PC9zcGFuPjwvc3Bhbj48L3A+PGltZyBzcmM9J2h0dHA6Ly9pbWFn
+ZS50cnVzdGVtdGEuY29tL3QvYT9hPTg3ODA1MS03ODUnIGhlaWdodD0nMScgd2lkdGg9JzEnIC8+
+
+

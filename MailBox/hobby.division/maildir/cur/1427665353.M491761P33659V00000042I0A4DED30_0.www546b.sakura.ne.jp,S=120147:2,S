@@ -1,0 +1,1364 @@
+Return-Path: <189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa@jpn.dell.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: *
+X-Spam-Status: No, score=1.3 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_FONT_FACE_BAD,HTML_MESSAGE,OBFUSCATING_COMMENT,
+	T_REMOTE_IMAGE,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav303.sakura.ne.jp (fsav303.sakura.ne.jp [153.120.85.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2TLgLvM033654
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 06:42:21 +0900 (JST)
+	(envelope-from 189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa@jpn.dell.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav303.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp);
+ Mon, 30 Mar 2015 06:42:21 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp)
+Received: from dmx1.bfi0.com (dmailer0169.dmx1.bfi0.com [208.70.142.169])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2TLgHQw033647
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 06:42:18 +0900 (JST)
+	(envelope-from 189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa@jpn.dell.com)
+DKIM-Signature: v=1; a=rsa-sha1; d=jpn.dell.com; s=ei; c=simple/simple;
+	q=dns/txt; i=@jpn.dell.com; t=1427665337;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=r3v6VNB0OpaeokIC7959kcWDskY=;
+	b=iqJ0AIAiTxynqMjNdVgTsZMrqks7UZs9xOjOturWQ0RXzjdXdp6Fo1ZIiNQGhmap
+	P3OuirzA/8dzykisehboN83jnJHUnsNAKHBGmJ+wOY4zE3X1JViRMa6gReu56xkO
+	D995sw9Ze/FDL5PUhz5vPYKaye5TVLAc6NkcJNpMjnc=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ei; d=jpn.dell.com;
+	h=Received:Reply-To:Bounces_to:Message-ID:X-SS:X-BFI:Date:From:Subject:To:MIME-Version:Content-Type;
+	b=WZUx8JUxCHok0zrRjj3wG+XiZGzzx4hNyYvFOl/sQPOVx5HRpOu17T9Zn3ZATyMa
+	Pc0KhgC0QmoQ4f6DqBZY2E1YNqpwZfadAXbTsyyQ2vihh05F4jZ2vV6tTw548fdr
+	RUvMP1PNW0ze77YpahAEmHHe4P98Z0uOzN4OBCyHavE=
+Received: from [10.150.20.107] ([10.150.20.107:33324] helo=dlspvhcimailer7)
+	by dmx1.bfi0.com (envelope-from <189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa@jpn.dell.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 93/F7-09382-9B178155; Sun, 29 Mar 2015 17:42:17 -0400
+Reply-To: =?iso-2022-jp?B?IkpQX0JTRF9ERUxMTkVXUyI=?= <189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa@jpn.dell.com>
+Bounces_to: JP_BSD_DELLNEWS.189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa@jpn.dell.com
+Message-ID: <189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa.13161.9155.dlspvhcimailer7.DumpShot.2@jpn.dell.com>
+X-SS: 1-2-4620022-173828072
+X-BFI: 189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa
+Date: Sun, 29 Mar 2015 17:38:37 EDT
+From: =?iso-2022-jp?B?GyRCJUclazN0PDAycTxSGyhCIBskQiVTJTglTSU5GyhCIBskQjFENkhFfTNnS1xJdBsoQg==?= <JP_Business_Sales@jpn.dell.com>
+Subject:  =?iso-2022-jp?B?GyRCIVpLXEZ8Okc9KkZ8ISohW0djJCYkSiRpOiMhI0BoPTUkTkdkJGw2WkZDMkElYiVHJWskQCQxJHI4N0EqJDckRiQ0PlIycBsoQg==?=
+To: hobby.division@sportshobby.co.jp
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+  boundary="ABCD-189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa-EFGH"
+
+--ABCD-189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa-EFGH
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+【本日最終日】買うなら今。Win 7 Pro無料アップグレードモデル。*2詳細はこちら
+http://jpn.dell.com/1b72f792dlayfousuarofraiaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+【本日キャンペーン最終日】おススメの周辺機器はこちら
+http://jpn.dell.com/149622390layfousuarofraqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+新規・3年以上未購入の法人様は10,000円Off*1 詳細はこちら
+http://jpn.dell.com/1aa7617c4layfousuarofrayaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+--------------------------------------------------
+
+Facebook
+http://jpn.dell.com/10f2cfc6clayfousuarofrbaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+Twitter
+http://jpn.dell.com/1ec38c838layfousuarofrbiaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+--------------------------------------------------
+
+本日最終日！買うなら今。 先週の売れ筋特価モデルを厳選してご紹介。
+http://jpn.dell.com/112759285layfousuarofrbqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+--------------------------------------------------
+
+新規，3年以上未購入の法人様は10,000円Off*1
+
+http://jpn.dell.com/1f161a6d1layfousuarofrbyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+--------------------------------------------------
+
+【即納モデル・モニタなしも選択可能】第4世代Core i5、大容量メモリ、Win 7 Pro搭載。
+
+Vostro 3800 スリムタワー
+
+通常価格￥85,980が、
+新規・3年以上未購入の法人様なら
+￥55,980
+(配送料込・税抜)
+
+- 第4世代インテル(R) Core(TM) i5-4460 プロセッサー
+- Windows 7 Professional SP1 32ビット（日本語版）
+- 4GB（4GB×1）DDR3-SDRAM メモリ
+- 500GB SATA HDD
+- Dell E1914H 18.5インチ ワイド液晶モニタ
+- 「ベーシック」1年間 翌営業日対応オンサイト保守サービス 8時間×週6日（月〜土）
+
+1) 通常時より12,000円Off
+2) 無料でWin 7 Proへアップグレード済（通常8,000円）
+3) 新規・3年以上未購入の法人様は10,000円Off*1
+
+詳細はこちら
+http://jpn.dell.com/139de6c9flayfousuarofrcaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+上記構成・価格は3/30(月)まで有効。
+
+--------------------------------------------------
+
+第4世代Core i5搭載、充実メモリ、高速パフォーマンス。
+
+OptiPlex 3020 スモールシャーシ
+
+通常価格￥84,980が、
+新規・3年以上未購入の法人様なら
+￥59,980
+(配送料込・税抜)
+
+- 第4世代インテル(R) Core(TM) i5-4590 プロセッサー
+- Windows 8.1 64ビット（日本語版）
+- 4GB（4GB×1）DDR3-SDRAM メモリ
+- 500GB SATA HDD
+- Dell E1914H 18.5インチ ワイド液晶モニタ
+- 「プロサポート」3年間 翌営業日対応オンサイト保守サービス 8時間×週6日（月〜土）
+
+1) 通常時より15,000円Off
+2) 安心の3年間プロサポート付
+3) 新規・3年以上未購入の法人様は10,000円Off*1
+
+詳細はこちら
+http://jpn.dell.com/1daca58cblayfousuarofrciaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+上記構成・価格は3/30(月)まで有効。
+
+--------------------------------------------------
+
+第5世代Corei5、非光沢液晶、数字入力に便利なテンキー搭載。マルチタスクの作業もストレスなく高速処理。お手頃価格のビジネス仕様モデル。
+
+Vostro 15 3000シリーズ
+
+通常価格￥69,980が、
+新規・3年以上未購入の法人様なら
+￥49,980
+(配送料込・税抜)
+
+- 第5世代インテル(R) Core(TM) i5-5200U プロセッサー
+- Windows 8.1 64ビット（日本語版）
+- 4GB（4GB×1）DDR3L-SDRAM メモリ
+- 500GB SATA HDD
+- DVD スーパーマルチドライブ
+- 「ベーシック」1年間 翌営業日対応オンサイト保守サービス 8時間×週6日（月〜土）
+
+1) 通常時より10,000円Off
+2) 新規・3年以上未購入の法人様は10,000円Off*1
+
+詳細はこちら
+http://jpn.dell.com/124870276layfousuarofrcqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+--------------------------------------------------
+
+新規・3年以上未購入の法人様は 今なら1万円Off 詳細はこちら＞
+
+http://jpn.dell.com/1c7933622layfousuarofrcyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+--------------------------------------------------
+
+毎週実施中
+周辺機器お得キャンペーン
+IPSパネル搭載モニタ毎週サイズ違いでお得なキャンペーン実施中
+詳細はこちら
+
+http://jpn.dell.com/1b9039e46layfousuarofrdaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+--------------------------------------------------
+
+デル E-メール配信サービス
+配信先メールアドレスの
+ご登録・ご変更。
+
+http://jpn.dell.com/15a17aa12layfousuarofrdiaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+ライブチャット
+ご購入に関するご質問に
+営業担当が回答します。
+
+http://jpn.dell.com/1a45af0aflayfousuarofrdqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+デルリース
+Dell製品ご購入者様
+専用のリースプラン。
+
+http://jpn.dell.com/1474ec4fblayfousuarofrdyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+デルのビジネス
+ソリューション
+経営革新のためのIT活用。
+
+http://jpn.dell.com/18ff10eb5layfousuarofreaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+
+--------------------------------------------------
+
+*1法人様向け限定割引10,000円Offは、1社につき1台のみ適用されます。2012年2月1日以降、デルのビ ジネス営業統括本部でご購入履歴のない、従業員数1-500名の法人様を対象とさせていただきます。対象製品および10,000円Offの詳細については、当社オンラインまたはお電話にて、事前にご確認ください。
+http://jpn.dell.com/16ce53ae1layfousuarofreiaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+*2一部対象外パッケージもございます。商品については、オンラインストアでご確認ください。   
+http://jpn.dell.com/192a8605clayfousuarofreqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g
+● 本広告掲載製品は、なくなり次第終了とさせていただきます。デル即納モデルは数に限りがあります。売切れの場合はご了承ください。   
+●最短翌営業日出荷のデル即納モデルについては、条件によって異なりますので、ご購入前に必ず http://jpn.dell.com/171bc5408layfousuarofreyaaaaaaazsqegquxdh5ayaaaaa をご覧ください。
+
+--------------------------------------------------
+
+掲載モデルのご購入は、このメールを受け取られた法人のお客様以外はお断りさせていただく場合がございます。
+個人（ホームユーザ）のお客様は対象外です。
+
+●製品の購入には当社の販売条件（ http://jpn.dell.com/1d4e6bfa0layfousuarofrfaaaaaaaazsqegquxdh5ayaaaaa ）が適用されます。
+●製品は、正式受注後、通常約10日〜2週間ほどでお届けしております。（お選びになった製品、構成内容、正式受注手続きの時期により納期が前後することがございます。予めご了承ください。）
+●1社で50台以上のご注文をされた場合、受注をお断りする場合もございます。
+●返品・交換は、お客様がデルから直接製品をご購入された場合、納品日より10日以内にご連絡いただいた場合に限り、お受けいたします。但し、第三者製品、Dell/EMC製品、Dell Compellent製品、Dell EqualLogic製品、Dell KACE及びKACEブランド製品、Dell Force10及びForce10ブランド製品、PowerVaultML6000テープライブラリ、Dell SonicWall及びSonicWallブランド製品、Wyseブランド製品、プリンターインク・トナー、プロジェクターランプ等の消耗品、スペアパーツの返品は受け付けておりません。デルの責めに帰すべき事由がないかぎり、返品時の配送料およびご入金時の振込手数料はお客様のご負担とさせていただきます。
+●当社物流センター出荷後、お客様のご都合により配送先を変更される場合は、別途同額の配送料を申し受けます。
+●現金でのお支払い、クレジットカードでのお支払いについては、製品またはサービスの代金を、製品またはサービスがお客様に引渡される前に、現金でお支払いもしくはカード支払い手続きをしていただきます。
+●現金振込またはクレジットカードでのお支払いを選択された場合は、ご入金を当社にて確認できた時点で正式受注及び製造開始とさせていただきます。掛売りでのお支払いを選択された場合は、お客様からの正式注文書を受け付けた時点より、生産手続き開始とさせていただきます。（当社による与信審査の結果によっては受注をお断りさせていただく場合がございます。予めご了承ください。）
+●本広告掲載製品は、なくなり次第終了となります。
+●このパッケージは、予定台数完売終了次第販売終了となります。
+●他社製機器およびソフトウェアはデル標準保守サービスの対象外とさせていただきます。
+●掲載のデル製品の構成はご希望に合わせてスペックをアップグレードすることが可能です。
+●掲載内容、外観（モニタを含む）、価格および仕様は予告なく変更される場合がございます。
+●ご注文いただいた各構成部品は当社の裁量により同等またはそれ以上の機能を有する部品に変更される場合がございます。
+●Inspiron、XPS、Vostro、Dell Precision、OptiPlex、Latitude、Venue、Venue Pro、Alienware、Alienwareロゴ、Alienware Arena、PowerEdge、PowerConnect、PowerVault、ProSupport、EqualLogic、Compellent、KACE、SonicWALL、DELL ロゴは、米国Dell Inc.の商標または登録商標です。
+●Intel、インテル、Intel ロゴ、Intel Inside、Intel Inside ロゴ、Intel Atom、Intel Atom Inside、Intel Core、Core Inside、Intel vPro、vPro Inside、Celeron、Celeron Inside、Itanium、Itanium Inside、Pentium、Pentium Inside、Xeon、Xeon Phi、Xeon Inside、Ultrabook は、アメリカ合衆国および/またはその他の国における Intel Corporation の商標です。
+●AMD、AMD arrow ロゴ、AMD Athlon、AMD Sempron、AMD Turion、AMD Opteron、ならびにその組み合わせは、Advanced Micro Devices, inc.の商標です。
+●Microsoft、Windows、Officeロゴは米国Microsoft Corporation の米国およびその他の国における登録商標です。
+●その他の社名および製品名は各社の商標または登録商標です。
+
+このメールは、当社製品をご購入いただいたお客様、およびEメール配信にご登録いただいたお客様に、デル株式会社 ビジネス 営業統括本部より送信されています。
+◆Eメールの登録変更・中止をご希望の場合は大変お手数ですがこちらよりお申し込みください。
+http://jpn.dell.com/137f28bf4layfousuarofrfiaaaaaaazsqegquxdh5ayaaaaa
+お客様にご登録いただいているEメールアドレスは hobby.division@sportshobby.co.jp です。
+配信先変更・配信停止をご希望の場合は、こちらのEメールアドレスを入力してください。
+
+配信停止手続きおよびご登録内容の変更には、少々お時間をいただく場合がございます。
+手続き完了前に、メールが配信される場合がございます。予めご了承ください。
+
+デルニュースは、お客様の個人情報に対する厳格なポリシーに基づいて配信されています。
+詳しくはこちらから「デルのプライバシーに関する方針」をご参照ください。
+http://jpn.dell.com/1c9bfd149layfousuarofrfqaaaaaaazsqegquxdh5ayaaaaa
+
+【販売業者名】 デル株式会社
+【運営責任者氏名】 代表取締役社長　郡 信一郎
+【連絡先】 〒212-8589 神奈川県川崎市幸区堀川町580番地ソリッドスクエア東館20階
+＜デル株式会社 ビジネス営業統括本部＞
+TEL： 044-556-1465　FAX： 044-556-3345
+E-mail： JP_Business_Sales@dell.com
+
+--ABCD-189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa-EFGH
+Content-Type: text/html; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">-->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-2022-JP" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<title>Dell EDM</title>
+<!--[if gte mso 9]>
+<style>
+.marginBottom10 {
+	margin-bottom: 10px;
+}
+
+
+
+
+</style>
+<![endif]-->
+<style type="text/css">
+a {
+	color: #0085c3;
+	text-decoration: none;
+}
+p {
+	margin: 1em 0;
+}
+#outlook a {
+	padding: 0;
+}
+body {
+	width: 100% !important;
+	background-color:#EEEEEE;
+}
+.ReadMsgBody {
+	width: 100%;
+}
+.ExternalClass {
+	width: 100%;
+}
+body {
+	-webkit-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+img {
+	display: block;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+ @media only screen and (max-width: 480px) {
+table[class=per100] {
+	position: relative;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100% !important;
+	height: auto !important;
+}
+table[class=borderPerTab] {
+	position: relative;
+	top: 0;
+	left: 0px;
+	right: 0px;
+	width: 98% !important;
+	height: auto !important;
+}
+table[class=borderPerTab90] {
+	position: relative;
+	top: 0;
+	left: 0px;
+	right: 0px;
+	width: 90% !important;
+	height: auto !important;
+}
+td[class=colsplit] {
+	width: 100% !important;
+	float: left !important;
+}
+td[class=colsplitAL] {
+	text-align: left;
+	width: 100% !important;
+	float: left !important;
+}
+td[class=per50] {
+	width: 50% !important;
+	float: left !important;
+}
+img[class=imgPer50] {
+	width: 50% !important;
+}
+td[class=menuTd] {
+	width: 100% !important;
+	float: left !important;
+	font-size: 14px !important;
+	height: 16px !important;
+	border-bottom: 1px solid #ffffff !important;
+}
+td[class=email_box] {
+	width: 100% !important;
+	float: left !important;
+}
+td[class=produceTd] {
+	width: 100% !important;
+	float: left !important;
+	border-bottom: 1px solid #cfcfcf !important;
+	padding: 10px 0px !important;
+}
+td[class=produceTdLast] {
+	width: 100% !important;
+	float: left !important;
+	padding: 10px 0px !important;
+}
+img[class=tel] {
+	width: 100% !important;
+	height: auto !important;
+}
+img[class=produceImg] {
+	width: 100% !important;
+	height: auto !important;
+	display: block !important;
+}
+img[class=footerMenu] {
+	width: 100% !important;
+	height: auto !important;
+	display: block !important;
+}
+table[class=noneMobile], tr[class=noneMobile], td[class=noneMobile], img[class=noneMobile], span[class=noneMobile] {
+	display: none !important;
+}
+table[class=showMobile], tr[class=showMobile], td[class=showMobile], img[class=showMobile], span[class=showMobile] {
+	display: block !important;
+}
+td[class=vspacer15], img[class=vspacer15] {
+	width: 15px !important;
+}
+td[class=vspacer10], img[class=vspacer10] {
+	width: 10px !important;
+}
+td[class=vspacer5], img[class=vspacer5] {
+	width: 5px !important;
+}
+img[class=imgReplaceBox01] {
+	width: 100% !important;
+	height: 7px !important;
+	column-span: all !important;
+}
+td[class=colsplit] {
+	width: 100% !important;
+	float: left !important;
+}
+td[class=colsplitSpacer] {
+	width: 100% !important;
+	height: 10px !important;
+	float: left !important;
+}
+table[class=tabCenter] {
+	width: 100% !important;
+}
+/*---*/
+
+}
+</style>
+</head>
+<body style="-webkit-text-size-adjust:none;font-family: ＭＳ Ｐゴシック, MS PGothic, Osaka;">
+<table width="100%" align="center" bgcolor="#EEEEEE" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top"><table class="borderPerTab" width="728" align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="10"></td>
+        </tr>
+        <tr>
+          <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="683" class="colsplit" align="left" valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                   
+ <tr>
+      <td width="10"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="1" border="0"></td>
+      <td valign="top" style="font-size:12px; font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; color:#333333;"><strong>【本日最終日】買うなら今。Win 7 Pro無料アップグレードモデル。<sup>*2</sup><a href="http://jpn.dell.com/1e1933565layfousiarofrfyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank" style="color:#0085c3;text-decoration:none;">詳細はこちら</a></strong></td>
+      </tr><tr>
+      <td width="10"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="1" border="0"></td>
+      <td valign="top" style="font-size:12px; font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; color:#333333;"><strong>【本日キャンペーン最終日】おススメの周辺機器は<a href="http://jpn.dell.com/1292cff2blayfousiarofrgaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank" style="color:#0085c3;text-decoration:none;">こちら</a></strong></td>
+      </tr><tr>
+      <td width="10"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="1" border="0"></td>
+      <td valign="top" style="font-size:12px; font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; color:#333333;"><strong>新規・3年以上未購入の法人様は10,000円Off<sup>*1</sup> <a href="http://jpn.dell.com/1ca38cb7flayfousiarofrgiaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank" style="color:#0085c3;text-decoration:none;">詳細はこちら</a></strong></td>
+      </tr>         
+                    
+                  
+                  </table></td>
+                <td width="45" valign="bottom" class="colsplit" align="right" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#0085c3; text-decoration:none;"><table width="50" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="20" height="30" align="right" valign="bottom"><a href="http://jpn.dell.com/1347591c2layfousiarofrgqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_FB-f-Logo__blue_202.jpg" alt="facebook" width="20" height="20" border="0"></a></td>
+                      <td width="10"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="5" height="1" border="0"></td>
+                      <td width="20" valign="bottom"><a href="http://jpn.dell.com/1d761a596layfousiarofrgyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_Twitter_logo_white_201.jpg" alt="twitter" width="20" height="20" border="0"></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table><!--head-->      
+      <table width="728" class="borderPerTab" align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="15"></td>
+        </tr>
+      </table><!--mt15-->    
+      <table class="borderPerTab" width="728" align="center" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <!--<td valign="top" width="1" bgcolor="#dddddd"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="18" border="0"></td>-->
+          <td valign="top"><table class="per100" width="726" align="center" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top" height="1" width="1" bgcolor="#dddddd" style="height:1px; line-height:0px; font-size:0px;"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="1" border="0"></td>
+              </tr>
+              <tr>
+                <td height="10"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="10" border="0" /></td>
+              </tr>
+              <tr>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="111" height="74" align="center" valign="top" class="colsplit"><a href="http://jpn.dell.com/1c5148c2blayfousiarofrhaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_147864_jp_eu_sb_fy15q1_dell_logo.gif" alt="dell" name="DellLogo" width="111" height="65" id="DellLogo" style="display:block; font-size:10px; font-weight:bold; color:#0085C3;" border="0" /></a></td>
+                      <td class="colsplit" width="615"><table width="615" border="0" cellspacing="0" cellpadding="0" class="per100">
+                        
+                          <tr>
+                            <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="4" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td valign="top" height="23"><table width="615" class="per100" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td valign="middle" bgcolor="#eeeeee" width="605" class="per100">
+
+
+<table width="100%" class="per100" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="7" valign="top" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_nav_left.gif" alt="" width="7" height="23" border="0"></td>
+                            
+                                                            
+     
+     
+        <td valign="middle" align="center" class="menuTd"><a style="text-decoration:none; color:#444444; font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-size:10px;" href="http://jpn.dell.com/12600b87flayfousiarofrhiaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank">ノートパソコン</a></td>
+     
+                                        
+  
+    
+    <td valign="middle" width="1" bgcolor="#ffffff" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="10" border="0"></td>
+ 
+                                      
+          
+     
+        <td valign="middle" align="center" class="menuTd"><a style="text-decoration:none; color:#444444; font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-size:10px;" href="http://jpn.dell.com/1d84de2c2layfousiarofrhqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank">デスクトップパソコン</a></td>
+     
+                                        
+  
+    
+    <td valign="middle" width="1" bgcolor="#ffffff" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="10" border="0"></td>
+ 
+                                      
+          
+     
+        <td valign="middle" align="center" class="menuTd"><a style="text-decoration:none; color:#444444; font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-size:10px;" href="http://jpn.dell.com/13b59d696layfousiarofrhyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank">サーバ/ストレージ/ネットワーク</a></td>
+     
+                                        
+  
+    
+    <td valign="middle" width="1" bgcolor="#ffffff" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="10" border="0"></td>
+ 
+                                      
+          
+     
+        <td valign="middle" align="center" class="menuTd"><a style="text-decoration:none; color:#444444; font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-size:10px;" href="http://jpn.dell.com/1f3e61cd8layfousiarofriaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank">周辺機器</a></td>
+     
+                                        
+  
+    
+    <td valign="middle" width="1" bgcolor="#ffffff" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="10" border="0"></td>
+ 
+                                      
+          
+     
+        <td valign="middle" align="center" class="menuTd"><a style="text-decoration:none; color:#444444; font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-size:10px;" href="http://jpn.dell.com/110f2288clayfousiarofriiaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank">サービス＆サポート</a></td>
+     
+                                        
+                         
+                                        
+                                    <td width="7" valign="top" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_nav_right.gif" alt="" width="7" height="23" border="0"></td>
+                          </tr>
+                        </table> </td>
+                                  <td valign="top" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="23" border="0"></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="15" border="0"></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+             
+				  <tr>
+                <td valign="top"> 
+				<table class="borderPerTab" align="center" border="0" cellpadding="0" cellspacing="0" width="700" style="margin:0 auto;">
+								<tbody>
+					 			
+					<tr>
+					<td valign="top"> <a href="http://jpn.dell.com/1eebf7231layfousiarofriqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank">
+					<img  width="700" height="109"  style="display:block;" class="produceImg" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_W8_0330_EDM_Banner_nonbuyer_1.jpg" alt="本日最終日！買うなら今。 先週の売れ筋特価モデルを厳選してご紹介。" border="0"></a></td>
+					</tr>
+					                  </tbody></table>
+			  </td>
+              </tr>
+			
+              				 <table class="borderPerTab" width="700" align="center" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+					  <td valign="top" align="right" class="colsplit"><a href="http://jpn.dell.com/10dab4665layfousiarofriyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img style="display:block;"  width="300" height="500"  src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_W8_0330_EDM_Banner_nonbuyer_2.jpg" alt="W8_0330_EDM_Banner_nonbuyer_2" border="0" class="produceImg"></a></td>
+					  <td valign="top" align="left" class="colsplit">
+					  <table class="borderPerTab" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+					  <td valign="top" ><a href="http://jpn.dell.com/1a8f1adcdlayfousiarofrjaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img style="display:block;" width="400" height="340" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_W8_0330_EDM_Banner_nonbuyer_3.jpg" alt="W8_0330_EDM_Banner_nonbuyer_3" border="0" class="produceImg"></a></td>
+					 </tr><tr> <td valign="top" ><a href="http://jpn.dell.com/14be59999layfousiarofrjiaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img style="display:block;"  width="400" height="160"  src="http://dimages.bfi0.com/images/4620022/9540121/899982_B1_W8_0330_EDM_Banner_nonbuyer_4update.jpg" alt="W8_0330_EDM_Banner_nonbuyer_4" border="0" class="produceImg"></a></td>
+					</tr>
+				  </tbody></table>	
+					  </td>
+					</tr>
+				  </tbody>
+				  </table>			
+				  
+			      
+			  
+			  
+			 
+              <tr>
+                <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="18" border="0"></td>
+              </tr>
+              <tr>
+                <td valign="top" height="1" width="1" bgcolor="#dddddd" style="height:1px; line-height:0px; font-size:0px;"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="1" border="0"></td>
+              </tr>
+            </table></td>
+          <td valign="top" width="1" bgcolor="#dddddd"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="18" border="0"></td>
+        </tr>
+      </table><!--Logo-TopBanner-->
+      
+      
+      <table width="728" class="borderPerTab" align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="15"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="15" border="0" /></td>
+        </tr>
+      </table><!--mt15-->      
+      <table class="borderPerTab" width="728" align="center" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" width="1" bgcolor="#dddddd"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="18" border="0"></td>
+          <td valign="top"><table class="per100" width="726" align="center" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top" height="1" width="1" bgcolor="#dddddd" style="height:1px; line-height:0px; font-size:0px;"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="1" border="0"></td>
+              </tr>
+              <tr>
+                <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="12" border="0"></td>
+              </tr>
+                            <tr>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="14"></td>
+                      <td align="center" valign="top"><a href="http://jpn.dell.com/1b5a8c324layfousiarofrjqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"> <img style="display:block;height:auto; width:100%;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_EDM_UndertopBanner_nonbuyer_dl_11.jpg" alt="新規，3年以上未購入の法人様は10,000円Off*1" border="0" /></a></td>
+                      <td width="14"></td>
+                    </tr>
+                  </table><!--TopBanner2--></td>
+              </tr>
+                            <tr>
+                <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="12" border="0"></td>
+              </tr>
+              <tr>
+                <td valign="top"><table width="726" class="per100" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td valign="top" class="vspacer15" width="20"><span class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="20" height="10" border="0" /></span></td>
+                      <td valign="top" width="666" class="per100"><!--2B-->                        
+                                 <table width="686" border="0" cellspacing="0" cellpadding="0" class="per100">
+                          <tr>
+                            <td valign="top" class="produceTd" width="212">	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    						
+                                <tr>
+                                  <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;font-weight:bold; font-size:12px; line-height:14px; color:#444444;-webkit-text-size-adjust:none;height:76px" class="t1_1" height="76">【即納モデル・モニタなしも選択可能】第4世代Core i5、大容量メモリ、Win 7 Pro搭載。</td>
+                                </tr>
+                             
+                                <tr>
+                                  <td align="center" valign="middle" style="height:170px" height="170" class="img_1"><a href="http://jpn.dell.com/156bcf770layfousiarofrjyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img class="productimg" uid="b_3_1_1" style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_0330hit_nonbuyer_1b.jpg" alt="Vostro 3800 スリムタワー | 通常価格￥85,980が、
+新規・3年以上未購入の法人様なら ￥55,980（配送料・税込） | 詳細はこちら" border="0"/></a></td>
+                                </tr>
+                                <tr>
+                                  <td height="6"></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top">
+                                  
+                                  
+                                  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;font-weight:bold; font-size:12px; line-height:14px; color:#444444;-webkit-text-size-adjust:none;height:24px" height="24" class="t2_1">Vostro 3800 スリムタワー</td>
+                                      </tr>
+                                      <tr>
+                                        <td valign="bottom" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;font-weight:normal; -webkit-text-size-adjust:none;font-size:11px; line-height:14px; color:#444444;height:43px"  height="43"  class="t21_1">通常価格￥85,980が、<br />
+新規・3年以上未購入の法人様なら</td>
+                                      </tr>
+                                    
+                                      <tr>
+                                        <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:bold; line-height:28px; color:#6f2586;"><div class="marginBottom10" style="padding-bottom:10px;"><font style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka; font-weight:bold; font-size:12px;-webkit-text-size-adjust:none; line-height:16px; color:#ce1126;">￥</font>
+																				<font style="font-size:24px;-webkit-text-size-adjust:none; color:#ce1126; ">55,980</font>
+																				<font style="font-family:'ＭＳ Ｐゴシック';font-size:10px; line-height:16px; color:#ce1126;-webkit-text-size-adjust:none;"><br>(配送料込・税抜)</font>
+																				</div></td>
+                                      </tr>
+                               
+                                      
+                                     
+                                      <tr>
+                                        <td valign="top" style="padding:0cm 0cm 0cm 0cm;height:160px"  height="160"   class="t4_1">
+                                        
+                                                                              
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                     
+                                            
+                                              
+                                                <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">第4世代インテル&reg; Core&#8482; i5-4460 プロセッサー<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">Windows 7 Professional SP1 32ビット(日本語版)<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">4GB(4GB×1)DDR3-SDRAM メモリ<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">500GB SATA HDD<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">Dell E1914H 18.5インチ ワイド液晶モニタ<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">［ベーシック］1年間 翌営業日対応オンサイト保守サービス 8時間×週6日(月〜土)<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                                                                      
+                                          </table>
+                                        
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          </td>
+                                      </tr>
+                                    
+                                    </table></td>
+                                </tr>
+                                <tr>
+								 <td valign="top" style="font-family:'ＭＳ Ｐゴシック';font-weight:bold; font-size:12px; line-height:15px; color:#ce1126;height:77px"  height="77"  class="t5_1">
+                                       1) 通常時より12,000円Off<br />
+2) 無料でWin 7 Proへアップグレード済(通常8,000円)<br />
+3) 新規・3年以上未購入の法人様は10,000円Off<sup>*1</sup>&nbsp;  </td>
+										 
+								</tr>
+                                <tr>
+                                  <td height="10"></td>
+                                </tr>
+                               
+                                <tr>
+                                  <td height="20"><table width="98" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td valign="top"><a href="http://jpn.dell.com/19e033d3elayfousiarofrkaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_btn.jpg" alt="詳細はこちら" width="87" height="35" style="display:block;" border="0" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td height="20"></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">上記構成・価格は3/30(月)まで有効。</td>
+                                </tr>
+                              </table>
+	</td>
+                            <td valign="top" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="10" border="0" /></td>
+                            <td valign="top" width="1" bgcolor="#cfcfcf" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="10" border="0" /></td>
+                            <td valign="top" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="10" border="0" /></td>
+                            <td valign="top" class="produceTd"  width="212">	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    						
+                                <tr>
+                                  <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;font-weight:bold; font-size:12px; line-height:14px; color:#444444;-webkit-text-size-adjust:none;height:76px" class="t1_1" height="76">第4世代Core i5搭載、充実メモリ、高速パフォーマンス。</td>
+                                </tr>
+                             
+                                <tr>
+                                  <td align="center" valign="middle" style="height:170px" height="170" class="img_1"><a href="http://jpn.dell.com/17d17096alayfousiarofrkiaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img class="productimg" uid="b_3_1_2" style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_0330hit_nonbuyer_2b.jpg" alt="OptiPlex 3020 スモールシャーシ | 通常価格￥84,980が、
+新規・3年以上未購入の法人様なら ￥59,980（配送料・税込） | 詳細はこちら" border="0"/></a></td>
+                                </tr>
+                                <tr>
+                                  <td height="6"></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top">
+                                  
+                                  
+                                  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;font-weight:bold; font-size:12px; line-height:14px; color:#444444;-webkit-text-size-adjust:none;height:24px" height="24" class="t2_1">OptiPlex 3020 スモールシャーシ</td>
+                                      </tr>
+                                      <tr>
+                                        <td valign="bottom" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;font-weight:normal; -webkit-text-size-adjust:none;font-size:11px; line-height:14px; color:#444444;height:43px"  height="43"  class="t21_1">通常価格￥84,980が、<br />
+新規・3年以上未購入の法人様なら</td>
+                                      </tr>
+                                    
+                                      <tr>
+                                        <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:bold; line-height:28px; color:#6f2586;"><div class="marginBottom10" style="padding-bottom:10px;"><font style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka; font-weight:bold; font-size:12px;-webkit-text-size-adjust:none; line-height:16px; color:#ce1126;">￥</font>
+																				<font style="font-size:24px;-webkit-text-size-adjust:none; color:#ce1126; ">59,980</font>
+																				<font style="font-family:'ＭＳ Ｐゴシック';font-size:10px; line-height:16px; color:#ce1126;-webkit-text-size-adjust:none;"><br>(配送料込・税抜)</font>
+																				</div></td>
+                                      </tr>
+                               
+                                      
+                                     
+                                      <tr>
+                                        <td valign="top" style="padding:0cm 0cm 0cm 0cm;height:160px"  height="160"   class="t4_1">
+                                        
+                                                                              
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                     
+                                            
+                                              
+                                                <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">第4世代インテル&reg; Core&#8482; i5-4590 プロセッサー<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">Windows 8.1 64ビット(日本語版)<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">4GB(4GB×1)DDR3-SDRAM メモリ<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">500GB SATA HDD<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">Dell E1914H 18.5インチ ワイド液晶モニタ<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">［プロサポート］3年間 翌営業日対応オンサイト保守サービス 8時間×週6日(月〜土)<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                                                                      
+                                          </table>
+                                        
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          </td>
+                                      </tr>
+                                    
+                                    </table></td>
+                                </tr>
+                                <tr>
+								 <td valign="top" style="font-family:'ＭＳ Ｐゴシック';font-weight:bold; font-size:12px; line-height:15px; color:#ce1126;height:77px"  height="77"  class="t5_1">
+                                       1) 通常時より15,000円Off<br />
+2) 安心の3年間プロサポート付<br />
+3) 新規・3年以上未購入の法人様は10,000円Off<sup>*1</sup>&nbsp;  </td>
+										 
+								</tr>
+                                <tr>
+                                  <td height="10"></td>
+                                </tr>
+                               
+                                <tr>
+                                  <td height="20"><table width="98" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td valign="top"><a href="http://jpn.dell.com/1835a53d7layfousiarofrkqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_btn.jpg" alt="詳細はこちら" width="87" height="35" style="display:block;" border="0" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td height="20"></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">上記構成・価格は3/30(月)まで有効。</td>
+                                </tr>
+                              </table>
+	</td>
+                            <td valign="top" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="10" border="0" /></td>
+                            <td valign="top" width="1" bgcolor="#cfcfcf" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="10" border="0" /></td>
+                            <td valign="top" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="10" border="0" /></td>
+                            <td valign="top" class="produceTdLast"  width="219">	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    						
+                                <tr>
+                                  <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;font-weight:bold; font-size:12px; line-height:14px; color:#444444;-webkit-text-size-adjust:none;height:76px" class="t1_1" height="76">第5世代Corei5、非光沢液晶、数字入力に便利なテンキー搭載。マルチタスクの作業もストレスなく高速処理。お手頃価格のビジネス仕様モデル。</td>
+                                </tr>
+                             
+                                <tr>
+                                  <td align="center" valign="middle" style="height:170px" height="170" class="img_1"><a href="http://jpn.dell.com/1604e6783layfousiarofrkyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img class="productimg" uid="b_3_1_3" style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_0330hit_nonbuyer_3b.jpg" alt="Vostro 15 3000シリーズ | 通常価格￥69,980が、
+新規・3年以上未購入の法人様なら ￥49,980（配送料・税込） | 詳細はこちら" border="0"/></a></td>
+                                </tr>
+                                <tr>
+                                  <td height="6"></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top">
+                                  
+                                  
+                                  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;font-weight:bold; font-size:12px; line-height:14px; color:#444444;-webkit-text-size-adjust:none;height:24px" height="24" class="t2_1">Vostro 15 3000シリーズ</td>
+                                      </tr>
+                                      <tr>
+                                        <td valign="bottom" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;font-weight:normal; -webkit-text-size-adjust:none;font-size:11px; line-height:14px; color:#444444;height:43px"  height="43"  class="t21_1">通常価格￥69,980が、<br />
+新規・3年以上未購入の法人様なら</td>
+                                      </tr>
+                                    
+                                      <tr>
+                                        <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:bold; line-height:28px; color:#6f2586;"><div class="marginBottom10" style="padding-bottom:10px;"><font style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka; font-weight:bold; font-size:12px;-webkit-text-size-adjust:none; line-height:16px; color:#ce1126;">￥</font>
+																				<font style="font-size:24px;-webkit-text-size-adjust:none; color:#ce1126; ">49,980</font>
+																				<font style="font-family:'ＭＳ Ｐゴシック';font-size:10px; line-height:16px; color:#ce1126;-webkit-text-size-adjust:none;"><br>(配送料込・税抜)</font>
+																				</div></td>
+                                      </tr>
+                               
+                                      
+                                     
+                                      <tr>
+                                        <td valign="top" style="padding:0cm 0cm 0cm 0cm;height:160px"  height="160"   class="t4_1">
+                                        
+                                                                              
+                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                     
+                                            
+                                              
+                                                <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">第5世代インテル&reg; Core&#8482; i5-5200U プロセッサー<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">Windows 8.1 64ビット(日本語版)<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">4GB(4GB×1)DDR3L-SDRAM メモリ<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">500GB SATA HDD<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">DVD スーパーマルチドライブ<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td valign="top">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                  <tr>
+                                                    <td valign="top" width="10" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;">&#8226;</td>
+                                                    <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-weight:normal; font-size:11px; line-height:15px; color:#444444;">［ベーシック］1年間 翌営業日対応オンサイト保守サービス 8時間×週6日(月〜土)<br />
+</td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            
+                                                                                      
+                                          </table>
+                                        
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          </td>
+                                      </tr>
+                                    
+                                    </table></td>
+                                </tr>
+                                <tr>
+								 <td valign="top" style="font-family:'ＭＳ Ｐゴシック';font-weight:bold; font-size:12px; line-height:15px; color:#ce1126;height:77px"  height="77"  class="t5_1">
+                                       1) 通常時より10,000円Off<br />
+2) 新規・3年以上未購入の法人様は10,000円Off<sup>*1</sup>&nbsp;  </td>
+										 
+								</tr>
+                                <tr>
+                                  <td height="10"></td>
+                                </tr>
+                               
+                                <tr>
+                                  <td height="20"><table width="98" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td valign="top"><a href="http://jpn.dell.com/11edecfe7layfousiarofrlaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_btn.jpg" alt="詳細はこちら" width="87" height="35" style="display:block;" border="0" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td height="20"></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-weight:normal; font-size:11px; line-height:15px; color:#444444;"></td>
+                                </tr>
+                              </table>
+	</td>
+                          </tr>
+                        </table>		
+            
+            </td>
+                      <td valign="top" class="vspacer15" width="20"><span class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="20" height="10" border="0" /></span></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td valign="top" height="10" width="1" bgcolor="#ffffff" style="height:1px; line-height:0px; font-size:0px;"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="10" border="0"></td>
+              </tr>
+              <tr>
+                <td valign="top" height="1" width="1" bgcolor="#dddddd" style="height:1px; line-height:0px; font-size:0px;"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="1" border="0"></td>
+              </tr>
+            </table></td>
+          <td valign="top" width="1" bgcolor="#dddddd"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="18" border="0"></td>
+        </tr>
+      </table><!--main-->
+      <table width="728" class="borderPerTab" align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="15"></td>
+        </tr>
+      </table><!--line15-->
+      
+      
+            
+      <table width="728" border="0" align="center" cellpadding="0" cellspacing="0" class="borderPerTab">
+        <tr>
+          <td valign="top" bgcolor="#FFFFFF"><table width="728" border="0" cellspacing="0" cellpadding="0" class="per100">
+              <tr>
+                <td valign="top" width="1" bgcolor="#dddddd"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="18" border="0"></td>
+                <td valign="top"><table width="726" border="0" cellspacing="0" cellpadding="0" class="per100">
+                    <tr>
+                      <td valign="top" height="1" width="1" bgcolor="#dddddd" style="height:1px; line-height:0px; font-size:0px;"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="1" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="8" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><table width="726" border="0" cellspacing="0" cellpadding="0" class="per100">
+                          <tr>
+                            <td valign="top" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="9" height="10" border="0"></td>
+                            							<td align="center" valign="top" class="produceTdLast"><a href="http://jpn.dell.com/1fdcafbb3layfousiarofrliaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img width="350" height="180" style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_Wk6_nonbuyer_footer_350x180_dl.jpg" alt="新規・3年以上未購入の法人様は 今なら1万円Off 詳細はこちら＞" border="0" class="footerMenu"></a></td>
+                            							<td valign="top" class="colsplitSpacer"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="8" height="10" border="0"></td>
+                        
+                            							<td align="center" valign="top" class="produceTdLast"><a href="http://jpn.dell.com/10387a10elayfousiarofrlqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img width="350" height="180" style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_20140303_SB_EDM_foot_350x180_blue_dl5.jpg" alt="毎週実施中｜周辺機器お得キャンペーン｜IPSパネル搭載モニタ毎週サイズ違いでお得なキャンペーン実施中｜詳細はこちら" border="0" class="footerMenu"></a></td>
+                            							<td valign="top" class="noneMobile"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="9" height="10" border="0" class="footerMenu"></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="8" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" height="1" width="1" bgcolor="#dddddd" style="height:1px; line-height:0px; font-size:0px;"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="1" border="0"></td>
+                    </tr>
+                  </table></td>
+                <td valign="top" width="1" bgcolor="#dddddd"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="18" border="0"></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      <table width="728" class="borderPerTab" align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="15"></td>
+        </tr>
+      </table>
+      	  
+	  
+	   
+      <!--line15-->
+      
+      <table width="728" border="0" align="center" cellpadding="0" cellspacing="0" class="borderPerTab">
+              <tr>
+                <td valign="top" width="1" bgcolor="#dddddd"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="18" border="0"></td>
+                <td valign="top" width="726" bgcolor="#FFFFFF" class="per100"><table width="726" border="0" cellspacing="0" cellpadding="0" class="per100">
+                    <tr>
+                      <td valign="top" height="1" width="1" bgcolor="#dddddd" style="height:1px; line-height:0px; font-size:0px;"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="1" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="12" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td colspan="9" height="17"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="17" border="0"></td>
+                          </tr>
+                          <tr>
+                            <td class="vspacer15" width="25"></td>
+                            <td valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td class="colsplit"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="170" align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td width="1" align="left"><a alt="" border="0" style="display:block;" href="http://jpn.dell.com/1e093955alayfousiarofrlyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_mail.gif" alt="mail" name="TrayIcon1" width="34" height="34" id="TrayIcon1" style="display:block;" border="0" /></a></td>
+                                              <td width="5"></td>
+                                              <td valign="middle" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-size:10px; line-height:12px; color:#444444;"><a style="color:#444444; text-decoration:none" href="http://jpn.dell.com/1282c5f14layfousiarofrmaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank">
+											  <strong>デルE-メール配信サービス</strong><br />
+                                                  配信先メールアドレスのご登録・ご変更。</a></td>
+                                            </tr>
+                                          </table></td>
+                                        <td width="5"></td>
+                                        <td width="167" align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td width="1" align="left"><a alt="" border="0" style="display:block;" href="http://jpn.dell.com/1cb386b40layfousiarofrmiaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_chat.gif" alt="chat" name="TrayIcon2" width="35" height="34" id="TrayIcon2" style="display:block;" border="0" /></a></td>
+                                              <td width="5"></td>
+                                              <td valign="middle" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-size:10px; line-height:12px; color:#444444;"><a style="color:#444444; text-decoration:none" href="http://jpn.dell.com/1357531fdlayfousiarofrmqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><strong>ライブチャット</strong><br />
+                                                ご購入に関するご質問に営業担当が回答します。</a></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                  <td class="colsplitSpacer" width="5"></td>
+                                  <td class="colsplit"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="159" align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td width="1" align="left"><a alt="" border="0" style="display:block;" href="http://jpn.dell.com/1d66105a9layfousiarofrmyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_finance.gif" alt="finance" name="TrayIcon3" width="34" height="35" id="TrayIcon3" style="display:block;" border="0" /></a></td>
+                                              <td width="5"></td>
+                                              <td valign="middle" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-size:10px; line-height:12px; color:#444444;"><a style="color:#444444; text-decoration:none" href="http://jpn.dell.com/1733bee01layfousiarofrnaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><strong>デルリース</strong><br />
+                                                デル製品ご購入者様専用のリースプラン。</a></td>
+                                            </tr>
+                                          </table></td>
+                                        <td width="5"></td>
+                                        <td width="175" align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td width="1" align="left"><a alt="" border="0" style="display:block;" href="http://jpn.dell.com/1902fda55layfousiarofrniaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank"><img src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_360.gif" alt="gear" name="TrayIcon4" width="34" height="34" id="TrayIcon4" style="display:block;" border="0" /></a></td>
+                                              <td width="5"></td>
+                                              <td valign="middle" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none;font-size:10px; line-height:12px; color:#444444;"><a style="color:#444444; text-decoration:none" href="http://jpn.dell.com/16e6280e8layfousiarofrnqaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank">
+											  <strong>デルのビジネスソリューション</strong><br />
+                                                経営革新のためのIT活用。</a></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                            <td class="vspacer15" width="14"></td>
+                          </tr>
+                          <tr>
+                            <td colspan="9" height="17"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="17" border="0"></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="18" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="25" height="10" border="0"></td>
+                            <td valign="top"><table width="676" border="0" cellspacing="0" cellpadding="0" class="per100">
+                                      
+                                   
+                                   
+                                   
+                                   <tr>
+                                  <td valign="top" style="border:1px solid #dddddd;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="10" border="0"></td>
+                                      </tr>
+                                      <tr>
+                                        <td valign="top"><table width="674" border="0" cellspacing="0" cellpadding="0" class="per100">
+                                        
+                                        
+                                        
+                                        
+                                  
+                                            <tr>
+                                              <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="10" border="0"></td>
+                                              <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="1">
+                                              
+                                               
+	 <tr> <td width="1%" valign="top" align="Left"><font face="ＭＳ Ｐゴシック" size="1" color="#444444">*1</font></td>
+	 <td width="97%" valign="top"><font face="ＭＳ Ｐゴシック" size="1" color="#444444">法人様向け限定割引10,000円Offは、1社につき1台のみ適用されます。2012年2月1日以降、デルのビ ジネス営業統括本部でご購入履歴のない、従業員数1-500名の法人様を対象とさせていただきます。対象製品および10,000円Offの詳細については、当社<a href="http://jpn.dell.com/18d76b4bclayfousiarofrnyaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank" style="color:#0085c3; text-decoration:none;">オンライン</a>またはお電話にて、事前にご確認ください。</font></td></tr>
+	 <tr> <td width="1%" valign="top" align="Left"><font face="ＭＳ Ｐゴシック" size="1" color="#444444">*2</font></td>
+	 <td width="97%" valign="top"><font face="ＭＳ Ｐゴシック" size="1" color="#444444">一部対象外パッケージもございます。商品については、<a href="http://jpn.dell.com/145c97ef2layfousiarofroaaaaaaaazsqegquxdh5ayaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAE1MzY0MTQ4NQF6aXBfY29kZQEBU1VCU0NSSUJFUl9JRAEBbWFpbGluZ19pZAExMTA3MzkzNgFsaW5rX2lkAQFfV0FWRV9JRF8BMTczODI4MDcyAV9QTElTVF9JRF8BOTA0MDI2NgFnX2luZGV4AQFlbWFpbF9hZGRyAWhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwAV9TQ0hEX1RNXwEyMDE1MDMyOTE3MzAwMAFwcm9maWxlX2tleQFob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcA%3D%3D&f9uhzLmQgAXzh2IFi3U76g" target="_blank" style="color:#0085c3; text-decoration:none;">オンラインストア</a>でご確認ください。   </font></td></tr>
+	 <tr> <td width="1%" valign="top" align="Left"><font face="ＭＳ Ｐゴシック" size="1" color="#444444">●</font></td>
+	 <td width="97%" valign="top"><font face="ＭＳ Ｐゴシック" size="1" color="#444444"> 本広告掲載製品は、なくなり次第終了とさせていただきます。デル即納モデルは数に限りがあります。売切れの場合はご了承ください。&#160;  </font></td></tr>
+	 <tr> <td width="1%" valign="top" align="Left"><font face="ＭＳ Ｐゴシック" size="1" color="#444444">●</font></td>
+	 <td width="97%" valign="top"><font face="ＭＳ Ｐゴシック" size="1" color="#444444">最短翌営業日出荷のデル即納モデルについては、条件によって異なりますので、ご購入前に必ず&#160;<a href="http://jpn.dell.com/1a6dd4aa6layfousiarofroiaaaaaaazsqegquxdh5ayaaaaa" target="_blank" style="color:#0085c3; text-decoration:none;">http://www.dell.jp/fasttrack_note</a>&#160;をご覧ください。</font></td></tr>   
+                                                
+                                                </table></td>
+                                              <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="10" border="0"></td>
+                                            </tr>   
+                                          </table></td>
+                                      </tr>
+                                      <tr>
+                                        <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="10" border="0"></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                
+                                                             
+                                
+                                
+                                
+                                
+                                <tr>
+                                  <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="18" border="0"></td>
+                                </tr>
+                                <tr>
+                                  <td width="100%" valign="top" style=" font-family:ＭＳ Ｐゴシック,MS PGothic,Osaka;-webkit-text-size-adjust:none; font-size:10px; color:#444444;">
+                                  
+                                  掲載モデルのご購入は、このメールを受け取られた法人のお客様以外はお断りさせていただく場合がございます。<br />
+個人(ホームユーザ)のお客様は対象外です。<br />
+<br />
+●製品の購入には当社の販売条件( <a href="http://jpn.dell.com/15890101blayfousiarofroqaaaaaaazsqegquxdh5ayaaaaa" target="_blank" style="color:#0085c3; text-decoration:none;">http://www.dell.jp/policy</a> )が適用されます。 
+●製品は、正式受注後、通常約10日〜2週間ほどでお届けしております。(お選びになった製品、構成内容、正式受注手続きの時期により納期が前後することがございます。予めご了承ください。) 
+●1社で50台以上のご注文をされた場合、受注をお断りする場合もございます。 
+●返品・交換は、お客様がデルから直接製品をご購入された場合、納品日より10日以内にご連絡いただいた場合に限り、お受けいたします。但し、第三者製品、Dell/EMC製品、Dell Compellent製品、Dell EqualLogic製品、Dell KACE及びKACEブランド製品、Dell Force10及びForce10ブランド製品、PowerVaultML6000テープライブラリ、Dell SonicWall及びSonicWallブランド製品、Wyseブランド製品、プリンターインク・トナー、プロジェクターランプ等の消耗品、スペアパーツの返品は受け付けておりません。デルの責めに帰すべき事由がないかぎり、返品時の配送料およびご入金時の振込手数料はお客様のご負担とさせていただきます。 
+●当社物流センター出荷後、お客様のご都合により配送先を変更される場合は、別途同額の配送料を申し受けます。 
+●現金でのお支払い、クレジットカードでのお支払いについては、製品またはサービスの代金を、製品またはサービスがお客様に引渡される前に、現金でお支払いもしくはカード支払い手続きをしていただきます。 
+●現金振込またはクレジットカードでのお支払いを選択された場合は、ご入金を当社にて確認できた時点で正式受注及び製造開始とさせていただきます。掛売りでのお支払いを選択された場合は、お客様からの正式注文書を受け付けた時点より、生産手続き開始とさせていただきます。(当社による与信審査の結果によっては受注をお断りさせていただく場合がございます。予めご了承ください。) 
+●他社製機器およびソフトウェアはデル標準保守サービスの対象外とさせていただきます。 
+●掲載のデル製品の構成はご希望に合わせてスペックをアップグレードすることが可能です。 
+●掲載内容、外観(モニタを含む)、価格および仕様は予告なく変更される場合がございます。 
+●ご注文いただいた各構成部品は当社の裁量により同等またはそれ以上の機能を有する部品に変更される場合がございます。 
+●Inspiron、XPS、Vostro、Dell Precision、OptiPlex、Latitude、Venue、Venue Pro、Alienware、Alienwareロゴ、Alienware Arena、PowerEdge、PowerConnect、PowerVault、ProSupport、EqualLogic、Compellent、KACE、SonicWALL、DELL ロゴは、米国Dell Inc.の商標または登録商標です。 
+●Intel、インテル、Intel ロゴ、Intel Inside、Intel Inside ロゴ、Intel Atom、Intel Atom Inside、Intel Core、Core Inside、Intel vPro、vPro Inside、Celeron、Celeron Inside、Itanium、Itanium Inside、Pentium、Pentium Inside、Xeon、Xeon Phi、Xeon Inside、Ultrabook は、アメリカ合衆国および/またはその他の国における Intel Corporation の商標です。 
+●AMD、AMD arrow ロゴ、AMD Athlon、AMD Sempron、AMD Turion、AMD Opteron、ならびにその組み合わせは、Advanced Micro Devices, inc.の商標です。 
+●Microsoft、Windows、Officeロゴは米国Microsoft Corporation の米国およびその他の国における登録商標です。 
+●その他の社名および製品名は各社の商標または登録商標です。 <br />
+<br />
+このメールは、当社製品をご購入いただいたお客様、およびEメール配信にご登録いただいたお客様に、デル株式会社 ビジネス 営業統括本部より送信されています。<br />
+◆Eメールの登録変更・中止をご希望の場合は大変お手数ですが<a href="http://jpn.dell.com/1bb84244flayfousiarofroyaaaaaaazsqegquxdh5ayaaaaa" target="_blank" style="color:#0085c3; text-decoration:none;">こちら</a>よりお申し込みください。<br />
+お客様にご登録いただいているEメールアドレスは hobby.division@sportshobby.co.jp です。<br />
+配信先変更・配信停止をご希望の場合は、こちらのEメールアドレスを入力してください。 <br />
+<br />
+配信停止手続きおよびご登録内容の変更には、少々お時間をいただく場合がございます。 手続き完了前に、メールが配信される場合がございます。予めご了承ください。 <br />
+<br />
+デルニュースは、お客様の個人情報に対する厳格なポリシーに基づいて配信されています。<br />
+詳しくは<a href="http://jpn.dell.com/1703a0e40layfousiarofrpaaaaaaaazsqegquxdh5ayaaaaa" target="_blank" style="color:#0085c3; text-decoration:none;">こちら</a>から「デルのプライバシーに関する方針」をご参照ください。<br />
+<br />
+<br />
+【販売業者名】　デル株式会社<br />
+【運営責任者氏名】　代表取締役社長　郡 信一郎<br />
+【連絡先】　〒212-8589　神奈川県川崎市幸区堀川町580番地ソリッドスクエア東館20階<br />
+＜デル株式会社 ビジネス営業統括本部＞<br />
+TEL： 044-556-1465　FAX： 044-556-3345<br />
+E-mail： <a href="mailto:JP_Business_Sales@dell.com" target="_blank" style="color:#0085c3; text-decoration:none;">JP_Business_Sales@dell.com</a>                                  
+                                  
+                               </td>
+                                </tr>
+                                <tr>
+                                  <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="8" border="0"></td>
+                                </tr>
+                              </table></td>
+                            <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="25" height="10" border="0"></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="10" height="8" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td valign="top" height="1" width="1" bgcolor="#dddddd" style="height:1px; line-height:0px; font-size:0px;"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="1" border="0"></td>
+                    </tr>
+                  </table></td>
+                <td valign="top" width="1" bgcolor="#dddddd"><img style="display:block;" src="http://dimages.bfi0.com/images/4620022/9540121/899982_B_blank.gif" alt="" width="1" height="18" border="0"></td>
+              </tr>
+            </table>
+      <table width="728" class="borderPerTab" align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="15"></td>
+        </tr>
+      </table><!--line15-->
+      
+      </td>
+  </tr>
+</table>
+
+<img src="http://pix.bfi0.com/t.gif?k=c2U3S2xXOUduVjZURHlKbG5hNFFKVlFyNHJiSHVBUzM2aSs3NTduTnk2RT0&c=11073936&s=53641485&r=APJ&y=JP&m=SB" width="1" height="1" />
+<IMG SRC="http://jpn.dell.com/1a19b5963layfor2iacupteaaaaaaaazsqegquxdh5ayaaaaa"></body>
+</html>
+
+
+
+--ABCD-189fa85a6layfovciacupteaaaaaaaazsqegquxdh5ayaaaaa-EFGH--

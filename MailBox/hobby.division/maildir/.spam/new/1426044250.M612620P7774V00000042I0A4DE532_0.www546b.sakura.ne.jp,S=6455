@@ -1,0 +1,233 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.5 required=7.0 tests=BAYES_50,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	XPRIO autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.5 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  1.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav405.sakura.ne.jp (fsav405.sakura.ne.jp [133.242.250.104])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2B3O7Pf007771
+	for <hobby.division@sportshobby.co.jp>; Wed, 11 Mar 2015 12:24:07 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav405.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp);
+ Wed, 11 Mar 2015 12:24:07 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2B3O7hm007768
+	for <hobby.division@sportshobby.co.jp>; Wed, 11 Mar 2015 12:24:07 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIzElSSVrIzUjMDFfJEckYiMxJUklayMzIzAjMDFfJEcbKEI=?=
+	=?iso-2022-jp?B?GyRCJGJETE1RJDkkaxsoQk5FVxskQkU+R2QkSCRPISkbKEI=?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Wed, 11 Mar 2015 12:24:07 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150311032407.27F8641AC2@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11111
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+こんにちは、シンクウです。
+
+いきなりですが・・・
+
+意味がわからないと
+言いますか・・
+
+信じられない事実が
+発覚しました。
+
+為替の影響を
+一切受けない転売方法の
+正体はこちら
+
+→　http://agar-ex.jp/kldd28454/21111
+
+本来、
+転売ビジネスは
+
+為替は切っても
+切れない関係にあります。
+
+当然です。
+
+■輸入転売なら・・
+海外から仕入れて日本で売る。
+
+■輸出転売なら・・
+日本で仕入れて海外で売る。
+
+輸入にせよ
+輸出にせよ、
+
+海を渡り海外との
+取引になるわけですから
+
+為替の影響を
+受けないはずがありません。
+
+
+輸出がメインの
+某自動車メーカー大手は
+実際にこの円安で売り上げを伸ばしていますし、
+
+海外から食材を輸入している
+某飲食店チェーン店は
+この円安でかなりピンチと聞きます。
+
+
+海外とのやり取りで
+為替が関係ないなんて
+ありえないと思いました。
+
+当然嘘でしょ、と冷めた目で
+中身をみたのですが、
+
+私の感情は完全に
+ひっくり返されましたね。
+
+このやり方があったか！
+
+カラクリを知ったら
+全てが腑に落ちましたね。
+納得です！！
+
+
+すでに数人の
+転売未経験者の方々が
+
+モニターとして
+このノウハウを
+実践したみたいですが、
+
+皆が皆、初月から
+利益を出していて
+再現性１００％という事です。
+
+中でもパソコン未経験者の
+７０歳の方も
+
+初月から稼げている事には
+ビックリしました。
+
+
+期間限定でこの
+「為替が一切関係ない転売方法」の
+カラクリを大暴露していますので、
+
+今すぐ無料登録しておくことを
+お勧めします。
+
+転売ビジネスの常識が
+一変しますよ。
+
+→　http://agar-ex.jp/kldd28454/31111
+
+
+
+PS
+このノウハウを
+大暴露してくれるこの方は、
+
+このノウハウによって
+脱サラに成功し今では相当な
+「育メンパパ」ですね。
+
+この方ほど、子育てに
+ドップリ参加して、
+
+奥さんを大切にして
+お子さんを大切にしている人は
+
+いないかもしれないですね。
+
+→　http://agar-ex.jp/kldd28454/41111
+
+PS２
+この方が
+断言していますが、
+
+この方の
+教え方が上手いから
+
+皆稼げているわけではなく
+
+このモデルが
+誰でも稼げるモデルと
+いう事ですが
+
+確かに内容を見れば
+このノウハウなら
+
+誰がやっても
+結果が出るのは納得です。
+
+→　http://agar-ex.jp/kldd28454/51111
+
+
+PS3
+やはり
+気になるのは、
+
+皆が皆、
+同じやり方をしたら
+
+飽和してしまうのでは？
+と思いますが
+
+この仕組みなら
+飽和という概念も
+０というのも納得です。
+
+→　http://agar-ex.jp/kldd28454/61111
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/71111
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

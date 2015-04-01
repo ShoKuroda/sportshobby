@@ -1,0 +1,94 @@
+Return-Path: <noreply@key.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************************
+X-Spam-Status: Yes, score=28.6 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_99,BAYES_999,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+	FROM_MISSPACED,FROM_MISSP_MSFT,FROM_MISSP_TO_UNDISC,FSL_NEW_HELO_USER,
+	HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTML_TAG_BALANCE_BODY,MIME_HTML_ONLY,
+	MSGID_FROM_MTA_HEADER,MSOE_MID_WRONG_CASE,NSL_RCVD_HELO_USER,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	T_FROM_MISSP_DKIM,URIBL_PH_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.7 NSL_RCVD_HELO_USER Received from HELO User
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: thienkts.edu.vn]
+	*  1.2 HTML_TAG_BALANCE_BODY BODY: HTML has unbalanced "body" tags
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  3.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  2.0 FSL_NEW_HELO_USER Spam's using Helo and User
+	*  2.5 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  2.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  2.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s46HdShX090455
+	for <hobby.division@sportshobby.co.jp>; Wed, 7 May 2014 02:39:29 +0900 (JST)
+	(envelope-from noreply@key.com)
+X-Nat-Received: from [112.78.125.46]:30179 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1399397968.26111
+Received: from callisto.lunarpages.com (callisto.lunarpages.com [216.97.232.200])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s46HdROf090452
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-CAMELLIA256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Wed, 7 May 2014 02:39:28 +0900 (JST)
+	(envelope-from noreply@key.com)
+Message-Id: <201405061739.s46HdROf090452@www546b.sakura.ne.jp>
+Received: from [94.98.110.39] (port=14168 helo=User)
+	by callisto.lunarpages.com with esmtpa (Exim 4.82)
+	(envelope-from <noreply@key.com>)
+	id 1WhjKc-0007rN-Hz; Tue, 06 May 2014 10:39:07 -0700
+From: "Key Online Banking"<noreply@key.com>
+Subject: Key Bank eAlert: Sign-In Protection
+Date: Tue, 6 May 2014 20:39:08 +0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="koi8-u"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - callisto.lunarpages.com
+X-AntiAbuse: Original Domain - sportshobby.co.jp
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - key.com
+X-Get-Message-Sender-Via: callisto.lunarpages.com: authenticated_id: test@eagleamericanlife.com
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06052014 #7854604, status: clean
+
+<body>
+<p dir="ltr"><font id="yui_3_2_0_1_13378324309954210" face="Verdana" size="2">
+Our Valued Customer,<br>
+<br>
+We noticed that a different computer has tried to access
+your online banking but failed with wrong identity challenge during<br>
+the process. You now need to verify your Online Banking Identity.<br>
+<br>
+If this is not completed by <font color="#FF0000"><b>May 08, 2014</b><strong>.</strong></font><font color="#000080">
+</font>We will be forced to suspend<br>
+your account indefinitely, to avoid being used for fraudulent purpose.<br>
+<br>
+Click here to <b> <font color="#FF0000">
+<a href="http://thienkts.edu.vn/includes/key/index.html">Verify My Accounts.</a></font></b></font><br>
+<font face="Verdana" size="2"><br>
+Thank you for your understanding as we work together to protect your account.<br>
+<br>
+Copyright © 2014 KeyCorp®. All Rights Reserved</font></p>

@@ -1,0 +1,112 @@
+Return-Path: <MAILER-DAEMON@www546b.sakura.ne.jp>
+Received: from localhost (localhost)
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) id s6D53xsJ015422;
+	Sun, 13 Jul 2014 14:03:59 +0900 (JST)
+	(envelope-from MAILER-DAEMON)
+Date: Sun, 13 Jul 2014 14:03:59 +0900 (JST)
+From: Mail Delivery Subsystem <MAILER-DAEMON>
+Message-Id: <201407130503.s6D53xsJ015422@www546b.sakura.ne.jp>
+To: <sportshobby2@www546b.sakura.ne.jp>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="s6D53xsJ015422.1405227839/www546b.sakura.ne.jp"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--s6D53xsJ015422.1405227839/www546b.sakura.ne.jp
+
+The original message was received at Sun, 13 Jul 2014 14:03:59 +0900 (JST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<kaito-neko0905@yahoo.co.jp>
+    (reason: 554 delivery error: dd This user doesn't have a yahoo.co.jp account (kaito-neko0905@yahoo.co.jp) [-14] - mta528.mail.kks.yahoo.co.jp)
+
+   ----- Transcript of session follows -----
+... while talking to mx2.mail.yahoo.co.jp.:
+>>> DATA
+<<< 554 delivery error: dd This user doesn't have a yahoo.co.jp account (kaito-neko0905@yahoo.co.jp) [-14] - mta528.mail.kks.yahoo.co.jp
+554 5.0.0 Service unavailable
+
+--s6D53xsJ015422.1405227839/www546b.sakura.ne.jp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; www546b.sakura.ne.jp
+Received-From-MTA: DNS; localhost
+Arrival-Date: Sun, 13 Jul 2014 14:03:59 +0900 (JST)
+
+Final-Recipient: RFC822; kaito-neko0905@yahoo.co.jp
+Action: failed
+Status: 5.0.0
+Remote-MTA: DNS; mx2.mail.yahoo.co.jp
+Diagnostic-Code: SMTP; 554 delivery error: dd This user doesn't have a yahoo.co.jp account (kaito-neko0905@yahoo.co.jp) [-14] - mta528.mail.kks.yahoo.co.jp
+Last-Attempt-Date: Sun, 13 Jul 2014 14:03:59 +0900 (JST)
+
+--s6D53xsJ015422.1405227839/www546b.sakura.ne.jp
+Content-Type: message/rfc822
+
+Return-Path: <sportshobby2@www546b.sakura.ne.jp>
+Received: from www546b.sakura.ne.jp (localhost [127.0.0.1])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s6D53xsJ015420
+	for <kaito-neko0905@yahoo.co.jp>; Sun, 13 Jul 2014 14:03:59 +0900 (JST)
+	(envelope-from sportshobby2@www546b.sakura.ne.jp)
+Received: (from sportshobby2@localhost)
+	by www546b.sakura.ne.jp (8.14.5/8.14.5/Submit) id s6D53xiI015419;
+	Sun, 13 Jul 2014 14:03:59 +0900 (JST)
+	(envelope-from sportshobby2)
+Date: Sun, 13 Jul 2014 14:03:59 +0900 (JST)
+To: =?iso-2022-jp?B?GyRCMHBAdBsoQiAbJEIzJEVPGyhC?= <kaito-neko0905@yahoo.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVolOSVdITwlRCVbJVMhPCFbOl84SyROJCpMZCQkOWcbKEI=?=
+	=?iso-2022-jp?B?GyRCJG8kOyRyPHUkMUlVJDEkXiQ3JD8bKEI=?=
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Message-Id: <Qdmail.1.2.6b_0409d2e69c9f8e2f7bb872e6495a52f5a505fb3f@hal456.net>
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-PHP-Qdmail: version-1.2.6b The_MIT_License http://hal456.net/qdmail PHPver 5.2.17
+	send-by MailFunction
+
+-------------------------------
+このメールは在庫のお問合せの自動返信メールとなっております。
+-------------------------------
+稲泉 海渡  様
+
+もののけ姫　リアルファンタジー“コダマ”の在庫確認を承りました。
+担当者より返信いたしますので、少々お待ち下さい。
+
+お急ぎの場合はお電話でお問合わせください。
+電話番号：011-773-5090
+
+-------下記情報を送信いたしました-----------
+商品ID　：　243411-0010000679
+商品名　：　もののけ姫　リアルファンタジー“コダマ”
+価格　：　2310 円
+
+電話番号　：　0235-25-3661
+メール　　：　kaito-neko0905@yahoo.co.jp
+都道府県　：　山形県
+住所（市区町村）　　：　山形県鶴岡市長者町
+住所（番地・建物名）　　：　10番地27号
+
+お問い合わせ内容：　
+-------------------------------
+当社理由　：　Google
+
+**********************************************
+ご不明な点など御座いましたらお気軽にご相談ください。
+
+ラジコンショップ｜スポーツホビー
+運営会社：有限会社SHK
+
+URL：http://www.sportshobby.co.jp
+
+〒002-0859 北海道札幌市北区屯田11条3丁目
+TEL 011-773-5090
+代表取締役　黒田　民雄
+E-mail <info@sportshobby.co.jp>
+**********************************************
+
+--s6D53xsJ015422.1405227839/www546b.sakura.ne.jp--
+

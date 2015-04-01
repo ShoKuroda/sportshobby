@@ -1,0 +1,71 @@
+Return-Path: <RTE+NE-null-850ddA3SEOFXBFEH7Y0@sellernotifications.amazon.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_SBL
+	autolearn=no version=3.3.2
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t317feNr089937
+	for <hobby.division@sportshobby.co.jp>; Wed, 1 Apr 2015 16:41:40 +0900 (JST)
+	(envelope-from RTE+NE-null-850ddA3SEOFXBFEH7Y0@sellernotifications.amazon.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Wed, 01 Apr 2015 16:41:40 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from smtp-out-188-253.amazon.com (smtp-out-188-253.amazon.com [207.171.188.253])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t317fdcx089930
+	for <hobby.division@sportshobby.co.jp>; Wed, 1 Apr 2015 16:41:39 +0900 (JST)
+	(envelope-from RTE+NE-null-850ddA3SEOFXBFEH7Y0@sellernotifications.amazon.com)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.co.jp; i=seller-notification@amazon.co.jp;
+  q=dns/txt; s=amazon201209; t=1427874105; x=1459410105;
+  h=date:from:reply-to:to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=OTlp7M1y/lOxlpyHHePvqoU9ZTJSeCx3kyJtGshv55s=;
+  b=owl2whaKhczPcwN+B0+ZDVBY63FW66XSZspOyTdj8E1nzyj34fwm/ec6
+   UajO00e/Tj5Gh/YElwuiHxP3dWUOkuPUhqpVw++aijdUc8iKo41ymkJoc
+   cYTBNdEG4KUH9ZOAnoMaBa5aMGnm7ApodeB9R2pWopMwJEDcKJNB9IEA0
+   Q=;
+Date: Wed, 1 Apr 2015 07:41:39 +0000 (UTC)
+From: Amazon Services Japan <seller-notification@amazon.co.jp>
+Reply-To: Amazon Services Japan <seller-notification@amazon.co.jp>
+To: "hobby.division@sportshobby.co.jp" <hobby.division@sportshobby.co.jp>
+Message-ID: <urn.correios.msg.20150401074138c4426224780e436c9b60ae06a2f90929@1427874099001.rte-svc-fe-2a-i-84bd14b1.us-west-2.amazon.com>
+Subject: =?ISO-2022-JP?B?GyRCPzYkajl+JF88akIzJC0zKztPJE4kKkNOJGkkOxsoQg==?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_3975263_1829854447.1427874098999"
+Content-Transfer-Encoding: 7bit
+Bounces-to: RTE+NE-null-850ddA3SEOFXBFEH7Y0@sellernotifications.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-AMAZON-CATEGORY: NotificationEngine-cam-disbursement-attempt
+X-Original-MessageID: <urn.correios.msg.20150401074138c4426224780e436c9b60ae06a2f90929@1427874099001.rte-svc-fe-2a-i-84bd14b1.us-west-2.amazon.com>
+
+------=_Part_3975263_1829854447.1427874098999
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: quoted-printable
+
+hobby.division@sportshobby.co.jp=1B$BMM=1B(B
+
+2015/04/01=1B$BIU$1$G!"$4EPO?$N6d9T8}:B!JKvHx$,=1B(B379=1B$B!K$K=3DPIJ<TMM$=
+NGd>e6b$K$"$?$k=1B(B15,888=1B$B1_$N?6$j9~$_<jB3$-$r3+;O$$$?$7$^$7$?!#=1B(B
+
+=1B$BF~6b$K$ODL>o$*$h$=3D=1B(B6-10=1B$B1D6HF|$rMW$7$^$9$,!"$4MxMQ$N6d9T$K$h=
+$C$F0[$J$j$^$9$N$G!"$"$i$+$8$a$4N;>5$/$@$5$$!#=1B(B10=1B$B1D6HF|$r2a$.$F$bF=
+~6b$,3NG'$G$-$J$$>l9g$O!"%F%/%K%+%k%5%]!<%H$K$4O"Mm$/$@$5$$!#=1B(B
+
+=1B$B=3DPIJMQ%"%+%&%s%H$N$*;YJ'$$>u67$K$D$$$F>\$7$/$O!"0J2<$N<j=3Dg$G3NG'$$=
+$?$@$1$^$9!#=1B(B
+
+1.  =1B$B=3DPIJMQ%"%+%&%s%H$K%m%0%$%s$7!"!V%Z%$%a%s%H!W%Z!<%8$K%"%/%;%9=1B(=
+B
+2.  =1B$B%"%+%&%s%H0lMw$N%I%m%C%W%@%&%s%a%K%e!<$+$i2a5n$N7h:Q>pJs$r3NG'=1B(=
+B
+
+
+=1B$B:#8e$H$b!"=1B(BAmazon.co.jp=1B$B$r$h$m$7$/$*4j$$$$$?$7$^$9!#=1B(B
+
+Amazon.co.jp
+
+------=_Part_3975263_1829854447.1427874098999--

@@ -1,0 +1,81 @@
+Return-Path: <admin@mg-seolinkbuilding.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.1 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,GAPPY_SUBJECT,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: mg-seolinkbuilding.com]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4997]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  2.0 GAPPY_SUBJECT Subject: contains G.a.p.p.y-T.e.x.t
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r664fRgr089504
+	for <hobby.division@sportshobby.co.jp>; Sat, 6 Jul 2013 13:41:27 +0900 (JST)
+	(envelope-from admin@mg-seolinkbuilding.com)
+X-Nat-Received: from [112.78.125.46]:56326 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1373085687.20164
+Received: from mg-seolinkbuilding.com ([1.215.206.242])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r664fOcs089498
+	for <hobby.division@sportshobby.co.jp>; Sat, 6 Jul 2013 13:41:25 +0900 (JST)
+	(envelope-from admin@mg-seolinkbuilding.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=mg-seolinkbuilding.com; s=key; h=From:To:Subject:MIME-Version:
+	Content-Type:Content-Transfer-Encoding; bh=ig3XrmK0hlqOg9DrG3Ly2
+	VexIbs=; b=om5NcVrGG51J0TkqWbsY3dk2Clu/4MnADXFgAnoszLR6uwKl3CfaR
+	0Pd0UCxoxReL3/x+ZcLB96GMtBxALRe5R49WK6i6LZkEAIeDw6q6EUBcbUklabGn
+	NuOvSd995uykjGugpDSWfl8JXmmRB6F2NWP8k9aVyISovz55oYxWyc=
+From: admin@mg-seolinkbuilding.com
+To: hobby.division@sportshobby.co.jp
+Subject: 2 - M i l l i o n - S i t e s - l i n k i n g - t o - y o u r - A d
+Date: 06 Jul 2013 07:40:22 +0300
+Message-ID: <20130706074018.E6ADAA57F9CE9C31@mg-seolinkbuilding.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06072013 #10514515, status: clean
+
+You will receive thousands of targeted hits to=20
+your website as Blog Blaster places your ad on=20
+blogs that match your ad's category. 
+
+This method has never been released to the public=20
+before. Very few, if anyone has implemented this.
+
+For Full Details please visit our website:
+http://www.advertise-bz.cn/blogblaster/
+
+
+
+
+
+
+
+
+
+http://www.advertise-bz.cn/unsubscribe/
+

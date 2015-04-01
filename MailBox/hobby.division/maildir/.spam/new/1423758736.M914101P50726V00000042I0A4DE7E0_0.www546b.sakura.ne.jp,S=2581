@@ -1,0 +1,51 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.8 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: lyodhfka.com]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: lyodhfka.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: lyodhfka.com]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: lyodhfka.com]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: lyodhfka.com]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav404.sakura.ne.jp (fsav404.sakura.ne.jp [133.242.250.103])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1CGWBi8050722
+	for <hobby.division@sportshobby.co.jp>; Fri, 13 Feb 2015 01:32:11 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav404.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp);
+ Fri, 13 Feb 2015 01:32:11 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp)
+Received: from 178.20.152.15 ([178.20.152.15])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t1CGW1Bc050703
+	for <hobby.division@sportshobby.co.jp>; Fri, 13 Feb 2015 01:32:07 +0900 (JST)
+Message-Id: <201502121632.t1CGW1Bc050703@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (dm_alex@tmomail.net@130.199.146.73)
+	by 178.20.152.15 with ESMTPA; Thu, 12 Feb 2015 18:36:33 +0200
+X-Originating-IP: 130.199.146.73
+From: dm_alex@tmomail.net
+To: hobby.division@sportshobby.co.jp
+Subject: She'll be impressed by your strength
+Date: Thu, 12 Feb 2015 18:26:43 +0200
+
+Always successful loving attack http://exemption.lyodhfka.com/
+

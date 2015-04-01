@@ -1,0 +1,64 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav201.sakura.ne.jp (fsav201.sakura.ne.jp [210.224.168.163])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2Q3EebR026300
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 12:14:40 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav201.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp);
+ Thu, 26 Mar 2015 12:14:40 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-211.smtp.rakuten.co.jp [202.72.58.211])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2Q3EedI026297
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 12:14:40 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat108.prod.jp.local [100.66.16.61])
+	by mxmattx101z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lCBJ05VRlz9FQ8
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 12:14:40 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427339680;
+	bh=KGv0lJIgap4G8yipnzwg7GVpQl2LoM5/zglhe0Qml/g=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=EjSnlVH50aJoifsMzCH9c+qvv1jxw4lzkfJz1Fwtge8FPbHSQ7D/XwtspTY7fdk9e
+	 n3yXta5itGhXMQCfIG3Qi+s8RGEPF1DdRuzuRNDQgnDf9wds8ZCIXBKdjSAIjmrUaz
+	 nlMwQbdPoZuBn4Pecm2TaDRh1VTH3cIpUrP5HOV0=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat108.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2Q3EDk8018458
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 12:14:40 +0900
+Received: from armsrb229c.ap.rakuten.co.jp ([armsrb229c.ap.rakuten.co.jp [172.28.247.112]]) by mat108.prod.jp.local with RELAY id t2Q3EeC9020048 ;
+          Thu, 26 Mar 2015 12:14:40 +0900
+Date: Thu, 26 Mar 2015 12:14:40 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: fc25c331a6df2e3859f100797bf0be00s1@ym.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503261214.t2Q3EeC9020048@mat108.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwkRyQ5GyhC?=
+ =?iso-2022-jp?B?GyRCISMhWkF3TkEkTiQqQ04kaSQ7IVsbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.247.112
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: 7BF42AACF13D19D75C7FD886E3B390BF980CFA91
+
+■ご注文に関するお知らせ■
+
+寺岡 俊介 様
+
+ｽﾎﾟｰﾂﾎﾋﾞｰです｡
+この度は､ご注文ありがとうございました｡
+配送方法がお任せ配送でしたので､この度は､｢定形外郵便=\600｣(※無保証･簡易包装をご了承頂ける方のみ)で発送させて頂く予定でございます｡
+合計金額の方が変更になりまして､商品代金\1166+送料\600-ﾎﾟｲﾝﾄご利用\266で､合計\1500となりました｡
+それでは､発送後にまた連絡させて頂きます｡
+よろしくお願い致します｡
+
+                           ｽﾎﾟｰﾂﾎﾋﾞｰ 通信販売部
+ｽﾎﾟｰﾂﾎﾋﾞｰ
+http://m.rakuten.co.jp/sportshobby/
+  
+
+

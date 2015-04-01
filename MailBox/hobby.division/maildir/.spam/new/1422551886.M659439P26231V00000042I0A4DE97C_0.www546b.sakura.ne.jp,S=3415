@@ -1,0 +1,71 @@
+Return-Path: <service3@mx1.powersqve.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.2 required=7.0 tests=BAYES_50,
+	CHARSET_FARAWAY_HEADER,DATE_IN_PAST_03_06,DEAR_SOMETHING,DKIM_SIGNED,
+	T_DKIM_INVALID,URIBL_BLOCKED,URIBL_DBL_SPAM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.0 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+	*  1.6 DATE_IN_PAST_03_06 Date: is 3 to 6 hours before Received: date
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: powersqve.com]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: powersqve.com]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4998]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0THI2at026226
+	for <hobby.division@sportshobby.co.jp>; Fri, 30 Jan 2015 02:18:02 +0900 (JST)
+	(envelope-from service3@mx1.powersqve.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Fri, 30 Jan 2015 02:18:02 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from mail.mx1.powersqve.com (zde4.zeetech.net.in [192.157.244.43] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0THI1lB026222
+	for <hobby.division@sportshobby.co.jp>; Fri, 30 Jan 2015 02:18:02 +0900 (JST)
+	(envelope-from service3@mx1.powersqve.com)
+Message-Id: <201501291718.t0THI1lB026222@www546b.sakura.ne.jp>
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx1.powersqve.com 6FF101028C559
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mx1.powersqve.com;
+	s=mx1.powersqve; t=1422531553;
+	bh=+hmaESqfcm38D3Eeg83nYGwgCH7hidfVy3yfw0GcWX0=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=Yo+MGZzXoDhwnfebf698YjwQ8QFt4pJxU6FeR8PvoUyUUDMVIj1CogG12Q6gqjSmb
+	 0cBQwRZDlzzFDXYNkU9FzF9w/VXNn+jxSmjIhkq6G7lAm5YjBzLWqrpV7aBSJFw7n+
+	 YRI5rvS8KLXAcOmd7jyBrXyI1Aexki4BStO7CNpI=
+Date: Thu, 29 Jan 2015 19:39:09 +0800
+From: "Jaja" <service3@mx1.powersqve.com>
+To: "moira.fenech" <moira.fenech@lavaletteclub.com>
+Reply-To: <huixinsoft14@foxmail.com>
+Subject: =?GB2312?B?UmU6IGVucXVpcnkgcHJpY2U=?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id t0THI2at026226
+
+Dear Sir,
+ 
+I'm so glad to know you will have needs of custom precision components.
+
+We are a precision machining supplier based in Shenzhen,China. 
+
+With extensive experience in machining precision components for custom machinery,automation systems,medical equipment,etc,we can provide you high quality,good price and fast delivery.
+
+Please visit our website for more information. We look forward to your reply. Thank you.
+ 
+Best Regards,
+Jaja Chen
+Runsom Precision Co Ltd 
+

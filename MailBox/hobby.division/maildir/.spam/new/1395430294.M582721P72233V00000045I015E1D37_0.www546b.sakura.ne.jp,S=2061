@@ -1,0 +1,39 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.0 required=7.0 tests=BAYES_60,HK_RANDOM_FROM,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  1.0 HK_RANDOM_FROM From username looks random
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6605]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s2LJVTPl072226
+	for <hobby.division@sportshobby.co.jp>; Sat, 22 Mar 2014 04:31:30 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:57544 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1395430289.31929
+Received: from 178.125.226.48 ([178.125.226.48])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s2LJVOs8072185
+	for <hobby.division@sportshobby.co.jp>; Sat, 22 Mar 2014 04:31:27 +0900 (JST)
+Message-Id: <201403211931.s2LJVOs8072185@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (freelantznn@vez.val.justice.cz@167.135.229.174)
+	by 178.125.226.48 with ESMTPA; Fri, 21 Mar 2014 22:36:03 +0300
+From: freelantznn@vez.val.justice.cz
+To: hobby.division@sportshobby.co.jp
+Subject: Tips for enhancing your xxx-life
+Date: Fri, 21 Mar 2014 22:30:50 +0300
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 21032014 #7584378, status: clean
+
+http://customarily.eadamfec.eu/ Bring your lady to the 7th sky
+

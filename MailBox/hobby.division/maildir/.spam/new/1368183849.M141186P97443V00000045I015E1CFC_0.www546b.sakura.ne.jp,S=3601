@@ -1,0 +1,74 @@
+Return-Path: <suond@yahoo.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.5 required=7.0 tests=BAYES_50,DKIM_ADSP_CUSTOM_MED,
+	FORGED_YAHOO_RCVD,FREEMAIL_FROM,FS_MAKE_MONEY,HTML_MESSAGE,MIME_HTML_ONLY,
+	NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,URIBL_BLOCKED,URIBL_MW_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 FS_MAKE_MONEY Subject says "make money"
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (suond[at]yahoo.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.6 FORGED_YAHOO_RCVD 'From' yahoo.com does not match 'Received' headers
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5002]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.0 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: 79.96.18.142]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: 79.96.18.142]
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4AB46eM097440
+	for <hobby.division@sportshobby.co.jp>; Fri, 10 May 2013 20:04:06 +0900 (JST)
+	(envelope-from suond@yahoo.com)
+X-Nat-Received: from [112.78.125.46]:52478 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1368183846.12752
+Received: from lsvibpbzzt ([46.217.105.225])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4AB41nT097427
+	for <hobby.division@sportshobby.co.jp>; Fri, 10 May 2013 20:04:02 +0900 (JST)
+	(envelope-from suond@yahoo.com)
+Date: Fri, 10 May 2013 20:04:01 +0900 (JST)
+Received: by work.obiltv.net (Postfix, from userid 219)
+	id E51CE79985E; Fri, 10 May 2013 01:04:03 +0100
+From: Work at Home <suond@yahoo.com>
+To: <hobby.division@sportshobby.co.jp>
+Subject: Wanna Learn how to make money online?
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 8bi
+Precedence: bulk
+Message-Id: <201305101104.E54C40638F@web.obiltv.net>
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 10052013 #9938642, status: clean
+
+<html>
+<body>
+<h3>
+<center><form target="_blank" name="form2386" method="get" action="http://79.96.18.142/work.html" ><input style="border:0px 
+currentColor;color:blue;font-weight:bolder;font-size:large;text-decoration:underline;cursor:pointer;background-color:transparent;" 
+id="yiv1528bkqnc(6)" name="q" value="Yahoo user click here" type="submit"></center>
+<br>
+Kim Swartz  is actually a  natural mom who lost her  work in 2012, after an unsuccessful  career  pursuit she  began  operating  on the net from  estate. 
+<br>I interviewed her  concerning her  awesome story  and also she revealed her  measures for success. 
+<br> Find out  Exactly how she  is actually  performing  this
+<br>
+<br>
+<center><a href="http://79.96.18.142/work.html"style="color: red"> Go to  right here</a>
+
+</h3>
+</body>
+</html>
+

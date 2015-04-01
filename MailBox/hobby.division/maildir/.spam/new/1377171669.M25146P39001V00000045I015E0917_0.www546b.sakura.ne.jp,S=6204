@@ -1,0 +1,173 @@
+Return-Path: <upcmail@uva.nl>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************************
+X-Spam-Status: Yes, score=26.8 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_50,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+	FROM_MISSPACED,FROM_MISSP_EH_MATCH,FROM_MISSP_MSFT,FROM_MISSP_TO_UNDISC,
+	FROM_MISSP_USER,FSL_CTYPE_WIN1251,HTML_MESSAGE,MIME_HTML_ONLY,
+	MSOE_MID_WRONG_CASE,NSL_RCVD_FROM_USER,SUBJ_ALL_CAPS,T_FROM_MISSP_DKIM,
+	URIBL_BLOCKED,URIBL_DBL_SPAM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  4.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  2.4 NSL_RCVD_FROM_USER Received from User
+	*  1.5 SUBJ_ALL_CAPS Subject is all capitals
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: tinyurl.ms]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: tinyurl.ms]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5010]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  0.5 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  3.7 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  2.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  0.2 FROM_MISSP_USER From misspaced, from "User"
+	*  2.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.9 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r7MBf4kG038997
+	for <hobby.division@sportshobby.co.jp>; Thu, 22 Aug 2013 20:41:05 +0900 (JST)
+	(envelope-from upcmail@uva.nl)
+X-Nat-Received: from [112.78.125.46]:54861 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1377171664.6289
+Received: from fep11.mx.upcmail.net (fep11.mx.upcmail.net [62.179.121.31])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r7MBf2vr038984
+	for <hobby.division@sportshobby.co.jp>; Thu, 22 Aug 2013 20:41:04 +0900 (JST)
+	(envelope-from upcmail@uva.nl)
+Received: from edge04.upcmail.net ([192.168.13.239])
+          by viefep11-int.chello.at
+          (InterMail vM.8.01.05.05 201-2260-151-110-20120111) with ESMTP
+          id <20130822114039.BFHJ4126.viefep11-int.chello.at@edge04.upcmail.net>;
+          Thu, 22 Aug 2013 13:40:39 +0200
+Received: from User ([78.47.114.87])
+	by edge04.upcmail.net with edge
+	id FngU1m02h1tC83S03ngVSb; Thu, 22 Aug 2013 13:40:39 +0200
+X-SourceIP: 78.47.114.87
+X-Authenticated-Sender: g.gerritsen16@chello.nl
+From: "UPCwebmail Update"<upcmail@uva.nl>
+Subject: VERMIJDEN SLUITING VAN DEZE ACCOUNT
+Date: Thu, 22 Aug 2013 04:40:41 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20130822114039.BFHJ4126.viefep11-int.chello.at@edge04.upcmail.net>
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 22082013 #10996452, status: clean
+
+<HTML><HEAD><TITLE></TITLE>
+<STYLE type="text/css"><!--
+BODY {
+  margin: 5px 5px 5px 5px;
+  background-color: #FFFFFF;
+}
+/*----------Text Styles----------*/
+HR { color: #000000}
+BODY, TABLE /* Normal */
+{
+  font-size: 10pt;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  text-decoration: none;
+}
+SPAN.RVTS1 /* Normal */
+{
+  font-size: 8pt;
+  font-style: italic;
+  font-weight: bold;
+  color: #000080;
+}
+A.RVTS2, SPAN.RVTS2 /* Normal */
+{
+  font-size: 8pt;
+  font-style: italic;
+  font-weight: bold;
+  color: #0000FF;
+  text-decoration: underline;
+}
+A.RVTS2:hover { color: #0000FF; }
+SPAN.RVTS3 /* Normal */
+{
+  font-size: 8pt;
+  font-style: italic;
+  font-weight: bold;
+  color: #000000;
+}
+/*----------Para Styles----------*/
+P /* Left */
+{
+  text-align: left;
+  text-indent: 0px;
+  white-space: nowrap;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+P.RVPS1  /* Centered */
+{
+  text-align: center;
+  white-space: nowrap;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 50px 0px 50px;
+}
+P.RVPS2  /* Right */
+{
+  text-align: right;
+  white-space: nowrap;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+P.RVPS3  /* Justify */
+{
+  text-align: justify;
+  text-indent: 30px;
+  white-space: nowrap;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+}
+P.RVPS4  /* Framed */
+{
+  text-align: center;
+  white-space: nowrap;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 1px;
+  padding: 2px 2px 2px 2px;
+  margin: 3px 18px 3px 18px;
+}
+
+--></STYLE>
+</HEAD>
+<BODY>
+<P><SPAN class=RVTS1>Geachte klant</SPAN></P>
+<P><SPAN class=RVTS1>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS1>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS1>We merken dat uw account wordt gebruikt in een niet-geautoriseerde locatie ip om spam te verzenden</SPAN></P>
+<P><SPAN class=RVTS1>Gelieve bescherm je account nu om schorsing van deze rekening te vermijden</SPAN></P>
+<P><SPAN class=RVTS1>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS1>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS1>Voor meer veiligheid op uw rekening. </SPAN><A class=RVTS2 href=http://tinyurl.ms/yv7y >VEILIGMIJNACCOUNT</A><SPAN class=RVTS1> om uw account te upgraden met ons</SPAN></P>
+<P><SPAN class=RVTS1>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS1>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS1>dank</SPAN></P>
+<P><SPAN class=RVTS1>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS1>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS1>UPC Team</SPAN></P>
+<P><SPAN class=RVTS1>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS1>&nbsp;</SPAN></P>
+<P><SPAN class=RVTS1>© 2013 UPC Admin Update. Alle rechten voorbehouden.</SPAN></P>
+</BODY></HTML>

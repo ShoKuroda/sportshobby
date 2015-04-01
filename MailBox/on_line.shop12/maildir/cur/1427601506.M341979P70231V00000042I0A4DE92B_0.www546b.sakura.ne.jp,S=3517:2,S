@@ -1,0 +1,70 @@
+Return-Path: <support@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav407.sakura.ne.jp (fsav407.sakura.ne.jp [133.242.250.106])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2T3wMTW070228
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 12:58:22 +0900 (JST)
+	(envelope-from support@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav407.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav407.sakura.ne.jp);
+ Sun, 29 Mar 2015 12:58:22 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav407.sakura.ne.jp)
+Received: from mx61-008.smtp.rakuten.co.jp (mx61-008.smtp.rakuten.co.jp [202.72.61.8])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2T3wMfR070225
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 12:58:22 +0900 (JST)
+	(envelope-from support@rakuten.co.jp)
+Received: from absktapi134c.db.rakuten.co.jp (absktapi134c.db.rakuten.co.jp [172.30.123.133])
+	by mxtr602zc.rakuten.co.jp (Rakuten MGW 2.0.0) with ESMTP id 3lF37243Klz2hfm
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 12:58:22 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=rakuten0702014040; t=1427601502;
+	bh=EclP7XF/qcPie9XctKn/rs7iCWCiRLXshsGIoXNuRsw=;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=fs5O1I9gfqavlGPvALsTSFIEUgfkUVOGxrw7lkXqTI4MNYW3KydC5U8xZf7Bgykc5
+	 xCG0KJvbSMhz8u1E059cptbIImxFmyMhWA8cuRD2m3zdoj8SyGL91LjNc/VhpaR2Ko
+	 s7bgsHugQAQO1DDZ2TH4SePLa19ay5GnyRuM5BnM=
+Received: from absktapi134c.db.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by absktapi134c.db.rakuten.co.jp (8.13.8/8.13.8) with ESMTP id t2T3wM3L019381
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 29 Mar 2015 12:58:22 +0900
+Date: Sun, 29 Mar 2015 12:58:22 +0900 (JST)
+From: support@rakuten.co.jp
+To: on_line.shop12@sportshobby.co.jp
+Message-ID: <5716619.10380.1427601502549.JavaMail.order@rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbOl84SyU8JW0kTiQqQ04kaSQ7GyhC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+スポーツホビー ご担当者様
+
+楽天市場よりお知らせいたします。
+御社でお取り扱いの商品
+「RC4WD King Off-Road Scale Piggyback Shocks w/Faux Reservoir (100mm) 2本入り(zd0031)」
+に注文があり、
+今回の注文で商品の在庫数が０（ゼロ）になりました。
+最後の注文の受注番号は 243411-20150329-0241660234 です。
+
+在庫数が０（ゼロ）になりましたので
+
+   -商品の説明文を変更する（例：お蔭様で売り切れました…など）
+   -在庫数を増やす
+   -商品を削除する
+   -商品を倉庫に入れる
+
+などの処理を行うことをおすすめします。
+
+商品情報の変更についてはRMSコールセンターまでお願いいたします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+◆ページ編集等、RMSに関するご質問はRMSコールセンターまで 
+　　support-rms@rakuten.co.jp 
+───────────────────────────── 
+◆運営に関するご相談・ご質問は下記連絡先まで 
+　　support@rakuten.co.jp 
+───────────────────────────── 
+楽天市場  http://www.rakuten.co.jp/ 
+楽天株式会社 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

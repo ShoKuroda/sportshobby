@@ -1,0 +1,146 @@
+Return-Path: <Chester@tianmasz.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.3 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	HTML_IMAGE_ONLY_32,HTML_IMAGE_RATIO_04,HTML_MESSAGE,MSGID_FROM_MTA_HEADER,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,T_DKIM_INVALID,
+	URIBL_BLOCKED,URIBL_DBL_SPAM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: tianmasz.com]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: tianmasz.com]
+	*  0.0 HTML_IMAGE_ONLY_32 BODY: HTML: images with 2800-3200 bytes of words
+	*  0.6 HTML_IMAGE_RATIO_04 BODY: HTML has a low ratio of text to image area
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4913]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t16A9EPg008973
+	for <hobby.division@sportshobby.co.jp>; Fri, 6 Feb 2015 19:09:15 +0900 (JST)
+	(envelope-from Chester@tianmasz.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Fri, 06 Feb 2015 19:09:14 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from mail.szbluebirdtech.com (www.goodti.me [192.210.195.40] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t16A9Dav008935
+	for <hobby.division@sportshobby.co.jp>; Fri, 6 Feb 2015 19:09:14 +0900 (JST)
+	(envelope-from Chester@tianmasz.com)
+Message-Id: <201502061009.t16A9Dav008935@www546b.sakura.ne.jp>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=tianmasz.com; h=
+	date:from:to:subject:reply-to:mime-version:content-type; s=
+	dkim1; bh=GLiSFPvQrdCdjH1PkwaPuzaZfSo=; b=5fTDf/6sVJ5AOlaoSdhrr8
+	7d6/BuakXqXAtVNgPmw+FCwsqHFZEj76Reap8+dIXTcN5/pTutDqTJFDvEnz4rW2
+	QswDRLSARasIPJXe3nrneTshFwhR+Vr1I7pAjl1mkS5SsNN5FGCzjAWYOLPVObgX
+	k0FLPyGrU+cn6jyimVoys=
+Received: (qmail 29366 invoked from network); 6 Feb 2015 10:09:06 -0000
+Received: from unknown (HELO sales1-PC) (Chester@tianmasz.com@[192.210.195.34])
+          (envelope-sender <Chester@tianmasz.com>)
+          by mail.szbluebirdtech.com (qmail-ldap-1.03) with SMTP
+          for <hobby.division@sportshobby.co.jp>; 6 Feb 2015 10:09:06 -0000
+Date: Fri, 6 Feb 2015 15:20:47 +0800
+From: "Dora Lights" <Chester@tianmasz.com>
+To: "hobby.division" <hobby.division@sportshobby.co.jp>
+Subject: Re: Portable LED Flood Light for both Car and Home use
+Reply-To: dora@doralights.com
+X-mailer: Foxmail 7, 1, 2, 32[cn]
+MIME-Version: 1.0
+Content-Type: multipart/alternative; charset=utf-8; boundary="5Jdcs6mqEYEx3rMF6k4WSd2toSIniJh=_8"
+Disposition-Notification-To: <dora@doralights.com>
+
+This is a multi-part message in MIME format
+
+--5Jdcs6mqEYEx3rMF6k4WSd2toSIniJh=_8
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+U29ycnksIElmIHlvdSB3aXNoIHRvIHVuc3Vic2NyaWJlIHRvIHRoaXMgYW5kIGFsbCBmdXR1cmUg
+ZW1haWxzICxwbGVhc2UgZW1haWwgdXMgYXQgZG9yYUBkb3JhbGlnaHRzLmNvbQ0KQ29tcGV0aXRp
+dmUgUHJpY2Ugc3RhcnQgZnJvbSBFWFcgVVNEIDMuOS9QQ1MNClBvcnRhYmxlIExFRCBGbG9vZCBM
+aWdodCBmb3IgYm90aCBDYXIgYW5kIEhvbWUgdXNlDQo1Vy8xMFcvMjBXLzMwVw0KDQogDQpBbnl0
+aGluZyBpbnRlcmVzdCB5b3UsIHBsZWFzZSBmZWVsIGZyZWUgdG8gbGV0IHVzIGtub3cuDQpTb3Jy
+eSwgcGxlYXNlIGZlZWwgZnJlZSB0byBsZXQgdXMga25vdyBpZiB5b3UgYXJlIG5vdCBpbnRlcmVz
+dGVkIGluIG91ciBwcm9kdWN0cyBpbmZvcm1hdGlvbiByZWd1bGFybHkuDQogDQpUaGFua3MgYSBs
+b3QgYW5kIGJlc3QgcmVnYXJkcywNCkRvcmENClNhbGVzIERlcGFydG1lbnQNCiBCbHVlQmlyZCBU
+ZWNobm9sb2d5IENvbXBhbnkgTGltaXRlZA0KVGVsIDogKzg2LTc1NS0yNzg4ODU5Mg0KRmF4OiAr
+ODYtNzU1LTI5MzYxMjM1DQpFbWFpbDogZG9yYUBkb3JhbGlnaHRzLmNvbQ0KT2ZmaWNlIEFkZDog
+Rmxvb3IgNnRoLCBCb3NoZW4gVGVjaCBCdWlsZGluZywgTm9ydGggQ2hhbmdYaW5nIFJvYWQsDQpM
+b25nZ2FuIFpvbmUsIFNoZW56aGVuLCA1MTgxNzIsIENoaW5hDQpGYWN0b3J5IEFkZDogUGVuZ3Np
+IHpvbmUsIFBlbmdkaSBjaXR5LCBTaGVuemhlbiwgQ2hpbmEgDQp3ZWJzaXRlOiAgd3d3LmRvcmFs
+aWdodHMuY29tDQo=
+
+--5Jdcs6mqEYEx3rMF6k4WSd2toSIniJh=_8
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0
+Zi04IiBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZT4NCjxNRVRBIG5hbWU9R0VORVJBVE9SIGNvbnRl
+bnQ9Ik1TSFRNTCA4LjAwLjc2MDAuMTYzODUiPjwvSEVBRD4NCjxCT0RZIHNjcm9sbD15ZXM+PCEt
+LVN0YXJ0RnJhZ21lbnQgLS0+DQo8RElWPjxGT05UIHNpemU9NCBmYWNlPSJTZWdvZSBTY3JpcHQi
+Pg0KPFA+PEZPTlQgc2l6ZT0yIGZhY2U9Q2FsaWJyaT5Tb3JyeSwgSWYgeW91IHdpc2ggdG8gdW5z
+dWJzY3JpYmUgdG8gdGhpcyBhbmQgYWxsIA0KZnV0dXJlIGVtYWlscyAscGxlYXNlIGVtYWlsIHVz
+IGF0IDwvRk9OVD48QSANCmhyZWY9Imh0dHA6Ly9tYWlsLnRpYW5tYXN6LmNvbS93LnBocD9FPWhv
+YmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwJlM9SyZUPXtBRTg2RUIwMi02NjJBLTQ5MEQt
+QkQxRi1FNjdFREREOEM0Nzd9JlU9YldGcGJIUnZPbVJ2Y21GQVpHOXlZV3hwWjJoMGN5NWpiMjA9
+Ij48Rk9OVCBzaXplPTIgDQpmYWNlPUNhbGlicmk+ZG9yYUBkb3JhbGlnaHRzLmNvbTwvRk9OVD48
+L0E+PC9QPjwvRk9OVD48L0RJVj4NCjxESVY+PEZPTlQgc2l6ZT00IGZhY2U9IlNlZ29lIFNjcmlw
+dCI+Q29tcGV0aXRpdmUgUHJpY2Ugc3RhcnQgZnJvbSBFWFcgVVNEIA0KMy45L1BDUzwvRk9OVD48
+L0RJVj4NCjxESVY+PEZPTlQgZmFjZT1BcmlhbD5Qb3J0YWJsZSBMRUQgRmxvb2QgTGlnaHQgZm9y
+IGJvdGggQ2FyIGFuZCBIb21lIA0KdXNlPEJSPjVXLzEwVy8yMFcvMzBXPC9GT05UPjwvRElWPg0K
+PERJVj48QlI+PCEtLVN0YXJ0RnJhZ21lbnQgLS0+PEEgDQpocmVmPSJodHRwOi8vbWFpbC50aWFu
+bWFzei5jb20vdy5waHA/RT1ob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcCZTPUsmVD17
+QUU4NkVCMDItNjYyQS00OTBELUJEMUYtRTY3RURERDhDNDc3fSZVPWFIUjBjRG92TDJSdmNtRnNh
+V2RvZEhNdVkyOXRMMUJ2Y25SaFlteGxMbkJvY0Q5amJHRnpjMmxrUFRJNUpuUTlNams9Ij48Rk9O
+VCANCmZhY2U9QXJpYWw+PElNRyBzcmM9Imh0dHA6Ly9kb3JhbGlnaHRzLmNvbS9VcGxvYWRmaWxl
+cy8yMDE0MTIxODExMzMxODkwMC5qcGciIA0Kd2lkdGg9NTU5IGhlaWdodD0zNjY+PC9GT05UPjwv
+QT48Rk9OVCBmYWNlPUFyaWFsPiA8L0ZPTlQ+PC9ESVY+DQo8RElWPjxGT05UIGZhY2U9QXJpYWw+
+QW55dGhpbmcgaW50ZXJlc3QgeW91LCBwbGVhc2UgZmVlbCBmcmVlIHRvIGxldCB1cyANCmtub3cu
+PC9GT05UPjwvRElWPg0KPERJVj48Rk9OVCBmYWNlPUFyaWFsPlNvcnJ5LCBwbGVhc2UgZmVlbCBm
+cmVlIHRvIGxldCB1cyBrbm93IGlmIHlvdSBhcmUgbm90IA0KaW50ZXJlc3RlZCBpbiBvdXIgcHJv
+ZHVjdHMgaW5mb3JtYXRpb24gcmVndWxhcmx5LjwvRk9OVD48L0RJVj4NCjxESVY+PEZPTlQgZmFj
+ZT1BcmlhbD4mbmJzcDs8L0ZPTlQ+PC9ESVY+DQo8RElWPjwhLS1TdGFydEZyYWdtZW50IC0tPg0K
+PERJVj48Rk9OVCANCmZhY2U9QXJpYWw+VGhhbmtzJm5ic3A7YSZuYnNwO2xvdCZuYnNwO2FuZCZu
+YnNwO2Jlc3QmbmJzcDtyZWdhcmRzLDxCUj5Eb3JhPEJSPlNhbGVzJm5ic3A7RGVwYXJ0bWVudDxC
+Uj4mbmJzcDtCbHVlQmlyZCZuYnNwO1RlY2hub2xvZ3kmbmJzcDtDb21wYW55Jm5ic3A7TGltaXRl
+ZDxCUj5UZWwmbmJzcDs6Jm5ic3A7Kzg2LTc1NS0yNzg4ODU5MjxCUj5GYXg6Jm5ic3A7Kzg2LTc1
+NS0yOTM2MTIzNTxCUj5FbWFpbDombmJzcDs8L0ZPTlQ+PEEgDQpocmVmPSJodHRwOi8vbWFpbC50
+aWFubWFzei5jb20vdy5waHA/RT1ob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcCZTPUsm
+VD17QUU4NkVCMDItNjYyQS00OTBELUJEMUYtRTY3RURERDhDNDc3fSZVPWJXRnBiSFJ2T21SdmNt
+RkFaRzl5WVd4cFoyaDBjeTVqYjIwPSI+PEZPTlQgDQpmYWNlPUFyaWFsPmRvcmFAZG9yYWxpZ2h0
+cy5jb208L0ZPTlQ+PC9BPjxCUj48Rk9OVCANCmZhY2U9QXJpYWw+T2ZmaWNlJm5ic3A7QWRkOiZu
+YnNwO0Zsb29yJm5ic3A7NnRoLCZuYnNwO0Jvc2hlbiZuYnNwO1RlY2gmbmJzcDtCdWlsZGluZywm
+bmJzcDtOb3J0aCZuYnNwO0NoYW5nWGluZyZuYnNwO1JvYWQsPEJSPkxvbmdnYW4mbmJzcDtab25l
+LCZuYnNwO1NoZW56aGVuLCZuYnNwOzUxODE3MiwmbmJzcDtDaGluYTxCUj5GYWN0b3J5Jm5ic3A7
+QWRkOiZuYnNwO1BlbmdzaSZuYnNwO3pvbmUsJm5ic3A7UGVuZ2RpJm5ic3A7Y2l0eSwmbmJzcDtT
+aGVuemhlbiwmbmJzcDtDaGluYSZuYnNwOzxCUj53ZWJzaXRlOiZuYnNwOyZuYnNwOzwvRk9OVD48
+QSANCmhyZWY9Imh0dHA6Ly9tYWlsLnRpYW5tYXN6LmNvbS93LnBocD9FPWhvYmJ5LmRpdmlzaW9u
+QHNwb3J0c2hvYmJ5LmNvLmpwJlM9SyZUPXtBRTg2RUIwMi02NjJBLTQ5MEQtQkQxRi1FNjdFRERE
+OEM0Nzd9JlU9YUhSMGNEb3ZMM2QzZHk1a2IzSmhiR2xuYUhSekxtTnZiUT09Ij48Rk9OVCANCmZh
+Y2U9QXJpYWw+d3d3LmRvcmFsaWdodHMuY29tPC9GT05UPjwvQT48QlI+PC9ESVY+PC9ESVY+PHRh
+YmxlIHdpZHRoPSIxIiBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIg
+YmFja2dyb3VuZD0iaHR0cDovL21haWwudGlhbm1hc3ouY29tL3cucGhwP0U9aG9iYnkuZGl2aXNp
+b25Ac3BvcnRzaG9iYnkuY28uanAmUz1LJlQ9e0FFODZFQjAyLTY2MkEtNDkwRC1CRDFGLUU2N0VE
+REQ4QzQ3N30iPjx0cj4gPHRkPjwvdGQ+PC90cj48L3RhYmxlPjxpbWcgc3JjPSJodHRwOi8vbWFp
+bC50aWFubWFzei5jb20vdy5waHA/RT1ob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcCZT
+PUsmVD17QUU4NkVCMDItNjYyQS00OTBELUJEMUYtRTY3RURERDhDNDc3fSIgYm9yZGVyPSIwIiB3
+aWR0aD0iMSIgaGVpZ2h0PSIxIi8+PC9CT0RZPjwvSFRNTD4NCg0K
+
+--5Jdcs6mqEYEx3rMF6k4WSd2toSIniJh=_8--
+

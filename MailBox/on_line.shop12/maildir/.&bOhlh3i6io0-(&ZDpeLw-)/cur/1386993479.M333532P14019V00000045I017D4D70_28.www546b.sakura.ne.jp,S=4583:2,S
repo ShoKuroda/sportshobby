@@ -1,0 +1,83 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham
+	version=3.3.2
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBCD0Oh8005651
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 12 Dec 2013 22:00:24 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+X-Nat-Received: from [112.78.125.46]:56593 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1386853224.1659
+Received: from rakuten.co.jp (mxtr103c.rakuten.co.jp [202.72.52.141])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBCD0OcA005645
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 12 Dec 2013 22:00:24 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat302zc.zd.rakuten.co.jp [172.18.93.3])
+	by mxtr106c.rakuten.co.jp (Rakuten MGw 1.3.7) with ESMTP id 36BB0549D3F
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 12 Dec 2013 22:00:24 +0900 (JST)
+Received: from mat3.zd.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat302zc.zd.rakuten.co.jp (Switch-3.3.4/Switch-3.3.4) with ESMTP id rBCCwqqd028120
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 12 Dec 2013 21:58:54 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0120130400; t=1386853134;
+	bh=/BpHYNva451NJbsy4xYgsNBsoHtpc03FmezU50Lar68=;
+	h=Date:From:Reply-To:To:Cc:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=RhE6cR+6idoDrtu9LWrWvZlOdB9rMRpJFKqHvLQCTogFNik9B1x/q6Wx0Ba15HNlD
+	 GjEDulupnlGbKi5aV1Y59pSoSE2+NrtENosUArgtZfeDvR46GMjUXleIEI+TiIHOuB
+	 WV7vbC22ZIEQYOyJtvmspNjZ/vM2c336iI0Edptw=
+Received: from rakuten.co.jp ([matqor203zc.zd.rakuten.co.jp [172.18.92.13]]) by mat302zc.zd.rakuten.co.jp with RELAY id rBCCwrcU028134 ;
+          Thu, 12 Dec 2013 21:58:54 +0900
+Date: Thu, 12 Dec 2013 22:00:23 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: 49f957ac7b6fe30357b065cba7e4b226s1@im.fw.rakuten.ne.jp,
+        on_line.shop12@sportshobby.co.jp
+To: 49f957ac7b6fe30357b065cba7e4b226s1@im.fw.rakuten.ne.jp
+Cc: on_line.shop12@sportshobby.co.jp
+Message-ID: <201312122158.rBCCwrcU028134@mat302zc.zd.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3IVtDbUo4RmJNRiQ0M05HJxsoQigbJEI3SEJTGyhCKQ==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.18.92.13
+X-Rams-Id: 2E9749002E1C914E92F52735E881EC41D7975056
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 12122013 #7104516, status: clean
+
+注文内容は以下のﾍﾟｰｼﾞから｢受注番号｣と｢ﾒｰﾙｱﾄﾞﾚｽ｣を入力しご確認ください｡
+※ﾒｰﾙｱﾄﾞﾚｽは､ｻｰﾋﾞｽご利用時に使用されたものを入力してください｡
+https://m.order.my.rakuten.co.jp/?act=search
+⇒ｱｸｾｽ出来ない方はこちら
+(https://order.my.rakuten.co.jp/)
+
+※このﾒｰﾙに返信いただいてもお答えできません｡商品に関するお問い合わせは下記のｼｮｯﾌﾟにご連絡ください｡
+
+[受注番号]243411-20131212-0167821201
+※上記の番号にﾘﾝｸが表示されている場合でもこのﾘﾝｸから楽天市場やｼｮｯﾌﾟへのお問い合わせはできません｡
+[商品]RC4WD T-Box ﾘｰﾌ車用 2個入 (zs0250) 4980円×2
+[ｼｮｯﾌﾟ情報]ｽﾎﾟｰﾂﾎﾋﾞｰ hobby.division@sportshobby.co.jp 011-773-5090
+【ご注意】
+ｼｮｯﾌﾟや楽天からﾒｰﾙが届かない場合がありますので､以下のﾄﾞﾒｲﾝを許可ﾄﾞﾒｲﾝとして追加をしてください
+ｼｮｯﾌﾟﾄﾞﾒｲﾝ:sportshobby.co.jp
+楽天ﾄﾞﾒｲﾝ:rakuten.co.jp
+
+[注文者]渡辺 裕輔様(Tel080-3463-8973)
+[送付先]渡辺 裕輔様(〒183-0014 東京都府中市是政4-8-1-404 Tel080-3463-8973)
+[支払/配送/指定]ｸﾚｼﾞｯﾄｶｰﾄﾞ決済/宅配便/20時~21時
+[小計/税/送料=合計]9960円/0円/840円=10800円
+※送料等の諸費用は変わる場合があります｡
+※今回の注文は楽天会員登録を使用していないのでﾎﾟｲﾝﾄが付きません｡
+
+【PR】Xmas特集2013 ﾎﾟｲﾝﾄ最大10倍も!ｹｰｷにﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://r10.to/hhh9kp
+
+【PR】楽天ｶｰﾄﾞ入会でもれなく2,000円ﾎﾟｲﾝﾄﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://rac.rakuten.co.jp/2964/
+
+【PR】楽天Edyｱﾌﾟﾘをﾀﾞｳﾝﾛｰﾄﾞするだけで400ﾎﾟｲﾝﾄ!!
+ ⇒http://r10.to/hJ999p
+
+
+楽天市場(楽天株式会社)
+http://m.rakuten.co.jp/sportshobby/

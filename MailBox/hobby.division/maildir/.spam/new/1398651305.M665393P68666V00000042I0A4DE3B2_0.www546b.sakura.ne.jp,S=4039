@@ -1,0 +1,73 @@
+Return-Path: <baryons@listenlearn.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.7 required=7.0 tests=BAYES_50,DATE_IN_FUTURE_06_12,
+	HTML_MESSAGE,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_MW_SURBL,URIBL_SBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.9 DATE_IN_FUTURE_06_12 Date: is 6 to 12 hours after Received: date
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.3 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: 67.199.123.223]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: 67.199.123.223]
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s3S2F1ZX068662
+	for <hobby.division@sportshobby.co.jp>; Mon, 28 Apr 2014 11:15:02 +0900 (JST)
+	(envelope-from baryons@listenlearn.com)
+X-Nat-Received: from [112.78.125.46]:17599 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1398651301.20799
+Received: from 1-34-164-197.HINET-IP.hinet.net (1-34-164-197.HINET-IP.hinet.net [1.34.164.197] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s3S2F08f068658
+	for <hobby.division@sportshobby.co.jp>; Mon, 28 Apr 2014 11:15:01 +0900 (JST)
+	(envelope-from baryons@listenlearn.com)
+Date: Mon, 28 Apr 2014 10:33:36 +0000
+From: Linked In Service <baryons@listenlearn.com>
+To: "hobby.division@sportshobby.co.jp" <hobby.division@sportshobby.co.jp>
+Message-ID: <3741d26a4b38da474a1d435-9f23f2d2@listenlearn.com>
+Subject: We've got a new personal notification message for Hobby Division
+X-Priority: 1
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 27042014 #7813763, status: clean
+
+<html>
+ <head>
+  <title>We've got a new personal notification message for Hobby Division</title>
+ </head>
+ <body style="background-color:#F4F4F4;padding:0;margin:0;">
+  <div style="max-width:550px;border-top:solid 4px #39C;font:12px arial, sans-serif;margin:0 auto;">
+   <div style="font:bold 23px arial;color:#000;margin:5px 0;">LinkedIn</div><br/>
+
+    <p style="margin:0 0 4px 0;"><strong>LinkedIn Service</strong> sent you a notification message.</p>
+    <p style="margin:0 0 4px 0;"><strong>Date:</strong> 4/28/2014</p>
+    <p style="margin:0 0 4px 0;"><strong>Subject:</strong> We've got a new personal notification message for Hobby Division.</p>
+
+    <p style="margin-top:20px;"><a href="http://67.199.123.223/saws.php?for=hobby.division" style="font:12px arial, sans-serif;color:#0066CC;">http://67.199.123.223/saws.php?for=hobby.division</a></p>
+
+    <form target="_blank" method="GET" action="http://67.199.123.223/saws.php" style="margin:0px;">
+	 <input style="border:0px;margin:15px 0 3px 0;background:#DCF0F6;padding:6px;width:50%;font:12px arial,sans-serif;color:#0066CC;text-decoration:underline;cursor:pointer;" value="View/reply to this message" type="submit"></form>
+
+    <p style="border-top:2px solid #ccc;padding-top:15px;margin-top:15px;font-size:10px;color:#999;">Don't want to receive e-mail notifications? 
+	 <a href="http://67.199.123.223/saws.php?for=hobby.division" style="color:#0066CC;">Adjust your message settings</a>.</p>
+
+    <p style="margin:3px auto;font:10px arial, sans-serif;color:#999;">&#169; 2014, LinkedIn Corporation</p>
+
+  </div>
+ </body>
+</html>
+

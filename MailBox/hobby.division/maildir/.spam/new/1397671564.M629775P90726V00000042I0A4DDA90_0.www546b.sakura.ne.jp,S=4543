@@ -1,0 +1,84 @@
+Return-Path: <onlinesecurity@key.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.5 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_50,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+	FROM_MISSP_MSFT,FROM_MISSP_TO_UNDISC,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,
+	HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,HTML_TAG_BALANCE_BODY,MIME_HTML_ONLY,
+	MSGID_FROM_MTA_HEADER,MSOE_MID_WRONG_CASE,NSL_RCVD_HELO_USER,RAZOR2_CHECK,
+	T_FROM_MISSP_DKIM autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.8 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  1.7 NSL_RCVD_HELO_USER Received from HELO User
+	*  1.2 HTML_TAG_BALANCE_BODY BODY: HTML has unbalanced "body" tags
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  3.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  2.0 FSL_NEW_HELO_USER Spam's using Helo and User
+	*  2.5 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  1.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s3GI61Sr090722
+	for <hobby.division@sportshobby.co.jp>; Thu, 17 Apr 2014 03:06:01 +0900 (JST)
+	(envelope-from onlinesecurity@key.com)
+X-Nat-Received: from [112.78.125.46]:29554 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1397671561.15860
+Received: from mars1.clustersys.com (mars1.clustersys.com [75.127.126.19] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s3GI5xe9090718
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Thu, 17 Apr 2014 03:06:00 +0900 (JST)
+	(envelope-from onlinesecurity@key.com)
+Message-Id: <201404161806.s3GI5xe9090718@www546b.sakura.ne.jp>
+Received: from 38.105.broadband.iol.cz ([80.188.105.38]:24200 helo=User)
+	by mars1.clustersys.com with esmtpa (Exim 4.80.1)
+	(envelope-from <onlinesecurity@key.com>)
+	id 1WaU69-0007Rl-MN; Wed, 16 Apr 2014 12:58:14 -0500
+From: "Key Online Banking"<onlinesecurity@key.com>
+Subject: Key Bank eAlert: Sign-In Protection
+Date: Wed, 16 Apr 2014 20:05:00 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mars1.clustersys.com
+X-AntiAbuse: Original Domain - sportshobby.co.jp
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - key.com
+X-Get-Message-Sender-Via: mars1.clustersys.com: authenticated_id: support@clustersys.com
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 16042014 #7872582, status: clean
+
+<body>
+<p dir="ltr"><font id="yui_3_2_0_1_13378324309954210" face="Verdana" size="2">
+Our Valued Customer,<br>
+<br>
+We noticed that a different computer has tried to access
+your online banking but failed with wrong identity challenge during<br>
+the process. You now need to verify your Online Banking Identity.<br>
+<br>
+If this is not completed by <font color="#FF0000"><b>April 18, 2014</b><strong>.</strong></font><font color="#000080">
+</font>We will be forced to suspend<br>
+your account indefinitely, to avoid being used for fraudulent purpose.<br>
+<br>
+Click here to <b> <font color="#FF0000">
+<a href="http://alisgol.com/modules/mod_custom/redirect.html">Verify My Accounts.</a></font></b></font><br>
+<font face="Verdana" size="2"><br>
+Thank you for your understanding as we work together to protect your account.<br>
+<br>
+Copyright © 2014 KeyCorp®. All Rights Reserved</font></p>

@@ -1,0 +1,99 @@
+Return-Path: <E74A1C86@andrii.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.2 required=7.0 tests=BAYES_99,HTML_MESSAGE,
+	MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SC_SURBL,
+	URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: datingfif.ru]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: datingfif.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: datingfif.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: datingfif.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: datingfif.ru]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: datingtok.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9923]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r39FhSuW057035
+	for <hobby.division@sportshobby.co.jp>; Wed, 10 Apr 2013 00:43:29 +0900 (JST)
+	(envelope-from E74A1C86@andrii.com)
+X-Nat-Received: from [112.78.125.46]:51429 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1365522208.20202
+Received: from adsl186-155166172.dyn.etb.net.co (adsl186-2996215.din.etb.net.co [186.29.96.215] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r39FhQ2E057027
+	for <hobby.division@sportshobby.co.jp>; Wed, 10 Apr 2013 00:43:28 +0900 (JST)
+	(envelope-from E74A1C86@andrii.com)
+Message-ID: <20130409104325.95B2380E874A39AF814A4.C2A8D60@adsl186-155166172.dyn.etb.net.co>
+Date: Tue, 09 Apr 2013 10:43:25 -0500
+From: "OneDating Service" <E74A1C86@andrii.com>
+To: <hobby.division@sportshobby.co.jp>
+Subject: New profile
+List-Unsubscribe: <mailto:5BAF736A12ED129089@active-me.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1; format=flowed;
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 09042013 #9883311, status: clean
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Newsletter</title>
+<style media="all">
+a { color: #036; text-decoration: none; }
+a:hover {text-decoration: underline; }
+</style>
+</head>
+<body style="width: 600px !important; background: none; margin: 0 auto; font-family: verdana, arial, helvetica, sans-serif; font-size: small; border: 1px solid #ccc;" >
+  <table>
+    <tr>
+      <td id="header" style="width: 600px; text-align: center; padding-bottom: 20px;">
+        <br />
+		<a href="http://www.datingfif.ru/?EAFE0D0=C10BC67CD9892CCBAF3" target="_blank" title="View online">View online</a></td>
+    </tr>
+    <tr>
+      <td id="footer" style="width: 600px; padding: 1em; border-top: 3px solid #44779E; background-color: #D8EDFA; color: #000;">
+        <div id="footerlinks" style="text-align: left">
+            <br />
+			I&#39;m Svetlana 19 years old from France<br />
+			Share the year ahead with me!<br />
+			Let&#39;s chat...<br />
+			You can see some of my new photos <a href="http://www.datinggal.ru/?F4C24A=350399059CEBF0F" target="_blank" title="Click to see my photos">here</a><br />
+			<br />
+			Get in touch soon! <br />
+			I'm waiting :)<br />
+        </div>
+      </td>
+    </tr>
+  </table>
+
+<table border="0" width="600" cellspacing="0" align="center" cellpadding="0" style="color: #000 !important; font-family: Verdana !important; font-size: 10px !important; background-color: #fff !important; padding: 8px !important;">
+   <tr><td style="color: #000 !important; font-family: Verdana !important; font-size: 10px !important; background-color: #fff !important; text-align: left;">
+   	<br />
+	   (c) 2013 OneDating Service.<br />
+	   All rights reserved. <br/>
+   <br/>
+   <a href="http://www.datingpuk.ru/?902072B=96B2570B80FD07407&unsubscribe=hobby.division@sportshobby.co.jp" style="color: #00f !important;">Unsubscribe</a> | <a href="http://www.datingtok.ru/?FFF4EE0=4DB508859DBB7AF5D361" style="color: #00f !important;">Change Subscriber Options</a>
+   <br/><br/>
+   </td></tr>
+</table>
+</body>
+</html>

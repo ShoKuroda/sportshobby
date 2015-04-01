@@ -1,0 +1,89 @@
+Return-Path: <nasa2kraw@yahoo.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.1 required=7.0 tests=ADVANCE_FEE_3_NEW_MONEY,
+	BAYES_50,DEAR_FRIEND,DKIM_SIGNED,FREEMAIL_FROM,FREEMAIL_REPLYTO,LOTS_OF_MONEY,
+	T_DKIM_INVALID,URIBL_BLOCKED autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (nasa2kraw[at]yahoo.com)
+	*  2.6 DEAR_FRIEND BODY: Dear Friend? That's not very dear!
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: 2011.my]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  3.6 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+Received: from fsav402.sakura.ne.jp (fsav402.sakura.ne.jp [133.242.250.101])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sA5D2uDK077450
+	for <hobby.division@sportshobby.co.jp>; Wed, 5 Nov 2014 22:02:56 +0900 (JST)
+	(envelope-from nasa2kraw@yahoo.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav402.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp);
+ Wed, 05 Nov 2014 22:02:56 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp)
+Received: from nm18.bullet.mail.gq1.yahoo.com (nm18.bullet.mail.gq1.yahoo.com [98.136.217.1])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sA5D2q4o077440
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Wed, 5 Nov 2014 22:02:55 +0900 (JST)
+	(envelope-from nasa2kraw@yahoo.com)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1415192572; bh=+4qy9jiCl5rFKxj85oThR0mZiVqyug7+E/m7wjFhGuE=; h=Date:From:Reply-To:Subject:From:Subject; b=GOlO1ZveqvDDmgl0dYe2ZqFrhk1lwi6rX87Rd1nnO/hHGnRCg9jr+FrNk34wRaKTYssRswe7ZRivnkKsf+HizKMk8MhI9r9gAtu9eF+LdwFmBOjkY4iF218yuA8YLYCMt4XG/MtiG1dWb00CEPZYBIQjBHv6lerOQ41AT8vdQCtteb2eslYmMuKtY59VoAz8ci0C9LnGVREFJ1ZP2OBZjk7XHHA/tuGmpmVlW2rQO+ratv+ASu7PkQPVS8te5MTjeZwjc/Bfdm4Jz1WeUuSkWYsm5OMCZzrYU20kDphWvjLiCWhvz+p3Sq9CFZg+iW1OOHJ6IlXbsjn8lhjlwOCjtg==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s2048; d=yahoo.com;
+	b=jId6G7J9vG3Nk5TsQpGBYeWf34TwwkqgJgHzfS2K3W7QswTuDbFW5R18THNYG38HehNrc5IDncQVFhbYrfp2SC5wGesRuJHDL8nEj3UmTVAekTUkucF3l028iGvavSbx7aC1NJpEp/LMwls2e0K0HjKUhkjkS2TsLTVMLlevpqWRMuvp2wOu9/fYvtSmVtEbx5krtNP0L7chJt8fkVTp83zJlDniwVSA4PhO2T4Y8SI8NFFtnmiNhToCnglB+e/jyLajD5igO1h/QLp8iK0V+mpUd10jmvz2+0RPg8H/w3yKZNN/+Ovw3OOPP4wskjnLBc++2mEKVScyNyVG5Zjn+A==;
+Received: from [98.137.12.55] by nm18.bullet.mail.gq1.yahoo.com with NNFMP; 05 Nov 2014 13:02:52 -0000
+Received: from [98.137.12.216] by tm15.bullet.mail.gq1.yahoo.com with NNFMP; 05 Nov 2014 13:02:52 -0000
+Received: from [127.0.0.1] by omp1024.mail.gq1.yahoo.com with NNFMP; 05 Nov 2014 13:02:52 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 274694.21423.bm@omp1024.mail.gq1.yahoo.com
+X-YMail-OSG: fYeoxWoVM1mzdwDYlBdBtnAW2F6KLyqeaEvAWzptvivIRJbU5VFpuLOMCcQSPHi
+ J0rYmMNxda.CvPjcecywg3pMVcY0PI0olh9SI.iXoRLbbiqC8NPnjbpO7VJ9OWKGk6N7h6YUZmGQ
+ h7gN6bzYVUvSR64afSGh23chpgUIdIphTVqeIs4mRdeP7Mt7GGWDLiaGLBqkIVkB4N5K5OWUn1ai
+ nGhll1c_ogfSkoEYHYZvDnOcqwJoSwpQHgsX6ceuXZ2AZJapJaytXaQ0yFb6z_uO1K51BOhYG0bE
+ 79DMFO62LEsK5x4AqxWO.fdagBS3LTzLvfZlSI1zJUCfjDKYXvGS9hmgrym.Yicmjh.g09NzkycQ
+ 7b74Il2semrNFvd3sCxezUkYCX2eN9yUZcfdpSrcGTySTW.FzYIkRDo037OThrkkni.2nnJzKz26
+ o_w.XXzYINSbHWwvgMVy2R01e72vhqbdSHzaVayrRDnc_iXmDIQg_0gVbcuVAaaId.FiRHEDjGcn
+ .r3ozjK.5g_qSH_zwK0bOYxCLkMfRBlzEgZQnd1idji1Ci.Rm
+Received: by 98.137.12.54; Wed, 05 Nov 2014 13:02:51 +0000 
+Date: Wed, 5 Nov 2014 13:02:40 +0000 (UTC)
+From: Tessy  Konazoe <kanazoe.tessy@yandex.com>
+Reply-To: Tessy  Konazoe <kanazoe.tessy@yandex.com>
+Message-ID: <1847919852.32478.1415192560610.JavaMail.yahoo@jws10739.mail.gq1.yahoo.com>
+Subject: Dear Friend
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+To: undisclosed-recipients:;
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by www546b.sakura.ne.jp id sA5D2uDK077450
+
+
+
+ 
+Dear Friend, 
+
+It is by the grace of God that I received Christ, Having known the truth, I had no choice than to do what is lawful and right in the sight of God for eternal life and in the sight of man for witness of God's mercy and glory upon my life. I am Mrs. Tessy KANAZOÉ, age 51, married to Late Mr El Hadj Oumarou KANAZOÉ,We were married for 17 years before he died in the year 2011.My Husband died after a brief illness that lasted for only few days 
+
+
+Before the death of my husband, he willed the sum of $8.5 Million Dollars to our only son (Dandy KANAZOÉ)after the death of my husband, his relatives have been fighting strongly to steal away the money which my husband left for I and my son (Dandy KANAZOÉ). 
+
+
+Presently, I'm in a hospital where I have been undergoing treatment for cancer of the blood. I have since lost my ability to talk and my doctors have told me that I have only a few weeks to live. It is my last wish to see that my son is a safe hand before my death and also to see that whomever I would leave my son under his or her care would promise to use this money which my husband willed to me and my son to take a good care of my son and bring him up in good way of life. 
+
+
+
+I took this decision because I don't have any trusted relative that I can leave my son under his/her care and it is my last wish to find a person whom is trust worthy who can help me raise my son in the good way of life and also help him invest his inherited money in a good business until he is old enough to handle this fund. 
+
+
+I hope that you can be of assistance to me in helping me realize my last wish before my last day here on earth, please contact me through my email address:(tessy.kanazoe123@gmail.com ) 
+I hope to hear from you soon and I anxiously await your response. 
+
+Yours sisterin christ, 
+Mrs.Tessy KANAZOÉ
+

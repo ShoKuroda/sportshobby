@@ -1,0 +1,55 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.5 required=7.0 tests=BAYES_50,DKIM_ADSP_CUSTOM_MED,
+	FORGED_YAHOO_RCVD,FREEMAIL_FROM,FREEMAIL_REPLY,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,NML_ADSP_CUSTOM_MED,RCVD_NUMERIC_HELO,URIBL_BLOCKED
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: we.ve]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (keikou0401[at]yahoo.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 FORGED_YAHOO_RCVD 'From' yahoo.com does not match 'Received' headers
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.0 FREEMAIL_REPLY From and body contain different freemails
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9TEsw3w084214
+	for <hobby.division@sportshobby.co.jp>; Tue, 29 Oct 2013 23:54:58 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:57606 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383058498.29853
+Received: from 176.99.111.98 ([176.99.111.98])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9TEsuSt084168
+	for <hobby.division@sportshobby.co.jp>; Tue, 29 Oct 2013 23:54:57 +0900 (JST)
+Date: Tue, 29 Oct 2013 23:54:56 +0900 (JST)
+Message-Id: <201310291454.r9TEsuSt084168@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (keikou0401@yahoo.com@196.172.66.185)
+	by 176.99.111.98 with ESMTPA; Tue, 29 Oct 2013 18:58:48 +0400
+X-Originating-IP: 196.172.66.185
+From: keikou0401@yahoo.com
+To: hobby.division@sportshobby.co.jp
+Subject: Stock Volume Alert
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 29102013 #10538594, status: clean
+
+Hello, we.ve received your mail address from a recruitment agency. You were 
+recommended as a responsible and intelligent person.
+
+I am an HR Manager in a European firm. We are hiring partners in Japan to 
+represent our company in their home town. We have several vacancies available. 
+But the Company Representative. vacancy is the most promising and well paid.
+
+The salary is from 2,600,000 YEN per month + bonuses. It will be easy to 
+begin. We provide a probationary period. We need decent partners that can be 
+entrusted with large amounts of money. If you are interested, please, respond 
+to my letter without delay: StephanieNyman10@yahoo.co.jp
+

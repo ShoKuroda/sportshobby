@@ -1,0 +1,55 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.2 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,
+	RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_PH_SURBL,
+	URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: globalmedicinaldeal.eu]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.8 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t18DX90L035164
+	for <hobby.division@sportshobby.co.jp>; Sun, 8 Feb 2015 22:33:09 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Sun, 08 Feb 2015 22:33:09 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from 2.81.244.129 (bl20-242-116.dsl.telepac.pt [2.81.242.116])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t18DX74H035158
+	for <hobby.division@sportshobby.co.jp>; Sun, 8 Feb 2015 22:33:08 +0900 (JST)
+Date: Sun, 8 Feb 2015 22:33:07 +0900 (JST)
+Message-Id: <201502081333.t18DX74H035158@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (root@dantachase.com@109.132.191.109)
+	by 2.81.242.116 with ESMTPA; Sun, 8 Feb 2015 13:34:23 -0000
+From: root@dantachase.com
+To: hobby.division@sportshobby.co.jp
+Subject: Tricks to act longer in bed
+
+http://ruthless.globalmedicinaldeal.eu/
+

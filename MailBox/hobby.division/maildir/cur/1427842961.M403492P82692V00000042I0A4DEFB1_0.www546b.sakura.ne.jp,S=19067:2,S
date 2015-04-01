@@ -1,0 +1,289 @@
+Return-Path: <205467@rmailmf.rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.3 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_RATIO_04,HTML_MESSAGE,
+	MPART_ALT_DIFF_COUNT,NORMAL_HTTP_TO_IP,T_REMOTE_IMAGE,URIBL_BLOCKED
+	autolearn=no version=3.3.2
+Received: from fsav409.sakura.ne.jp (fsav409.sakura.ne.jp [133.242.250.108])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2VN2cv3082688
+	for <hobby.division@sportshobby.co.jp>; Wed, 1 Apr 2015 08:02:38 +0900 (JST)
+	(envelope-from 205467@rmailmf.rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav409.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav409.sakura.ne.jp);
+ Wed, 01 Apr 2015 08:02:38 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav409.sakura.ne.jp)
+Received: from rmail1001c.rakuten.co.jp (rmail1008c.rakuten.co.jp [202.72.55.135])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2VN2cGc082685
+	for <hobby.division@sportshobby.co.jp>; Wed, 1 Apr 2015 08:02:38 +0900 (JST)
+	(envelope-from 205467@rmailmf.rakuten.co.jp)
+Received: from mdrmail102-01zc (mdrmail102-01zc-postfix.local [127.0.0.2])
+	by mdrmail102-01zc.rakuten.co.jp (Rakuten DKIM-MGwO 0.1.0) with ESMTP id F0D753AC592
+	for <hobby.division@sportshobby.co.jp>; Wed,  1 Apr 2015 08:02:37 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shop.rakuten.co.jp;
+	s=rmail2012041600; t=1427842957;
+	bh=PblXmzjDvDS+ZYeekycZL+Uz2jVlRyKum6oa2sNC9lc=;
+	h=To:MIME-Version:Subject:From:Sender:Content-Type:Message-Id:Date;
+	b=1p2Rw3AQmkVDdknES+8uDYdxUekj2FZwIVa8i0FnIw+TfXY2HxBZZTVayVo/Bo2Sm
+	 buwDJkciKibVN5jYhNIAR6mjasX+T50MzJtAZ9cgVQgp0puYx2ZQ8NLd/3Tx6J66LU
+	 iNfNGJ9cAcnri521Q1BbGCgW140qUsEdpbO2U5eE=
+Received: from mdrmail102-01zc.rakuten.co.jp (localhost.localdomain
+        [127.0.0.1])
+        by mdrmail101-01zc.db.rakuten.co.jp (Sendmail OMA v1.6.7-p3)
+        with SMTP id t3182b27678vgezM; Wed, 1 Apr 2015 08:02:37 +0900 (JST)
+Received: from rmail-dkim-vip.db.rakuten.co.jp (bmctr101c.db.rakuten.co.jp [172.30.162.1])
+	by mdrmail102-01zc.rakuten.co.jp (Postfix) with ESMTP id D9FB23AC544
+	for <hobby.division@sportshobby.co.jp>; Wed,  1 Apr 2015 08:02:37 +0900 (JST)
+To: hobby.division@sportshobby.co.jp
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?NBskQjduJCpDQkA4RnwkTiQiJEokPyRAJDEkSyEqIVpBND4mSUobKEI=?=
+ =?ISO-2022-JP?B?GyRCQlA+XRsoQjMwMBskQjFfJSolVSUvITwlXSVzIVslVyVsJTwbKEI=?=
+ =?ISO-2022-JP?B?GyRCJXMlSCJ2GyhC?=
+From: =?ISO-2022-JP?B?GyRCJG8kKyQ1QDgzaBsoQiA=?=<wakasaweb@shop.rakuten.co.jp>
+X-R-url: wakasaweb
+Sender: 205467@rmailmf.rakuten.co.jp
+Keywords: R-Mail
+X-R-Mail_shop: =?ISO-2022-JP?B?GyRCJG8kKyQ1QDgzaBsoQg==?=
+Content-Type: multipart/alternative;
+	boundary="=_649622d65e30d49baba11692b90133fa"
+Message-Id: <20150331230237.D9FB23AC544@mdrmail102-01zc.rakuten.co.jp>
+Date: Wed,  1 Apr 2015 08:02:37 +0900 (JST)
+
+--=_649622d65e30d49baba11692b90133fa
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+
+　*・:..。oＯo。..:・*・:..。oＯo。..:・*・:..。oＯo。..:・* 
+
+　　　　　〜4月にお誕生日を迎えられるあなたへ〜 
+
+*・:..。oＯo。..:・*・:..。oＯo。..:・*・:..。oＯo。..:・* 
+
+黒田 雄 様
+
+☆━┓━━━━━━━━━━━━━━━━━★━┓
+┃◇┃　 わかさ生活　楽天市場店　　　　 ┃  ┃
+┃  ┃  　　　　　　　　　　　　　 　　 ┃◇┃
+┗━★━━━━━━━━━━━━━━━━━┗━☆
+
+お誕生日おめでとうございます（*^_^*） 
+
+わかさ生活 楽天市場店 店長の小笠原香（おがさわら かおり）です。 
+
+
+お誕生日を迎えられた新しい1年も若々しく健康な毎日を過ごして 
+いただきたいとの想いから、今月お誕生日を迎えられる方限定で、 
+ささやかながら【300円オフクーポン】をプレゼントさせていただきます♪ 
+
+
+★★★★★クーポン取得はこちら★★★★★★★★★★ 
+
+
+http://m3.rakuten.co.jp/getCoupon%253fgetkey%3dSVJDSy1MSjhKLVk0SEctQUFIVA--%26rt%3d%26scid%3drm_205467/-/b/4ejf/acrbq/1/1avbcv/ 
+
+わかさ生活 楽天市場店の全商品対象にご利用いただける限定クーポンです☆彡 
+
+★★★★★★★★★★★★★★★★★★★★★★★★★ 
+
+
+
+
+↓↓4月お誕生日のあなたにオススメの商品↓↓ 
+
+
+―――――【ブルーベリーアイ デラックス】――――― 
+http://m3.rakuten.co.jp/wakasaweb/deluxe_90/%253fscid%3drm_205467/-/2/4ejf/acrbq/2/1avbcv/ 
+
+＜こんな方におすすめ＞ 
+・パソコンやスマートフォンをよく使う方 
+・新聞や本の細かい文字が読みづらい方 
+・車をよく運転されるかた 
+
+3秒に1袋売れている「ブルーベリー」サプリメント！ 
+1粒に25種類もの健康成分を凝縮！ 
+
+
+
+―――【ブルーベリーアイ ライトブロック】―――― 
+http://m3.rakuten.co.jp/wakasaweb/block/%253fscid%3drm_205467/-/2/4ejf/acrbq/3/1avbcv/
+
+☆楽天市場限定☆
+ 高純度ルテイン配合、飲む内側からのブルーライトケア！
+
+パソコンやスマートフォン、テレビなどから発せられる
+ブルーライト対策に特化した成分を凝縮！
+
+
+
+―――――【乳酸菌1000億】――――― 
+http://m3.rakuten.co.jp/wakasaweb/nyusankin_124/%253fscid%3drm_205467/-/2/4ejf/acrbq/4/1avbcv/ 
+
+
+＜こんな方におすすめ＞ 
+・体の内側からキレイにしたい。 
+・ヨーグルトやチーズをあまり摂らない。 
+・美容を気にかけている。 
+
+4粒中（1日の目安）に乳酸菌1000億個凝縮！ 
+体の若々しさをサポートするりんごポリフェノール配合！ 
+
+乳酸菌と相性の良い成分を凝縮した最高の逸品です！ 
+
+
+―――――――――――――――――――――――――― 
+
+ぜひ、この機会にお試しくださいね♪ 
+
+これからの1年が素敵な1年になりますように・・・☆ 
+
+▼配信停止はこちら▼
+http://emagazine.rakuten.co.jp/q?u=wakasaweb&k=6VsWH%7eVae%7dY8MU%27IWe%7bz6MmjkG2UC%247t%2fP47&scid=rm_205467
+
+▼アドレス変更はこちら▼
+http://www.rakuten.co.jp/wakasaweb/news.html?scid=rm_205467
+
+
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 　　… ∞ わ か さ 生 活 　楽 天 市 場 店 ∞ …
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 　http://www.rakuten.co.jp/wakasaweb/?scid=rm_205467 　　
+ * メール　　　 　 wakasaweb@shop.rakuten.co.jp
+ * フリーダイヤル　0120-132-714
+ * フリーＦＡＸ　　0120-132-075
+ * 伝言板
+   http://www.rakuten.co.jp/wakasaweb/forum/?scid=rm_205467
+ 
+ 　 ● 株式会社わかさ生活 ●
+ 　〒600-8008 京都市下京区四条烏丸長刀鉾町22
+ 　楽天市場店　店長：小笠原香
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━
+ Copyright(C)WAKASA SEIKATSU All rights reserved.
+ 全文、または一部の記事の無断転載および再配布を禁じます。
+
+────────── 【楽天市場からのお知らせ】 ──────────
+【4月3日（金）9：59まで ！】
+　年会費永年無料★楽天カード新規入会でもれなく5,000ポイントのところ、今なら5,300ポイントプレゼント！
+　　⇒ http://link.rakuten.co.jp/1/008/531/?url=2/831/68809/0/RC4 
+　楽天カードなら楽天市場でのお買い物はいつでも2倍★
+
+　楽天市場トップはこちら
+　　⇒ http://www.rakuten.co.jp/?l-id=top_091&scid=rm_205467 
+──────────────────────────────────
+--=_649622d65e30d49baba11692b90133fa
+Content-Type: text/html; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-2022-jp">
+<meta http-equiv="Content-Language" content="ja">
+<title> 【楽天市場】わかさ生活 </title>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" alink="#ff0000" vlink="#0000ff"><table width="100%" cellspacing="0" cellpadding="1"  border="0" bgcolor="#bf0000">
+<img src="http://m3.rakuten.co.jp/open.phtml/-/4ejf/acrbq/1avbcv" width="1" height="1" border="0"><tr>
+<td>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0"  bgcolor="#ffffff">
+<tr>
+<td width="92">
+<table width="100%" cellpadding="5" cellspacing="0" border="0">
+<tr>
+<td><a href="http://www.rakuten.co.jp/?scid=rm_205467" target="_blank" ><img src="http://event.rakuten.co.jp/com/img/logo/base/w080.gif" width="80" height="36" alt="" border="0"></a></td></tr></table></td>
+
+<td>
+<table width="100%" border="0"cellpadding="5" cellspacing="0">
+<tr>
+<td><a href="http://ad2.trafficgate.net/t/r/2/831/68809/0/RC1/" target="_blank" ><img src="http://event.rakuten.co.jp/com/img/shop/navi/20100301_eagles_135x36.gif" alt="" width="100%" border="0" style="min-width: 95px; max-width: 135px;"></a></td>
+<td align="right">
+<a href="http://ad2.trafficgate.net/t/r/922/3629/198512_234039/" target="_blank" ><img src="http://image.infoseek.rakuten.co.jp/content/toolbar/news/r_mail/toolbar_136x40.gif" alt="" width="100%" border="0" style="min-width: 95px; max-width: 135px;"></a></td>
+</tr>
+</table></td>
+</tr></table></td>
+
+</tr>
+</table>
+
+<br />
+<br><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><table width="100%" border="0" cellspacing="4" cellpadding="0" ><tr><td><div align="left"><font size="-1">
+黒田 雄 様
+</font></div></td></tr></table>
+<center><table width="710" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff"><tr><td width="710">
+<table width="710" bgcolor="#ffffff" cellspacing="0" cellpadding="0"><tr height="5"><td height="5"></td></tr><tr valign="top"><td width="710" align="left"><table width="710" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tr><td width="710" height="auto" align="center" valign="top" bgcolor="#ffffff"><img width="710" height="325" src="http://image.rakuten.co.jp/wakasaweb/cabinet/mg1/nrk31.jpg" border="0" align="center">
+</td></tr></table></td></tr><tr height="5"><td height="5"></td></tr></table>
+<table width="710" bgcolor="#ffffff" cellspacing="0" cellpadding="0"><tr height="5"><td height="5"></td></tr><tr valign="top"><td width="710" align="left"><table width="710" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tr><td width="710" bgcolor="#ffffff" valign="top"><table width="710" cellpadding="0" cellspacing="0"><tr><td width="350" height="auto" align="left" valign="top" bgcolor="#ffffff"><img width="350" height="229" src="http://image.rakuten.co.jp/wakasaweb/cabinet/mg1/nrk32.jpg" border="0" align="left">
+</td><td align="left" valign="top" bgcolor="#ffffff"><font size="3"><b><font color="#FF00FF"><font size="4">お誕生日</font></font></b>
+<br><b><font color="#FF00FF"><font size="4">&nbsp; &nbsp; &nbsp;おめでとうございます（*^_^*）</font></font></b>&nbsp;<br><br>わかさ生活 楽天市場店 店長の小笠原香
+<br>（おがさわら かおり）です。<br><br>健康な毎日を過ごしていただきたいとの<br>想いから、4月お誕生日を迎えられる方<br>限定で、ささやかながら<br>【300円オフクーポン】をプレゼントさせていただきます♪&nbsp;<br><br></font>
+</td></tr></table></td></tr></table></td></tr><tr height="5"><td height="5"></td></tr></table>
+<table width="710" bgcolor="#ffffff" cellspacing="0" cellpadding="0"><tr height="5"><td height="5"></td></tr><tr valign="top"><td width="710" align="left"><table width="710" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tr><td width="710" height="auto" align="center" valign="top" bgcolor="#ffffff"><a href="http://m3.rakuten.co.jp/getCoupon%253fgetkey%3dSVJDSy1MSjhKLVk0SEctQUFIVA--%26rt%3d%26scid%3drm_205467/-/b/4ejf/acrbq/5/1avbcv/" target="_blank" ><img width="710" height="145" src="http://image.rakuten.co.jp/wakasaweb/cabinet/mg1/nrk33.jpg" border="0" align="center"></a>
+</td></tr></table></td></tr><tr height="5"><td height="5"></td></tr></table>
+<table width="710" bgcolor="#ffffff" cellspacing="0" cellpadding="0"><tr height="5"><td height="5"></td></tr><tr valign="top"><td width="710" align="left"><table width="710" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tr><td width="710" align="center" valign="top" bgcolor="#ffffff"><font size="3"><b><font color="#660066"><font size="5">↓↓4</font></font></b><b><font color="#660066"><font size="5">月お誕生日のあなたにオススメの商品↓↓</font><font size="4">&nbsp;</font></font></b>
+<br><br></font></td></tr></table></td></tr><tr height="5"><td height="5"></td></tr></table>
+<table width="710" bgcolor="#ffffff" cellspacing="0" cellpadding="0"><tr height="5"><td height="5"></td></tr><tr valign="top"><td width="240" align="left"><table width="230" border="0" cellpadding="0" cellspacing="3" bgcolor="#ffcccc"><tr><td width="224" bgcolor="#ffffff" valign="top"><table width="224" cellpadding="0" cellspacing="0"><tr><td width="224" height="auto" align="center" valign="top" bgcolor="#ffffff"><a href="http://m3.rakuten.co.jp/wakasaweb/deluxe_90/%253fscid%3drm_205467/-/2/4ejf/acrbq/6/1avbcv/" target="_blank" ><img width="224" height="224" src="http://image.rakuten.co.jp/wakasaweb/cabinet/mg1/nrk34.jpg" border="0" align="center"></a>
+</td></tr><tr><td width="224" align="left" valign="top" bgcolor="#ffffff"><font size="3">＜こんな方におすすめ＞&nbsp;<br>・パソコンやスマートフォンをよく使う方&nbsp;
+<br>・新聞や本の細かい文字が読みづらい方&nbsp;<br>・車をよく運転されるかた&nbsp;<br>3秒に1袋売れている「ブルーベリー」サプリメント！&nbsp;<br><br><br><font color="#993366">1粒に25種類もの健康成分を凝縮！</font>
+<br></font></td></tr></table></td></tr></table></td><td width="240" align="left"><table width="230" border="0" cellpadding="0" cellspacing="3" bgcolor="#ffcccc"><tr><td width="224" bgcolor="#ffffff" valign="top"><table width="224" cellpadding="0" cellspacing="0"><tr><td width="224" height="auto" align="center" valign="top" bgcolor="#ffffff"><a href="http://m3.rakuten.co.jp/wakasaweb/block/%253fscid%3drm_205467/-/2/4ejf/acrbq/7/1avbcv/" target="_blank" ><img width="224" height="224" src="http://image.rakuten.co.jp/wakasaweb/cabinet/mg1/nrk35.jpg" border="0" align="center"></a>
+</td></tr><tr><td width="224" align="left" valign="top" bgcolor="#ffffff"><font size="3">☆楽天市場限定☆<br>&nbsp;高純度ルテイン配合、飲む内側からのブルーライトケア！
+<br><br>パソコンやスマートフォン、テレビなどから発せられるブルーライト対策に特化した成分を凝縮！<br><br><font color="#FF00FF">飲んで実感、お客様の声が信頼の証です！</font><br></font></td></tr></table>
+</td></tr></table></td><td width="230" align="left"><table width="230" border="0" cellpadding="0" cellspacing="3" bgcolor="#ffcccc"><tr><td width="224" bgcolor="#ffffff" valign="top"><table width="224" cellpadding="0" cellspacing="0"><tr><td width="224" height="auto" align="center" valign="top" bgcolor="#ffffff"><a href="http://m3.rakuten.co.jp/wakasaweb/nyusankin_124/%253fscid%3drm_205467/-/2/4ejf/acrbq/8/1avbcv/" target="_blank" ><img width="224" height="224" src="http://image.rakuten.co.jp/wakasaweb/cabinet/mg1/nrk36.jpg" border="0" align="center"></a>
+</td></tr><tr><td width="224" align="left" valign="top" bgcolor="#ffffff"><font size="3">＜こんな方におすすめ＞&nbsp;<br>・体の内側からキレイにしたい方。&nbsp;
+<br>・ヨーグルトやチーズをあまり摂らない。&nbsp;<br>・美容を気にかけている。&nbsp;<br><br>4粒中（1日の目安）に乳酸菌1000億個凝縮！&nbsp;<br>体の若々しさをサポートするりんごポリフェノール配合！&nbsp;<br><br><font color="#0000FF">乳酸菌と相性の良い成分を凝縮した最高の逸品です！</font>&nbsp;</font>
+</td></tr></table></td></tr></table></td></tr><tr height="5"><td height="5"></td></tr></table>
+<table width="710" bgcolor="#ffffff" cellspacing="0" cellpadding="0"><tr height="5"><td height="5"></td></tr><tr valign="top"><td width="710" align="left"><table width="710" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tr><td width="710" align="left" valign="top" bgcolor="#ffffff"><font size="3"><font size="4">これからの1年が素敵な1年になりますように・・・☆</font></font>
+</td></tr></table></td></tr><tr height="5"><td height="5"></td></tr></table>
+
+</td></tr></table></center>
+</td></tr></table><br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td width="1%"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="1" alt=""></td>
+<td><font size="-1" color="#000000">●</font><font size="-1">配信停止は<a href="http://emagazine.rakuten.co.jp/q?u=wakasaweb&k=04%26FboD%5e%7d%7bw%25eGUO%27MDvZ%40LlgWR%27X8%7cp%2ff47&scid=rm_205467" target="_blank" >こちら</a>のページからお願いします。</font></td>
+</tr>
+<tr>
+<td width="1%"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="1" alt=""></td>
+<td><font size="-1" color="#000000">●</font><font size="-1">アドレス変更は、<a href="http://www.rakuten.co.jp/wakasaweb/news.html?scid=rm_205467" target="_blank" >こちら</a>のページから
+お願いします。</font></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td bgcolor="#cdcdcd">
+<font size="-1">
+<a href="http://www.rakuten.co.jp/?scid=rm_rakuten_footer_top&scid=rm_205467" target="_blank" >楽天トップ</a>
+| <a href="http://www.rakuten.co.jp/category/food/?scid=rm_rakuten_footer_fod&scid=rm_205467" target="_blank" >食品</a>
+| <a href="http://www.rakuten.co.jp/auction/?scid=rm_rakuten_footer_auc&scid=rm_205467" target="_blank" >オークション</a>
+| <a href="http://event.rakuten.co.jp/present/?scid=rm_rakuten_footer_pre&scid=rm_205467" target="_blank" >懸賞市場</a>
+| <a href="http://affiliate.rakuten.co.jp/?scid=rm_rakuten_footer_aff" target="_blank" >楽天アフィリエイト</a>
+| <a href="http://emagazine.rakuten.co.jp/?scid=rm_rakuten_footer_mail&scid=rm_205467" target="_blank" >楽天のメルマガ申込</a>
+| <a href="http://www.rakuten.co.jp/ec/?camp=70110000000XRf4&scid=mi_ich_rm&scid=rm_205467" target="_blank" >出店のご案内</a>
+</font>
+</td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#999999"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="1" alt=""></td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#BF0000"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="2" alt=""></td>
+</tr>
+</table>
+
+<div><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="8" height="8" alt=""></div>
+
+<table width="80%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>
+<a href="http://link.rakuten.co.jp/1/008/531/?url=2/831/68809/0/RC2" target="_blank" ><img src="http://image.rakuten.co.jp/com/img/email/rmail/item/2009/0527/okaimono_02.gif" width="100%" alt="" border="0"></a></td>
+</tr>
+</table>
+
+</body>
+</html>
+--=_649622d65e30d49baba11692b90133fa--

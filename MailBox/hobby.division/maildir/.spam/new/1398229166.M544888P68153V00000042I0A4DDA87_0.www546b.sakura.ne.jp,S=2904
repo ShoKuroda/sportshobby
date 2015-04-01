@@ -1,0 +1,57 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.3 required=7.0 tests=BAYES_80,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_SBL,URIBL_SC_SURBL,
+	URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: erenz.ru]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: erenz.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: erenz.ru]
+	*  1.3 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: erenz.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: erenz.ru]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: erenz.ru]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.8368]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: erenz.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s3N4xMUd068147
+	for <hobby.division@sportshobby.co.jp>; Wed, 23 Apr 2014 13:59:22 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:22361 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1398229162.14634
+Received: from 113.168.187.143 (localhost [113.168.187.143] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s3N4xKsi068137
+	for <hobby.division@sportshobby.co.jp>; Wed, 23 Apr 2014 13:59:21 +0900 (JST)
+Message-Id: <201404230459.s3N4xKsi068137@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (pete@rutlandherald.com@128.161.167.73)
+	by 113.168.187.143 with ESMTPA; Thu, 27 Mar 2014 11:59:45 +0800
+From: pete@rutlandherald.com
+To: hobby.division@sportshobby.co.jp
+Subject: Bring more joy to your life
+Date: Thu, 27 Mar 2014 11:51:38 +0800
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 23042014 #7803733, status: clean
+
+http://lollipop.erenz.ru/ It can make you a legend for her
+

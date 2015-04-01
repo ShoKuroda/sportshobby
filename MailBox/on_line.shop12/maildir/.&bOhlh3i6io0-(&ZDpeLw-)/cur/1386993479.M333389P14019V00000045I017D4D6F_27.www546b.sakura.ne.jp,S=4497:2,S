@@ -1,0 +1,84 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham
+	version=3.3.2
+Received: from www546b.sakura.ne.jp (ksav55.sakura.ne.jp [219.94.192.135])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBC6pVci035364
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 12 Dec 2013 15:51:31 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+X-Nat-Received: from [112.78.125.46]:51797 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1386831091.3117
+Received: from rakuten.co.jp (mxtr103c.rakuten.co.jp [202.72.52.141])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBC6pUvM035361
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 12 Dec 2013 15:51:30 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat302zc.zd.rakuten.co.jp [172.18.93.3])
+	by mxtr106c.rakuten.co.jp (Rakuten MGw 1.3.7) with ESMTP id D62ED549683
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 12 Dec 2013 15:51:30 +0900 (JST)
+Received: from mat3.zd.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat302zc.zd.rakuten.co.jp (Switch-3.3.4/Switch-3.3.4) with ESMTP id rBC6npbU014372
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 12 Dec 2013 15:50:01 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0120130400; t=1386831001;
+	bh=jwrwRyanZFPZqs1n3oPty+hCtOkjQLgO0R/W6hV/7YY=;
+	h=Date:From:Reply-To:To:Cc:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=fG0D2rHzcUZtMSR+x9B57xdst9x9U+eejKhPQKzeaMjpFeBPY7zURKxrwkCPKXOOV
+	 hxjsY0FlwklJ1OUV8RTFiFW60KKX9EYzxhsOf6reHDzcwqXqb5suoW4j7CBUBU8tgq
+	 QWh77lBmO6TahwqwbtSxu4hrhzGRsdOFh0BM0DZY=
+Received: from rakuten.co.jp ([matqor202zc.zd.rakuten.co.jp [172.18.92.11]]) by mat302zc.zd.rakuten.co.jp with RELAY id rBC6o1DT014783 ;
+          Thu, 12 Dec 2013 15:50:01 +0900
+Date: Thu, 12 Dec 2013 15:51:30 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: 424f92f6763339566b6f8cf92e2ab472s1@dm.fw.rakuten.ne.jp,
+        on_line.shop12@sportshobby.co.jp
+To: 424f92f6763339566b6f8cf92e2ab472s1@dm.fw.rakuten.ne.jp
+Cc: on_line.shop12@sportshobby.co.jp
+Message-ID: <201312121550.rBC6o1DT014783@mat302zc.zd.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3IVtDbUo4RmJNRiQ0M05HJxsoQigbJEI3SEJTGyhCKQ==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.18.92.11
+X-Rams-Id: E1E9E88080A7DA6F8F7A639630B814BB79F1A2A4
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 12122013 #7104516, status: clean
+
+注文内容は以下のﾍﾟｰｼﾞからﾕｰｻﾞID･ﾊﾟｽﾜｰﾄﾞを入力しご確認ください｡
+https://m.order.my.rakuten.co.jp/
+⇒ｱｸｾｽ出来ない方はこちら
+(https://order.my.rakuten.co.jp/)
+
+[商品] RC4WD 1/10 Scale Racing Seat (Blue) (zs0115) 1980円×1
+Proline(ﾌﾟﾛﾗｲﾝ) ｸﾛｰﾗｰｱｸｾｻﾘｰｾｯﾄ #2 (6045-00) 2380円×1
+Junfac 2.2 ﾎｲｰﾙﾜｲﾄﾞﾅｰ +19mmｵﾌｾｯﾄ 4pc (j51033) 3200円×1
+RC4WD Mud Slingers 2.2" Tires 2本組 (zt0097) 3150円×2
+[今回獲得するﾎﾟｲﾝﾄ]137
+[受注番号] 243411-20131212-016774225
+※上記の番号にﾘﾝｸが表示されている場合でもこのﾘﾝｸから楽天市場やｼｮｯﾌﾟへのお問い合わせはできません｡
+[ｼｮｯﾌﾟ情報] ｽﾎﾟｰﾂﾎﾋﾞｰ hobby.division@sportshobby.co.jp 011-773-5090
+【ご注意】
+ｼｮｯﾌﾟや楽天からﾒｰﾙが届かない場合がありますので､以下のﾄﾞﾒｲﾝを許可ﾄﾞﾒｲﾝとして追加をしてください
+ｼｮｯﾌﾟﾄﾞﾒｲﾝ:sportshobby.co.jp
+楽天ﾄﾞﾒｲﾝ:rakuten.co.jp
+
+※送料等の諸費用は変わる場合があります｡
+
+【PR】Xmas特集2013 ﾎﾟｲﾝﾄ最大10倍も!ｹｰｷにﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://r10.to/hhh9kp
+
+【PR】楽天ｶｰﾄﾞ入会でもれなく2,000円ﾎﾟｲﾝﾄﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://rac.rakuten.co.jp/2964/
+
+【PR】楽天Edyｱﾌﾟﾘをﾀﾞｳﾝﾛｰﾄﾞするだけで400ﾎﾟｲﾝﾄ!!
+ ⇒http://r10.to/hJ999p
+
+
+※商品に関するお問い合わせは上記のｼｮｯﾌﾟにご連絡ください｡このﾒｰﾙに返信されてもお答えできません｡
+※楽天市場に関する問い合わせは､楽天ﾄｯﾌﾟ( http://m.rakuten.co.jp/ )のご利用ｶﾞｲﾄﾞをご覧ください｡
+⇒ｱｸｾｽ出来ない方はこちら
+(http://event.rakuten.co.jp/mobile/iphone/help/)
+
+楽天市場(楽天株式会社)
+http://m.rakuten.co.jp/sportshobby/

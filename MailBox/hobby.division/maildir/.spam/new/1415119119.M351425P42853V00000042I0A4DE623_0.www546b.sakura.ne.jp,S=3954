@@ -1,0 +1,92 @@
+Return-Path: <advertisebz09ifi@gmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.9 required=7.0 tests=BAYES_99,BAYES_999,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,GAPPY_SUBJECT,HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,NML_ADSP_CUSTOM_MED,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,
+	URIBL_DBL_PHISH,URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_PHISH Contains a Phishing URL listed in the DBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: advertise-bz.cn]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (advertisebz09ifi[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  2.0 GAPPY_SUBJECT Subject: contains G.a.p.p.y-T.e.x.t
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sA4Gcas1042850
+	for <hobby.division@sportshobby.co.jp>; Wed, 5 Nov 2014 01:38:36 +0900 (JST)
+	(envelope-from advertisebz09ifi@gmail.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Wed, 05 Nov 2014 01:38:36 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from gmail.com ([119.196.102.238])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id sA4GcXfr042840
+	for <hobby.division@sportshobby.co.jp>; Wed, 5 Nov 2014 01:38:35 +0900 (JST)
+	(envelope-from advertisebz09ifi@gmail.com)
+Message-ID: <D56B5A91.4BD5D927@gmail.com>
+Date: Tue, 04 Nov 2014 12:32:27 -0400
+Reply-To: "Blog Submitter" <advertisebz09ifi@gmail.com>
+From: "Blog Submitter" <advertisebz09ifi@gmail.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.10) Gecko/20070403 Thunderbird/1.5.0.10
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <hobby.division@sportshobby.co.jp>
+Subject: 2 - M i l l i o n - S i t e s - l i n k i n g - t o - y o u r - A d
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+<p><font face="Tahoma" size="2">You will receive thousands of targeted hits
+to&nbsp;<br>
+your website as Blog Blaster places your ad on&nbsp;<br>
+blogs that match your ad's category.&nbsp;<br>
+<br>
+This method has never been released to the public&nbsp;<br>
+before. Very few, if anyone has implemented this.<br>
+<br>
+<a href="http://www.advertise-bz.cn/detail.php?id=15">Click here</a> to
+visit our website:<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Unsubscrbie option available in the footer of our website</font></p>
+
+

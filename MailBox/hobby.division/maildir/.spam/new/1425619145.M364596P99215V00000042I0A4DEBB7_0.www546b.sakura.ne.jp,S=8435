@@ -1,0 +1,301 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.6 required=7.0 tests=BAYES_00,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	XPRIO autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.2 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  1.0 XPRIO Has X-Priority header
+	*  2.8 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav201.sakura.ne.jp (fsav201.sakura.ne.jp [210.224.168.163])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t265J23I099212
+	for <hobby.division@sportshobby.co.jp>; Fri, 6 Mar 2015 14:19:02 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav201.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp);
+ Fri, 06 Mar 2015 14:19:02 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t265J2b7099209
+	for <hobby.division@sportshobby.co.jp>; Fri, 6 Mar 2015 14:19:02 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIVpNJz9NIVsyPyRyJGQkQyRGJGI+ZTxqJC85VCQrJEobKEI=?=
+	=?iso-2022-jp?B?GyRCJCskQyQ/GyhCVBskQjcvJE5PQyEjGyhC?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Fri, 06 Mar 2015 14:19:02 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150306051902.6A010430AE@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11071
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+こんにちは。シンクウです。
+
+
+突然変な話で恐縮ですが、あなたはどんな人がタイプですか？
+
+
+あ、別に異性の話というわけではなく
+
+「人間的に」という話です。
+
+
+…というのも、友人の話していた時に気づいたのですが
+
+私には少し変わった嗜好があるみたいなんです。
+
+
+
+私自身がエリートではないので
+
+「The・エリート」と言えるような人はあまり好きではなく
+
+
+普通の人が好きなわけですが、その中でもとりわけ
+
+「ちょっとダメな人」が好きだなぁ…と。そう思ったのです。
+
+
+
+決してだらけていたり、サボったりしているわけではないのですが
+
+何をしてもあまり上手く行かない人っているじゃないですか？
+
+
+
+明らかにガリ勉タイプの顔をしているにもかかわらず
+
+テストで全然点が取れなくて赤点取ってしまうような、
+
+
+必ずクラスに1人はいる、真面目に頑張るけど
+
+どうも要領良くできないで、なかなか結果が付いてこない…
+
+
+そういう人を見てると、見てるこっちがもどかしく
+
+すごく応援したくなるような子です。
+
+
+
+私にとって、T君がそんな子に当てはまります。
+
+
+⇒ http://agar-ex.jp/kldd28454/21071
+
+
+
+アフィリエイトに取り組むものの、全然結果が出ないで諦める。
+
+全力で情報教材の販売に取り組むものの、ビックリするほど売れない。
+
+一発逆転でFXを始めるも、なけなしの資金を飛ばしてしまう…
+
+
+
+「ノウハウコレクター」と呼べるどころか
+
+「ノウハウクラッシャー」と呼んだ方がシックリくるくらい
+
+教材代金以上にお金を失っていたのがT君なんですね。
+
+
+
+やっていることが全く間違えている訳ではないのですが
+
+どうにもツボに入りきらないというか
+
+コツを掴み切れていないような感じが滲み出ていました。
+
+
+
+そんなT君にも”とあるノウハウ”がシックリとハマって
+
+無事に月収100万円以上を稼げるようになって
+
+ちょうど1年前に「スクールをやる」という連絡を受けたんです。
+
+
+もちろん、T君は人間的にはいい奴なのですが
+
+如何せん今までのT君を見てきたわけですから
+
+正直、『おいおい、大丈夫かよ？』と思っていたんです。
+
+
+
+そんなT君と最近、話をする機会がありまして
+
+話を聞いてみると、T君が教えた生徒さんは
+
+次々と結果を出したみたいなんですよ。
+
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+・3人の子供がいる専業主婦　⇒　初月でパートを辞める
+
+・うつ病を診断された24歳　⇒　会社をリストラして独立
+
+・週休1日のサラリーマン　⇒　毎月25万円以上の副収入
+
+・フルタイムで働くOL　⇒　毎月40万円以上の副収入
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+上記の彼らは全員、未経験者から始めた結果だそうで。。。
+
+
+
+元々、T君でも成果を出すことができたノウハウですし
+
+真面目で努力家であるT君は
+
+どうやら人に教えるのが性に合っているみたいなんです。
+
+
+
+そんなT君が、
+
+「1円もいただきません。月25万円を保証します！」と宣言しました。
+
+
+⇒ http://agar-ex.jp/kldd28454/31071
+
+
+
+私もしっかりと見させてもらったのですが
+
+上記の4名の方が全員（それ以上）、動画でお話していて
+
+動画を見る限り、しっかり証拠もあって本当の事っぽいんですよ。
+
+
+
+ロジックがしっかりとしていますし
+
+それを叶えるツールもしっかりと準備されているので
+
+「ビジネスモデルで稼ぐ方法」と言って良いでしょう。
+
+
+
+断言させていただくことは『やれば絶対に稼げる』ということです。
+
+
+
+このジャンルの手法は全く目新しいものではなく
+
+他にも教えている人はいるのですが、
+
+大切なことは”誰から学ぶか？”という部分です。
+
+
+
+他の手法を試したものの、全く結果が出なかったT君が
+
+唯一成果を出すことが出来た手法。
+
+
+そして、その手法をしっかりと体系化して
+
+スクール生に次々と成果を出させたという事実。
+
+
+
+そんな方法を全て公開してくれるということなので
+
+思うように成果を上げることが出来ていない方は
+
+是非、T君からノウハウを学んでみて下さい。
+
+
+⇒ http://agar-ex.jp/kldd28454/41071
+
+※人数限定ではありますが、有料ツールも無料でプレゼントされます。
+
+
+
+「動画を見てくれたら月25万円は保証できる」と豪語しているだけに
+
+T君のことをよく知る私としては、”お勧め”の一択しかありません。
+
+
+
+登録ページにも稼ぐためのヒントとなる情報が散りばめられているので
+
+まずは一度サイトを覗いてみた方が良いですよ。
+
+（登録ページに動画が8つあります。）
+
+
+
+ヒントは”負けない投資”です。
+
+
+
+動画のクオリティを見ることで、T君の本気度がわかります。
+
+
+
+久々に本気でご紹介できる情報ですので
+
+激押しさせていただきます。
+
+
+⇒ http://agar-ex.jp/kldd28454/51071
+
+※登録直後に見られる動画での”マックの話”は笑いました。笑
+
+
+
+それでは、またメールさせていただきます。
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/61071
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

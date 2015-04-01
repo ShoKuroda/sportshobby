@@ -1,0 +1,48 @@
+Return-Path: <EEF7460D1CFE6B3D6CB45CCC7B952657F2D4AC0A@mfu.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	FROM_LOCAL_HEX,MISSING_SUBJECT,T_DKIM_INVALID,URIBL_BLOCKED autolearn=no
+	version=3.3.2
+Received: from fsav303.sakura.ne.jp (fsav303.sakura.ne.jp [153.120.85.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J4XsN6055872
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 13:33:54 +0900 (JST)
+	(envelope-from EEF7460D1CFE6B3D6CB45CCC7B952657F2D4AC0A@mfu.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav303.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp);
+ Thu, 19 Mar 2015 13:33:54 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-224.smtp.rakuten.co.jp [202.72.58.224])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J4XsOf055868
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 13:33:54 +0900 (JST)
+	(envelope-from EEF7460D1CFE6B3D6CB45CCC7B952657F2D4AC0A@mfu.rakuten.ne.jp)
+Received: from matuser.rakuten.co.jp (matuser103z.prod.jp.local [100.66.178.11])
+	by mxmatuser101z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l6wNf4DTxzSRCV
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 13:33:54 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ym.fw.rakuten.ne.jp;
+	s=mfw0102014080; t=1426739634;
+	bh=vAlLLc3/azYNuuEI1GZKTUclfUBwC/TuAWlE/m7XV8Q=;
+	h=Date:From:Sender:To:Message-ID:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=azyCaGKISMdxQ6pkqoZQ5nI1gIz3NcUbbe4apa7xmQHCo2+KqzpLvkce2Bt6NIs1q
+	 323KBwheRkou+jF3FF5m6ECbcHsVvj4RbuOy5m+0Omf/TosKTh2Zg4z9h3DxZvB7rd
+	 qNJa1lw6Z1eeLDrx7nbK2NEV8O6M52rqwRRPC/ns=
+Received: from matusermx.rakuten.co.jp (matusermx101.prod.jp.local [100.66.16.71])
+	by matuser103z.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2J4XsFZ015356
+	for <sportshobby@shop.rakuten.co.jp>; Thu, 19 Mar 2015 13:33:54 +0900
+Date: Thu, 19 Mar 2015 13:33:49 +0900
+From: ee0de6ad9541a42e9134d76ebe4f66e6s1@ym.fw.rakuten.ne.jp
+Sender: ee0de6ad9541a42e9134d76ebe4f66e6s1@ym.fw.rakuten.ne.jp
+To: ee0de6ad9541a42e9134d76ebe4f66e6s1@ym.fw.rakuten.ne.jp,
+        hobby.division@sportshobby.co.jp
+Message-ID: <201503191333.t2J4XraO024864@matusermx101.db.rakuten.co.jp>
+MIME-Version: 1.0
+Content-Type: text/plain;charset="ISO-2022-JP"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from Base64 to 8bit by www546b.sakura.ne.jp id t2J4XsN6055872
+
+先程、入金しました。
+よろしくお願いします。
+
+曽根  千鶴
+

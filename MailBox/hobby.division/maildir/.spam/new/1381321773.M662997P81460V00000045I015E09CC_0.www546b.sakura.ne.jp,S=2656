@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.0 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: actes-lyon.org]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  2.1 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  2.8 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6716]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r99CTUCB081457
+	for <hobby.division@sportshobby.co.jp>; Wed, 9 Oct 2013 21:29:30 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:52719 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1381321770.24382
+Received: from 176.51.47.1 (b-internet.176.51.47.1.nsk.rt.ru [176.51.47.1] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r99CTSgX081453
+	for <hobby.division@sportshobby.co.jp>; Wed, 9 Oct 2013 21:29:29 +0900 (JST)
+Message-Id: <201310091229.r99CTSgX081453@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (kircher-weine@porsche.com.ar@237.131.63.231)
+	by 176.51.47.1 with ESMTPA; Wed, 9 Oct 2013 19:30:23 +0700
+X-Originating-IP: 237.131.63.231
+From: kircher-weine@porsche.com.ar
+To: hobby.division@sportshobby.co.jp
+Subject: Great answer to your intimacy problems
+Date: Wed, 9 Oct 2013 19:21:14 +0700
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 09102013 #11181490, status: clean
+
+http://ACTES-LYON.ORG/above.html How strong is your marriage?
+

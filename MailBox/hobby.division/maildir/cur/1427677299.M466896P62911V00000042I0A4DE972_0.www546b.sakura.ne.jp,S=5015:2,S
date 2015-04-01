@@ -1,0 +1,111 @@
+Return-Path: <rd-apex_estore_0061000000W9brSAAR@rderr.tricorn.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: ***
+X-Spam-Status: No, score=4.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,HTML_IMAGE_ONLY_32,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+	MIME_HTML_ONLY,MSGID_FROM_MTA_HEADER,TVD_SPACE_ENC_FM_MIME,
+	TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav407.sakura.ne.jp (fsav407.sakura.ne.jp [133.242.250.106])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U11au4062906
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 10:01:36 +0900 (JST)
+	(envelope-from rd-apex_estore_0061000000W9brSAAR@rderr.tricorn.net)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav407.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav407.sakura.ne.jp);
+ Mon, 30 Mar 2015 10:01:36 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav407.sakura.ne.jp)
+Received: from mta036.tricorn.net (mta036.tricorn.net [202.234.6.220])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U11a2N062903
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 10:01:36 +0900 (JST)
+	(envelope-from rd-apex_estore_0061000000W9brSAAR@rderr.tricorn.net)
+Message-Id: <201503300101.t2U11a2N062903@www546b.sakura.ne.jp>
+Received: from localhost.localdomain (apex1.tricorn.net [202.218.77.194])
+	by mta036.tricorn.net (Postfix) with ESMTP id 46A5818C22AA
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 10:01:36 +0900 (JST)
+DKIM-Signature: v=1;
+	a=rsa-sha256;
+	c=relaxed/simple;
+	s=tricorn201108;
+	t=1427677296;
+	h=From:Subject:To;
+	d=tricorn.net;
+	bh=xznOaewPV+OspObXa9GhlfhA+TumG/zSpxOFCnD7xgE=;
+	b=ZhOCwsPrtYX4Uko0KMp7s9DU00nmyiETquwEKMrQJ0cfSZxA8vgFtFCZVybmITCP
+	sR3zWq7i9NcPnGwrY7irhUOs0C6B68MIM8dv7zJbYgjjLF3lvRaajv7cprV66irE
+	mMjJMNxb6+YKRtMVUxYF/HGUh2x8p8zZs4dBjspFSTk=
+From: =?ISO-2022-JP?B?GyRCJU0lQyVIJTclZyVDJVczK0U5QWpDTDw8GyhC?= <info@estore.co.jp>
+To: hobby.division@sportshobby.co.jp
+Reply-To: =?ISO-2022-JP?B?GyRCJU0lQyVIJTclZyVDJVczK0U5QWpDTDw8GyhC?= <info@estore.co.jp>
+Subject: =?ISO-2022-JP?B?GyRCIVolNyVnJUMlVyU1ITwlViFbO0QkahsoQjIbJEJGfCRHPSobKEI=?=
+ =?ISO-2022-JP?B?GyRCTjshKiM0N25KLDduM1tNeE1RTkE2Ykw1TkEkTiQqQ04kaSQ7GyhC?=
+Date: Mon, 30 Mar 2015 10:00:00 +0900
+X-Mailer: TRICORN AUTOBAHN FOR APPEXCHANGE 1.49 (20140430)
+X-Amnote: estore_a0n10000006Dx9TAAS_0061000000W9brSAAR
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=ISO-2022-JP
+
+いつもお世話になっております。<BR> 
+株式会社Ｅストアー　ネットショップ開店相談室です。<BR> 
+<BR> 
+この度は、ショップサーブをご検討いただきありがとうございます。<BR> 
+<BR> 
+ショップサーブのお得なお申し込み期間があと2日となりましたので、<BR> 
+連絡をさせていただきました。<BR> 
+<BR> 
+ネットショップ開店に向けてのご準備状況はいかがでしょうか。<BR> 
+<BR> 
+ショップサーブでは、開店コンサルタントによるお電話での無料相談を<BR> 
+ご用意しておりますので、是非お気軽にご連絡ください。<BR> 
+<BR> 
+¶ ネットショップ開店相談室　０１２０ー６７５ー６０４<BR> 
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣<BR> 
+<BR> 
+＝《あと2日！》ショップサーブのお得期間のお知らせ＝＝<BR> 
+<BR> 
+３月３１日までにお申し込み]をいただきますと、<BR> 
+【４月の月額利用料は無料】でご利用いただけます。<BR> 
+<BR> 
+━━━━ショップサーブお得な申し込み期間━━━━<BR> 
+<BR> 
+・お申込み期限：３月３１日（火）２３：５９ 受付分迄<BR> 
+・お申込み方法：http://sfml.jp/?c=1276928&o=0061000000W9brSAAR&v=901a79ab<BR> 
+━━━━━━━━━━━━━━━━━━━━━━<BR> 
+<BR> 
+※テストアカウントで作成された情報を引き継ぎされたい場合、<BR> 
+　管理画面のお申し込みバナーよりお申込みください。<BR> 
+<BR> 
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝<BR> 
+<BR> 
+是非、この無料期間を有効的にご活用いただき、<BR> 
+開店準備を進めてください。<BR> 
+<BR> 
+…………………………………………………………<BR> 
+　ショップサーブ見るべきポイント！<BR> 
+…………………………………………………………<BR> 
+<BR> 
+１、３分でわかるショップサーブ<BR> 
+http://sps.estore.jp/about/3minites.html<BR> 
+<BR> 
+２、ショップサーブが選ばれる理由<BR> 
+http://sps.estore.jp/about/reason.html<BR> 
+<BR> 
+３、他社との違い<BR> 
+http://sps.estore.jp/about/other.html<BR> 
+<BR> 
+…………………………………………………………<BR> 
+<BR> 
+ネットショップ開店のご検討にあたり、ご不明点やお悩み等ございましたら、<BR> 
+どうぞお気軽にネットショップ開店相談室までご連絡ください。<BR> 
+<BR> 
+ご検討の程、よろしくお願い致します。<BR> 
+<BR> 
+─────────────────────────<BR> 
+Ｅストアー ネットショップ開店相談室　　平日１０：００〜１８：００<BR> 
+http://sps.Estore.jp/<BR> 
+<BR> 
+0120-675-604<BR> 
+info@Estore.co.jp<BR>
+─────────────────────────<BR><img src='http://sfml.jp/?c=1276929&o=0061000000W9brSAAR&v=10ea6eb4' alt='' />
+
+
+

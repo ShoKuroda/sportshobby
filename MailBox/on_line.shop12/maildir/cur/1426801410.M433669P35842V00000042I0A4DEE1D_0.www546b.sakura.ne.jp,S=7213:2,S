@@ -1,0 +1,144 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav302.sakura.ne.jp (fsav302.sakura.ne.jp [153.120.85.133])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2JLhR27035831
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 06:43:27 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav302.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp);
+ Fri, 20 Mar 2015 06:43:27 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-129.smtp.rakuten.co.jp [202.72.58.129])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2JLhRjA035828
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 06:43:27 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat109.prod.jp.local [100.66.16.64])
+	by mxmator105z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l7MDb3cywz8G26
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 06:43:27 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426801407;
+	bh=KG4r2UaKBQZ1HC8zYmy1plBjwmyuHB+ce9gO9junCfc=;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=NQeHvtsKyRkBQqsFEdvn0W9/jbg9roLxd13iB0RhVyJBajFlTNR4mXAFtAM+s8v58
+	 tRLqE9X+uDJ9EwtvIhPNVWPqGrWz01EPJD22DSgfImpW/28PDRTCy5lK3yu9Zs5n+J
+	 +jvmlZNyq5/W1t18BF2bdd07+GeTFtUpxgmShn1g=
+Received: from rakuten.co.jp (matqor101zc.zd.rakuten.co.jp [172.18.92.1])
+	by mat109.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2JLhRsf030187
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 06:43:27 +0900
+Date: Fri, 20 Mar 2015 06:43:27 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: f1321dc9ff245bb1681632bf961e1d1bs1@dm.fw.rakuten.ne.jp,
+        on_line.shop12@sportshobby.co.jp
+To: on_line.shop12@sportshobby.co.jp
+Message-ID: <201503200643.t2JLhRsf030187@mat109.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbQ21KOEZiTUYkNBsoQg==?=
+ =?iso-2022-jp?B?GyRCM05HJyFKPCtGMEdbPy4lYSE8JWshSxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.18.92.1
+X-Rams-Id: 7705BBFE3BB90F792329E5BC6D3985F65E947F7B
+
+---------------------------------------------------------------------
+本メールはお客様のご注文情報が楽天市場のサーバに到達した時点で送信
+される、自動配信メールです。ショップからの確認の連絡、または商品の発送
+をもって売買契約成立となります。
+---------------------------------------------------------------------
+
+
+
+この度は楽天市場内のショップ「スポーツホビー」を
+ご利用いただきまして、誠にありがとうございます。
+
+■　購入履歴
+https://order.my.rakuten.co.jp/?page=myorder&act=detail_view&shop_id=243411&order_number=243411-20150320-0200211323&scid=me_ich_conf_07
+
+■　ご注文いただいた商品、決済・配送方法に関するお問い合わせはこちら…
+スポーツホビー　　hobby.division@sportshobby.co.jp
+
+■　その他、楽天市場の各サービスに関するお問い合わせは…
+楽天市場　　http://ichiba.faq.rakuten.co.jp/app/home/?scid=me_ich_conf_01
+
+【ご注意】
+お客様のお取引先は下記ショップとなりますので、ご不明な点、ご注文内容に誤り
+がある場合は、直接ショップ「スポーツホビー」まで
+お問い合わせください。
+
+以下の注文内容がご利用のショップに届いております。
+ご確認ください。
+=====================================================================
+■ ショップ名 ： スポーツホビー
+■ ショップURL： http://www.rakuten.co.jp/sportshobby/?scid=me_ich_conf_02
+■ 電話   ： 011-773-5090
+■ メールアドレス: hobby.division@sportshobby.co.jp
+=====================================================================
+
+---------------------------------------------------------------------
+[受注番号] 243411-20150320-0200211323
+[日時]     2015-03-20 06:43:24
+[注文者]   神山 翔吾 (カミヤマ ショウゴ) 様
+           〒861-8038 熊本県熊本市東区長嶺東６丁目29-3
+           (TEL) 080-1785-4050
+
+[支払方法] クレジットカード決済 一括払い
+[ポイント利用方法] なし
+[配送方法] お任せ配送
+[配送日時指定]
+
+
+
+[備考]
+[ショップ名]   スポーツホビー
+==========
+[送付先]   神山 翔吾 (カミヤマ ショウゴ) 様
+           〒861-8038 熊本県熊本市東区長嶺東６丁目29-3
+           (TEL) 080-1785-4050
+[商品]
+SANWA(サンワ)　MX-V 　RX-37W PC(送信機＆防水受信機）(mxvpcw)
+価格  10,800(円) x 1(個) = 10,800(円)   (税込、送料別)
+獲得ポイント108
+*********************************************************************
+小計     10,800(円)
+送料     500(円)  離島・一部地域では別途料金が必要な場合があります
+---------------------------------------------------
+合計     11,300(円)
+---------------------------------------------------------------------
+今回のお買い物で獲得するポイント　108
+---------------------------------------------------------------------
+＊消費税について
+　消費税率　　　　　　8％
+　消費税計算順序　　　１商品毎に消費税計算
+　１円未満消費税端数　切り捨て
+---------------------------------------------------------------------
+＊送料等の諸費用は変わる場合があります。
+＊ポイント利用方法で「全て」を選択している場合は、購入後の金額変更や
+  利用可能ポイント数の変更により、利用ポイント数が増減する場合があり
+  ます。
+＊楽天会員を利用したご注文の場合、キャンペーン特典ポイントが本メール
+  記載の獲得ポイントとは別に計算、付与される場合があります。
+ご不明な点がありましたらショップ「スポーツホビー」まで
+お問い合わせください。
+---------------------------------------------------------------------
+★こちらの注文に覚えがない場合は？
+他の方が誤ってあなたのメールアドレスで注文した可能性があります。
+その場合は、たいへんお手数ですが、上記ショップならびに楽天市場まで
+お知らせください。
+---------------------------------------------------------------------
+
+★楽天市場は、取引の当事者とはならず、取引に関する責任は負いません。
+したがって、万一取引に関してトラブルが生じた際には、お客様とショップ
+との間で直接解決していただくことになります。
+⇒ http://www.rakuten.co.jp/doc/info/rule/service.html?scid=me_ich_conf_03
+
+─────────────問い合わせ─────────────────
+商品、決済・発送に関するお問い合わせ hobby.division@sportshobby.co.jp
+楽天市場に関するご質問　 http://ichiba.faq.rakuten.co.jp/app/home/?scid=me_ich_conf_04
+個人情報保護方針　http://privacy.rakuten.co.jp/?scid=me_ich_conf_05
+
+楽天市場（楽天株式会社） http://www.rakuten.co.jp/?scid=me_ich_conf_06
+───────────────────────────────────
+

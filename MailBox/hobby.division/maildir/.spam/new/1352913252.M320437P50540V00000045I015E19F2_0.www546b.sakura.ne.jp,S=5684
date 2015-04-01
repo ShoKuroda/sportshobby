@@ -1,0 +1,90 @@
+Return-Path: <mark.frost39@sky.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.7 required=7.0 tests=BAYES_40,FORGED_MUA_OUTLOOK,
+	FREEMAIL_FORGED_REPLYTO,MISSING_SUBJECT,TO_NO_BRKTS_MSFT autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	* -0.0 BAYES_40 BODY: Bayes spam probability is 20 to 40%
+	*      [score: 0.3895]
+	*  1.8 MISSING_SUBJECT Missing Subject: header
+	*  2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+	*  2.8 TO_NO_BRKTS_MSFT To: misformatted and supposed Microsoft tool
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id qAEHE7os050537
+	for <hobby.division@sportshobby.co.jp>; Thu, 15 Nov 2012 02:14:07 +0900 (JST)
+	(envelope-from mark.frost39@sky.com)
+X-Nat-Received: from [112.78.125.46]:55426 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1352913247.10779
+Received: from mail-wi0-f174.google.com (mail-wi0-f174.google.com [209.85.212.174])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id qAEHE4pQ050534
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=FAIL)
+	for <hobby.division@sportshobby.co.jp>; Thu, 15 Nov 2012 02:14:06 +0900 (JST)
+	(envelope-from mark.frost39@sky.com)
+Received: by mail-wi0-f174.google.com with SMTP id hq12so537984wib.9
+        for <hobby.division@sportshobby.co.jp>; Wed, 14 Nov 2012 09:14:03 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:date:x-priority:x-mailer:from:reply-to:to:content-type
+         :content-transfer-encoding:message-id:x-gm-message-state;
+        bh=7m7KcaLph2iM6kHv3gMy2ajNPt3yhff/iD9Z2YCvUlk=;
+        b=hGR40lT5ywnHVrQIhtEDj/iFEi6kOpeMwGG+ZDHwn/WJzagF3k2PLbF8+7Zah/Oq8a
+         S9Ws4dUxQGAfLQP5UQd7tkPEGlE2qkes/qmLaATdZ6VLZ5xg7JMs2Mug9AjUIK9p5THI
+         +crO3y1sKAddHZxu+uzT76RYw2fZnc25oDbfJCwsS2VR6qaYv3owJUS80XA+ThhSeKrR
+         4wYcsukieVPSsIv1EE8S5rW4IL0jl7g/gQfpvREfwzM6JWegk9rggGTwFyeyQCaq0Wom
+         8cwSNJw6WEcL58Rnya034bqDPeOhvMDCi5TmYZsJCGnNQFDQMnlkDw/pqoKJKIa1XYqY
+         bkfQ==
+Received: by 10.216.214.209 with SMTP id c59mr1934007wep.214.1352913243212;
+        Wed, 14 Nov 2012 09:14:03 -0800 (PST)
+Received: from server4 (81-179-246-223.static.dsl.pipex.com. [81.179.246.223])
+        by mx.google.com with ESMTPS id q10sm3341615wie.2.2012.11.14.09.14.02
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 14 Nov 2012 09:14:02 -0800 (PST)
+MIME-Version: 1.0
+Date: Wed, 14 Nov 2012 17:13:50 +0000
+X-Priority: 3 (Normal)
+X-Mailer: Microsoft Outlook Express 5.81.8570.0109
+From: mark.frost39@sky.com
+Reply-To: alex.bloon.k@aol.com
+To: hobby.division@sportshobby.co.jp
+Content-Type: text/plain;
+	 charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <OUTLOOK-IDM-2183a88c-4115-d396-4c0d-1f525b1c38c4@server4>
+X-Gm-Message-State: ALoCoQnYnyK3KvH057DyYEgK9nz/EvAq0SpYxYdE2L/s07uULIw9EOo1wi2znJI2Z3ypWJCVJun+O4JxJnGnk5Qq41yzepBaPTNI6NS9RPiG34GkIaNa9aKdzjKZ+w5LWbW72GFk3qiQdydVNUlvdn3pk6fcfpag+VFdayWTRVst5xXOydkBdOrrafmkshRopYlW/MKWkCuu
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 14112012 #8374381, status: clean
+
+Date : 14 November 2012=0ATime : 17:13=0A Branch transportation Agent =0A=
+Our Organization, offers a broad range of on-line consulting, project an=
+d outsourcing solutions.  Our way is simple: we concentrate on our costu=
+mers so that we may provide flexible and profitable solutions that meet =
+and exceed their needs.  By leveraging our access to high quality techni=
+cal resources and proven transportation best practices, we provide best-=
+in-class transportation solutions customized to our costumer=E2=80=99s e=
+nvironment.=0AOur organization is currently looking for highly motivated=
+, energetic individuals to work as a Transportation Specialist. This man=
+agement position includes directly supervising activities related to pre=
+-sales support of sales staff to build our credibility with prospects an=
+d delivery support including project assessment and planning, to proceed=
+ and receiveclient=E2=80=99s purchases and orders via services with whic=
+h we co-operate USPS, FEDEX, UPS. solution development, costing, proposa=
+l development, partner re-presentations, contract providing and negotiat=
+ion, and initiating the transition to the delivery organization. =0AType=
+ of Position: Part time salaried (monthly+commissions up to $2,200 and m=
+ore); will report to Transportation Support Services VP =0AWork Location=
+:  home based, distant.=0ATime|Branch|Distant|Transportation|Transportat=
+ion operations| Team and Project transportation} Managerspractice, devel=
+op, and hold their services aimed on safety, production and attendance. =
+The Distant Assistant impacts the organization by contributing to the co=
+ntinued growth and profitability of companys services by maintaining the=
+ best standards for cooperation and safety. =0AWe recognize the need for=
+ individual and corporate responsibility. We are committed to developing=
+ the quality of life and enhancing the vitality of the communities in wh=
+ich we operate. We provide support through various Community Outreach Pr=
+ograms, including a Corporate Giving Program and an employee Volunteer D=
+ay, where employees are encouraged to volunteer at a non-profit organiza=
+tion of their choice.=0A!!If you feel that you are a good fit for our or=
+ganization feel free to respond to this Email by pressing  ^reply^ Me or=
+ another assistant will guide you through the app. process.

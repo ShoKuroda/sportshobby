@@ -1,0 +1,74 @@
+Return-Path: <email@bk.mufg.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************************
+X-Spam-Status: Yes, score=28.7 required=7.0 tests=BAYES_99,BAYES_999,
+	CHARSET_FARAWAY,CHARSET_FARAWAY_HEADER,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,
+	HTML_MESSAGE,HTTPS_HTTP_MISMATCH,MIME_CHARSET_FARAWAY,MIME_HTML_ONLY,
+	MSOE_MID_WRONG_CASE,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,TO_NO_BRKTS_MSFT,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_PH_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: iinrs.com]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: mufg.jp]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  2.0 HTTPS_HTTP_MISMATCH BODY: HTTPS_HTTP_MISMATCH
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  3.2 CHARSET_FARAWAY BODY: Character set indicates a foreign language
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: iinrs.com]
+	*  2.5 MIME_CHARSET_FARAWAY MIME character set indicates foreign language
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  2.5 TO_NO_BRKTS_MSFT To: misformatted and supposed Microsoft tool
+Received: from fsav205.sakura.ne.jp (fsav205.sakura.ne.jp [210.224.168.167])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s9OAUIXx070047
+	for <hobby.division@sportshobby.co.jp>; Fri, 24 Oct 2014 19:30:18 +0900 (JST)
+	(envelope-from email@bk.mufg.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav205.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp);
+ Fri, 24 Oct 2014 19:30:18 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp)
+Received: from bk.mufg.jp (ns03.myshadow.za.net [199.168.100.198] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s9OAUHSS070032
+	for <hobby.division@sportshobby.co.jp>; Fri, 24 Oct 2014 19:30:17 +0900 (JST)
+	(envelope-from email@bk.mufg.jp)
+Message-Id: <201410241030.s9OAUHSS070032@www546b.sakura.ne.jp>
+From: =?GB2312?B?yP3B4pZ8vqmj1aPGo8rjedDQ?= <email@bk.mufg.jp>
+Subject: =?GB2312?B?sb7Iy9VK1F6ltalgpdOluQ==?=
+To: hobby.division@sportshobby.co.jp
+Content-Type: text/html;charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Date: Fri, 24 Oct 2014 18:30:11 +0800
+X-Priority: 3
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head>
+<meta content="text/html; charset=gb2312" http-equiv=Content-Type>
+</head>
+<body>
+<p>こんにちは！</p>
+<p>平成26年10月21日「三菱東京UFJ銀行」のシステムが安全性の更新がされたため、お客様はアカウントが凍結?休眠されないように、直ちにアカウントをご認証ください。</p>
+<p>以下のページより登録を続けてください。</p>
+<p><a
+href="http://bk.mufg.jp.iinrs.com/ibg/dfw/APLIN/loginib/login.htm?_TRANID=AA000_001">https://entry11.bk.mufg.jp/ibg/dfw/APLIN/loginib/login?_TRANID=AA000_001</a></p>
+<p><br>――Copyright(C)2014 The Bank of Tokyo-Mitsubishi UFJ,Ltd.All rights
+reserved――</p>
+<p></p></body></html>

@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.6 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,
+	RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: theprescriptioninc.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: theprescriptioninc.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: theprescriptioninc.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: theprescriptioninc.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav304.sakura.ne.jp (fsav304.sakura.ne.jp [153.120.85.135])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2ACQ2h5066059
+	for <hobby.division@sportshobby.co.jp>; Tue, 10 Mar 2015 21:26:02 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav304.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp);
+ Tue, 10 Mar 2015 21:26:02 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp)
+Received: from 182.69.79.12 (abts-north-dynamic-198.108.69.182.airtelbroadband.in [182.69.108.198] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t2ACQ0W3066048
+	for <hobby.division@sportshobby.co.jp>; Tue, 10 Mar 2015 21:26:01 +0900 (JST)
+Date: Tue, 10 Mar 2015 21:26:00 +0900 (JST)
+Message-Id: <201503101226.t2ACQ0W3066048@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (lucinda.zeigler@prairieinet.net@203.207.28.185)
+	by 182.69.108.198 with ESMTPA; Tue, 10 Mar 2015 17:58:09 +0530
+X-Originating-IP: 203.207.28.185
+From: lucinda.zeigler@prairieinet.net
+To: hobby.division@sportshobby.co.jp
+Subject: Satisfying ladies is easy
+
+http://secret.theprescriptioninc.ru/
+

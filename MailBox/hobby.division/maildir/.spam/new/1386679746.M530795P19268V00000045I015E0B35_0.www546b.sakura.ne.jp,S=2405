@@ -1,0 +1,45 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.4 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4981]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBACn4gJ019264
+	for <hobby.division@sportshobby.co.jp>; Tue, 10 Dec 2013 21:49:04 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:60835 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1386679744.27113
+Received: from 195.95.223.252 (252-223.users.khust.com [195.95.223.252] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rBACn0aa019245
+	for <hobby.division@sportshobby.co.jp>; Tue, 10 Dec 2013 21:49:02 +0900 (JST)
+Date: Tue, 10 Dec 2013 21:49:00 +0900 (JST)
+Message-Id: <201312101249.rBACn0aa019245@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (sthornen@lightening-isp.com@240.42.24.71)
+	by 195.95.223.252 with ESMTPA; Tue, 10 Dec 2013 14:50:21 +0200
+From: sthornen@lightening-isp.com
+To: hobby.division@sportshobby.co.jp
+Subject: Information about you
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 10122013 #7086219, status: clean
+
+Hi. Answer my letters quicker. I've written to you several times. 
+
+We offer you to become a representative of our company in your region. If you 
+are looking for a new job, email us quicker. Don't miss your chance. 
+
+We offer test period lasting for (20 days). After test period, you can either 
+reject work or conclude a long-term treaty. 
+
+Salary is from 18.000 Dollars per month + commission. In a year of our 
+cooperation we guarantee that you will get 32.000 $ per month. During test 
+period, you will earn no less than 10.000 Dollars. If you are a smart and 
+reliable person, answer quickly. I will give a detailed description of our 
+partnership and send further directions: leonabergstrom@yahoo.co.jp
+

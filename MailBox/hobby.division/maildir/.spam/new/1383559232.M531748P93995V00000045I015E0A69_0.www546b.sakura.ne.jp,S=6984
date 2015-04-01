@@ -1,0 +1,92 @@
+Return-Path: <sandraschneider903@yahoo.com.ph>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************************************
+X-Spam-Status: Yes, score=40.9 required=7.0 tests=ADVANCE_FEE_3_NEW,
+	ADVANCE_FEE_4_NEW,AXB_XMAILER_MIMEOLE_OL_024C2,BAYES_50,DKIM_ADSP_CUSTOM_MED,
+	FORGED_MUA_OUTLOOK,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,FREEMAIL_REPLYTO,
+	FREEMAIL_REPLYTO_END_DIGIT,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,FROM_MISSP_USER,
+	FSL_CTYPE_WIN1251,FSL_MISSP_REPLYTO,MSOE_MID_WRONG_CASE,NML_ADSP_CUSTOM_MED,
+	NSL_RCVD_FROM_USER,TO_NO_BRKTS_FROM_MSSP,TO_NO_BRKTS_MSFT,T_FROM_MISSP_DKIM,
+	URG_BIZ,URIBL_BLOCKED autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.6 URG_BIZ BODY: Contains urgent matter
+	*  4.1 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  3.7 NSL_RCVD_FROM_USER Received from User
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (sandraschneider903[at]yahoo.com.ph)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+	*      (<sandraschneider1[at]yahoo.com.ph>
+	)
+	*  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (sandraschneider903[at]yahoo.com.ph)
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: well.as]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  4.2 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  1.8 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  4.1 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+	*  1.4 FROM_MISSP_USER From misspaced, from "User"
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  4.1 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  2.5 TO_NO_BRKTS_FROM_MSSP Multiple formatting errors
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  2.1 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  1.2 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  3.5 TO_NO_BRKTS_MSFT To: misformatted and supposed Microsoft tool
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rA4A0UCH093991
+	for <hobby.division@sportshobby.co.jp>; Mon, 4 Nov 2013 19:00:30 +0900 (JST)
+	(envelope-from sandraschneider903@yahoo.com.ph)
+X-Nat-Received: from [112.78.125.46]:52640 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383559230.7659
+Received: from mail.froebel.co.kr (mail.froebel.co.kr [61.100.9.41])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rA4A0TT6093982
+	for <hobby.division@sportshobby.co.jp>; Mon, 4 Nov 2013 19:00:29 +0900 (JST)
+	(envelope-from sandraschneider903@yahoo.com.ph)
+Received: from User ([197.242.112.220])
+	(authenticated bits=0)
+	by mail.froebel.co.kr (8.13.1/8.13.1) with ESMTP id rA49ustk001392;
+	Mon, 4 Nov 2013 18:56:58 +0900
+Message-Id: <201311040956.rA49ustk001392@mail.froebel.co.kr>
+Reply-To: <sandraschneider1@yahoo.com.ph>
+From: "Mrs. Sandra Schneider"<sandraschneider903@yahoo.com.ph>
+To: sandraschneider1@yahoo.com.ph
+Subject: Hello Beloved ,
+Date: Mon, 4 Nov 2013 10:57:55 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Antivirus: avast! (VPS 131103-1, 11/03/2013), Outbound message
+X-Antivirus-Status: Clean
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 04112013 #9891095, status: clean
+
+Hello Beloved,
+
+I apologize if the contents in this mail are contrary to your moral ethics, which I feel may be of great disturbance to your personal life, but please treat with absolute secrecy and personal and I pray that this email reaches you in the best of health. I believe my contacting you is not an ordinary coincidence because God can use any body known or unknown to accomplish great things which he has ordained.
+
+well.as you read this, I don't want you to feel sorry for me, because, I believe everyone will die someday, I am sorry to use the medium in communicating with you but unfortunately it is my last resort to seek for a capable and honest individual or organization that will support my dreams and decided to email you for a permission to go ahead. I am mixed race with dual citizenship, Aussie-American and a Merchant in Canada I have been diagnosed with Esophageal cancer, It has defiled all forms of medical treatment, and right now I have only about a few months to live, according to medical experts, I have particularly lived my life so well, as I have not always cared for anyone,even myself but my business.
+ 
+ I am presently undergoing treatment for the Cancer of the lungs (Esophageal Cancer) which makes me weak, I have since lost my ability to talk and my doctors have told me that I have only a few weeks to live and in fact several operation makes my breath painful.
+ 
+Though I am very rich, I was very Generous, I was always free to people and always focused on my business as that was the only thing I cared for that other people benefit from. Despite the fact that i don't have child before this age of myself and after the death of my late husband John Schneider, now I regret all this, as I now know that there is more to life than just wanting to have or make all the money in the world.
+ 
+I believe when God gives me a second chance to come to this world I would live my life the same way by giving alms and helping the needy. I want God to be merciful to me and accept my soul,so Right now,I have decided to give alms to charity organizations, as I want this to be one of the last good deeds I do on earth. So far, I have distributed money to some charity organizations in the United Kingdom, U.A.E, Algeria and Malaysia, Now that my health has deteriorated so badly, I cannot do this myself anymore, I need your help, so when you contact me via my email so that i can tell you more and you can assist me in this project.
+ 
+My happiness is that I lived a fulfilled life and l don't have any regrets in life Please note that any delay in your reply will give me room in sourcing for another individual as I stated here in for more details to proceed Hoping to hear from you soonest and do notify your interest to help me assist charity.Hope to hear from Contact me here (sandraschneider1@yahoo.com.ph) 
+I await your urgent reply. You are blessed.
+Mrs. Sandra Schneider

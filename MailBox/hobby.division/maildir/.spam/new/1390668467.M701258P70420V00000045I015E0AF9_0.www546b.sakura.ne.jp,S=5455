@@ -1,0 +1,101 @@
+Return-Path: <office3@goodinc.cc>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.4 required=7.0 tests=BAYES_50,DATE_IN_PAST_96_XX,
+	DEAR_FRIEND,DKIM_SIGNED,FAKE_REPLY_C,HTML_MESSAGE,T_DKIM_INVALID autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  3.4 DATE_IN_PAST_96_XX Date: is 96 hours or more before Received: date
+	*  2.6 DEAR_FRIEND BODY: Dear Friend? That's not very dear!
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4993]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+	*  1.5 FAKE_REPLY_C FAKE_REPLY_C
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s0PGlhZ2070417
+	for <hobby.division@sportshobby.co.jp>; Sun, 26 Jan 2014 01:47:44 +0900 (JST)
+	(envelope-from office3@goodinc.cc)
+X-Nat-Received: from [112.78.125.46]:61419 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1390668463.14712
+Received: from goodinc.cc ([202.83.223.162])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s0PGlhLr070414
+	for <hobby.division@sportshobby.co.jp>; Sun, 26 Jan 2014 01:47:43 +0900 (JST)
+	(envelope-from office3@goodinc.cc)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=goodinc.cc;
+	s=default; t=1390697298;
+	bh=8Tf5KpPjvzCCSX/IKNDqO01Zbdifj2lYFGxCk408Ukk=;
+	h=Reply-To:From:To:Subject:Date;
+	b=xMbfnLJ7Saz89vmnApKU8xgYx7O/SPTKTCntvMZptcStrcOh3yIQYSbE/BS+3RHvb
+	 SX/c+r0qkRWYa+Yy8Hd9mJJWAFbGk4opY+ANK1bZfcqhX2KEnfRDrrueVsp4s29ED9
+	 iEAVLO/RcQ6VE5X93KT6KhGCP/HcaGBXBF9a4/Dw=
+Reply-To: <huixinsoft50@foxmail.com>
+Message-ID: <1F3A49159CED3C26156D85350CCD7405@wngratc>
+From: "Bella" <office3@goodinc.cc>
+To: <hobby.division@sportshobby.co.jp>
+Subject: Re: enquiry
+Date: Thu, 2 Jan 2014 04:17:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_043A_010708CB.1BC9BD20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 25012014 #7403181, status: clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_043A_010708CB.1BC9BD20
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+RGVhciBmcmllbmQsDQpJIHdpc2ggeW91IGhhdmUgbHVja3kgZGF5IGFmdGVyIHJlYWQgbXkgbWFp
+bC4NCklmIHlvdSBhZXIgbG9va2luZyBmb3IgQXV0byBwYXJ0cywgd2VsY29tZSB0byBjb250YWN0
+IG1lLg0KIA0KV2UgbWFudWZhY3R1cmUgYW5kIGV4cG9ydCBjYXIgcmFkaWF0b3JzIGZvciBhYm91
+dCB0ZW4geWVhcnMsIG1haW5seSBzdXBwbHkgRXVyb3BlYW4gSmFwYW5lc2UgJiBLb3JlYW4gYnJh
+bmQgYXV0byByYWRpYXRvci9jb25kZW5zZXIuDQogDQpPdXIgbWFpbmx5IGl0ZW1zIGZvciBUb3lv
+dGEvSXN1enUgL05pc3Nhbi9NaXRzdWJpc2hpLyBBdWRpL1BldWdlb3QvVm9sdm8vQmVuei9CTVcg
+YWxyZWFkeSBoYXZlIGdvb2QgbWFya2V0IGluIGFsbCBhcm91bmQgdGhlIHdvcmxkLiANCk1vcmUg
+dGhhbiA2NTAwIG1vZGVscyBmb3IgeW91ciBjaG9vc2UsIGFuZCBhbGwgdGhlIHJhZGlhdG9yICBp
+dGVtcyBjYW4gYmUgc3VwcGxpZWQgd2l0aCBwbGFzdGljLWFsdW1pbnVtIC9mdWxsLWFsdW1pbnVt
+LyBjb3BwZXIuDQogDQpQbHdhc2UgY2hlY2sgdGhlIGF0dGFjaG1lbnQgZm9yIG1vcmUgZGV0YWls
+cy4NCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT0NCkJlbGxhIChDaGluYSkNClNreXBlOiBsaXZlOnN1bmhvcGUyMTMNClRlbDogMDA4Ni0wNzU3
+LTg2MzYzMzgzDQpGYXg6IDAwODYtMDc1Ny04NjI2NDA2Ng0KRW1haWw6IHN1bmhvcGViZWxsYUBo
+b3RtYWlsLmNvbQ0KV2ViOiB3d3cuZnMtc3VuaG9wZS5jb20NCkZvc2hhbiBTdW5ob3BlIENvLmx0
+ZA==
+------=_NextPart_000_043A_010708CB.1BC9BD20
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0
+Zi04IiBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZT4NCjxNRVRBIG5hbWU9R0VORVJBVE9SIGNvbnRl
+bnQ9Ik1TSFRNTCA4LjAwLjYwMDEuMjM0ODciPjwvSEVBRD4NCjxCT0RZPg0KPFA+PEZPTlQgY29s
+b3I9Ymx1ZT5EZWFyIGZyaWVuZCw8L0ZPTlQ+PC9QPg0KPFA+PEZPTlQgY29sb3I9Ymx1ZT5JIHdp
+c2ggeW91IGhhdmUgbHVja3kgZGF5IGFmdGVyIHJlYWQgbXkgbWFpbC48QlI+SWYgeW91IGFlciAN
+Cmxvb2tpbmcgZm9yIEF1dG8gcGFydHMsIHdlbGNvbWUgdG8gY29udGFjdCBtZS48QlI+Jm5ic3A7
+PEJSPldlIG1hbnVmYWN0dXJlIGFuZCANCmV4cG9ydCBjYXIgcmFkaWF0b3JzIGZvciBhYm91dCB0
+ZW4geWVhcnMsIG1haW5seSBzdXBwbHkgRXVyb3BlYW4gSmFwYW5lc2UgJmFtcDsgDQpLb3JlYW4g
+YnJhbmQgYXV0byByYWRpYXRvci9jb25kZW5zZXIuPEJSPiZuYnNwOzxCUj5PdXIgbWFpbmx5IGl0
+ZW1zIGZvciANClRveW90YS9Jc3V6dSAvTmlzc2FuL01pdHN1YmlzaGkvIEF1ZGkvUGV1Z2VvdC9W
+b2x2by9CZW56L0JNVyBhbHJlYWR5IGhhdmUgZ29vZCANCm1hcmtldCBpbiBhbGwgYXJvdW5kIHRo
+ZSB3b3JsZC4gPEJSPk1vcmUgdGhhbiA2NTAwIG1vZGVscyBmb3IgeW91ciBjaG9vc2UsIGFuZCAN
+CmFsbCB0aGUgcmFkaWF0b3ImbmJzcDsgaXRlbXMgY2FuIGJlIHN1cHBsaWVkIHdpdGggcGxhc3Rp
+Yy1hbHVtaW51bSANCi9mdWxsLWFsdW1pbnVtLyBjb3BwZXIuPEJSPiZuYnNwOzxCUj5QbHdhc2Ug
+Y2hlY2sgdGhlIGF0dGFjaG1lbnQgZm9yIG1vcmUgDQpkZXRhaWxzLjwvRk9OVD48L1A+DQo8UD48
+Rk9OVCANCmNvbG9yPWJsdWU+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PTxCUj5CZWxsYSANCihDaGluYSk8QlI+U2t5cGU6IGxpdmU6c3VuaG9w
+ZTIxMzxCUj5UZWw6IDAwODYtMDc1Ny04NjM2MzM4MzxCUj5GYXg6IA0KMDA4Ni0wNzU3LTg2MjY0
+MDY2PEJSPkVtYWlsOiBzdW5ob3BlYmVsbGFAaG90bWFpbC5jb208QlI+V2ViOiANCnd3dy5mcy1z
+dW5ob3BlLmNvbTxCUj48U1RST05HPjxGT05UIHNpemU9ND5Gb3NoYW4gU3VuaG9wZSANCkNvLmx0
+ZDwvRk9OVD48L1NUUk9ORz48L0ZPTlQ+PC9QPjwvQk9EWT48L0hUTUw+DQo=
+
+------=_NextPart_000_043A_010708CB.1BC9BD20--
+

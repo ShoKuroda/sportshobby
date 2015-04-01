@@ -1,0 +1,178 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.8 required=7.0 tests=BAYES_00,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	XPRIO autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.5 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  1.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav202.sakura.ne.jp (fsav202.sakura.ne.jp [210.224.168.164])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t250AB4n076048
+	for <hobby.division@sportshobby.co.jp>; Thu, 5 Mar 2015 09:10:11 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav202.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp);
+ Thu, 05 Mar 2015 09:10:11 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t250ABB2076045
+	for <hobby.division@sportshobby.co.jp>; Thu, 5 Mar 2015 09:10:11 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIVo5ZjMwIVsyVCQwPVY0ViROPEJPP0YwMmgkRyQ5ISIbKEI=?=
+	=?iso-2022-jp?B?GyRCJDQzTkcnJC8kQCQ1JCQhIxsoQg==?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Thu, 05 Mar 2015 09:10:10 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150305001010.E56B341BAD@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11051
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+お世話になります。高原直人です。
+
+
+近年のせどり・転売ブームで色々な無料プレゼントが配られていますが
+どこにも負けない、本物のノウハウを公開しました。
+
+⇒ http://agar-ex.jp/kldd28454/21051
+
+
+動画の最初に宣言していることですが、
+今回の動画を通じて月25万円を稼ぐノウハウを全てお伝えします。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+核となるノウハウをひた隠しにするものも多いですが
+今回は本当に事細かくノウハウを公開しています。
+
+
+高原がどこで何を仕入れ、いくらになったのか？
+何で判断して仕入れを実行したのか？という部分はもちろん、
+仕入れの時に使うツールや仕入れ時のランキング基準もです。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+特に稼ぐ瞬間の実録動画は
+役に立つノウハウであることをお約束いたします。
+
+
+
+私の教え子にも登場してもらっているので
+中途半端な情報をお伝えしてしまっては、私の信頼に関わります。
+
+
+動画を確認していただくことで、
+本当に月25万円稼げるノウハウをお渡しいたします。
+
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+◇3人のお子さんを持つ専業主婦が初月から10万円の利益
+
+◆多忙なサラリーマンが毎月コンスタントに25万円の収入
+
+◇副業で始めるも、気づいたら独立を果たした24歳の男性
+
+◆初月から月商が100万円以上アップし、翌月には2倍
+
+◇倍々ゲームで月商200万円を超えた40代男性
+
+◆半年間で本業の他に570万円以上を売り上げた50代男性
+
+◇就寝前の1時間の作業で月収40〜50万を稼いでいるOL
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+上記は全てほんの数か月前に今回の手法を実践していただいた方の実績で、
+彼らには全員動画に出演して貰いました。
+
+
+せどり初心者の方でも、ビジネス初心者の方であっても
+既にせどりで稼いでいる方にとっても実りある内容であることは保証します。
+
+
+⇒ http://agar-ex.jp/kldd28454/31051
+
+
+
+スーパーやホームセンター、ディスカウントストア、家電量販店、
+リサイクルショップ、ドラックストア、コンビニなどなど
+
+日常生活で買い物をする際に10分〜15分の時間を確保して貰えれば
+どこでも、なんでも仕入れを完了させることができます。
+
+
+もうひとつのポイントは
+「日常生活に組み込んでいるから」点です。
+
+
+通勤帰りにお弁当を買うついでに…
+子どものおもちゃを見に行くついでに…
+コンビニで立ち読みをするついでに…
+待ち合わせで人を待つついでに…
+
+
+”ついで”時間をお金に変える方法を
+全てお伝えしますので、ご期待ください！
+
+
+また人数限定ではありますが、
+特典としてお宝を発見してくれる有料ツールも無料でお渡しします。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+最もお得なタイミングである今、手に入れてください。
+
+
+⇒ http://agar-ex.jp/kldd28454/41051
+
+
+※期間限定での無料公開となっております。
+※フォームへの入力後すぐに映像を見ることができます。
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/51051
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

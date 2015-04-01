@@ -1,0 +1,213 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.6 required=7.0 tests=BAYES_00,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	XPRIO autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.2 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  1.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav301.sakura.ne.jp (fsav301.sakura.ne.jp [153.120.85.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1L2cCYU083440
+	for <hobby.division@sportshobby.co.jp>; Sat, 21 Feb 2015 11:38:12 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav301.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp);
+ Sat, 21 Feb 2015 11:38:12 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1L2cCNB083424
+	for <hobby.division@sportshobby.co.jp>; Sat, 21 Feb 2015 11:38:12 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCJSslQyVXJWkhPCVhJXMkLD1QTWg+ZSQsJGskXiRHJEsbKEI=?=
+	=?iso-2022-jp?B?GyRCNDA3ayQ5JGslUyU4JU0lOSRIJE8hKiEpGyhC?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Sat, 21 Feb 2015 11:38:07 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150221023807.2A30840E31@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/1991
+━━━━━━━━━━━━━━━━━━━━━━━━
+                                                                     
+カップラーメンが出来上がるまでに完結するビジネスとは！？
+
+
+【PR】ネットビジネスで今まで1円も稼いだことがないあなたへ
+　　 3分の作業で2日後には、初報酬を得てみませんか？
+　
+　⇒　http://agar-ex.jp/kldd28454/2991
+
+
+
+こんにちは、シンクウです。
+
+
+
+
+今まで携帯は
+ガラケーで十分、スマホはいいや、
+
+
+と思っていた人たちがどんどんスマホになっていますね。
+
+
+
+今では、日本のスマホ保有率は53.5％と
+半数以上が所有をしていることになります。
+
+
+さらに、日本がスマホ大国なのかといえば、そうでもなく、
+海外各国のスマホ保有率を挙げると
+
+
+アメリカ69.6％、
+イギリス80.0％、
+フランス71.6％、
+韓国　　88.7％、
+シンガポール93.1％、
+
+と6カ国の中でも日本が最も低いそうです。
+
+
+今、私のメールを見てるあなたも
+もしかしたらスマホから
+ご覧になっているかもしれませんね。
+
+
+
+どんどんとガラケーから
+スマホに移行しているなかで、
+
+
+スマホと切っても切れないのがアプリですね。
+
+
+現在では、便利なアプリや
+遊んで楽しいアプリなどがたくさんあり、
+
+
+あなたもスマホを持っていれば、
+何らかのアプリを使っていると思いますが、
+
+
+iPhoneアプリが今までどのくらい
+ダウンロードされたか想像がつきますか？
+
+
+
+ちなみに昨年の段階でiPhoneアプリの数は
+100万件を超えているそうです。
+
+
+それでは、100万個あるiPhoneアプリが
+一体どれだけ、総ダウンロード数になっているのでしょうか？
+
+・
+
+・
+
+・
+
+・
+
+今やダウンロード数は400億を超えており、
+Androidも入れたらさらに数はあるでしょうから、
+ものすごい規模になっていることが分かります。
+
+
+
+さて、そんな数あるアプリの中でも
+注目されるものとされないものがありますが、
+
+
+完全初心者からアプリビジネスに参入して、
+作業後わずか1日後に初報酬を発生し、
+
+１ヶ月後には219,569円
+４ヶ月後には889,821円
+
+を達成している方がどんどん現れています。
+
+⇒　http://agar-ex.jp/kldd28454/3991
+
+
+
+日本では、
+だいぶアプリビジネスが普及してきましたが、
+
+
+まだまだスマホの所有率が高まるなかで、
+これからもアプリビジネスのチャンスは残っています。
+
+
+スマホもパソコンも同じで、
+結局はツールにすぎませんから、
+
+
+まだチャンスが残っている、
+という表現はおかしいかもしれませんね。
+
+
+本質を押さえていれば、
+いくらでも応用が利きますし、
+
+
+逆に形だけ追っていても役には立ちませんが、
+
+
+これからのアプリビジネスは
+非常に注目度の高いビジネスだと思います。
+
+⇒　http://agar-ex.jp/kldd28454/4991
+
+
+
+最後までご覧頂き誠にありがとうございました。
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/5991
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

@@ -1,0 +1,156 @@
+Return-Path: <noreply@datainformations.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.8 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_ONLY_32,HTML_MESSAGE,MPART_ALT_DIFF,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 HTML_IMAGE_ONLY_32 BODY: HTML: images with 2800-3200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5024]
+	*  0.8 MPART_ALT_DIFF BODY: HTML and text parts are different
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: datainformations.com]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: datainformations.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: datainformations.com]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: datainformations.com]
+Received: from www546b.sakura.ne.jp (ksav208.sakura.ne.jp [210.224.168.170])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s74JQESY025455
+	for <hobby.division@sportshobby.co.jp>; Tue, 5 Aug 2014 04:26:15 +0900 (JST)
+	(envelope-from noreply@datainformations.com)
+X-Nat-Received: from [112.78.125.46]:11013 [ident-empty]
+	by ksav208.sakura.ne.jp with TPROXY id 1407180374.19352
+Received: from 9645181501.datainformations.com (9645181501.datainformations.com [96.45.18.150])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s74JQDVi025449
+	for <hobby.division@sportshobby.co.jp>; Tue, 5 Aug 2014 04:26:14 +0900 (JST)
+	(envelope-from noreply@datainformations.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=datainformations.com;
+ h=To:Subject:Message-ID:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding:Date; i=noreply@datainformations.com;
+ bh=8C+dHN5srjL556Xy55oZ1DV6ZDw=;
+ b=u8RkLCR56LUF3npAgMfCllUyzMKLw59beEXHYqino8CMJ6p5BLXPD6MBbpZI3ENqlWXZor1q5os6
+   GpU+E9TOnHbM9K4etUtuXiPeyLzkKIZ7+ye6Uw+krVF59TTo1GJzJJ4fDmNEuyxWk5PWS4bxJcxJ
+   GXhYHW30M7KVP+EpVHCJYLw42u1s64HMX2OHZy0Uw0EGPCz9CqQdtlGvqv3ReTSYVbs2AIRTyq02
+   BbZfHygpJe9ujvVMTUStU3/x+6x4AxiIa/Xn4lzSTXxirz4BUHCedfXPYwIgvX4ABpr9Qv1Dzs4m
+   AoNwq9rdEuP+iQ/7oOn9FU+77mIUEvwi+tQLfg==
+To: hobby.division@sportshobby.co.jp
+Subject: =?UTF-8?B?44GC44Gq44Gf44Gv6Ieq55Sx44Gr5YWl5omL44GZ44KL5rqW5YKZ44GM44Gn44GN44Gm44GE44KL44GL?=
+Message-ID: <2d8c41bf82b88028f30a3f2de896bc3e@datainformations.com>
+From: =?UTF-8?B?6bq7576OIOajrg==?= <noreply@datainformations.com>
+Reply-To: noreply@datainformations.com
+MIME-Version: 1.0
+X-Mailer-RecptId: 248072614
+X-Mailer-SID: 58786
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_7bbb140b67038f607ed95fa9e4e371ca"
+Content-Transfer-Encoding: 8bit
+Date: Mon, 4 Aug 2014 19:28:02 +0000
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+--b1_7bbb140b67038f607ed95fa9e4e371ca
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+こんにちは,
+
+私はどのように自由に入手する方法を紹介したい。
+
+私はそれが大げさに聞こえるかもしれない知っているが、それは真実だ！
+他の誰かのために働いて、いつもあなたの賃金のために奴隷を行います。
+あなたは私のようなものであれば、あなたはこれらの鎖を打破したい。。。これで、最初の一歩を踏み出す必要があります！
+あなたも、インターネットや派手な知識は必要ありません。必要なのは、適切な動機です。だから、他の人のためにお金を稼ぐ停止。自分の上司であること！
+私はどのように自由に入手する方法を紹介します記事には、ここのリンクを追加しました。だから、それをチェックしてください。
+アーティクルを読んでください。
+http://datainformations.com/link.php?M=248072614&N=58786&K=b83e243ef3ce471728189305ff043726&L=93766&F=T
+あなたの進歩に私投稿しておこ、私を忘れないでください。私は私の物についてお知らせします。
+
+歓声とあなたに最高の幸運！
+
+
+
+麻美 森
+
+
+
+
+
+
+
+メール配信中止ご希望の方は,
+こちらへ:http://datainformations.com/unsubscribe.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&L=4061&N=58786
+
+
+
+
+--b1_7bbb140b67038f607ed95fa9e4e371ca
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<p><span style="font-size: medium;">こんにちは, <br /></span></p>
+<p><span style="font-size:
+medium;">私はどのように自由に入手する方法を紹介したい。</span></p>
+<p><span style="font-size:
+medium;">私はそれが大げさに聞こえるかもしれない知っているが、それは真実だ！</span><br
+/><span style="font-size: medium;">
+他の誰かのために働いて、いつもあなたの賃金のために奴隷を行います。</span><br
+/><span style="font-size: medium;">
+あなたは私のようなものであれば、あなたはこれらの鎖を打破したい。。。これで、最初の一歩を踏み出す必要があります！</span><br
+/><span style="font-size: medium;">
+あなたも、インターネットや派手な知識は必要ありません。必要なのは、適切な動機です。だから、他の人のためにお金を稼ぐ停止。自分の上司であること！</span><br
+/><span style="font-size: medium;">
+私はどのように自由に入手する方法を紹介します記事には、ここのリンクを追加しました。だから、それをチェックしてください。</span><br
+/><span style="font-size: medium;"><a
+href="http://datainformations.com/link.php?M=248072614&N=58786&K=b83e243ef3ce471728189305ff043726&L=93766&F=H">
+アーティクルを読んでください</a>。</span></p>
+<p><span style="font-size:
+medium;">あなたの進歩に私投稿しておこ、私を忘れないでください。私は私の物についてお知らせします。</span></p>
+<p><span style="font-size:
+medium;">歓声とあなたに最高の幸運！</span></p>
+<p><span style="font-size: medium;">&nbsp;</span></p>
+<p><span style="font-size: medium;">麻美 森</span></p>
+<p><span style="font-size: medium;">&nbsp;</span></p>
+<p><span style="font-size: medium;">&nbsp;</span></p>
+<p><span style="font-size:
+medium;">メール配信中止ご希望の方は,&nbsp;<a
+href="http://datainformations.com/unsubscribe.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&L=4061&N=58786">こちらへ</a></span></p>
+<p>&nbsp;</p>
+<p><!-- During the same year others of the mutineers became fathers In
+addition to Mahinas two there were now three other children playing upon
+the matted floors of their parents dwellings by day and lulled to sleep at
+night by the ceaseless throbbing of the surf that beat against the stern
+cliffs of their island home  --></p>
+<p><!-- The houses occupied by Christian and Mahina Young and Alrema and
+Smith and Terere were a considerable distance from those of the other white
+men That of Christian was furthest north west of all indeed it was quite
+shut out of view from the rest by a short abrupt spur which shot eastward
+from the mountains almost to the verge of the beetling cliffs  --></p>
+<p>&nbsp;</p>
+<img
+src="http://datainformations.com/open.php?M=248072614&L=4061&N=58786&K=b83e243ef3ce471728189305ff043726&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_7bbb140b67038f607ed95fa9e4e371ca--
+
+

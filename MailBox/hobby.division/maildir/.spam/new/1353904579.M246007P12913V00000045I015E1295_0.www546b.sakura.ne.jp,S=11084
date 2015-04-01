@@ -1,0 +1,197 @@
+Return-Path: <misscatherinekkkkk17444@yahoo.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************************************
+X-Spam-Status: Yes, score=36.9 required=7.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+	ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_MONEY,ADVANCE_FEE_4_NEW,
+	ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_MONEY,BAYES_20,
+	DECEASED_NO_ML,DKIM_ADSP_CUSTOM_MED,DKIM_SIGNED,DKIM_VALID,
+	FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,FREEMAIL_REPLYTO,
+	FREEMAIL_REPLYTO_END_DIGIT,HK_RANDOM_FROM,HK_SCAM_N15,HTML_IMAGE_ONLY_28,
+	HTML_MESSAGE,LOTS_OF_MONEY,MILLION_USD,MONEY_FRAUD_3,MONEY_FRAUD_5,
+	NML_ADSP_CUSTOM_MED,T_REMOTE_IMAGE,US_DOLLARS_3 autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.2 MILLION_USD BODY: Talks about millions of dollars
+	*  3.5 HK_SCAM_N15 BODY: HK_SCAM_N15
+	*  1.0 HK_RANDOM_FROM From username looks random
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (misscatherinekkkkk17444[at]yahoo.co.jp)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+	*      (misscatherinekofffi1744[at]yahoo.co.jp
+	)
+	*  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (misscatherinekkkkk17444[at]yahoo.co.jp)
+	*  1.8 US_DOLLARS_3 BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+	*  1.4 HTML_IMAGE_ONLY_28 BODY: HTML: images with 2400-2800 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	* -0.0 BAYES_20 BODY: Bayes spam probability is 5 to 20%
+	*      [score: 0.1601]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.4 DECEASED_NO_ML Dead not via mailing list
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  0.0 T_REMOTE_IMAGE Message contains an external image
+	*  2.1 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  2.9 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  3.5 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.1 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	*  2.5 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	*  4.3 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  4.4 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	*  3.4 MONEY_FRAUD_3 Lots of money and several fraud phrases
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id qAQ4aGW3012908
+	for <hobby.division@sportshobby.co.jp>; Mon, 26 Nov 2012 13:36:16 +0900 (JST)
+	(envelope-from misscatherinekkkkk17444@yahoo.co.jp)
+X-Nat-Received: from [112.78.125.46]:59040 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1353904576.7683
+Received: from nm8-vm4.bullet.mail.sg3.yahoo.com (nm8-vm4.bullet.mail.sg3.yahoo.com [106.10.148.195])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id qAQ4aFew012898
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Mon, 26 Nov 2012 13:36:15 +0900 (JST)
+	(envelope-from misscatherinekkkkk17444@yahoo.co.jp)
+Received: from [106.10.166.61] by nm8.bullet.mail.sg3.yahoo.com with NNFMP; 26 Nov 2012 04:36:14 -0000
+Received: from [106.10.151.251] by tm18.bullet.mail.sg3.yahoo.com with NNFMP; 26 Nov 2012 04:36:14 -0000
+Received: from [127.0.0.1] by omp1022.mail.sg3.yahoo.com with NNFMP; 26 Nov 2012 04:36:14 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 523401.23676.bm@omp1022.mail.sg3.yahoo.com
+Received: (qmail 27196 invoked by uid 60001); 26 Nov 2012 04:36:14 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1353904574; bh=K3qOcp6fBcj5JzynPFlVBHUG9Zhgi8vqxydVESigRh8=; h=Message-ID:X-YMail-OSG:Received:X-Mailer:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=UXaaeFwiEBAEAl6yzhWvtz01+FpAgaqJ0rp2AMpkaou0hAqgb7bw3dEO9J1bA3+cyBgjD9X2LpSyvrocT9ki5VyccOx7l5b3vzyn/KIgv4zTt8SJkKT+Z/JUF75qV0hWMGDL3rs5re/oznt1qJBsaUndSc9nbTbZ5pGSp9Vy4UA=
+Message-ID: <426962.21156.qm@web193006.mail.sg3.yahoo.com>
+X-YMail-OSG: TWnGSP4VM1lgY2hSkY3Sj1czGWWcMuDc.siVQJfBvQIHvS0
+ ttnoUcH5H73YH2dT1Vw8v9bO60po3bU9uyvLlmdZ3XWz.XPPnyt4rd99lU4m
+ 1MMwmYBNE.Mv3Bcg01jZu8bba4bvK4OhQZbhYA5x3JcBUza7ck_srwLDL3cT
+ XUI2Js34dOvmqkqNqIo9P7SN1ZdOQgaMMb8cLfbXx.E9z7weGGy.r0L4gt_F
+ lTKLdP3SrnSOgV1LKgMKBXHYGBIIH1Vz6aA9HCKs0FDZ9ei0k4IcO5kAr5J2
+ zKvYs3GO_dyGJBUyTqAnXkLin5ar8epRi6BhqekYiJ4FWBSfSFfow4LdcCim
+ GRaL_EgUqNoqRP0MKWQvlBQoWX43eXuJ.rNs_M669J2YaCEuUset0b9lfQV9
+ V6mvnWr9iaNkQSoZRmpi5vw7NqXTZon.EFG5G8utfLubGQZnhBLj1lNdvo73
+ rmXdUtfqKv0XNxkRFbFxxPLW6Sxd2T6ZxFYmfzNsgHMFugqFz_HrAgD61d8D
+ zO9i_Pxu.5.z67t.iwW9sb71b9OeKU9XpOmCH.GSvWBoyjYAnBvLHJJe1fXs
+ zVhieyA2mzUKOdQlI3kfcrxjEi12shc9AqdIhdSkw73g_h2PTaLxu6lk5W4o
+ eOXM85G42h5Z3
+Received: from [213.136.113.77] by web193006.mail.sg3.yahoo.com via HTTP; Mon, 26 Nov 2012 12:36:14 SGT
+X-Mailer: YahooMailClassic/15.0.8 YahooMailWebService/0.8.123.460
+Date: Mon, 26 Nov 2012 12:36:09 +0800 (SGT)
+From: Catherine Koffi <misscatherinekkkkk17444@yahoo.co.jp>
+Reply-To: misscatherinekofffi1744@yahoo.co.jp
+Subject: Dearest One
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-488649105-1676605214-1353904574=:21156"
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 26112012 #8524980, status: clean
+
+---488649105-1676605214-1353904574=:21156
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+From Miss Catherine Koffi
+Abidjan Cote D'Ivoire
+West Africa
+
+
+Hi,
+
+
+I am Catherine Koffi the only daughter of Mr& Mrs William Koffi, It is sad =
+to say that he passed away mysteriouslyof my parent in France during one of=
+ his business trips abroad year 25th.Febuary 2008.Though his sudden death w=
+as linked or rather suspected to have been master minded by an uncle of his=
+, who travelled with him at that time. But God knows the truth. My mother d=
+ied when I was just 6 years old,and since then my father took me so special=
+.
+
+
+Before his death on Febuary 25 2008 he called the secretary who accompanied=
+ him to the hospital and told him that he has the sum of Sixten million,sev=
+en hundred thousand United State Dollars.(USD$16.700,000) left in a securit=
+y company inside two metalic box. He further told him that he deposited the=
+ money in my name,and finally issued a written instruction to his lawyer wh=
+om he said is in possession of all thenecessary but legal documents to this=
+ fund under the security company.
+
+
+Note that the security company where my late Father made the deposit does n=
+ot know that the consignment depositing under their custody contains money =
+my late father declare the content to the security company as containing fa=
+mily valuables for security reasons.
+
+
+I am just 19 years old and an university undergraduate and really don't kno=
+w what to do. Now I need an overseas account where I can transfer this fund=
+s and after the transaction i will come and live with you and i'm ready to =
+do anything of your choice. This is because I have suffered a lot of set ba=
+cks as a result of incessant political crisis here in Ivory coast.
+
+The death of my father actually brought sorrow to my life and i wished to i=
+nveste under your care please. I am in a sincere desire of your humble assi=
+stance in this regards.Your suggestions and ideas will be highly regarded. =
+Now permit me to ask these few questions:
+
+
+1. Can you honestly help me?
+2. Can I completely trust you? .
+
+
+What percentage of the total amount in question will be good for you after =
+the money is in your account while i finalise my education. Please,Consider=
+ this
+and get back to me as soon as possible.
+
+
+
+sincere regards,
+
+Miss Catherine Koffi
+---488649105-1676605214-1353904574=:21156
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;"><BR><BR>From Miss Catherine Koffi<BR>Abidjan =
+Cote D'Ivoire<BR>West Africa<BR><BR><BR>Hi,<BR><BR><BR>I am Catherine Koffi=
+ the only daughter of Mr&amp; Mrs William Koffi, It is sad to say that he p=
+assed away mysteriouslyof my parent in France during one of his business tr=
+ips abroad year 25th.Febuary 2008.Though his sudden death was linked or rat=
+her suspected to have been master minded by an uncle of his, who travelled =
+with him at that time. But God knows the truth. My mother died when I was j=
+ust 6 years old,and since then my father took me so special.<BR><BR><BR>Bef=
+ore his death on Febuary 25 2008 he called the secretary who accompanied hi=
+m to the hospital and told him that he has the sum of Sixten million,seven =
+hundred thousand United State Dollars.(USD$16.700,000) left in a security c=
+ompany inside two metalic box. He further told him that he deposited the mo=
+ney
+ in my name,and finally issued a written instruction to his lawyer whom he =
+said is in possession of all thenecessary but legal documents to this fund =
+under the security company.<BR><BR><BR>Note that the security company where=
+ my late Father made the deposit does not know that the consignment deposit=
+ing under their custody contains money my late father declare the content t=
+o the security company as containing family valuables for security reasons.=
+<BR><BR><BR>I am just 19 years old and an university undergraduate and real=
+ly don't know what to do. Now I need an overseas account where I can transf=
+er this funds and after the transaction i will come and live with you and i=
+'m ready to do anything of your choice. This is because I have suffered a l=
+ot of set backs as a result of incessant political crisis here in Ivory coa=
+st.<BR><BR>The death of my father actually brought sorrow to my life and i =
+wished to investe under your care please. I am in a sincere desire
+ of your humble assistance in this regards.Your suggestions and ideas will =
+be highly regarded. Now permit me to ask these few questions:<BR><BR><BR>1.=
+ Can you honestly help me?<BR>2. Can I completely trust you? .<BR><BR><BR>W=
+hat percentage of the total amount in question will be good for you after t=
+he money is in your account while i finalise my education. Please,Consider =
+this<BR>and get back to me as soon as possible.<BR><BR><BR><BR>sincere rega=
+rds,<BR><BR>Miss Catherine Koffi</td></tr></table><img id=3D"mail-read-rece=
+ipt" src=3D"http://kr.rr.mail.yahoo.com/beacon?from=3Dmisscatherinekkkkk174=
+44%40yahoo.co.jp&to=3Dhobby.division%40sportshobby.co.jp&subj=3DRGVhcmVzdCB=
+PbmU%3D&sent=3D1353904569&sig=3DaFPehR_qSZmYGGIHzmNbJtMGPZA-" width=3D"0" h=
+eight=3D"0">
+---488649105-1676605214-1353904574=:21156--

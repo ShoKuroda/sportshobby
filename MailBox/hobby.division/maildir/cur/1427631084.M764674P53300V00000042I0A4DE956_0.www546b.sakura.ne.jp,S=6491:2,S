@@ -1,0 +1,143 @@
+Return-Path: <RTE+NE-null-850ddA1IXDILCDJGOCE@sellernotifications.amazon.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav410.sakura.ne.jp (fsav410.sakura.ne.jp [133.242.250.109])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2TCBLWj053297
+	for <hobby.division@sportshobby.co.jp>; Sun, 29 Mar 2015 21:11:21 +0900 (JST)
+	(envelope-from RTE+NE-null-850ddA1IXDILCDJGOCE@sellernotifications.amazon.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav410.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav410.sakura.ne.jp);
+ Sun, 29 Mar 2015 21:11:21 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav410.sakura.ne.jp)
+Received: from smtp-out-188-218.amazon.com (smtp-out-188-218.amazon.com [207.171.188.218])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2TCBK6i053292
+	for <hobby.division@sportshobby.co.jp>; Sun, 29 Mar 2015 21:11:21 +0900 (JST)
+	(envelope-from RTE+NE-null-850ddA1IXDILCDJGOCE@sellernotifications.amazon.com)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.co.jp; i=do-not-reply@amazon.co.jp; q=dns/txt;
+  s=amazon201209; t=1427631081; x=1459167081;
+  h=date:from:reply-to:to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=MyT5OX8ndzUfebHl0FnYtWEs33Jaei5177bwhH0andE=;
+  b=rEegeldkM9hAh5vgxEFw1ULtTB0TIY+9PvDmIc197BN4W3m8cvRII8Sp
+   l8hYtpUDk1NPKIEWMKAo124oeHDiCUhNy1I6DYGA1K+twPBE/ZinD7uAY
+   sKZuPyAjP0ZXleyQjELMDJAn0N8g3zMz1rVo+sFfOmWK93JiN8OMQ/H8Z
+   0=;
+Date: Sun, 29 Mar 2015 12:11:20 +0000 (UTC)
+From: Amazon Services <do-not-reply@amazon.co.jp>
+Reply-To: "merchant-notifications@amazon.co.jp" <merchant-notifications@amazon.co.jp>
+To: "hobby.division@sportshobby.co.jp" <hobby.division@sportshobby.co.jp>
+Message-ID: <urn.correios.msg.20150329121120b1ebd5451a8449a8ae50528b6c925d0f@1427631080381.rte-svc-fe-2b-i-5d7a786e.us-west-2.amazon.com>
+Subject: =?ISO-2022-JP?Q?=1B$BCmJ83NDj=1B(B_-_=1B$B>&IJ$r=3DP2Y$7$F$/$@$5=1B(B?=
+ =?ISO-2022-JP?Q?=1B$B$$=1B(B:_II-TDK8-WNZ5_L?=
+ =?ISO-2022-JP?Q?RP_LR50643_=1B$B%Y%/%=3F!<=1B(B_X?=
+ =?ISO-2022-JP?Q?20_=1B$B%V%i%7%l%9%b!<%=3F!<=1B(B_10.5T?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1783344_339873543.1427631080379"
+Content-Transfer-Encoding: 7bit
+Bounces-to: RTE+NE-null-850ddA1IXDILCDJGOCE@sellernotifications.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-AMAZON-CATEGORY: NotificationEngine-ssn-jp-mat
+X-Original-MessageID: <urn.correios.msg.20150329121120b1ebd5451a8449a8ae50528b6c925d0f@1427631080381.rte-svc-fe-2b-i-5d7a786e.us-west-2.amazon.com>
+
+------=_Part_1783344_339873543.1427631080379
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: quoted-printable
+
+hobby.division@sportshobby.co.jp=1B$BMM!"=1B(B
+
+Amazon.co.jp=1B$B$K=3DPIJ$5$l$?>&IJ$KBP$9$kCmJ8$,3NDj$$$?$7$^$7$?!#=1B(B
+
+=1B$B$3$N=1B(BE=1B$B%a!<%k$N<j=3Dg$K=3D>$C$F!">&IJ$r=3DP2Y$7!"=3DP2YDLCN$rA=
+w?.$7$F$/$@$5$$!#=1B(B
+
+=1B$BCmJ8HV9f=1B(B: 249-6181262-5667013
+
+=1B$B0J2<$N>&IJ$rH/Aw$7$F$/$@$5$$!#=1B(B
+
+=1B$B>&IJ=1B(B: LRP LR50643 =1B$B%Y%/%?!<=1B(B X20 =1B$B%V%i%7%l%9%b!<%?!<=
+=1B(B 10.5T
+=1B$B%3%s%G%#%7%g%s!'=1B(B =1B$B?7IJ=1B(B
+=1B$B=3DPIJ=1B(BID: 1220OH3VIRF
+SKU: II-TDK8-WNZ5
+=1B$B?tNL=1B(B: 1
+=1B$BCmJ8F|=1B(B: 2015/03/29
+=1B$B2A3J=1B(B: =1B$B!o=1B(B 9558
+=1B$BG[AwNA=1B(B: =1B$B!o=1B(B 1296
+Amazon=1B$B<j?tNA=1B(B: (=1B$B!o=1B(B 1086)
+=1B$B?69~6b3[9g7W=1B(B: =1B$B!o=1B(B 9768
+=20
+- - - - - - - - - - - - - - - - - - -
+
+1) =1B$BG<IJ=3Dq$N0u:~$K$D$$$F=1B(B
+
+=1B$BCmJ84IM}%Z!<%8$G!VG<IJ=3Dq$r0u:~!W%\%?%s$r%/%j%C%/$7!"G<IJ=3Dq$r0u:~$7=
+$^$9!#G[Aw6H<T$r<jG[$7!">&IJ$rH/Aw$7$^$9!#>\$7$/$O!"=3DPIJ<TMQ%X%k%W%Z!<%8$=
+r!VG[Aw!W$G8!:w$7$F$/$@$5$$!#=1B(B
+=1B$B>&IJH/Aw8e$K$O!"I,$:=3DP2YDLCN$rAw?.$7$F$/$@$5$$!#=3DP2YDLCN$,Aw?.$5$l=
+$k$H!"=1B(BAmazon=1B$B$O!"9XF~<T$KBe6b$r@A5a!"=3DPIJ<T$N%Z%$%a%s%H%"%+%&%s%=
+H$KGd>e$r7W>e$7!"G[Aw4XO"$N>pJs$r9XF~<T$KDLCN$7$^$9!#=3DP2YDLCN$N<j=3Dg$K$D=
+$$$F>\$7$/$O0J2<$r$4Mw$/$@$5$$!#=1B(B
+
+
+2) =1B$B=3DP2YDLCN$K$D$$$F=1B(B
+
+=1B$BCmJ84IM}%Z!<%8$+$i!V=3DP2YDLCN$rAw?.!W%\%?%s$r%/%j%C%/$7!">\:Y$rF~NO$7=
+$^$9!#=3DP2YDLCN$rAw?.8e!"=1B(BAmazon=1B$B$O>&IJBe6b$r9XF~<T$K@A5a$7!"9XF~<=
+T$K>&IJ$,=3DP2Y$5$l$?$3$H$r$*CN$i$;$k=1B(BE=1B$B%a!<%k$rAw?.$7$^$9!#>\$7$/$=
+O!"=3DPIJ<TMQ%X%k%W%Z!<%8$r!V=3DP2YDLCN!W$G8!:w$7$F$/$@$5$$!#=1B(B
+
+=1B$BE,MQ$5$l$k>l9g$O!VG[AwJ}K!!W$*$h$S!V%H%i%C%-%s%0=1B(BID/=1B$BLd$$9g$o$=
+;HV9f!W$rF~NO$7$^$9!#=1B(B
+
+=1B$B%U%!%$%k$r;H$C$FJ#?t$NCmJ8$N=3DP2YDLCN$r0l3g$G9T$&J}K!$K$D$$$F>\$7$/$O=
+!"!V=3DP2YDLCN!J0l3gDLCN!K!W$N%-!<%o!<%I$G%X%k%W%Z!<%8$r8!:w$7$F$/$@$5$$!#=
+=1B(B =20
+
+3) =1B$B$*;YJ'$$$K$D$$$F=1B(B
+
+=1B$B=3DP2YDLCN$NAw?.8e!"=3DPIJMQ%"%+%&%s%H$KBe6b$r7W>e$7$^$9!#7W>e$5$l$?Be=
+6b$O7h:Q<~4|$K4p$E$$$F7h:Q$,9T$o$l!"EPO?$5$l$F$$$k?69~8}:B$X?6$j9~$_<jB3$-$=
+,3+;O$5$l$^$9!#?6$j9~$_<jB3$-$N3+;O$+$i6d9T8}:B$X$NF~6b$^$G!"=1B(B6-10=1B$B=
+1D6HF|$[$I$+$+$k>l9g$,$"$j$^$9!#=1B(B
+
+
+=1B$B?6$j9~$_=3DhM}$,BZ$k$3$H$N$J$$$h$&!"?69~@h6d9T8}:B$N>pJs$,>o$K:G?7$N$b=
+$N$G$"$k$3$H$r$43NG'$/$@$5$$!#>\$7$/$O!"=3DPIJMQ%X%k%W%Z!<%8$r!V;YJ'$$!!7h:=
+Q!W$G8!:w$7$F$/$@$5$$!#=1B(B
+
+=1B$BCmJ8$N%-%c%s%;%k$K$D$$$F=1B(B
+=1B$B=3DPIJ<T$O=3DPIJCf$N>&IJ$N:_8K$r3NJ]$7$F$$$kI,MW$,$"$j$^$9$,!"2?$i$+$N=
+;v>p$K$h$j!">&IJ$rH/Aw$G$-$J$$>l9g$O!"CmJ84IM}%Z!<%8$+$i!VCmJ8%-%c%s%;%k!W%=
+\%?%s$r%/%j%C%/$7$^$9!#CmJ8%-%c%s%;%k$N<jB3$-$,40N;$9$k$H!"CmJ8$,%-%c%s%;%k=
+$5$l$?$3$H$r$*CN$i$;$9$k=1B(BE=1B$B%a!<%k$r=1B(BAmazon=1B$B$+$i9XF~<T$KAw?.=
+$7$^$9!#>\$7$/$O!"=3DPIJ<TMQ%X%k%W%Z!<%8$r!VCmJ8%-%c%s%;%k!W$G8!:w$7$F$/$@$=
+5$$!#=1B(B
+
+
+=1B$B>&IJ$NJVIJ$K$D$$$F=1B(B
+=1B$B=3DP2YDLCN$NAw?.8e$KCmJ8$r%-%c%s%;%k$9$k$3$H$O$G$-$^$;$s!#=3DP2YDLCN$N=
+Aw?.8e$K!"2?$i$+$NM}M3$GCmJ8$r<h$j>C$9I,MW$,$"$k>l9g$O!"9XF~<T$K>&IJ$NJVIJ$=
+r0MMj$7!"Be6b$rJV6b$7$^$9!#=1B(B
+=1B$B>\$7$/$O!"=3DPIJ<TMQ%X%k%W%Z!<%8$r!VJV6b!!!W$G8!:w$7$F$/$@$5$$!#=1B(B
+
+=1B$B:_8K$r3NG'$7$F$/$@$5$$=1B(B
+=1B$BCmJ8$5$l$?>&IJ$,!":_8K$r>o$KJd=3D<$7$F$$$k>&IJ$@$C$?>l9g$O!":_8K4IM}%D=
+!<%k$G;D?tNL$r$43NG'$/$@$5$$!#=1B(B
+
+=1B$B$=3D$NB>$N<ALd$K$D$$$F$O!"=3DPIJMQ%"%+%&%s%H$K%m%0%$%s$7!"2hLL1&>e$KI=
+=3D<($5$l$k!V%X%k%W!W$r%/%j%C%/$7!"%X%k%W%Z!<%8$+$i$43NG'$$$?$@$1$^$9!#=1B(=
+B
+
+=1B$B:#8e$H$b=1B(BAmazon.co.jp=1B$B$r$h$m$7$/$*4j$$$$$?$7$^$9!#=1B(B
+
+Amazon.co.jp
+
+(=1B$B$3$N=1B(BE=1B$B%a!<%k%"%I%l%9$OG[?.@lMQ$G$9!#$3$N%a!<%k$KJV?.$7$J$$$h=
+$&$*4j$$$$$?$7$^$9!#=1B(B)
+
+------=_Part_1783344_339873543.1427631080379--

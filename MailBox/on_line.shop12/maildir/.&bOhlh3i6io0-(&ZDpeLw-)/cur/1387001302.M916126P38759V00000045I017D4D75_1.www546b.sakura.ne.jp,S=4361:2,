@@ -1,0 +1,82 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham
+	version=3.3.2
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBE67faD045008
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 14 Dec 2013 15:07:41 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+X-Nat-Received: from [112.78.125.46]:56632 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1387001261.19637
+Received: from rakuten.co.jp (mxtr102c.rakuten.co.jp [202.72.52.125])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBE67fDm045002
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 14 Dec 2013 15:07:41 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat101d.db.rakuten.co.jp [172.26.38.21])
+	by mxtr105c.rakuten.co.jp (Rakuten MGw 1.3.7) with ESMTP id EE5F9130DDCE
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 14 Dec 2013 15:07:40 +0900 (JST)
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat101d.db.rakuten.co.jp (Switch-3.3.4/Switch-3.3.3) with ESMTP id rBE67I7o010707
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 14 Dec 2013 15:07:40 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0120130400; t=1387001260;
+	bh=ZX52177uQWz1w7ODBY8jfIrJTUKP9s561Q8ZGLsHdz8=;
+	h=Date:From:Reply-To:To:Cc:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=lBpsUBWEr6pQ37/ammcLobO8V3t9LoGYN66sQ88L8+dF8l2/i3P/iKTJooMbW7lUx
+	 wcKJ6w3dLYffE12FQzgAB8qGPTPUSOfOaeJd5nELpQKBJmzTbjOmKVWhWq440Ha+Sx
+	 PN5RwoCS8KCPL0eubFCutFShg9IwFzlIUOuk6lyQ=
+Received: from rakuten.co.jp ([matqor204zc.zd.rakuten.co.jp [172.18.92.15]]) by mat101d.db.rakuten.co.jp with ESMTP id rBE67e8s012277 ;
+          Sat, 14 Dec 2013 15:07:40 +0900
+Date: Sat, 14 Dec 2013 15:07:40 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: 2f051944432c57a3a80b6e79906345ebs1@dm.fw.rakuten.ne.jp,
+        on_line.shop12@sportshobby.co.jp
+To: 2f051944432c57a3a80b6e79906345ebs1@dm.fw.rakuten.ne.jp
+Cc: on_line.shop12@sportshobby.co.jp
+Message-ID: <201312141507.rBE67e8s012277@mat101d.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3IVtDbUo4RmJNRiQ0M05HJxsoQigbJEI3SEJTGyhCKQ==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.18.92.15
+X-Rams-Id: 9354C953E57FD5A4028254DB3FA74AF3881D1F6D
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 14122013 #7126854, status: clean
+
+注文内容は以下のﾍﾟｰｼﾞからﾕｰｻﾞID･ﾊﾟｽﾜｰﾄﾞを入力しご確認ください｡
+https://m.order.my.rakuten.co.jp/
+⇒ｱｸｾｽ出来ない方はこちら
+(https://order.my.rakuten.co.jp/)
+
+[商品] ｸﾛｰﾗｰﾎｲｰﾙ用ｳｪｲﾄ(鉛ﾚｽ) 630円×2
+RC4WD Raceline Monster 1.9 ｱﾙﾐﾋﾞｰﾄﾞﾛｯｸﾎｲｰﾙ4本 (zw0140) 13800円×1
+[今回獲得するﾎﾟｲﾝﾄ]150
+[受注番号] 243411-20131214-0180271106
+※上記の番号にﾘﾝｸが表示されている場合でもこのﾘﾝｸから楽天市場やｼｮｯﾌﾟへのお問い合わせはできません｡
+[ｼｮｯﾌﾟ情報] ｽﾎﾟｰﾂﾎﾋﾞｰ hobby.division@sportshobby.co.jp 011-773-5090
+【ご注意】
+ｼｮｯﾌﾟや楽天からﾒｰﾙが届かない場合がありますので､以下のﾄﾞﾒｲﾝを許可ﾄﾞﾒｲﾝとして追加をしてください
+ｼｮｯﾌﾟﾄﾞﾒｲﾝ:sportshobby.co.jp
+楽天ﾄﾞﾒｲﾝ:rakuten.co.jp
+
+※送料等の諸費用は変わる場合があります｡
+
+【PR】Xmas特集2013 ﾎﾟｲﾝﾄ最大10倍も!ｹｰｷにﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://r10.to/hhh9kp
+
+【PR】楽天ｶｰﾄﾞ入会でもれなく2,000円ﾎﾟｲﾝﾄﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://rac.rakuten.co.jp/2964/
+
+【PR】楽天Edyｱﾌﾟﾘをﾀﾞｳﾝﾛｰﾄﾞするだけで400ﾎﾟｲﾝﾄ!!
+ ⇒http://r10.to/hJ999p
+
+
+※商品に関するお問い合わせは上記のｼｮｯﾌﾟにご連絡ください｡このﾒｰﾙに返信されてもお答えできません｡
+※楽天市場に関する問い合わせは､楽天ﾄｯﾌﾟ( http://m.rakuten.co.jp/ )のご利用ｶﾞｲﾄﾞをご覧ください｡
+⇒ｱｸｾｽ出来ない方はこちら
+(http://event.rakuten.co.jp/mobile/iphone/help/)
+
+楽天市場(楽天株式会社)
+http://m.rakuten.co.jp/sportshobby/

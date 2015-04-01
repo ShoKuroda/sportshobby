@@ -1,0 +1,57 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.5 required=7.0 tests=BAYES_99,BODY_URI_ONLY,
+	HTTP_EXCESSIVE_ESCAPES,MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: herbalgenericsdeal.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9919]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: herbalgenericsdeal.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: herbalgenericsdeal.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: herbalgenericsdeal.ru]
+	*  1.6 HTTP_EXCESSIVE_ESCAPES URI: Completely unnecessary %-escapes inside
+	*      a URL
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: herbalgenericsdeal.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav302.sakura.ne.jp (fsav302.sakura.ne.jp [153.120.85.133])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sA4L5JuB081365
+	for <hobby.division@sportshobby.co.jp>; Wed, 5 Nov 2014 06:05:19 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav302.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp);
+ Wed, 05 Nov 2014 06:05:19 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp)
+Received: from 68.173.71.76 (cpe-68-173-71-76.nyc.res.rr.com [68.173.71.76])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id sA4L5HGZ081354
+	for <hobby.division@sportshobby.co.jp>; Wed, 5 Nov 2014 06:05:18 +0900 (JST)
+Date: Wed, 5 Nov 2014 06:05:17 +0900 (JST)
+Message-Id: <201411042105.sA4L5HGZ081354@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (mrasko2002@investrmi.com@29.44.100.56)
+	by 68.173.71.76 with ESMTPA; Tue, 4 Nov 2014 16:06:36 -0500
+From: mrasko2002@investrmi.com
+To: hobby.division@sportshobby.co.jp
+Subject: Do you wish to amaze your lady at night?
+
+Big masculinity can satisfy her https://www.google.com/url?q=http%3A%2F%2F%68%65c%6Bli%6E%67%2Ehe%72ba%6Cgen%65r%69%63s%64%65al%2E%72%75%2F&sa=D&usg=AFQjCNFLvOEc1Ze8ZJIcXQFVuKZZm5QtHw
+

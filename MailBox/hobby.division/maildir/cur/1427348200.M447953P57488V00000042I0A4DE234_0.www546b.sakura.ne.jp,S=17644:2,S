@@ -1,0 +1,338 @@
+Return-Path: <info@e.crmstyle.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.3 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,HTML_IMAGE_RATIO_04,HTML_MESSAGE,HTTPS_HTTP_MISMATCH,
+	TVD_SPACE_ENC_FM_MIME,T_REMOTE_IMAGE,URIBL_BLOCKED,URIBL_SBL autolearn=no
+	version=3.3.2
+Received: from fsav206.sakura.ne.jp (fsav206.sakura.ne.jp [210.224.168.168])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2Q5aaTT057485
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 14:36:36 +0900 (JST)
+	(envelope-from info@e.crmstyle.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav206.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp);
+ Thu, 26 Mar 2015 14:36:36 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp)
+Received: from mail196a.crmstyle.com (mail196a.crmstyle.com [113.39.92.196])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2Q5aa3M057482
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 14:36:36 +0900 (JST)
+	(envelope-from info@e.crmstyle.com)
+DKIM-Signature: v=1; a=rsa-sha256; d=crmstyle.com; s=v000; c=relaxed/simple;
+	q=dns/txt; i=@crmstyle.com; t=1427348195;
+	h=From:Subject:Date:To:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=Z/h67P3MUD5atBUAcjQbfMw4xJ2y34o8Lgt9wdAxhDU=;
+	b=lnGkxhWiUg+JZKaOqdv1vRo/sinmjaMyjfvXMXhxmiHtgcqJ/F9bTxASdxoyNVGy
+	XUKFVE/fKiEvCwMhXhBbLIjcUg4Ws8jxDySChKU1NeJO7f0MuffFW2aj55lQJHLD
+	vmUpssbuKENEWcrA7NvHzSCanU/wi3IEzwbsoaqdzzI=;
+Received: from [172.27.15.108] ([172.27.15.108:51831] helo=mta008.crmstyle.com)
+	by mom03.crmstyle.com (envelope-from <info@e.crmstyle.com>)
+	(ecelerity 3.5.0.36377 r(Momo-dev:3.5.0-hotfix1)) with ESMTP
+	id 5C/76-14772-3EA93155; Thu, 26 Mar 2015 14:36:35 +0900
+Received: from s006.crmstyle.com (unknown [172.27.15.12])
+	by mta008.crmstyle.com (Postfix) with ESMTP id 5AADC4108
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 14:36:35 +0900 (JST)
+Message-ID: <14453432.1427348194386.JavaMail.tomcat@s006.crmstyle.com>
+Date: Thu, 26 Mar 2015 14:36:34 +0900 (JST)
+From: =?ISO-2022-JP?B?GyRCM1pFN0JnM1gbKEI=?= <rakuten-daigaku@mail.rakuten.com>
+Reply-To: rakuten-daigaku@mail.rakuten.com
+To: hobby.division@sportshobby.co.jp
+Subject: =?ISO-2022-JP?B?GyRCOXVFRCEhTVs7Uk1NIVobKEI=?=
+ =?ISO-2022-JP?B?UlV4GyRCREw/LiFbISEbKEI=?=
+ =?ISO-2022-JP?B?GyRCIVYlXCU/JXMbKEIxGyRCJEQkRxsoQg==?=
+ =?ISO-2022-JP?B?GyRCJDMkcyRKJEtKUSRvJGshKhsoQg==?=
+ =?ISO-2022-JP?B?GyRCIVchISVXJW0kLDY1JCgkaz4mSUo7IzFGJE4lMxsoQg==?=
+ =?ISO-2022-JP?B?GyRCJUQhISFaMGw1cxsoQjE3?=
+ =?ISO-2022-JP?B?GyRCOVY6QiIhTDVOQTh4MyshWxsoQg==?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_898163_30410874.1427348194382"
+Content-Transfer-Encoding: 7bit
+X-SM-SendConf: pcbb
+X-SM-ID: S7174102000005737
+X-Sequence: 7174102000005737
+X-Priority: 3
+
+------=_Part_898163_30410874.1427348194382
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　■楽天大学　RUx通信　コンテンツリリースのお知らせ
+　　　　　　　──　店舗運営　is　Entertainment！　──
+──────────────────────────────────
+　RUxをまだ見たことがない方は以下のURLよりログインしてください。
+
+　RUxログインURL
+　http://f.msgs.jp/r/c.do?7M_16La_h_pcbb
+
+【ログイン情報〜初めての場合〜】
+　お名前をご入力ください： sportshobby（店舗URL）
+　メールアドレス：hobby.division@sportshobby.co.jp（連絡先E-mailアドレス）
+　パスワードを作成：半角英数字6文字以上でご設定下さい
+
+　既に見たことがあるという方はこちら
+　→ http://f.msgs.jp/r/c.do?7N_16La_h_pcbb
+　パスワードをお忘れの方はこちら
+　→ http://f.msgs.jp/r/c.do?7O_16La_h_pcbb
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　※こちらのメールは送信専用です。 
+
+
+スポーツホビー
+黒田　陽子様
+
+
+
+こんにちは！楽天大学　吉川です。
+
+今回は、数多くのテレビＣＭや広告写真を制作している
+amanaグループが監修した
+Creative Techniques 商品画像撮影・動画制作講座-のご紹介です（無料）。
+
+http://f.msgs.jp/r/c.do?7P_16La_h_pcbb
+（ＲＵｘページに遷移します）
+
+
+せっかくなので、このRUx通信を見てくださった方に、
+商品写真はもちろん、
+入学式やお花見などの写真を撮る時に使える
+コネタをひとつだけご紹介しますね。
+（講座内でもお伝えしています）
+
+
+■下記リンクのＡとＢの写真
+どちらがスタイル良くみえますか？（iPhoneで撮影）
+http://f.msgs.jp/r/c.do?7Q_16La_h_pcbb
+
+
+楽天大学メンバーに聞くと
+Ｂのほうがスタイルが良いという声が多かったです。
+（Ａは少し顔が大きく写っているという声も・・・）
+
+
+実は、どんな違いがあるかというと、、
+http://f.msgs.jp/r/c.do?7R_16La_h_pcbb
+
+　・Ａの写真
+　　モデルに近い位置から撮影している
+
+　・Ｂの写真
+　　モデルから遠ざかり、
+　　カメラをズームして撮影している
+
+これ以外はまったく同じ条件で撮影しています。
+
+
+ちょっとしたポイントで、
+写真から受ける印象が変わるんですよね。
+ぜひ、ご自身の携帯でも実践してみてください。
+
+
+
+さて、このような商品撮影や動画作成の基本テクニックや、
+ジャンルごとの撮影テクニックを紹介する講座が
+今週から順次視聴開始となります！
+
+
+まず３月２４日に、
+商品画像作成　基礎編（全17講座）が視聴開始となりました！
+http://f.msgs.jp/r/c.do?7P_16La_h_pcbb
+（ＲＵｘページに遷移します）
+
+
+こちらの商品画像作成　基礎編では、
+写真撮影の土台となる４大項目を17講座にわけて
+お伝えしています！
+
+この中でも、最初におススメしたいのが、
+「画像作成の流れ」　という講座です。
+http://f.msgs.jp/r/c.do?7S_16La_h_pcbb
+
+
+こちらは基礎編でお伝えする、
+機材選択、写真の基準、撮影の流れ、画像編集の
+４大項目17コンテンツを５分で紹介しています。
+
+⇒初心者の方に特におススメです！
+
+
+各講座５分ほどの短い講座なので、
+商品写真撮影中や、ランチタイムはもちろん、
+スキマ時間にスマホでも確認することができますよ。
+
+今週を皮切りに、毎週１回
+静止画・動画講座が100本以上視聴開始となりますので、
+楽しみにお待ちくださいね。
+
+
+■クリエイティブテクニック 商品画像撮影・動画制作講座-
+ＲＵｘ視聴開始スケジュール（予定）
+
+　３月 24日   商品画像作成（基礎編）　全17講座
+　４月第１週　動画作成　　（基礎編）　全14講座
+　４月第２週　商品画像作成　　 グルメジャンル編　
+　
+※その他、コスメ、ジュエリー、インテリア、靴、
+ファッションなどのジャンル講座が順次視聴開始となります
+
+
+自店舗の商品写真や動画作成にぜひお役立てください。
+
+
+
+その他にも、
+一年で最大のギフト需要を取り込む母の日特集もリリースしています！
+http://f.msgs.jp/r/c.do?7T_16La_h_pcbb
+
+
+今週も最後までお読みいただき
+ありがとうございます！
+
+
+RUx最新情報は
+楽天大学のFacebookページへhttp://f.msgs.jp/r/c.do?7U_16La_h_pcbb
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+□ 楽天株式会社　楽天大学 
+　　http://f.msgs.jp/r/c.do?7V_16La_h_pcbb
+営業時間 　9:30〜18:00（土日祝休）
+
+--ご不明な点等ございましたら、下記よりお問い合わせください-----
+　　http://f.msgs.jp/r/c.do?7W_16La_h_pcbb
+RUx問い合わせ電話 ：050-5817-1119
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+------=_Part_898163_30410874.1427348194382
+Content-Type: text/html; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><HEAD>
+<META content="text/html; charset=Shift_JIS" http-equiv="Content-Type">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 11.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<DIV><BR></DIV>
+<DIV>
+<DIV style="TEXT-ALIGN: center" align=center>
+<TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD style="MAX-WIDTH: 700px" align=center>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=3 align=right border=0>
+              <TBODY>
+              <TR>
+                <TD align=right><FONT color=#5e5e5e size=-2>2015年3月26日 
+                </FONT></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD bgColor=#3f3f3f>
+            <TABLE cellSpacing=0 cellPadding=3 align=right border=0>
+              <TBODY>
+              <TR>
+                <TD align=right><FONT color=#ffffff 
+                  size=-2>【RUx通信】コンテンツリリースのお知らせ</FONT></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD>
+            <TABLE style="BORDER-BOTTOM: #cecece 1px solid" cellSpacing=0 
+            cellPadding=0 width="100%" border=0>
+              <TBODY>
+              <TR>
+                <TD><A target="_blank" href="http://f.msgs.jp/r/c.do?7M_16La_h_pcbb"><IMG 
+                  border=0 
+                  src="http://image.rakuten.co.jp/daigaku/cabinet/04311229/imgrc0065339397.jpg" 
+                  width=800 height=63></A></TD>
+                <TD></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD style="MAX-WIDTH: 700px; TEXT-ALIGN: left" align=left>
+      <P><BR>スポーツホビー<BR>黒田　陽子様<BR><BR><BR><BR>こんにちは！楽天大学　吉川です。<BR><BR>今回は、
+数多くのテレビＣＭや広告写真を制作している<BR>amanaグループが監修した<BR>Creative 
+      Techniques 商品画像撮影・動画制作講座のご紹介です（無料）。<BR><BR><A href="http://f.msgs.jp/r/c.do?7X_16La_h_pcbb">
+https://rakuten.udemy.com/courses/#/browse/967242?p=1&amp;pageSize=12</A><BR>（ＲＵｘページに遷移します）<BR><BR><BR>せっかくなので、
+このRUx通信を見てくださった方に、<BR>商品写真はもちろん、<BR>入学式やお花見などの写真を撮る時に使える<BR>コネタをひとつだけご紹介しますね。
+<BR>（講座内でもお伝えしています）<BR><BR><BR>■下記リンクのＡとＢの写真<BR>どちらがスタイル良くみえますか？（iPhoneで撮影）<BR><BR><IMG 
+      border=0 hspace=0 alt="" align=baseline 
+      src="http://image.rakuten.co.jp/daigaku/cabinet/04293653/04337858/imgrc0065475724.jpg"><BR><BR><BR>楽天大学メンバーに聞くと
+<BR>Ｂのほうがスタイルが良いという声が多かったです。<BR>（Ａは少し顔が大きく写っているという声も・・・）<BR><BR><BR>実は、どんな違いがあるかというと、、<BR><BR><IMG 
+      border=0 hspace=0 alt="" align=baseline 
+      src="http://image.rakuten.co.jp/daigaku/cabinet/04293653/04337858/imgrc0065475389.jpg"><BR><BR><BR>　・Ａの写真<BR>　　
+モデルに近い位置から撮影している<BR><BR>　・Ｂの写真<BR>　　モデルから遠ざかり、<BR>　　カメラをズームして撮影している
+<BR><BR>これ以外はまったく同じ条件で撮影しています。<BR><BR><BR>ちょっとしたポイントで、<BR>写真から受ける印象が変わるんですよね。
+<BR>ぜひ、ご自身の携帯でも実践してみてください。<BR><BR><BR><BR>さて、このような商品撮影や動画作成の基本テクニックや、
+<BR>ジャンルごとの撮影テクニックを紹介する講座が<BR>今週から順次視聴開始となります！<BR><BR><BR>まず３月２４日に、
+<BR>商品画像作成　基礎編（全17講座）が視聴開始となりました！<BR><A href="http://f.msgs.jp/r/c.do?7X_16La_h_pcbb">
+https://rakuten.udemy.com/courses/#/browse/967242?p=1&amp;pageSize=12</A><BR>（ＲＵｘページに遷移します）<BR><BR><BR>こちらの商品画像作成　基礎編では、
+<BR>写真撮影の土台となる４大項目を17講座にわけて<BR>お伝えしています！<BR><BR>この中でも、最初におススメしたいのが、<BR>「画像作成の流れ」　という講座です。
+<BR><A href="http://f.msgs.jp/r/c.do?7S_16La_h_pcbb">https://rakuten.udemy.com/ctmovie11/#/</A><BR><BR><BR>こちらは基礎編でお伝えする、<BR>機材選択、
+写真の基準、撮影の流れ、画像編集の<BR>４大項目17コンテンツを５分で紹介しています。<BR><BR><FONT 
+      color=#ff0000>⇒初心者の方に特におススメです！</FONT><BR><BR><BR>各講座<STRONG>５分ほどの短い講座</STRONG>なので、
+<BR>商品写真撮影中や、ランチタイムはもちろん、<BR>スキマ時間にスマホでも確認することができますよ。<BR><BR>今週を皮切りに、毎週１回
+<BR>静止画・動画講座が100本以上視聴開始となりますので、<BR>楽しみにお待ちくださいね。<BR><BR><BR>■クリエイティブテクニック 
+      商品画像撮影・動画制作講座<BR>ＲＵｘ視聴開始スケジュール（予定）<BR><BR>　３月 24日 
+      商品画像作成（基礎編）　全17講座<BR>　４月第１週　動画作成　　（基礎編）　全14講座<BR>　４月第２週　商品画像作成　　 
+      グルメジャンル編　<BR>　<BR>※その他、コスメ、ジュエリー、インテリア、靴、<BR>ファッションなどのジャンル講座が順次視聴開始となります<BR><BR><BR>
+自店舗の商品写真や動画作成にぜひお役立てください。<BR><BR><BR>その他にも、<BR>一年で最大のギフト需要を取り込む母の日特集もリリースしています！
+<BR><BR><A href="http://f.msgs.jp/r/c.do?7T_16La_h_pcbb">
+<IMG border=0 src="http://image.rakuten.co.jp/daigaku/cabinet/04311229/imgrc0065483362.jpg"></A> 
+      <BR><A href="http://f.msgs.jp/r/c.do?7T_16La_h_pcbb">http://university.rakuten.co.jp/rux/feature/</A><BR><BR><BR>
+今週も最後までお読みいただき<BR>ありがとうございます！<BR><BR><BR></P><BR>
+      <TABLE cellSpacing=0 cellPadding=4 width=700 border=0>
+        <TBODY>
+        <TR>
+          <TD bgColor=#3f3f3f><FONT color=#ffffff 
+            size=-1><B>■ログインID・ご利用方法について</B></FONT></TD></TR></TBODY></TABLE><FONT 
+      size=-1>　RUxをまだ見たことがない方は以下のURLよりログインしてください。<BR><BR>　RUxログインURL<BR>
+</FONT><A href="http://f.msgs.jp/r/c.do?7M_16La_h_pcbb">https://rakuten.udemy.com/</A><BR><BR>【ログイン情報〜初めての場合〜】<BR>　お名前をご入力ください： 
+sportshobby（店舗URL） 
+      <BR>　メールアドレス：hobby.division@sportshobby.co.jp（連絡先E-mailアドレス）<BR>　パスワードを作成：半角英数字6文字以上でご設定下さい 
+      <BR><BR>　既に見たことがあるという方はこちら<BR>　→ <A href="http://f.msgs.jp/r/c.do?7N_16La_h_pcbb">
+https://rakuten.udemy.com/join/login-popup/</A><BR>　パスワードをお忘れの方はこちら<BR>　→ 
+      <A href="http://f.msgs.jp/r/c.do?7O_16La_h_pcbb">https://rakuten.udemy.com/user/forgot-password/</A> 
+      <BR><BR><IMG border=0 
+      src="http://image.rakuten.co.jp/daigaku/cabinet/04293653/imgrc0065245234.jpg" 
+      width=787 height=425><BR>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY></TBODY></TABLE><BR><IMG border=0 
+      src="http://image.rakuten.co.jp/daigaku/cabinet/04293653/imgrc0065245235.jpg" 
+      width=799 height=380><BR>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE><BR>　<IMG border=0 
+      src="http://image.rakuten.co.jp/daigaku/cabinet/04293653/imgrc0065245236.jpg" 
+      width=779 height=365>　<BR>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <DIV>　</DIV>　<IMG border=0 
+      src="http://image.rakuten.co.jp/daigaku/cabinet/04293653/imgrc0065245237.jpg" 
+      width=533 height=682>　<BR><BR>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE><BR>
+      <TABLE cellSpacing=0 cellPadding=4 width=700 border=0>
+        <TBODY></TBODY></TABLE><BR>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>RUx最新情報は<BR>楽天大学のFacebookページへ<A href="http://f.msgs.jp/r/c.do?7U_16La_h_pcbb"> 
+      https://www.facebook.com/rakutendaigaku</A><BR>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+      <BR>□ 楽天株式会社　楽天大学 <BR>　　<A href="http://f.msgs.jp/r/c.do?7V_16La_h_pcbb">http://university.rakuten.co.jp/</A><BR>営業時間 
+      　9:30〜18:00（土日祝休）<BR><BR>--ご不明な点等ございましたら、下記よりお問い合わせください-----<BR>　　RUx問い合わせ電話 
+      ：050-5817-1119<BR>　　<A href="http://f.msgs.jp/r/c.do?7W_16La_h_pcbb">https://rakuten.secure.force.com/daigaku</A><BR><BR>　〒140-0002<BR>　東京都品川区東品川4-12-3 
+      品川シーサイド楽天タワー<BR>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <BR>
+      <TABLE cellSpacing=5 cellPadding=0 width=700 border=0>
+        <TBODY>
+        <TR></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=4 width=700 border=0>
+        <TBODY></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></DIV></BODY></HTML>
+<img src="http://f.msgs.jp/webbeacon.gif?s=264316&r=17&d=pcbb" width="0" height="0" />
+------=_Part_898163_30410874.1427348194382--
+

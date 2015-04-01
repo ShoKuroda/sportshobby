@@ -1,0 +1,74 @@
+Return-Path: <yw1@a.5ge4.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.5 required=7.0 tests=BAYES_50,DEAR_SOMETHING,
+	DKIM_SIGNED,FREEMAIL_FORGED_REPLYTO,T_DKIM_INVALID,URIBL_BLOCKED,
+	URIBL_DBL_SPAM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.0 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: colorppgitiles.com]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4999]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: colorppgitiles.com]
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+	*  2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s8PNSoAQ015199
+	for <hobby.division@sportshobby.co.jp>; Fri, 26 Sep 2014 08:28:50 +0900 (JST)
+	(envelope-from yw1@a.5ge4.net)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Fri, 26 Sep 2014 08:28:50 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from a.5ge4.net ([107.151.217.14])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s8PNSn7x015195
+	for <hobby.division@sportshobby.co.jp>; Fri, 26 Sep 2014 08:28:50 +0900 (JST)
+	(envelope-from yw1@a.5ge4.net)
+Received: from fmubiqxen (unknown [117.84.195.47])
+	by a.5ge4.net (Postfix) with ESMTPA id CDC4E51CFB
+	for <hobby.division@sportshobby.co.jp>; Fri, 26 Sep 2014 07:33:03 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=a.5ge4.net;
+	s=default; t=1411687984;
+	bh=+i0i8w1gjwu7WxwOaHAVQVCZO1jhYzpwJRROJVtY10w=;
+	h=Date:From:Reply-To:To:Subject;
+	b=voOcJKHjjTZgwLCr+DN4mrsVy8QfG/BVQy3U/jfzxIdDXscCesyD05zTDtEkx3Rsd
+	 uE9ix3GMvqiDciPWAgL+KFLk4wPrRJRnOSOQKFMmQNZePbdpMduQJzDW3y/hQNWk6A
+	 P3r2Qymhb9wIQlBXxUGo3BZl03mrQInUs5ppR2xQ=
+Date: Fri, 26 Sep 2014 07:28:46 +0800
+From: "Steven Zhang" <yw1@a.5ge4.net>
+Reply-To: dragon.ascendas@yahoo.com
+To: "hobby.division" <hobby.division@sportshobby.co.jp>
+Subject: Re: Stone Coated Roofing Tiles
+Message-ID: <201409260728462340369@a.5ge4.net>
+X-Mailer: Foxmail 6, 10, 201, 20 [cn]
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id s8PNSoAQ015199
+
+Dear Sir/Madam,
+
+Hello,this Steven Zhang from Dragon Ascendas Industrial Limited, our company is a professional stone coated steel roof and prepainted steel with special color manufacturer with years¡¯s experience. so we want to avail ourselves of opportunity establishing business relation with you.
+
+Please link our company web site: www.colorppgitiles.com 
+
+After you visit our website, you will find what you need. 
+
+If you want to know more about our products, can contact me any time.
+
+Thanks&Best regards
+
+Steven Zhang  
+Dragon Ascendas Industrial Limited             
+ADD:Jiangyin Industry Park, Jiangyin City Jiangsu China
+E-mail:sales@dragon-ascendas.com
+Web: www.colorppgitiles.com
+

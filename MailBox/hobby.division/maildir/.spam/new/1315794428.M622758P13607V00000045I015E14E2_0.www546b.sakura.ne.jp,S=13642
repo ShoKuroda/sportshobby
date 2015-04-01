@@ -1,0 +1,458 @@
+Return-Path: <return-163-2300@bind-tec.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.7 required=7.0 tests=DKIM_ADSP_CUSTOM_MED,
+	FORGED_MUA_OUTLOOK,FREEMAIL_FROM,MSOE_MID_WRONG_CASE,NML_ADSP_CUSTOM_MED,
+	STOX_REPLY_TYPE,STOX_REPLY_TYPE_WITHOUT_QUOTES,TO_NO_BRKTS_MSFT,
+	T_TO_NO_BRKTS_FREEMAIL,URI_HEX autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.2 STOX_REPLY_TYPE STOX_REPLY_TYPE
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (office_k_you[at]yahoo.co.jp)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.3 URI_HEX URI: URI hostname has long hexadecimal sequence
+	*  3.4 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  1.9 STOX_REPLY_TYPE_WITHOUT_QUOTES STOX_REPLY_TYPE_WITHOUT_QUOTES
+	*  1.2 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  1.0 TO_NO_BRKTS_MSFT To: misformatted and supposed Microsoft tool
+	*  2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  0.0 T_TO_NO_BRKTS_FREEMAIL To: misformatted and free email service
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p8C2R4YB013604
+	for <hobby.division@sportshobby.co.jp>; Mon, 12 Sep 2011 11:27:04 +0900 (JST)
+	(envelope-from return-163-2300@bind-tec.net)
+X-Nat-Received: from [112.78.125.46]:49346 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1315794424.7814
+Received: from c016.bind-tec.net (c016.bind-tec.net [175.45.140.134])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p8C2R4Qu013600
+	for <hobby.division@sportshobby.co.jp>; Mon, 12 Sep 2011 11:27:04 +0900 (JST)
+	(envelope-from return-163-2300@bind-tec.net)
+Received: from m01.bind-tec.net (m01.bind-tec.net [175.45.140.128])
+	by c016.bind-tec.net (OrangeSecureMailEngine) with ESMTP id A6671FC0A53
+	for <hobby.division@sportshobby.co.jp>; Mon, 12 Sep 2011 11:27:03 +0900 (JST)
+Received: from w01.bind-tec.net (w01.bind-tec.net [112.78.209.244])
+	by m01.bind-tec.net (Postfix) with ESMTP id 069C92AF0D44
+	for <hobby.division@sportshobby.co.jp>; Mon, 12 Sep 2011 11:27:00 +0900 (JST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by w01.bind-tec.net (Postfix) with ESMTP id EB37E1CE006F
+	for <hobby.division@sportshobby.co.jp>; Mon, 12 Sep 2011 11:26:59 +0900 (JST)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCOXVFRCEhTVs7UiQ1JHMhIkxMR3IkJCROSC84KyEqIVYbKEI=?=
+	=?iso-2022-jp?B?GyRCRnxLXENmJE48Z0lYIUpJVyFLJF8kcyRKJCxGLCRyRzokXiQ7JEEbKEI=?=
+	=?iso-2022-jp?B?GyRCJGMkJiEiS2hGfCROOCVOKSEqIVcbKEI=?=
+From: =?iso-2022-jp?B?GyRCMlQkMCEqSXs2SEIuSnMhViRkJGkkTSRQQy8kKyQsQGgbKEI=?=
+	=?iso-2022-jp?B?GyRCJEs5VCQvISohVxsoQg==?= <office_k_you@yahoo.co.jp>
+Message-Id: <8e6d0adede7cdef7f935c756193ea7a20f524d69@OS7>
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-2022-jp";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+Date: Mon, 12 Sep 2011 11:26:59 +0900 (JST)
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.44/RELEASE, bases: 12092011 #6216056, status: clean
+
+
+　こんにちは、オフ京です。(^_^)
+
+　本日も、開封していただきまして心より感謝の気持ちを申し上げます。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　■「稼ぐ！副業ネットビジネスシンプルな法則」“速報号外”■
+----------------------------------------------------------------------
+　 『やらねば誰かが先に行く！』　　　  produce by office K you
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　（期間限定の無料配布及び、お得な情報の配信をしております。）
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+　本メルマガは、各サービスからのご登録者様に配信しておりますが、万が一
+　身に覚えがなかったり、配信の必要がない場合はお手数をお掛け致しますが
+　下記よりメルマガ解除、配信停止等を行って頂くようお願い致します。
+
+　>>> http://6c9baf.bind-mail.com/pub/add.php?mid=8i87
+
+
+━[PR]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ご存知でしたか？
+
+大手プロパイダ【So-net】の無料モニターに参加するだけで
+５０００円も貰えちゃうなんて・・・
+
+⇒　http://6c9baf.bind-mail.com/l/8i871t159m256259
+
+
+そんでもって、登録した人はアフィリエイトもできちゃいます。
+
+お小遣い欲しい方も、アフィリエイトで稼ぐ方も
+お早目の行動が宜しいかと思います。(*^^)v
+
+⇒　http://6c9baf.bind-mail.com/l/8i872t159m256259
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[PR]━━
+
+
+こんにちは、オフ京です　(^.^)
+
+本日は、面白い案件をご紹介いたします。
+
+人間の生活に欠かせない“衣・食・住”ですが
+
+とりわけ“食”に関しては必要不可欠ですよね。
+
+その、食にまつわるお話です♪（これから、ランチならなお必見）
+
+
+
+----------------------------------------------------------------------
+
+　◆『日本中の主婦（夫）みんなが頭を悩ませちゃう、毎日の献立！』
+
+----------------------------------------------------------------------
+
+
+黒田　陽子さん　毎日、家族に喜んでもらえる献立を考えるのって 
+とても大変ですよね。 
+
+
+せっかくだったら「ちょっと変わったレシピ」で 
+家族をアッと言わせたい。 
+
+
+そんなニーズを叶えるレシピサイトには、 
+毎日強烈なアクセスが集まっていますね。 
+
+
+   …ちょっと待ってください。 
+
+
+どうせだったらまるで「クックパッド」のような 
+
+黒田　陽子さんだけの「グルメ・レシピサイト」に 
+アクセスを集めてみては？ 
+
+
+「今日は何にしようかな…」 
+
+
+PCを立ち上げてレシピサイトを… 
+
+
+その「ついで」と言っては何ですが、 
+
+アフィリエイトでお小遣いを稼ぐことができたらいい 
+と思いませんか？ 
+
+
+
+そんな夢のような仕組みがついに完成したのです。 
+
+
+　　『シュフリボンバー』 
+⇒　http://6c9baf.bind-mail.com/l/8i873t159m256259
+
+
+
+
+
+■『シュフリボンバー』とは？ 
+
+
+みんなが興味を持つ普段の行動を、そのままアフィリエイトに直結させ、 
+
+
+膨大なグルメ・レシピコンテンツが自動で作成され。 
+アクセスと収益を集め続ける！ 
+
+
+そんな数々の秘密の機能が満載の黒田　陽子さんだけのユニークな 
+オリジナルレシピ・グルメサイトを簡単構築できるソフトウェアです。 
+
+
+黒田　陽子さんは、普段のように、家族が喜ぶ献立を 
+「自分のサイトで検索」するだけ。 
+
+
+たったそれだけで、どんどんコンテンツが増加し、 
+
+
+黒田　陽子さんはご自分で記事を作らなくても、 
+人気のレシピ・グルメ情報を間単に運営できるのです。 
+
+
+「検索されたキーワード」を基に、 
+人気のレシピ・グルメ情報コンテンツを自動で生成し、 
+
+
+膨大な情報から、途方もないアクセスを呼び込み、 
+検索の商品とあなたが設定した広告から、収益を集め続けます。 
+
+
+毎日の献立を検索するだけで、アクセスと収入を集めたい… 
+
+
+今まで誰も考えつかなかった 
+新発想アフィリエイトシステムです。 
+
+
+その超強力な機能の全てを、じっくりとご覧ください。 
+
+
+　　　『シュフリボンバー』 
+　⇒　http://6c9baf.bind-mail.com/l/8i874t159m256259
+
+
+
+
+
+■『シュフリボンバー』で、 
+　黒田　陽子さんがすることは、たった２つだけ。 
+
+
+●黒田　陽子さんがすること　その1 
+
+マニュアルの通りに、簡単５STEPで 
+あなたのグルメ・レシピサイトをオープンさせます。 
+
+
+●黒田　陽子さんがすること　その2 
+
+普段通り毎日の献立やグルメ情報を見て、コンテンツを増やしましょう。 
+
+
+
+でも当然ながら、ここで手を止めてしまっては誰も来ません。 
+
+
+黒田　陽子さんが見たいレシピ情報やグルメ情報を、 
+必ず黒田　陽子さんのグルメ・レシピサイトでチェックする習慣をつけましょう。 
+
+
+最低100、できれば500ぐらいのコンテンツが出来るまでは、 
+習慣的に自分のサイトで、レシピやグルメの情報を閲覧しましょう。 
+
+
+見たいレシピやグルメ情報、口コミをどんどん検索して 
+楽しんでください。 
+
+
+できることであれば毎日簡単な日記を投稿してください。 
+
+
+オリジナル記事を作れば作るほど、 
+得られる効果も高まります。 
+
+
+たったそれだけのことで、 
+黒田　陽子さんのサイトには魅力的なコンテンツが 
+どんどん溜まることになるのです。 
+
+
+そして、そのコンテンツがたまった頃、 
+一度アクセスを集めはじめると、 
+
+
+このアクセスが検索したページが、 
+さらにサイトを大きく増殖し、 
+それがさらなるアクセスを生み出す。 
+
+
+完全放置の黒田　陽子さんだけのグルメ・レシピサイトが、 
+アクセスと収益をほったらかしで集め続けてくれます。 
+
+
+「自分が食べたいものや好きなものを調べる」 
+という行為を続けていくだけであれば、 
+
+
+黒田　陽子さんも楽しみながら、 
+アフィリエイトを継続できるのではありませんか？ 
+
+
+
+　　『シュフリボンバー』 
+⇒　http://6c9baf.bind-mail.com/l/8i875t159m256259
+
+
+
+
+
+■グルメ・レシピに特化したサイトだから....？ 
+
+心配はありません！ 
+
+
+特化したジャンルほど稼げるのは、ご存知の通りです。 
+
+
+また、「食」にまつわるカテゴリは、 
+万人が興味を持つ可能性があるため、ターゲットをあまり選ばないのです。 
+
+
+「毎日の献立」だけではなく、 
+デートのレストラン検索、子供のおやつのレシピ、今人気の食材 
+ダイエットやメタボ解消メニュー、など．．．何でもどうぞ！ 
+
+
+クリスマスやバレンタインのレシピを、 
+今から仕込んでおきたい黒田　陽子さんにも、ピッタリ。 
+
+
+黒田　陽子さんも、このカテゴリーに、膨大なコンテンツを持つ 
+黒田　陽子さんだけのグルメサイトを持ってみませんか？ 
+
+
+黒田　陽子さんがお悩みになっているこの時間に 
+ボーっとレシピを見ているだけでも、 
+魅力的なコンテンツが、どんでんできてしまいます。 
+
+
+ライバルの少ない今！ 
+
+
+早く始めて、この革新的なグルメ・レシピサイトの 
+アフィリエイト運営システムを立ち上げ、 
+ネット収入を獲得してください！ 
+
+
+ライバルの少ない今！ 
+『早く動いた人ほど多くのメリットが享受できる』 
+
+
+これは黒田　陽子さんが良くご存じのとおりです。 
+
+
+
+
+
+＞＞全ての「美味しい」をアフィリエイト収益に変える！ 
+
+　　　『シュフリボンバー』 
+　⇒　http://6c9baf.bind-mail.com/l/8i876t159m256259
+
+
+
+
+
+なんか、一石二鳥で面白いでしょ・・・
+
+現在、グルメ系のブログとか多い中で
+
+主婦（夫）の趣味と言うか日記と言うか
+
+今晩のおかず系ブログがはやっていますよね
+
+
+・・・えっ？！すでに書いている・・・ならさいこうですね♪
+
+この、『シュフリボンバー』は
+
+
+
+　あっ！一石三鳥でした(^^ゞ
+
+もちろん、購入者の黒田　陽子さんには
+
+オフ京の厳選特典から全ての特典を余すと来なく
+お届けさせて頂きます。
+
+　『オフ京厳選特典のご案内』
+
+　⇒　http://www.offkyou.net/hpb/tokuten/
+
+
+
+
+
+本日は、以上になります。<(_ _)>
+
+
+
+━━━[PR]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　◆ 現在、無料アフィリエイトキャンペーン中の稼げる情報 ◆
+
+　※登録するだけで無料で貰うことができる、動画やツール、セミナー等。
+　　そして、更にメルマガ・ブログ等の媒体で紹介すると収入が発生！
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━<<<<<無料案件ご紹介！ご登録後にアフィリエイトが可能です。>>>>>━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+　　『案件インサイダー情報』
+
+
+　◇「楽丸　by Amazon」
+　・超高機能なアフィリエイトサイト作成補助(自動生成)ツール、楽丸が帰ってきます。
+　　１件紹介につき５００円という高い報酬のツールです。（９月１３日１８時〜）
+
+　⇒　【近日公開】今、しばらくお待ちくださいませ。<(_ _)>
+
+
+　◇「次世代型のPPCノウハウ」
+　　１件紹介につき３００円という高い報酬の動画です（９月１３日〜）
+
+　⇒　【近日公開】今、しばらくお待ちくださいませ。<(_ _)>
+
+
+---------------------------------------------------------------------------
+
+
+　　　《本日、最終日となります。お急ぎくださいネ》
+
+
+　◆「MTSコピーライティングプロモーション」
+　１件紹介につき３００円という高い報酬のプログラムです。（〜９月１２日まで）
+
+　⇒　http://6c9baf.bind-mail.com/l/8i877t159m256259
+
+
+　◆「Change !！プロジェクト」
+　１件紹介につき３００円という高い報酬のプログラムです。（〜９月１２日まで）
+
+　⇒　http://6c9baf.bind-mail.com/l/8i878t159m256259
+
+--------------------------------------------------------------------------
+
+
+　　　《現在、人気の案件です！　(^.^)》
+
+
+　◆「秘密の６ステップ」
+　　１件紹介につき５００円という高い報酬の動画です。（〜９月１６日）
+
+　⇒　http://6c9baf.bind-mail.com/l/8i879t159m256259
+
+
+　◆「オンラインせどり」
+　　１件紹介につき３００円という高い報酬のレポート紹介です。（〜９月１６日）
+
+　⇒　http://6c9baf.bind-mail.com/l/8i8710t159m256259
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━<<<<<以上、無料案件ご紹介！【 随時更新中 】>>>>>━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+　メルマガ名：“速報号外”「やらねば誰かが先に行く！」
+　運営サイト：『ネットビジネス最前線アフィリエイトで稼ぐ法則』
+　サイトURL ：http://www.offkyou.net/
+　連絡メール：office_k_you☆yahoo.co.jp (☆→@)
+　発行担当者：加藤　勝　（オフ京）
+　発行者情報：http://www.offkyou.net/tokusyohou.html
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊

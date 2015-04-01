@@ -1,0 +1,72 @@
+Return-Path: <support@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav206.sakura.ne.jp (fsav206.sakura.ne.jp [210.224.168.168])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2LCuUq6023996
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 21 Mar 2015 21:56:30 +0900 (JST)
+	(envelope-from support@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav206.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp);
+ Sat, 21 Mar 2015 21:56:30 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp)
+Received: from mx61-007.smtp.rakuten.co.jp (mx61-007.smtp.rakuten.co.jp [202.72.61.7])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2LCuUh8023993
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 21 Mar 2015 21:56:30 +0900 (JST)
+	(envelope-from support@rakuten.co.jp)
+Received: from absktapi124c.db.rakuten.co.jp (absktapi124c.db.rakuten.co.jp [172.30.123.93])
+	by mxtr601zc.rakuten.co.jp (Rakuten MGW 2.0.0) with ESMTP id 3l8MRf2PCtz2hfn
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 21 Mar 2015 21:56:30 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=rakuten0702014040; t=1426942590;
+	bh=f5gZtn2zmFm17ogvv/KXdQ3MtpXOEflPwjOnqEsOmN4=;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=IhbISlpz8JGZ4e453EjPOIVvkigaWexUvfgXS4AT02I3dGHXYk2kjh61N34dgjmW2
+	 DjzTeaHjqaEr1tLP2vbcEQaOq5vEEtT8lceLkvQru3ZppQ/RI5rcYJahOeqkzuvlLG
+	 oS5Plap1qNnSljlgg3aIv7shPTxgKOBJa1Er9PUA=
+Received: from absktapi124c.db.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by absktapi124c.db.rakuten.co.jp (8.13.8/8.13.8) with ESMTP id t2LCuUDB017325
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 21 Mar 2015 21:56:30 +0900
+Date: Sat, 21 Mar 2015 21:56:30 +0900 (JST)
+From: support@rakuten.co.jp
+To: on_line.shop12@sportshobby.co.jp
+Message-ID: <25329853.6455.1426942590312.JavaMail.order@rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbOl84SyU8JW0kTiQqQ04kaSQ7GyhC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+スポーツホビー ご担当者様
+
+楽天市場よりお知らせいたします。
+御社でお取り扱いの商品
+「クレオス　Ｍｒ．カラー　０３３　つや消しブラック」
+「クレオス　Ｍｒ．カラー　０２８　黒鉄色（メタリック）」
+「クレオス　Ｍｒ．カラー　００８　シルバー」
+に注文があり、
+今回の注文で商品の在庫数が０（ゼロ）になりました。
+最後の注文の受注番号は 243411-20150321-0201774224 です。
+
+在庫数が０（ゼロ）になりましたので
+
+   -商品の説明文を変更する（例：お蔭様で売り切れました…など）
+   -在庫数を増やす
+   -商品を削除する
+   -商品を倉庫に入れる
+
+などの処理を行うことをおすすめします。
+
+商品情報の変更についてはRMSコールセンターまでお願いいたします。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+◆ページ編集等、RMSに関するご質問はRMSコールセンターまで 
+　　support-rms@rakuten.co.jp 
+───────────────────────────── 
+◆運営に関するご相談・ご質問は下記連絡先まで 
+　　support@rakuten.co.jp 
+───────────────────────────── 
+楽天市場  http://www.rakuten.co.jp/ 
+楽天株式会社 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

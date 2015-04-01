@@ -1,0 +1,54 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.9 required=7.0 tests=BAYES_80,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_ILLEGAL_IP,URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_MW_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  3.8 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: pc-mediacorner.de]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.9108]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4IA8dNb052272
+	for <hobby.division@sportshobby.co.jp>; Sat, 18 May 2013 19:08:39 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:57456 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1368871719.2526
+Received: from 245.63.PPPoE.fregat.ua (245.63.PPPoE.fregat.ua [46.98.63.245] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4IA8aIH052255
+	for <hobby.division@sportshobby.co.jp>; Sat, 18 May 2013 19:08:38 +0900 (JST)
+Message-Id: <201305181008.r4IA8aIH052255@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (s-karasawa@zoofil.com@228.136.88.221)
+	by 245.63.PPPoE.fregat.ua with ESMTPA; Fri, 25 Jan 2002 14:21:01 +0200
+X-Originating-IP: 228.136.88.221
+From: s-karasawa@zoofil.com
+To: hobby.division@sportshobby.co.jp
+Subject: Keep your girl entertained every night
+Date: Fri, 25 Jan 2002 14:17:09 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 18052013 #10047940, status: clean
+
+http://pc-mediacorner.de/bottom.html Find way to huge fun
+

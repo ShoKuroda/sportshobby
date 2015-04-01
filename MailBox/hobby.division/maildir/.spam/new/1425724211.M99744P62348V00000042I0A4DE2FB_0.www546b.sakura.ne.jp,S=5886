@@ -1,0 +1,187 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.8 required=7.0 tests=BAYES_00,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	XPRIO autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.5 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  1.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t27AU848062345
+	for <hobby.division@sportshobby.co.jp>; Sat, 7 Mar 2015 19:30:08 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Sat, 07 Mar 2015 19:30:08 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t27AU8l5062342
+	for <hobby.division@sportshobby.co.jp>; Sat, 7 Mar 2015 19:30:08 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIVYkXiQ1JCtAUEVEJDUkcyQsP2RBJiQ5JGskQCRKJHMbKEI=?=
+	=?iso-2022-jp?B?GyRCJEYhRCFXJEg2SDMmJCxBe0EzJEgkNyRGJCQkXiQ5ISMbKEI=?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Sat, 07 Mar 2015 19:30:08 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150307103008.53A1E418E6@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11081
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+こんにちは、シンクウです。
+
+
+超大型案件の速報が届きましたので
+
+大急ぎでお伝えさせていただきます。
+
+
+⇒ http://agar-ex.jp/kldd28454/21081
+
+
+上記の案件なのですが、
+
+業界の大御所たちがこぞって推薦の声を寄せているとのことです。
+
+
+アカデミアジャパン株式会社　石田健さん
+
+有限会社自由人　畑岡宏光さん
+
+遊雅セレブリティ株式会社　蝶乃舞さん
+
+株式会社MELLIDION　沼倉裕さん
+
+株式会社オタケン　大田賢二さん
+
+
+…などなど、誰もが一度は聞いたことがある
+
+ビックネームの方々ばかりです。。。
+
+
+一番驚くのは推薦しているノウハウがコレだという事です…
+
+⇒ http://agar-ex.jp/kldd28454/31081
+
+
+
+言ってしまえば特殊な、唯一無二のノウハウというわけではなく
+
+不変的で手堅いノウハウです。
+
+
+
+それでも彼らが推薦する理由は…？？
+
+
+
+ノウハウが際立って特殊なのか、高原さんの人柄なのか…
+
+
+
+もちろん私も登録して動画を確認したのですが
+
+そこで初めてその理由がわかりました。
+
+
+今回の案件では本当に稼ぐためのノウハウを暴露しているのです。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+こういった案件では、
+
+核となるノウハウをひた隠しにするものが多いのですが
+
+高原さんは本当にノウハウをガンガン暴露しています。
+
+
+ロジック、ノウハウ、ツール、効率化するためのサイトなどなど
+
+その全てを公開してくれています。
+
+
+更には有料ツールもプレゼントしてくれるということで
+
+言うこと無しの状態です。
+
+
+⇒ http://agar-ex.jp/kldd28454/41081
+
+※月25万円の収入を保証してくれています。
+
+
+
+もちろん、この方法を避けて通る道はありますが、
+
+ノウハウ通り実践することで稼げるノウハウなので
+
+やらない理由もないノウハウと言えるでしょう。
+
+
+
+ノウハウもツールも完全無料でプレゼントしてくれるのは
+
+人数限定＆期間限定です。
+
+
+推薦する側も適当なノウハウに推薦するわけにもいかないので
+
+推薦されるノウハウには、それなりの理由があります。
+
+
+その理由を是非、体験してみてください。
+
+
+⇒ http://agar-ex.jp/kldd28454/51081
+
+※有料ツールのプレゼントは先着300名様限定です。
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/61081
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

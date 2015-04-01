@@ -1,0 +1,51 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.4 required=7.0 tests=BAYES_80,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: actes-lyon.org]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.7 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.8153]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9J8kntt026519
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 19 Oct 2013 17:46:49 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:63575 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1382172409.5942
+Received: from 212.160.133.37 (ncn.pl [212.160.133.34])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9J8kilK026498
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 19 Oct 2013 17:46:47 +0900 (JST)
+Date: Sat, 19 Oct 2013 17:46:44 +0900 (JST)
+Message-Id: <201310190846.r9J8kilK026498@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (krupp.howard@dsha.k12.wi.us@164.205.39.68)
+	by 212.160.133.37 with ESMTPA; Sat, 19 Oct 2013 10:32:39 +0100
+X-Originating-IP: 164.205.39.68
+From: krupp.howard@dsha.k12.wi.us
+To: on_line.shop12@sportshobby.co.jp
+Subject: Give your lady nights of love
+X-Antivirus: avast! (VPS 100831-1, 2010-08-31), Outbound message
+X-Antivirus-Status: Clean
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 19102013 #11166488, status: clean
+
+Enhance your energy http://ACTES-LYON.ORG/Sunday.html
+

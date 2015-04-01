@@ -1,0 +1,107 @@
+Return-Path: <E18BCEC582E989DD54E0E5A3E25CF95FC3B71457@mfu.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.1 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FROM_LOCAL_HEX,NORMAL_HTTP_TO_IP,STOX_REPLY_TYPE,
+	TVD_SPACE_ENC_FM_MIME,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav301.sakura.ne.jp (fsav301.sakura.ne.jp [153.120.85.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2N3ITwg071478
+	for <hobby.division@sportshobby.co.jp>; Mon, 23 Mar 2015 12:18:29 +0900 (JST)
+	(envelope-from E18BCEC582E989DD54E0E5A3E25CF95FC3B71457@mfu.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav301.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp);
+ Mon, 23 Mar 2015 12:18:29 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-226.smtp.rakuten.co.jp [202.72.58.226])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2N3ITKV071457
+	for <hobby.division@sportshobby.co.jp>; Mon, 23 Mar 2015 12:18:29 +0900 (JST)
+	(envelope-from E18BCEC582E989DD54E0E5A3E25CF95FC3B71457@mfu.rakuten.ne.jp)
+Received: from matuser.rakuten.co.jp (matuser104z.prod.jp.local [100.66.178.13])
+	by mxmatuser102z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l9LWn1LkYzMs84
+	for <hobby.division@sportshobby.co.jp>; Mon, 23 Mar 2015 12:18:29 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pc.fw.rakuten.ne.jp;
+	s=mfw0082014080; t=1427080709;
+	bh=FzMCMXeYDgtF5dHeymfgy1RUnOu3UgE83wlZPWXgyiY=;
+	h=Message-ID:From:To:References:In-Reply-To:Subject:Date:
+	 MIME-Version:Content-Type:Content-Transfer-Encoding;
+	b=dh+kusEfJBckQraMBpQCTz0NGz2jXzkWfbNniRQ/KscY7jr4Yv5x34qyICJJynaa2
+	 XpmVmvo8BDVu5AMWS+sQAuwEU0vNot64vq2cbEu66+3uAoNLEJvvwBSK75dSH0xT5e
+	 /UW5mjxmIR5W4X9HG8NBH//Lz1ZxUxNnl761N8As=
+Received: from matusermx.rakuten.co.jp (matusermx104.prod.jp.local [100.66.16.74])
+	by matuser104z.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2N3IS09023144
+	for <sportshobby@shop.rakuten.co.jp>; Mon, 23 Mar 2015 12:18:28 +0900
+Message-ID: <201503231218.t2N3ISxZ002311@matusermx104.db.rakuten.co.jp>
+From:   =?iso-2022-jp?B?GyRCS1w2NiEhOUBPQhsoQg==?= <eadbb10c3802e1ba817b08f8602bac4es1@pc.fw.rakuten.ne.jp>
+To:   =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+References: <201503221308.t2M48Jk8032329@mat106.db.rakuten.co.jp>
+In-Reply-To: <201503221308.t2M48Jk8032329@mat106.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?UmU6IBskQiQ0Q21KOCQiJGokLCRIJCYkNCQ2JCQkXiQ5GyhC?=
+Date: Mon, 23 Mar 2015 12:18:29 +0900
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-2022-jp";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+
+
+----- Original Message ----- 
+From: "スポーツホビー" <hobby.division@sportshobby.co.jp>
+To: <eadbb10c3802e1ba817b08f8602bac4es1@pc.fw.rakuten.ne.jp>
+Cc: <hobby.division@sportshobby.co.jp>
+Sent: Sunday, March 22, 2015 1:08 PM
+Subject: ご注文ありがとうございます
+
+
+> ----------------------------------------------------------------------
+> このメールはお客様の注文に関する大切なメールです。
+> お取引が完了するまで保存してください。
+> ----------------------------------------------------------------------
+>
+> スポーツホビー様
+>
+>今回、 お世話になります。本橋と申します。
+>
+>商品代金の入金を完了しましたので
+>
+>ご確認ください。よろしくお願いします。
+>
+> 　銀行名：ジャパンネット銀行
+> 　支店名：すずめ支店
+> 　店番号：002
+> 　口座　：普通預金　1250379
+> 　名義　：有限会社エスエッチケーネット販売
+>
+> こちらに、
+> [合計] 1696(円)
+> をお振込み下さいませ。ご入金の確認が取れ次第、発送処理に入らせていただ
+> きます。
+>
+> なお、お振込みが完了いたしましたら、お手数でなければ、その旨ご一報頂け
+> ますと発送処理がよりスムーズにいきます。それでは、よろしくお願いいたし
+> ます。
+>
+> [商品]
+>      クローラーホイール用ウェイト（鉛レス）
+>      http://item.rakuten.co.jp/sportshobby/10000202/
+>
+>    -------------------------------------------------------
+>    有限会社エスエッチケー
+>    スポーツホビー
+>    002-0861 北海道札幌市北区屯田１１条３−１−１３
+>    (TEL) 011-773-5090
+>    (URL) http://www.rakuten.co.jp/sportshobby/
+>    黒田　陽子(hobby.division@sportshobby.co.jp)
+>
+>
+> ────────── 【楽天市場からのお知らせ】 ──────────
+> 【3月23日（月）9：59まで ！】
+> 　期間限定★今なら楽天カード新規入会でもれなく6,000ポイントプレゼント！
+> 　　⇒ http://link.rakuten.co.jp/1/008/531/?url=2/831/68809/0/RC4
+> 　楽天カードなら楽天市場でのお買い物はいつでも2倍★
+>
+> 　楽天市場トップはこちら
+> 　　⇒ http://www.rakuten.co.jp/?l-id=top_091
+> ──────────────────────────────────
+> 
+

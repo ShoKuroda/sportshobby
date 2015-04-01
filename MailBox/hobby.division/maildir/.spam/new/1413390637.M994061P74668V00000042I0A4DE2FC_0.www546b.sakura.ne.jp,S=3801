@@ -1,0 +1,75 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.7 required=7.0 tests=BAYES_50,LOTS_OF_MONEY,
+	MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,
+	T_FSL_HELO_BARE_IP_2,URIBL_BLOCKED autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: outlook.com]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from fsav301.sakura.ne.jp (fsav301.sakura.ne.jp [153.120.85.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s9FGUZsu074663
+	for <hobby.division@sportshobby.co.jp>; Thu, 16 Oct 2014 01:30:35 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav301.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp);
+ Thu, 16 Oct 2014 01:30:35 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp)
+Received: from 83.149.41.115 ([46.229.140.49])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s9FGUWxL074653
+	for <hobby.division@sportshobby.co.jp>; Thu, 16 Oct 2014 01:30:34 +0900 (JST)
+Date: Thu, 16 Oct 2014 01:30:32 +0900 (JST)
+Message-Id: <201410151630.s9FGUWxL074653@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (webmaster@musashi-techno.com@232.208.106.58)
+	by 46.229.140.49 with ESMTPA; Wed, 15 Oct 2014 20:30:58 +0300
+From: webmaster@musashi-techno.com
+To: hobby.division@sportshobby.co.jp
+Subject: Fresh vacancy in Japan (Part-Time)!
+
+Good morning, let me introduce myself. 
+
+Organization MPromo , one of the biggest enterprises in International 
+Advertising & Promotion Business. Our services are focused on caching a 
+varied target audience and are provided to companies both small and 
+large.
+Our Company is now looking a number of representatives for different 
+functions. Work in an large-scale company which is MPromo Ltd, is 
+followed up by stability for career promotion over long years and vast 
+experience which is a valuable asset by itself. One more obvious 
+advantage of dealing with our company is that you don.t need to go to 
+work every day because of a flexible schedule.
+-	You will need just 3-5 hours a day per day to fulfil the whole volume 
+of work.
+-	Now this is your right to determine a convenient flexible working 
+hours.
+Below you will find our basic main requirements for all applicants:
+1.	Age above 21 years old
+2.	No criminal reports
+3.	Skilled computer user
+If you are smart person and you can handle financial task, then this 
+might be your vacancy. The working process itself will start from 
+educational period of 20 days, upon completing which an agreement will be 
+signed and we'll start doing serious business. The income you'll be 
+making depends on you, though there is a base pay of $17,000 a month + 
+commission. You will have a guaranteed career growth and probably we will 
+eventually invite you to open a new department in your region.
+Location providing job : Japan, Taiwan, Republic of Singapore
+If you are interested in this offer please send us your confirmation: 
+alisa.chen1983@outlook.com and we will reply you.
+
+--
+Best regards , Alisa Chen
+HR Manager  MPromo Ltd
+Email : alisa_chen1@outlook.com
+Skype : alisa 83
+

@@ -1,0 +1,40 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.7 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: pmgvyloo.at]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: pmgvyloo.at]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: pmgvyloo.at]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6499]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: pmgvyloo.at]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s068St06036966
+	for <hobby.division@sportshobby.co.jp>; Mon, 6 Jan 2014 17:28:55 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:58564 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1388996935.25117
+Received: from 178.124.106.253 ([178.124.106.253])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s068SrdR036959
+	for <hobby.division@sportshobby.co.jp>; Mon, 6 Jan 2014 17:28:54 +0900 (JST)
+Date: Mon, 6 Jan 2014 17:28:53 +0900 (JST)
+Message-Id: <201401060828.s068SrdR036959@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (krystallatrice@mayschem.com@176.132.31.91)
+	by 178.124.106.253 with ESMTPA; Mon, 6 Jan 2014 10:30:05 +0200
+From: krystallatrice@mayschem.com
+To: hobby.division@sportshobby.co.jp
+Subject: Do you know what your wife wants during nights?
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06012014 #7263718, status: clean
+
+http://arm.pmgvyloo.at/ Choose Casanova lifestyle
+

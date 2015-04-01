@@ -1,0 +1,44 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.3 required=7.0 tests=BAYES_95,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: tanilm.ru]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: tanilm.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: tanilm.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: tanilm.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: tanilm.ru]
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9584]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s0MAo87l037816
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 22 Jan 2014 19:50:08 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:64863 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1390387808.3280
+Received: from 37.213.56.166 ([37.213.56.166])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s0MAo5oC037799
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 22 Jan 2014 19:50:07 +0900 (JST)
+Date: Wed, 22 Jan 2014 19:50:05 +0900 (JST)
+Message-Id: <201401221050.s0MAo5oC037799@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (julie_farmerdd@hsp-interiery.cz@138.128.235.229)
+	by 37.213.56.166 with ESMTPA; Wed, 22 Jan 2014 14:50:31 +0400
+X-Originating-IP: 138.128.235.229
+From: julie_farmerdd@hsp-interiery.cz
+To: on_line.shop12@sportshobby.co.jp
+Subject: Very good method to reveal your love life
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 22012014 #7381039, status: clean
+
+http://stereotype.tanilm.ru/ Do you know what your woman wants during 
+nights?
+

@@ -1,0 +1,70 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.6 required=7.0 tests=BAYES_20,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	* -0.0 BAYES_20 BODY: Bayes spam probability is 5 to 20%
+	*      [score: 0.1014]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rAKAFFUl091860
+	for <hobby.division@sportshobby.co.jp>; Wed, 20 Nov 2013 19:15:15 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:52128 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1384942515.29656
+Received: from 59.96.233.170 ([117.201.11.176])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rAKAFDTW091848
+	for <hobby.division@sportshobby.co.jp>; Wed, 20 Nov 2013 19:15:14 +0900 (JST)
+Date: Wed, 20 Nov 2013 19:15:13 +0900 (JST)
+Message-Id: <201311201015.rAKAFDTW091848@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (nitz@sms.ugsm.ru@233.112.126.173)
+	by 117.201.11.176 with ESMTPA; Wed, 20 Nov 2013 15:42:15 +0530
+X-Originating-IP: 233.112.126.173
+From: nitz@sms.ugsm.ru
+To: hobby.division@sportshobby.co.jp
+Subject: Employment opportunity for Japan residents
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 20112013 #8707128, status: clean
+
+Adentr Group
+
+In spite of the fact AdenTR is a successful company, it still goes on 
+developing. We are constantly in search for talented and ambitious employees. 
+From time to time we have various vacancies. If you want to work for our 
+company, you are welcome to contact our HR Department.
+
+Current Vacancy: Operations Assistant
+
+Requirements:
+- Relevant degree,
+- Working experience of not less than 3 years,
+- Communication skills,
+- Responsibility, 
+- Punctuality, 
+- Stress resistance,
+- Decency.	
+
+Duties:
+- Negotiate with clients,
+- Assist payments,
+- Consult clients,
+- Make relevant reports and records.	
+
+Advantages:
+- High salary,
+- Bonuses,
+- Personal development,
+- Career opportunities.
+
+Employment Conditions: Interview and trial period are provided.
+
+E-mail your resume to: AdentrJohn@gmail.com
+
+For more details about this or other positions please contact our HR 
+Department.
+

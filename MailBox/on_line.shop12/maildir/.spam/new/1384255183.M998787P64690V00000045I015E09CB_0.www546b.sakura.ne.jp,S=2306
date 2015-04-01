@@ -1,0 +1,44 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.6 required=7.0 tests=BAYES_95,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_JP_SURBL,
+	URIBL_SBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: levitratabkorsinsky.ml]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: levitratabkorsinsky.ml]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: levitratabkorsinsky.ml]
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9586]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: levitratabkorsinsky.ml]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rACBJeVE064686
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 12 Nov 2013 20:19:40 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:49895 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1384255180.3818
+Received: from 80.93.125.202 (pavluk.ett.ua [80.93.125.202] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rACBJZ5t064668
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 12 Nov 2013 20:19:38 +0900 (JST)
+Date: Tue, 12 Nov 2013 20:19:35 +0900 (JST)
+Message-Id: <201311121119.rACBJZ5t064668@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (ce@dacoach.com@89.120.43.147)
+	by 80.93.125.202 with ESMTPA; Tue, 12 Nov 2013 13:24:10 +0200
+X-Originating-IP: 89.120.43.147
+From: ce@dacoach.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Keep your gf happy
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 12112013 #9745929, status: clean
+
+Do you wish to surprise your wife at night? 
+http://insufficient.levitratabkorsinsky.ml/
+

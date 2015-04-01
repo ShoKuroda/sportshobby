@@ -1,0 +1,161 @@
+Return-Path: <hiromi@liveinfomarketing.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.2 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FSL_HELO_BARE_IP_2,HTML_IMAGE_ONLY_24,HTML_MESSAGE,
+	MPART_ALT_DIFF,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	RCVD_NUMERIC_HELO,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: liveinfomarketing.com]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: liveinfomarketing.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: liveinfomarketing.com]
+	*  1.6 HTML_IMAGE_ONLY_24 BODY: HTML: images with 2000-2400 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.8 MPART_ALT_DIFF BODY: HTML and text parts are different
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: liveinfomarketing.com]
+	*  1.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from fsav303.sakura.ne.jp (fsav303.sakura.ne.jp [153.120.85.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s76FTLvT072842
+	for <hobby.division@sportshobby.co.jp>; Thu, 7 Aug 2014 00:29:21 +0900 (JST)
+	(envelope-from hiromi@liveinfomarketing.com)
+Received: from 112.78.125.46 (112.78.125.46)
+ by fsav303.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp);
+ Thu, 07 Aug 2014 00:29:21 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp)
+Received: from 9645171622.liveinfomarketing.com ([96.45.17.162])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s76FTK7A072837
+	for <hobby.division@sportshobby.co.jp>; Thu, 7 Aug 2014 00:29:21 +0900 (JST)
+	(envelope-from hiromi@liveinfomarketing.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=liveinfomarketing.com;
+ h=To:Subject:Message-ID:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding:Date; i=hiromi@liveinfomarketing.com;
+ bh=IZTeRJu18jLF2J5JUrin/J/Gqws=;
+ b=gacQG+jc03BuSvQs0dq4nPEm6wTUnuQGoMAepm4V0AigBdOLoOfmeTUvfMzx3Z12c8f0PUC1TWnl
+   Na41rpL5t+LimJvuRg8vCyMcJ9WxZXn2QSBb/xOdf9fQM2MOLf6ibwCZ3SnBRYMYBd8p90UR8p2o
+   Ua3cOQMdX8Xkp23iYQAAeSp1qsmdeQccNT2RRbbu3Sku1jLMYNbNfVAZslAIMDGhFYN0AzEwWf4C
+   uEQE+GcMAK4T+ZnA72gylS9AC0qYe0TK1Qspl18syXbj3CdqAm7jj4b3dSDCI1g2Smpz8g8Bp7Hc
+   cR8ZYZAbO8gpGE5wj1yT1z0D4C2d7Hmr6coYUA==
+To: hobby.division@sportshobby.co.jp
+Subject: =?UTF-8?B?44GT44KM44Gv44Ot44Kx44OD44OI56eR5a2m44Gn44Gv44Gq44GE44CC?=
+Message-ID: <c87b2010d64ccce0b02631765c5cbbc8@liveinfomarketing.com>
+From: =?UTF-8?B?5rWp576OICDnn7PkupU=?= <hiromi@liveinfomarketing.com>
+Reply-To: hiromi@liveinfomarketing.com
+MIME-Version: 1.0
+X-Mailer-RecptId: 248072614
+X-Mailer-SID: 59254
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_bc2a770a8294a5a578b16587c95fb7e0"
+Content-Transfer-Encoding: 8bit
+Date: Wed, 6 Aug 2014 15:18:25 +0000
+
+--b1_bc2a770a8294a5a578b16587c95fb7e0
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+To view it online, please go here:
+http://liveinfomarketing.com/display.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&S=59254&L=4061&N=30724
+
+こんにちは,
+
+私はあなたに質問をしたかった。
+あなたは、コピーすることを恐れているか
+そうでなかったら、成功の秘訣をコピーしようとしている。
+銀行と金持ちの人々は、あなたがこのことについて知っていたくない。
+あなたがその仕事を辞める必要はない。または直進タヒチへ。少なくとも、そうすぐにではない。
+あなたの人生についてすぐにあなたは、自信に満ちて心地もよくなります。
+このすべてのものを見るにはここをクリックしてください！
+http://liveinfomarketing.com/link.php?M=248072614&N=59254&K=b83e243ef3ce471728189305ff043726&L=94446&F=T
+どうぞ！。。。君の人生を変更するには、この絶好の機会をお見逃しなく。
+ご幸運をお祈りします,
+
+浩美  石井
+
+
+
+メール配信中止ご希望の方は, こちらへ
+
+
+
+
+To stop receiving these
+emails:http://liveinfomarketing.com/unsubscribe.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&L=4061&N=59254
+<!-- On the eastern side of the port the land is much broken and fronted by
+several islands which were named after Sir John Osborn one of the Lords of
+the Admiralty among them is a conspicuous steep rocky head like Mount
+Cockburn in Cambridge Gulf it appeared to be perfectly inaccessible  -->
+<!-- This circumstance gave the name of Encounter Cove to the inlet On our
+return we called at Jar Island and walked over it but with difficulty on
+account of the confused heaps of rugged stones that were strewed over its
+rocky surface The spinifex that grew in the interstices of the rocks was
+also no inconsiderable hindrance to our movements Behind the beach was a
+large basin full of salt water that in the wet season would doubtless
+furnish fresh since it appeared to have been formed by the runs from the
+rocks the upper surfaces of which were hollowed out by the effect of the
+rain these holes or cisterns are probably full of water in the wet season
+-->
+
+
+
+--b1_bc2a770a8294a5a578b16587c95fb7e0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<pre><span style="font-size: small;">こんにちは,</span><br /><br
+/><span style="font-size:
+small;">私はあなたに質問をしたかった。</span><br /><span
+style="font-size:
+small;">あなたは、コピーすることを恐れているか</span><br
+/><span style="font-size:
+small;">そうでなかったら、成功の秘訣をコピーしようとしている。</span><br
+/><span style="font-size:
+small;">銀行と金持ちの人々は、あなたがこのことについて知っていたくない。</span><br
+/><span style="font-size:
+small;">あなたがその仕事を辞める必要はない。または直進タヒチへ。少なくとも、そうすぐにではない。</span><br
+/><span style="font-size:
+small;">あなたの人生についてすぐにあなたは、自信に満ちて心地もよくなります。</span><br
+/><span style="font-size: small;"><a
+href="http://liveinfomarketing.com/link.php?M=248072614&N=59254&K=b83e243ef3ce471728189305ff043726&L=94446&F=H">このすべてのものを見るにはここをクリックしてください</a>！</span><br
+/><span style="font-size:
+small;">どうぞ！。。。君の人生を変更するには、この絶好の機会をお見逃しなく。</span><br
+/><span style="font-size: small;">ご幸運をお祈りします,</span><br
+/><br /><span style="font-size: small;">浩美  石井</span><br /><br
+/><br /><br /><span style="font-size:
+small;">メール配信中止ご希望の方は, <a
+href="http://liveinfomarketing.com/unsubscribe.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&L=4061&N=59254">こちらへ<br
+/></a><br /><!-- And by daylight had carried us near the north west end of
+the island at nine a m the sea breeze set in from South West and West and
+gradually increasing we happily succeeded in arriving off the town of
+Coepang where we moored at one fifth of a mile from the flagstaff of Fort
+Concordia bearing South 14 1 2 degrees East  --></span></pre>
+<img
+src="http://liveinfomarketing.com/open.php?M=248072614&L=4061&N=59254&K=b83e243ef3ce471728189305ff043726&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_bc2a770a8294a5a578b16587c95fb7e0--
+
+

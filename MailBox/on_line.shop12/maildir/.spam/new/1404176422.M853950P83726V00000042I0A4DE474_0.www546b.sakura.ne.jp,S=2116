@@ -1,0 +1,40 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=9.0 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: dhfyvqwm.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: dhfyvqwm.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: dhfyvqwm.eu]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: dhfyvqwm.eu]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5033]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.1 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav404.sakura.ne.jp [153.120.85.39])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s6110GZ8083721
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 1 Jul 2014 10:00:16 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:63817 [ident-empty]
+	by ksav404.sakura.ne.jp with TPROXY id 1404176416.26151
+Received: from 61.228.92.91 (61-228-92-91.dynamic.hinet.net [61.228.92.91])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s6110FTW083717
+	for <on_line.shop12@sportshobby.co.jp>; Tue, 1 Jul 2014 10:00:15 +0900 (JST)
+Date: Tue, 1 Jul 2014 10:00:15 +0900 (JST)
+Message-Id: <201407010100.s6110FTW083717@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (flintyvbg76@eco-pro.ru@65.238.43.192)
+	by 61.228.92.91 with ESMTPA; Tue, 1 Jul 2014 09:02:09 +0800
+From: flintyvbg76@eco-pro.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: Feel the bottomless pleasance
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+Feel happiness of living the ultimate life http://twiddle.dhfyvqwm.eu/
+

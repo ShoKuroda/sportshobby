@@ -1,0 +1,86 @@
+Return-Path: <garomika@yahoo.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,URIBL_BLOCKED,URIBL_SBL autolearn=no
+	version=3.3.2
+Received: from fsav404.sakura.ne.jp (fsav404.sakura.ne.jp [133.242.250.103])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2O4VNSx045039
+	for <hobby.division@sportshobby.co.jp>; Tue, 24 Mar 2015 13:31:24 +0900 (JST)
+	(envelope-from garomika@yahoo.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav404.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp);
+ Tue, 24 Mar 2015 13:31:23 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp)
+Received: from web200218.mail.kks.yahoo.co.jp (web200218.mail.kks.yahoo.co.jp [183.79.100.242])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t2O4VNc7045034
+	for <hobby.division@sportshobby.co.jp>; Tue, 24 Mar 2015 13:31:23 +0900 (JST)
+	(envelope-from garomika@yahoo.co.jp)
+Received: (qmail 90545 invoked by uid 60001); 24 Mar 2015 04:31:23 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.co.jp; s=yj20110701; t=1427171483; bh=jMnUzT6tzj36gsHFYWQYQBqwEu6j1BhJmXEcvFmUvqc=; h=Message-ID:X-YMail-OSG:Received:X-Mailer:X-YMail-JAS:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=LdHGFBbuck+Az5+sOpmgpebh7yKeT4XVQKg2RRV3emuLsNPDExCHLvieIvBna8P2UumtUWD3vKa8xHs9ohSiKO+mHhbML9hdKnuoX4LIieQqKKRhueaZknuMky8hZSfEN8NNPjnQh803cIY5X8taujbgTXvlR0jiJ3aUxy1jfGE=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=yj20110701; d=yahoo.co.jp;
+  h=Message-ID:X-YMail-OSG:Received:X-Mailer:X-YMail-JAS:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=NSSPsJdZ3fIH+79aV27T51/1cMBvx+w6lxTiMhcfXJiHWl4Xm608oGv6hQ+7R2Bq15UN+x0BYlylFSf/5U82nnC9SGbAkz2zwMuqlzVXGoP+iueRjh0SUEmfX/Y4pNB2QHX1mMsFESirZ3QXFNTAnbB3kYBn5cRBltAvVkREDCE=;
+Message-ID: <524896.69544.qm@web200218.mail.kks.yahoo.co.jp>
+X-YMail-OSG: tRLQiaUVM1lB6T0XPaOu1axI7_lFcUrypobtPO4e4PfLsSPbhMWtsPJhVsVqa7ohVBP8N0.oA67lzbURR3JyglF3x4ABkvagFqf497m6fNwsOU1NSJS4Ty2ZH6OFm7vR0P7luSuT_rqPJBC50FNK6qohwLjicCWCIj5PpogCAj2SFGqVUKMAJx4fU8NzCrwEbhXl7eZocfmG2.Tl6rEld5PDVWTT_14MCYJipWL1a.Se5BbgKl5.KAeBIYQS3zRZncE_i20ZgVHVObHGv9j4exnsUm9dRi67judCJ1PUJsMnSNaqoNXOao0ig0ZEt3qvyjhTzmXXsmhOeEH5ONs0QY9G2R_FORJboosaCjnfGC_fYFrxmdIuDyY77bVC2RibhYhQjU914aReKEsEALPDAolWaUkyEYFsZeBywG9OOqlVAOdrozPs8j8gTqlu0ANz_TQiH51_LT8kDcetkw3SqstZjOUb3QVdDB3dakn82QFkHq4vZiJDN1S4_o56MyIlZ_lYyMbx84EtakPT_y_XdZ3jSY0MixykmOaLVoDPqYBLYvsjVL9Yxv0K38sEYZ9aFgj.EFo-
+Received: from [1.75.243.240] by web200218.mail.kks.yahoo.co.jp via HTTP; Tue, 24 Mar 2015 13:31:23 JST
+X-Mailer: YahooMailWebService/0.8.111_63
+X-YMail-JAS: REcMEskVM1mGkFzDpZrSQ.4yJhuud566.jLLx9wyNrS4lFK5tVkrT3S9f2sgGRQDCt3q.ijl2A6Bbjaop5BtoRdbGYjfgO.uQaoDO74TqYJXiRluZLafO._M6bRlh7bqGgEN
+Date: Tue, 24 Mar 2015 13:31:23 +0900 (JST)
+From: garomika <garomika@yahoo.co.jp>
+Reply-To: garomika@muse.ocn.ne.jp
+Subject: =?iso-2022-jp?B?UmU6IBskQiFaJTklXSE8JUQlWyVTITwhWyQqTGQkJDlnJG8kOyRyGyhC?=
+ =?iso-2022-jp?B?GyRCPHUkMUlVJDEkXiQ3JD8bKEI=?=
+To: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEIg?= <hobby.division@sportshobby.co.jp>
+In-Reply-To: garomika@muse.ocn.ne.jp
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+
+応急的に部品を見つけました。
+また、今度宜しくお願い致します。
+
+--- スポーツホビー <hobby.division@sportshobby.co.jp> wrote:
+> -------------------------------
+> このメールはお問合せの自動返信メールとなっております。
+> -------------------------------
+> 岸本 信一  様
+> 
+> お問合わせありがとうございます。
+> 担当者より返信いたしますので、少々お待ち下さい。
+> 
+> お急ぎの場合はお電話でお問合わせください。
+> 電話番号：011-773-5090
+> 
+> -------下記情報を送信いたしました-----------
+> 
+> 電話番号　：　090-3112-8182
+> メール　　：　garomika@yahoo.co.jp
+> 都道府県　：　北海道
+> 住所（市区町村）　　：　江別市
+> 住所（番地・建物名）　　：　いずみ野23-6
+> 
+> お問い合わせ種類    　：　その他
+> お問い合わせ内容：　OS MAX30VG(Ｐ)ESの
+> プラスチックケースの部分
+> ロートスターター 一式と
+> シリンダーヘッドのガスケット二枚
+> を取り寄せ可能でしょうか？
+> 取り寄せ可能ならばお願い致します。
+> -------------------------------
+> 当社理由　：　店舗を知っている
+> 
+> **********************************************
+> ご不明な点など御座いましたらお気軽にご相談ください。
+> 
+> ラジコンショップ｜スポーツホビー
+> 運営会社：有限会社SHK
+> 
+> URL：http://www.sportshobby.co.jp
+> 
+> 〒002-0859 北海道札幌市北区屯田11条3丁目
+> TEL 011-773-5090
+> 代表取締役　黒田　民雄
+> E-mail <info@sportshobby.co.jp>
+> **********************************************
+>

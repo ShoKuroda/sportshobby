@@ -1,0 +1,189 @@
+Return-Path: <melanie-hobby.division=sportshobby.co.jp@sockinga.info>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.8 required=7.0 tests=BAYES_80,DKIM_SIGNED,
+	HTML_IMAGE_ONLY_08,HTML_MESSAGE,HTML_TAG_BALANCE_BODY,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,REMOVE_BEFORE_LINK,T_DKIM_INVALID,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URI_NO_WWW_INFO_CGI
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: sockinga.info]
+	*  1.8 REMOVE_BEFORE_LINK BODY: Removal phrase right before a link
+	*  2.1 URI_NO_WWW_INFO_CGI URI: CGI in .info TLD other than third-level
+	*      "www"
+	*  1.2 HTML_TAG_BALANCE_BODY BODY: HTML has unbalanced "body" tags
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.8053]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.7 HTML_IMAGE_ONLY_08 BODY: HTML: images with 400-800 bytes of words
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: sockinga.info]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: sockinga.info]
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+Received: from fsav302.sakura.ne.jp (fsav302.sakura.ne.jp [153.120.85.133])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0D150nX062775
+	for <hobby.division@sportshobby.co.jp>; Tue, 13 Jan 2015 10:05:00 +0900 (JST)
+	(envelope-from melanie-hobby.division=sportshobby.co.jp@sockinga.info)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav302.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp);
+ Tue, 13 Jan 2015 10:05:00 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp)
+Received: from mail.sockinga.info (peanut.mailvbox.com [38.109.218.167] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0D14xLP062771
+	for <hobby.division@sportshobby.co.jp>; Tue, 13 Jan 2015 10:04:59 +0900 (JST)
+	(envelope-from melanie-hobby.division=sportshobby.co.jp@sockinga.info)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=sockinga.info;
+ h=Mime-Version:Content-Type:Date:From:Subject:Message-ID:To; i=melanie@sockinga.info;
+ bh=S1m+5BChVaOn/2SJQXwLX+prwDg=;
+ b=KlRevTIHavbvxWKZNd2EI6YIQvMMPpCmVVvaMfqmW01JzZkvVs15gMkmdCG+tut5dFjoZSH1n+m5
+   HDL5e/8ssaanB7MvVMbq2YPWzY+bH3eZuJIWG0z0Ql3PpPQuWwqcYDFWjIAT52+MvSvgL4Ry7QfR
+   FRnJuM4G3lj/EDojbPA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=sockinga.info;
+ b=y1GN/Amq9EWF/pkC9CfX/98cvtLuJ9/+de+36oFLhRgzGtIPt5M4C1VkMniNTRqyqHnSNQgbZO6y
+   VFrdmGtW9ypXJBUssx66rDjRaLeZh7UqnpVZdB9lpIppIYO74lH7ZDa1FVbFGdkCbW6yZSKDs/qv
+   Ic/vAJUA3hp5qtEaYl4=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=b4877fc84b639a5f78fe827f162e7122
+Date: Tue, 13 Jan 2015 01:56:45 +0100
+From: Lily <melanie@sockinga.info>
+Subject: =?UTF-8?B?VGhlcmUncyB3YXkgdG9vIG11Y2ggdGVuc2lvbiE=?=
+Message-ID: <b4877fc84b639a5f78fe827f162e7122@sockinga.info>
+To: <hobby.division@sportshobby.co.jp>
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/plain; charset=UTF-8
+
+Hi,
+
+Have you been watching the news? It looks like everything is just falling to pieces with the international community. 
+Things are seriously going sideways. That stuff in Ukraine? 
+You know what I think? I think we should make some quick cash and then get somewhere safe. 
+
+I found this:
+http://click.sockinga.info/index.php?id=1292545&a=666610&b=3525&c=57
+
+Check it out. 
+
+Later dude. 
+Lily
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unsubscribe here : http://click.sockinga.info/index.php?o=2&a=666610&b=3525&c=57
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+Hi,<br>
+<br>
+Have you been watching the news? It looks like everything is just falling to pieces with the international community. <br>
+Things are seriously going sideways. That stuff in Ukraine? <br>
+You know what I think? I think we should make some quick cash and then get somewhere safe. <br>
+<br>
+I found <a href=http://click.sockinga.info/index.php?id=1292545&a=666610&b=3525&c=57><b>THIS</b></a><br>
+<br>
+Check it out. <br>
+<br>
+Later dude. <br>
+Lily<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a href="http://click.sockinga.info/index.php?o=2&a=666610&b=3525&c=57">Unsubscribe</a>
+<br>
+<br>
+
+<img src="http://click.sockinga.info/index.php?o=1&a=666610&b=3525&c=57"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--b4877fc84b639a5f78fe827f162e7122--

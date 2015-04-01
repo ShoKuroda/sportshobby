@@ -1,0 +1,134 @@
+Return-Path: <lily-hobby.division=sportshobby.co.jp@hushesemail.info>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.1 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	HTML_IMAGE_ONLY_12,HTML_MESSAGE,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,T_DKIM_INVALID,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URI_NO_WWW_INFO_CGI autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: hushesemail.info]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: hushesemail.info]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: hushesemail.info]
+	*  2.1 URI_NO_WWW_INFO_CGI URI: CGI in .info TLD other than third-level
+	*      "www"
+	*  2.1 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5010]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t09BqM56086894
+	for <hobby.division@sportshobby.co.jp>; Fri, 9 Jan 2015 20:52:22 +0900 (JST)
+	(envelope-from lily-hobby.division=sportshobby.co.jp@hushesemail.info)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Fri, 09 Jan 2015 20:52:22 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from mail.hushesemail.info (mail.hushesemail.info [146.0.78.22])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t09BqLrL086884
+	for <hobby.division@sportshobby.co.jp>; Fri, 9 Jan 2015 20:52:22 +0900 (JST)
+	(envelope-from lily-hobby.division=sportshobby.co.jp@hushesemail.info)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=hushesemail.info;
+ h=Mime-Version:Content-Type:Date:From:Subject:Message-ID:To:Reply-To:List-Id:List-Unsubscribe:Sender; i=bounce-666610@hushesemail.info;
+ bh=RyzK7Nxc4K4N+y1I3qb6ya2KGcA=;
+ b=lJaP1IcxZyqpQSxj1sLU+xybeqN1sOGH1wcVqhtowBc53iC/DY4jaV8o7d5f+/r88yvX8lU9eayw
+   etjCxNHc28PfZ4btby3WKHLt86ThiRf4Vjivuyi11qb4xscqTBmYjcMZITCfpNfAxFMcX2Bu/iw4
+   1fFfZCwCsDWsSdbhxoc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=hushesemail.info;
+ b=ExvtgOzMRTVa3umidQZtXe7YjU+syvFHfc6h77KvdZ5RKKvvmJKGQrqxz13eHvZ3Dob/ZWiPSk1+
+   Gr7rRqX12JCE2oc5csiBNjgqFhiTiBejb1narAi1thzkEc4ry091G+XKPlFWT92vpZhH79uKBYBT
+   iKnH0qUfSHfTC8BSWoo=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=b4877fc84b639a5f78fe827f162e7122
+Date: Fri, 9 Jan 2015 12:42:19 +0100
+From: Lily <lily@hushesemail.info>
+Subject: =?UTF-8?B?QnJvLCB0aGV5IHN0aWxsIHdvbid0IHBheSBtZSE=?=
+Message-ID: <b4877fc84b639a5f78fe827f162e7122@hushesemail.info>
+To: <hobby.division@sportshobby.co.jp>
+Reply-To: <bounce-666610@hushesemail.info>
+Envelope-to: hobby.division@sportshobby.co.jp
+Importance: Normal
+List-Id: 57
+List-Unsubscribe: <mailto:unsub-666610@hushesemail.info?subject=unsubscribe>, <http://click.hushesemail.info/index.php?a=3&b=666610&c=666610>
+Sender: <bounce-666610@hushesemail.info>
+X-Priority: 3 (Normal)
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/plain; charset=UTF-8
+
+Do you realize that it's already been 13 weeks since the accident and they're still refusing to pay me out for the Dodge?
+
+This is absolute B.S.
+
+Dennis said I should write a letter to the newspaper or something and start a little publicity nightmare for them, but I don't know.
+
+If it ever came right down to the nitty gritty, I DID drive a brand new car off the lot without calling them first.
+
+I was chatting to the G man last night and he reckons I can make back the cash with this...
+
+http://click.hushesemail.info/index.php?id=4308256&a=666610&b=3502&c=57
+
+What do you think?
+
+Lily.
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+Do you realize that it's already been 13 weeks since the accident and they're still refusing to pay me out for the Dodge?<br>
+<br>
+Dennis said I should write a letter to the newspaper or something and start a little publicity nightmare for them, but I don't know.<br>
+<br>
+If it ever came right down to the nitty gritty, I DID drive a brand new car off the lot without calling them first.<br>
+<br>
+>>I was chatting to the G man last night and he reckons I can make back the cash with <a href="http://click.hushesemail.info/index.php?id=4308256&a=666610&b=3502&c=57">THIS... </a> << <br>
+<br>
+What do you think?<br>
+Lily.<br>
+<br>
+
+</b>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<a href="http://click.hushesemail.info/index.php?o=2&a=666610&b=3502&c=57">Unsubscribe Here</a>
+
+<img src="http://click.hushesemail.info/index.php?o=1&a=666610&b=3502&c=57">
+
+</body>
+</html>
+
+--b4877fc84b639a5f78fe827f162e7122--

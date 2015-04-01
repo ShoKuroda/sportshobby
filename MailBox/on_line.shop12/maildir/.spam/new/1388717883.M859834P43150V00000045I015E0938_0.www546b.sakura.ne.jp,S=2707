@@ -1,0 +1,51 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.9 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: qdnqzciw.be]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s032vxWn043147
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 3 Jan 2014 11:58:00 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:62303 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1388717879.20972
+Received: from 213.238.10.37 ([213.238.10.37])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s032vtU1043140
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 3 Jan 2014 11:57:57 +0900 (JST)
+Date: Fri, 3 Jan 2014 11:57:55 +0900 (JST)
+Message-Id: <201401030257.s032vtU1043140@www546b.sakura.ne.jp>
+X-AntiVirus: Checked by Dr.Web [version: 7.0.4.09220, engine: 7.0.100.09170, virus records: 4835976, updated:  3.01.2014]
+Received: from unknown (HELO localhost) (wtmcgon@sistema.puglia.it@139.79.85.45)
+	by 213.238.10.37 with ESMTPA; Fri, 3 Jan 2014 04:56:22 +0200
+X-Originating-IP: 139.79.85.45
+From: wtmcgon@sistema.puglia.it
+To: on_line.shop12@sportshobby.co.jp
+Subject: Satisfy your gf tonight
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 03012014 #7232212, status: clean
+
+This could seriously develop your love life http://lower.qdnqzciw.be/
+

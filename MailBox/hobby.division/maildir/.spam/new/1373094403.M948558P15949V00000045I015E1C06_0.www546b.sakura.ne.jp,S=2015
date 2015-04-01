@@ -1,0 +1,43 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.9 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,SHORT_TERM_PRICE
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 SHORT_TERM_PRICE BODY: SHORT_TERM_PRICE
+	*  2.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4999]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r6676epT015946
+	for <hobby.division@sportshobby.co.jp>; Sat, 6 Jul 2013 16:06:40 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:50431 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1373094400.30537
+Received: from 82.13.226.74 (cpc1-leic12-0-0-cust585.8-1.cable.virginmedia.com [82.13.226.74])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r6676aWM015932
+	for <hobby.division@sportshobby.co.jp>; Sat, 6 Jul 2013 16:06:39 +0900 (JST)
+Date: Sat, 6 Jul 2013 16:06:36 +0900 (JST)
+Message-Id: <201307060706.r6676aWM015932@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (support@dikema.com@232.109.31.68)
+	by 82.13.226.74 with ESMTPA; Sat, 6 Jul 2013 08:06:25 -0000
+From: support@dikema.com
+To: hobby.division@sportshobby.co.jp
+Subject: Huge buzz is building about this stock!
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06072013 #10515315, status: clean
+
+New Buy Alert Coming Tomorrow Morning Pre-Market. Could be the next buy out 
+candidate.
+
+Symbol traded: HA IR
+Date: July, 8
+Short Term Target Price: 1.40
+Name: Biostem US
+Get it at: $.26
+
+Is Our New Busy Season Kick-Off Play! It is our new stock pick!
+

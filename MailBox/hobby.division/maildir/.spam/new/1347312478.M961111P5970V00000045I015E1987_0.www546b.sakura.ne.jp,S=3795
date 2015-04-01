@@ -1,0 +1,69 @@
+Return-Path: <alias@cn7.dmyfps.info>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.3 required=7.0 tests=BAYES_00,DATE_IN_FUTURE_06_12,
+	FROM_STARTS_WITH_NUMS,HTML_IMAGE_ONLY_08,HTML_MESSAGE,MIME_HTML_ONLY,
+	MIME_HTML_ONLY_MULTI,MPART_ALT_DIFF,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.7 FROM_STARTS_WITH_NUMS From: starts with several numbers
+	*  1.9 DATE_IN_FUTURE_06_12 Date: is 6 to 12 hours after Received: date
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.7 HTML_IMAGE_ONLY_08 BODY: HTML: images with 400-800 bytes of words
+	*  0.8 MPART_ALT_DIFF BODY: HTML and text parts are different
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MIME_HTML_ONLY_MULTI Multipart message only has text/html MIME parts
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q8ALRtMA005967
+	for <hobby.division@sportshobby.co.jp>; Tue, 11 Sep 2012 06:27:55 +0900 (JST)
+	(envelope-from alias@cn7.dmyfps.info)
+X-Nat-Received: from [112.78.125.46]:62974 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1347312475.12293
+Received: from cn7.dmyfps.info (lsl18n001.tatn.4ix.net [69.197.5.10] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id q8ALRsXw005964
+	for <hobby.division@sportshobby.co.jp>; Tue, 11 Sep 2012 06:27:54 +0900 (JST)
+	(envelope-from alias@cn7.dmyfps.info)
+Received: (qmail 26829 invoked from network); 11 Sep 2012 05:27:51 +0800
+Received: from unknown (HELO cn2.efdata.info) (127.0.0.1)
+  by 0 with SMTP; 11 Sep 2012 05:27:51 +0800
+Date: Tue, 11 Sep 2012 05:27:51
+From: 117Shoping <117shoping@117.com>
+Reply-To: 117shoping@117.com
+To: hobby.division@sportshobby.co.jp
+Message-ID: <20926226.262511347312471367.JavaMail.root@cn2.efdata.info>
+Subject: =?UTF-8?B?5r+A5a6J77yB5qC85a6J77yB5rW35aSW5q2j6KaP54mIIERWRC1CbHUtcmE=?=
+ =?UTF-8?B?eSDjg43jg4Pjg4jjgrfjg6fjg4Pjg5fjgIDmmKA=?=
+ =?UTF-8?B?55S7MeS9nOWTgeOBquOCk+OBqDE1MOWGhg==?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_26599_33286543.1347312471280"
+X-FP-CID: 117shop_C_6_C_678331_C_hobby.division@sportshobby.co.jp
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 10092012 #7799242, status: clean
+
+------=_Part_26599_33286543.1347312471280
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQogICAgPGhlYWQ+DQogICAgPC9oZWFkPg0KICAgIDxib2R5Pg0KICAgICAgICA8ZGl2
+PuS4lueVjOS4gOWuieS+oeOBp0RWROWVhuWTgeOAjOaYoOeUu+OAgemfs+alveOAgeOCouODi+OD
+oeOAgeaXpeacrOODieODqeODnuOAgemfk+WbveODieODqeODnuOAgea1t+WkluODieODqeODnuOB
+quOBqTxicj4NCuOCkuiyqeWjsuOBl+OBpuOBhOOBvuOBmeOAgeaYr+mdnuOBlOWIqeeUqOOBj+OB
+oOOBleOBhOOAgjxicj4NCuaXpeacrOOBuOOBr+OCguOBoeOCjeOCk+OAgeWFqOS4lueVjOeZuumA
+geWPr+iDve+8ge+8ge+8gSA8YnI+DQrmr47ml6XmlrDjgr/jgqTjg4jjg6vov73liqAg55m66YCB
+44Gv44KJMu+8jTPml6XjgafliLDnnYA8YnI+DQogSFDjga/kuIvoqJjjgafjgZnjga7jgafjgIHm
+mK/pnZ7kuIDluqbjgZTopqfjgavjgarjgaPjgabjgY/jgaDjgZXjgYTjgII8YnI+PGJyPg0KPEEg
+aHJlZj0iaHR0cDovL3d3dy4xMTdzaG9wcGluZy5jb20iPmh0dHA6Ly93d3cuMTE3c2hvcHBpbmcu
+Y29tPC9BPg0KDQo8L2Rpdj4NCiAgICA8L2JvZHk+DQo8L2h0bWw+PGltZyBzcmM9Imh0dHA6Ly9j
+bjIxLmZwc3Rhcm1haWwuY29tL3dlYjIvcmQucGhwP3A9MTE3c2hvcC02LTY3ODMzMSIgd2lkdGg9
+IjUiIGhlaWdodD0iNSI+
+------=_Part_26599_33286543.1347312471280--
+

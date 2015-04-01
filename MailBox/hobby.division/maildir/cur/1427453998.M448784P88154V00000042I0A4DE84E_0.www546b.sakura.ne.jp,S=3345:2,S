@@ -1,0 +1,63 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.3 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED,URIBL_SBL autolearn=no
+	version=3.3.2
+Received: from fsav202.sakura.ne.jp (fsav202.sakura.ne.jp [210.224.168.164])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2RAxsBb088150
+	for <hobby.division@sportshobby.co.jp>; Fri, 27 Mar 2015 19:59:54 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav202.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp);
+ Fri, 27 Mar 2015 19:59:54 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-210.smtp.rakuten.co.jp [202.72.58.210])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2RAxsEo088147
+	for <hobby.division@sportshobby.co.jp>; Fri, 27 Mar 2015 19:59:54 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat104.prod.jp.local [100.66.16.49])
+	by mxmattx101z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lD0ZL5FLRz9FQ8
+	for <hobby.division@sportshobby.co.jp>; Fri, 27 Mar 2015 19:59:54 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427453994;
+	bh=wbJcLWRHlmONjiufeZsWTcOU8Jfd107I7FIA07MkrjI=;
+	h=Date:Message-Id:From:To:Subject:Cc:Content-Type:Sender;
+	b=QmjZbVUyccgK+nolW7jC9foZBiPIUoXDg8pFPQDp30gTAzUUrcjiQOLRPFa7WQSk5
+	 OcNNSfai7vL5heVebLtQe6ztaoh43/k0oCHFoO3zN+xcVrM/Nae9mSo/cAxp53NRWs
+	 rurA0607CTAsydcDgBni8eE1jgupyDHuMBWuzg6c=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat104.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2RAwv0V022167
+	for <hobby.division@sportshobby.co.jp>; Fri, 27 Mar 2015 19:59:54 +0900
+Received: from wraps101c.db.rakuten.co.jp ([wraps101c.db.rakuten.co.jp [172.30.178.21]]) by mat104.prod.jp.local with RELAY id t2RAxsFs024793 ;
+          Fri, 27 Mar 2015 19:59:54 +0900
+Date: Fri, 27 Mar 2015 19:59:54 +0900
+Message-Id: <201503271959.t2RAxsFs024793@mat104.db.rakuten.co.jp>
+From: =?ISO-2022-JP?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: 3b6ce5d72e807e940c8cf945b5528144s1@pc.fw.rakuten.ne.jp
+Subject: =?ISO-2022-JP?B?GyRCJTklXSE8JUQlWyVTITwkRyQ5ISMhWjJzRXohWxsoQg==?=
+Cc: hobby.division@sportshobby.co.jp
+Content-Type: text/plain; charset=ISO-2022-JP
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Source: 172.30.178.21
+X-Rams-Id: 33B5E138DBE0A37D6DC927BA46A2F535EF0559E7
+
+石田洋介様
+
+お問合わせありがとうございます。
+現在、メーカー・当店ともに在庫切れしておりますが、
+手配させていただきます。
+
+入荷しましたら、ご連絡させていただきますので、よろしくお願いします。
+
+HPI 1.9 Yokohama Geolander M/T Tire D Comp 2本入　x4
+
+    -------------------------------------------------------
+    有限会社エスエッチケー
+    スポーツホビー
+    002-0861 北海道札幌市北区屯田１１条３−１−１３
+    (TEL) 011-773-5090
+    (URL) http://www.rakuten.co.jp/sportshobby/
+    黒田　陽子(hobby.division@sportshobby.co.jp)
+    
+

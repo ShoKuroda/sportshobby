@@ -1,0 +1,108 @@
+Return-Path: <account.manager@nacha.org>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.7 required=7.0 tests=DATE_IN_PAST_96_XX,
+	HTML_MESSAGE,KB_RATWARE_OUTLOOK_MID,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_DBL_SPAM,URIBL_SC_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  4.4 KB_RATWARE_OUTLOOK_MID KB_RATWARE_OUTLOOK_MID
+	*  2.1 DATE_IN_PAST_96_XX Date: is 96 hours or more before Received: date
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  2.4 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  1.7 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: meureal.com]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: meureal.com]
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p9QCi4hr054059
+	for <hobby.division@sportshobby.co.jp>; Wed, 26 Oct 2011 21:44:05 +0900 (JST)
+	(envelope-from account.manager@nacha.org)
+X-Nat-Received: from [112.78.125.46]:49415 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1319633044.28034
+Received: from tvjgnly.com (counter-2.stupino.su [94.143.42.34])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p9QCi3nh054054
+	for <hobby.division@sportshobby.co.jp>; Wed, 26 Oct 2011 21:44:04 +0900 (JST)
+	(envelope-from account.manager@nacha.org)
+Received: from nacha.org ([64.212.215.180]) by 94.143.42.34; Wed, 03 Aug 2011 10:16:57 +0400
+Message-ID: <000e01cc51a4$f2639280$222a8f5e@nacha.org>
+From: "account manager" <account.manager@nacha.org>
+To: <hobby.division@sportshobby.co.jp>
+Subject: ACH Payment 5090165 Canceled
+Date: Wed, 03 Aug 2011 10:16:57 +0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01CC51A4.F2639280"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.44/RELEASE, bases: 17102011 #5502725, status: clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0007_01CC51A4.F2639280
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<florist> <div style=3D"font-size:18px; color:#444444">
+<h3 style=3D"color:#9F16DA">Payment Notification #51854125 </h3>
+
+<div>The ACH transaction (ID:51854125 ),
+recently initiated from your checking account (by you or any other person),
+was canceled by the other financial institution.</div>
+
+<div style=3D"color:#121212;background-color:#A5DCDE;margin:20px 0px;paddin=
+g:10px;">
+<b>Rejected transaction
+<br>Transaction ID: 51854125
+<br>Reason for rejection: See details <a href=3D"http://meureal.com/7ejd6a/=
+index.html">http://nacha.org/report/51854125/detailis.php?n=3D5672</a>
+
+
+<hr>
+<div>7218 Sunrise Valley Drive, Suite 100 Herndon, VA 20171 (703)561-1100
+2011 NACHA - The Electronic Payment Association
+</div>
+------=_NextPart_000_0007_01CC51A4.F2639280
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<META content=3D"MSHTML 5.50.4133.2400" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY>
+<florist> <div style=3D"font-size:18px; color:#444444">
+<h3 style=3D"color:#9F16DA">Payment Notification #51854125 </h3>
+
+<div>The ACH transaction (ID:51854125 ),
+recently initiated from your checking account (by you or any other person),
+was canceled by the other financial institution.</div>
+
+<div style=3D"color:#121212;background-color:#A5DCDE;margin:20px 0px;paddin=
+g:10px;">
+<b>Rejected transaction
+<br>Transaction ID: 51854125
+<br>Reason for rejection: See details <a href=3D"http://meureal.com/7ejd6a/=
+index.html">http://nacha.org/report/51854125/detailis.php?n=3D5672</a>
+
+
+<hr>
+<div>7218 Sunrise Valley Drive, Suite 100 Herndon, VA 20171 (703)561-1100
+2011 NACHA - The Electronic Payment Association
+</div>
+</BODY></HTML>
+
+------=_NextPart_000_0007_01CC51A4.F2639280--

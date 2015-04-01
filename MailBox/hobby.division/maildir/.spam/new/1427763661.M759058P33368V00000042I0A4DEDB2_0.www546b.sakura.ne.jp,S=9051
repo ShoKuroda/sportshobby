@@ -1,0 +1,263 @@
+Return-Path: <11-1742939-0-0-0-5018-1-sportshobby_co_jp@ad01.clickmailer.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,HTML_FONT_FACE_BAD,HTML_IMAGE_RATIO_02,HTML_MESSAGE,
+	HTTPS_HTTP_MISMATCH,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,
+	T_REMOTE_IMAGE,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: clickmailer.jp]
+	*  2.0 HTTPS_HTTP_MISMATCH BODY: HTTPS_HTTP_MISMATCH
+	*  0.4 HTML_IMAGE_RATIO_02 BODY: HTML has a low ratio of text to image area
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.0 HTML_FONT_FACE_BAD BODY: HTML font face is not a word
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: clickmailer.jp]
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.0 T_REMOTE_IMAGE Message contains an external image
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V10xdu033365
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 10:00:59 +0900 (JST)
+	(envelope-from 11-1742939-0-0-0-5018-1-sportshobby_co_jp@ad01.clickmailer.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Tue, 31 Mar 2015 10:00:59 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from ad01.clickmailer.jp (mt1502.clickmailer.jp [180.148.163.161])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t2V10x6k033362
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 10:00:59 +0900 (JST)
+	(envelope-from 11-1742939-0-0-0-5018-1-sportshobby_co_jp@ad01.clickmailer.jp)
+Message-ID: <C_M_M_I_D.11_0_1742939_0_0.5018.1427763659@ad01.clickmailer.jp>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ad01.clickmailer.jp;
+	s=f1cmjp20130809; t=1427763658;
+	bh=Gt9BgQpm7SzOEgC9vv+6FAtksziB+vt21U2pkI0fKfA=;
+	h=From:To:Subject:Date:MIME-Version:X-Mailer:Content-Type;
+	b=rilgUq5UnFGtfBNSmda7xQc6PgWnRJUXQt/+U+SF8VX49B0o68rX9NoTVwPOrB8bI
+	 AtIijTkj2BRXxiXdj8JdtnD63DiB0gevs45Ez1ZmAJUr3KVDsxMdq4e7SBnNUg0OZ8
+	 P87rIyCoqw/Q2JsCNHOK92E0nusDc5mY3ILKtXX8=
+From: =?ISO-2022-JP?B?GyRCPiYkJDtZMWclNSVdITwlSCU7JXMlPyE8GyhC?= <info@akinaishien.com>
+To: <hobby.division@sportshobby.co.jp>
+Subject: =?ISO-2022-JP?B?GyRCO0Qkajt+NFYkYiQiJEgkbyQ6JCshKktcRnwjMSM2O34kXiRHGyhC?=
+	=?ISO-2022-JP?B?GyRCISohSCQqNVJNTTF+MWclLSVjJXMlWiE8JXMhSSEhIVo+JiQkGyhC?=
+	=?ISO-2022-JP?B?GyRCO1kxZz5wSnMlYSE8JWshWxsoQg==?=
+Date: Tue, 31 Mar 2015 10:00:58 +0900
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="IMB_1742939_5018_1_sportshobby.co.jp_1787"
+X-Mailer: ClickM@iler
+
+This is a multi-part message in MIME format
+
+--IMB_1742939_5018_1_sportshobby.co.jp_1787
+Content-Type: text/plain;
+	charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+
+〜ＡＫＩＮＡＩＳＨＩＥＮ〜
+商い支援情報メール　　　〜vol.120〜
+
+このメールは商い支援からの情報メールをご希望いただいた会員様に送らせていただいております。
+
+
+
+工藤千賀子様
+
+
+こんにちは！商い支援サポートセンターの栗原です。
+
+本日最終日！“春のお客様応援キャンペーン”
+
+残り時間もあとわずかとなりました。
+
+■本日３月３１日（火）午後１６：００まで
+
+ピックアップした商品がお買い得価格となっておりますので、
+
+ぜひご注文お待ちしております(^O^)／
+http://ad01.clickmailer.jp/?4_--_1742939_--_5018_--_5
+
+
+
+--------------------------------------------------------------------------------------
+
+この情報メールは、『商い支援』の情報メール登録をしていただいている方へお送りしています。
+この場をお借りしまして、ご登録いただきましたことを厚く御礼申し上げます。
+
+--------------------------------------------------------------------------------------
+
+
+【送信元】
+ご不明な点がある場合は、お問合せください。
+商い支援サポートセンター
+ショップＵＲＬ： http://ad01.clickmailer.jp/?4_--_1742939_--_5018_--_6
+メールアドレス： info@akinaishien.com
+電話番号： 0120-997-157
+
+※メール配信停止依頼方法
+　メール配信停止をご希望の方は以下のログインページから登録の変更をお願い致します。
+　https://www.akinaishien.com/front/app/common/login
+
+ログイン＞マイページ＞「お客様情報を確認・更新する」＞情報メール「希望しない」＞登録
+
+--IMB_1742939_5018_1_sportshobby.co.jp_1787
+Content-Type: text/html;
+	charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+</head>
+<body >
+<img src="http://ad01.clickmailer.jp/bin/checker?mode=1&dtime=0&module=11&service=0&etime=20150407100000&mailidx=1742939&seqidx=5018&dmidx=0&emidx=0" width=0 height=0>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table align="center" width="664" cellpadding="0" cellspacing="0" bgcolor="#f4f1ea" border="1" bordercolor="#990000" rules="None">
+<tbody><tr>
+<td align="center" valign="top">
+<img src="http://ecstation.jp/ECStation/assets/space.gif" width="650" height="20"><BR>
+
+
+
+<a href="http://ad01.clickmailer.jp/?4_--_1742939_--_5018_--_1" target="_self"><img src="http://ecstation.jp/ECStation/users/31129/material/titlem.jpg?50JVC6EWHO4ZYEM2A94C" alt="titlem.jpg" width="600" height="88" border="0"></a>
+<BR>
+
+
+
+<img src="http://ecstation.jp/ECStation/assets/space.gif" width="650" height="15"><BR>
+
+
+
+<table cellpadding="10" cellspacing="0" width="600" bgcolor="#ffffff"><tbody><tr><td valign="top"><BR>
+
+
+
+<div align="LEFT"><font size="2" color="#666666" face="ＭＳ ゴシック">工藤千賀子様</font></div>
+<BR>
+
+
+
+</td></tr></tbody></table>
+<img src="http://ecstation.jp/ECStation/assets/space.gif" width="650" height="15"><BR>
+
+
+
+<a href="http://ad01.clickmailer.jp/?4_--_1742939_--_5018_--_2" target="_self"><img src="http://ecstation.jp/ECStation/users/31129/material/bnr_springcampaign_b.jpg?55L1IE5A641MJ7106I98" alt="bnr_springcampaign_b.jpg" width="600" height="700" border="0"></a>
+<BR>
+
+
+
+<img src="http://ecstation.jp/ECStation/assets/space.gif" width="650" height="15"><BR>
+
+
+
+<table cellpadding="10" cellspacing="0" width="600" bgcolor="#ffffff"><tbody><tr><td valign="top"><BR>
+
+
+
+<div align="LEFT"><font size="2" color="#666666" face="ＭＳ Ｐゴシック">−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−</font></div><font size="2" color="#666666" face="ＭＳ Ｐゴシック">
+<BR>
+
+
+
+<div align="LEFT">この情報メールは、『商い支援』の情報メール登録をしていただいている方へお送りしています。<BR>
+
+
+
+この場をお借りしまして、ご登録いただきましたことを厚く御礼申し上げます。m(_ _)m</div>
+<BR>
+
+
+
+<div align="LEFT">−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−</div>
+<BR>
+
+
+
+<BR>
+
+
+
+</font><div align="LEFT"><font size="2" color="#666666" face="ＭＳ Ｐゴシック">【送信元】</font><BR>
+
+
+
+<font size="2" color="#666666" face="ＭＳ Ｐゴシック">ご不明な点がある場合は、お問合せください。</font></div>
+<BR>
+
+
+
+<div align="LEFT"><font size="2" color="#666666" face="ＭＳ Ｐゴシック">商い支援サポートセンター</font><BR>
+
+
+
+<font size="2" color="#666666" face="ＭＳ Ｐゴシック">ショップＵＲＬ：<font color="#222222"><font color="#0000FF"><a href="http://ad01.clickmailer.jp/?4_--_1742939_--_5018_--_3" target="_self"><u>http://www.akinaishien.com/</u></a></font></font></font><BR>
+
+
+
+<font size="2" color="#666666" face="ＭＳ Ｐゴシック">メールアドレス： info@akinaishien.com/</font><BR>
+
+
+
+<font size="2" color="#666666" face="ＭＳ Ｐゴシック">電話番号： 0120-997-157</font></div>
+<BR>
+
+
+
+<div align="LEFT"><font size="2" color="#666666" face="ＭＳ Ｐゴシック">※メール配信停止依頼方法</font><BR>
+
+
+
+<font size="2" color="#666666" face="ＭＳ Ｐゴシック">メール配信停止をご希望の方は以下のログインページから登録の変更をお願い致します。</font><BR>
+
+
+
+<font size="2" color="#0000FF" face="ＭＳ Ｐゴシック"><a href="http://ad01.clickmailer.jp/?4_--_1742939_--_5018_--_4" target="_self"><u>https://www.akinaishien.com/front/app/common/login/</u></a></font><BR>
+
+
+
+<font size="2" color="#666666" face="ＭＳ Ｐゴシック">ログイン＞マイページ＞「お客様情報を確認・更新する」＞情報メール「希望しない」＞登録</font></div>
+<BR>
+
+
+
+</td></tr></tbody></table>
+<img src="http://ecstation.jp/ECStation/assets/space.gif" width="650" height="50"><BR>
+
+
+
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
+</body>
+</html>
+
+--IMB_1742939_5018_1_sportshobby.co.jp_1787--
+

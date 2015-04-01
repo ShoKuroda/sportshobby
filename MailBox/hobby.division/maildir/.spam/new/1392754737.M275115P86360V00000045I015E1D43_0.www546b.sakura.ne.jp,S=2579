@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.8 required=7.0 tests=BAYES_999,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,
+	URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: icipel.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: icipel.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: icipel.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: icipel.ru]
+	*  1.0 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: icipel.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav55.sakura.ne.jp [219.94.192.135])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s1IKIlQF086357
+	for <hobby.division@sportshobby.co.jp>; Wed, 19 Feb 2014 05:18:47 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:61632 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1392754727.19884
+Received: from 94.20.239.30 ([94.20.239.30])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s1IKIjKY086353
+	for <hobby.division@sportshobby.co.jp>; Wed, 19 Feb 2014 05:18:46 +0900 (JST)
+Message-Id: <201402182018.s1IKIjKY086353@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (fchivington@co.alameda.ca.us@203.72.42.115)
+	by 94.20.239.30 with ESMTPA; Wed, 19 Feb 2014 00:19:30 +0400
+X-Originating-IP: 203.72.42.115
+From: fchivington@co.alameda.ca.us
+To: hobby.division@sportshobby.co.jp
+Subject: Are you ready to impress your woman at night?
+Date: Wed, 19 Feb 2014 00:13:03 +0400
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 18022014 #7230606, status: clean
+
+Do you want to amaze your wife this night? http://oh.icipel.ru/
+

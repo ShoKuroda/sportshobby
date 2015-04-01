@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.4 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: wnxhcwdq.cf]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rAGL27aq094264
+	for <hobby.division@sportshobby.co.jp>; Sun, 17 Nov 2013 06:02:07 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:52834 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1384635727.25929
+Received: from 158.181.43.168 ([158.181.43.168])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rAGL24gu094255
+	for <hobby.division@sportshobby.co.jp>; Sun, 17 Nov 2013 06:02:05 +0900 (JST)
+Date: Sun, 17 Nov 2013 06:02:04 +0900 (JST)
+Message-Id: <201311162102.rAGL24gu094255@www546b.sakura.ne.jp>
+X-AntiVirus: Checked by Dr.Web [version: 7.0.4.09220, engine: 7.0.100.09170, virus records: 4695129, updated: 16.11.2013]
+Received: from unknown (HELO localhost) (heartburny5@cztt.ru@158.111.123.68)
+	by 158.181.43.168 with ESMTPA; Sun, 17 Nov 2013 01:01:09 +0400
+X-Originating-IP: 158.111.123.68
+From: heartburny5@cztt.ru
+To: hobby.division@sportshobby.co.jp
+Subject: You can bury marriage problems
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 16112013 #9185202, status: clean
+
+http://hither.wnxhcwdq.cf/ Keep your beloved one happy
+

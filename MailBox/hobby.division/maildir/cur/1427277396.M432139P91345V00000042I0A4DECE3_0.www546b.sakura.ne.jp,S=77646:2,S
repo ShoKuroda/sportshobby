@@ -1,0 +1,1242 @@
+Return-Path: <215767@rmailmf.rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_FONT_SIZE_HUGE,HTML_MESSAGE,NORMAL_HTTP_TO_IP,
+	T_REMOTE_IMAGE,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2P9uVXR091341
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 18:56:31 +0900 (JST)
+	(envelope-from 215767@rmailmf.rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Wed, 25 Mar 2015 18:56:31 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from rmail1001c.rakuten.co.jp (rmail1039c.rakuten.co.jp [202.72.55.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2P9uUa5091338
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 18:56:30 +0900 (JST)
+	(envelope-from 215767@rmailmf.rakuten.co.jp)
+Received: from mdrmail103-04zc (mdrmail103-04zc-postfix.local [127.0.0.2])
+	by mdrmail103-04zc.rakuten.co.jp (Rakuten DKIM-MGwO 0.1.0) with ESMTP id D749C3AC5CE
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 18:56:30 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shop.rakuten.co.jp;
+	s=rmail2012041600; t=1427277390;
+	bh=oxmScHnjcdYRO9ihdmQDG86T89WPsynMUS4xnAKQtdc=;
+	h=To:MIME-Version:Subject:From:Sender:Content-Type:Message-Id:Date;
+	b=JrQ+8M6aeQHtEFA9MLc0LvnUc8obNA54PT6POPjQtgCzjO/u3r/wss1O0MQ7E4Bt5
+	 N9UmYuZbIzI11DWfegRBnFJeOq7xhdk/SoKTWD1g0KCBlSsn3RcyiL2MgWERTkjZyD
+	 SoKLm6sx/dhaynNhEFTweKRTTmym4NwDVnWMUgI8=
+Received: from mdrmail103-04zc.rakuten.co.jp (localhost.localdomain
+        [127.0.0.1])
+        by mdrmail103-04zc.db.rakuten.co.jp (Sendmail OMA v1.6.7-p3)
+        with SMTP id t2PIuU022152weHS; Wed, 25 Mar 2015 18:56:30 +0900
+        (JST)
+Received: from rmail-dkim-vip.db.rakuten.co.jp (bmctr103c.db.rakuten.co.jp [172.30.162.3])
+	by mdrmail103-04zc.rakuten.co.jp (Postfix) with ESMTP id BD9883AC556
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 18:56:30 +0900 (JST)
+To: hobby.division@sportshobby.co.jp
+MIME-Version: 1.0
+Subject: =?ISO-2022-JP?B?GyRCIVolJCVZJXMlSDlwQ04kIiRqIVsbKEIxORskQjt+Pzc6biF6GyhC?=
+ =?ISO-2022-JP?B?GyRCQmc5JSQtJEolLSVGJSMkQSRjJHMkSyRKJGokLSRtJCYhehsoQk1B?=
+ =?ISO-2022-JP?B?WDcwGyRCIXMbKEJPRkYbJEIhehsoQlNBTEUbJEIlIiUkJUYlYCRiGyhC?=
+ =?ISO-2022-JP?B?GyRCOSVJPkhOR2RDZiJ2IVobKEJCQUJZRE9MTBskQjNaRTc7VD5sGyhC?=
+ =?ISO-2022-JP?B?GyRCRTkhWxsoQg==?=
+From: BABYDOLL <starvations@shop.rakuten.co.jp>
+X-R-url: starvations
+Sender: 215767@rmailmf.rakuten.co.jp
+Keywords: R-Mail
+X-R-Mail_shop: BABYDOLL
+Content-Type: multipart/alternative;
+	boundary="=_8520de17977a1e9342deb97697ff126e"
+Message-Id: <20150325095630.BD9883AC556@mdrmail103-04zc.rakuten.co.jp>
+Date: Wed, 25 Mar 2015 18:56:30 +0900 (JST)
+
+--=_8520de17977a1e9342deb97697ff126e
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+
+■━━━━━━━━━━━━━━━━━━━━━━━━━━━━■
+　　　　　　 　　　2015年03月25日(水)
+
+　　　　  o。★ハローキティアイテム入荷♪★。o　
+       　　大好きなキティちゃんになりきろう★
+　　　　　　　　SALEアイテムも好評販売中
+　　　　　
+　　　　　http://www.rakuten.ne.jp/gold/starvations/?scid=rm_215767
+■━━━━━━━━━━━━━━━━━━━━━━━━━━━━■
+
+
+黒田 雄 様
+
+
+
+2015.03.25(WED) Vol.1550
+
+
+
+BABYDOLL楽天市場店の藤喜です(*ゝω・)ノドモ♪
+いつもご愛顧いただきありがとうございます!!
+
+
+キティちゃんを知らない方はいないと思いますが、
+生まれたのが1974年ってご存知でしたか？
+なんと昨年、生誕40周年を迎えていたんです(*゜o゜*)
+誕生から今までずーっと人気者のキティちゃん!!
+そんな人気者のキティちゃんのアイテムが入荷です(*´∀｀*）
+
+
+
+☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:
+★
+☆　　3月25日(水)19：00発売!!
+★
+☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:
+
+かわいいハローキティアイテム♪
+大好きなキティちゃんになりきろう★新作計8点★
+
+
+★NEW★
+ハローキティ総柄耳付きノースリワンピース / ￥3,456
+【BABY】
+http://m3.rakuten.co.jp/starvations/00050791%253fscid%3drm_215767/-/2/4mhj/acfp8/1/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00050792%253fscid%3drm_215767/-/2/4mhj/acfp8/2/1avbcv/
+
+
+★NEW★
+ハローキティリップロゴTシャツ / ￥1,836〜
+【BABY】
+http://m3.rakuten.co.jp/starvations/00050821%253fscid%3drm_215767/-/2/4mhj/acfp8/3/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00050822%253fscid%3drm_215767/-/2/4mhj/acfp8/4/1avbcv/
+【ADULT】
+http://m3.rakuten.co.jp/starvations/00050823%253fscid%3drm_215767/-/2/4mhj/acfp8/5/1avbcv/
+
+
+★NEW★
+ハローキティ_シルエットTシャツ / ￥2,268〜
+【BABY】
+http://m3.rakuten.co.jp/starvations/00050811%253fscid%3drm_215767/-/2/4mhj/acfp8/6/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00050812%253fscid%3drm_215767/-/2/4mhj/acfp8/7/1avbcv/
+【ADULT】
+http://m3.rakuten.co.jp/starvations/00050813%253fscid%3drm_215767/-/2/4mhj/acfp8/8/1avbcv/
+
+
+▼新作をまとめてチェック▼
+http://m3.rakuten.co.jp/starvations/c/0000000999/%253fscid%3drm_215767/-/2/4mhj/acfp8/9/1avbcv/
+
+
+
+------------------------------------------------------
+
+
+
+
+☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:
+★
+☆　　3月25日(水)19：00再販!!
+★
+☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:
+
+大人気の通販限定ロゴトート、完売カラー・サイズが入荷♪
+他にも人気SALEアイテムが再入荷してます〜★
+
+
+★RE ARRIVAL★
+通販限定★王冠ロゴトート / ￥1,080〜
+http://m3.rakuten.co.jp/starvations/c/0000001801/%253fscid%3drm_215767/-/2/4mhj/acfp8/10/1avbcv/
+【S】
+http://m3.rakuten.co.jp/starvations/00033639%253fscid%3drm_215767/-/2/4mhj/acfp8/11/1avbcv/
+【M】
+http://m3.rakuten.co.jp/starvations/00033649%253fscid%3drm_215767/-/2/4mhj/acfp8/12/1avbcv/
+【L】
+http://m3.rakuten.co.jp/starvations/00031669%253fscid%3drm_215767/-/2/4mhj/acfp8/13/1avbcv/
+
+
+★RE ARRIVAL★
+【70％OFF】アウトレットSALE★「DISNEY★Collection」
+総柄ニットカーディガン / ￥1,166
+【BABY】
+http://m3.rakuten.co.jp/starvations/00037761%253fscid%3drm_215767/-/2/4mhj/acfp8/14/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00037762%253fscid%3drm_215767/-/2/4mhj/acfp8/15/1avbcv/
+
+
+★RE ARRIVAL★
+A4対応♪BDレッスントートバッグ　/　￥2,376
+【GOODS】
+http://m3.rakuten.co.jp/starvations/00038429%253fscid%3drm_215767/-/2/4mhj/acfp8/16/1avbcv/
+
+
+★RE ARRIVAL★
+王冠マルチケース　/　￥1,296
+【GOODS】
+http://m3.rakuten.co.jp/starvations/00032889%253fscid%3drm_215767/-/2/4mhj/acfp8/17/1avbcv/
+
+
+★RE ARRIVAL★
+ギフトボックス付♪水玉×ボーダーコーデ3点ギフトセット　/　￥4,320
+【GOODS】
+http://m3.rakuten.co.jp/starvations/00033771%253fscid%3drm_215767/-/2/4mhj/acfp8/18/1avbcv/
+
+
+★RE ARRIVAL★
+「DISNEY★Collection」送料無料★なりきりコーデ3点ギフトセット　/　￥5,400
+【GOODS】
+http://m3.rakuten.co.jp/starvations/00030421%253fscid%3drm_215767/-/2/4mhj/acfp8/19/1avbcv/
+
+
+▼再入荷をまとめてチェック▼
+http://m3.rakuten.co.jp/starvations/c/0000001000/%253fscid%3drm_215767/-/2/4mhj/acfp8/20/1avbcv/
+
+
+
+------------------------------------------------------
+
+
+
+
+☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:
+★
+☆　　スタッフおすすめ♪
+★
+☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:
+
+期間限定★春物アイテム30％OFF♪
+
+▼ 春物先行30％OFF ▼
+￥3,240〜 → ￥2,268〜
+親子ペア★BDチェックシャツ
+【BABY】
+http://m3.rakuten.co.jp/starvations/00051941%253fscid%3drm_215767/-/2/4mhj/acfp8/21/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00051942%253fscid%3drm_215767/-/2/4mhj/acfp8/22/1avbcv/
+【ADULT】
+http://m3.rakuten.co.jp/starvations/00051943%253fscid%3drm_215767/-/2/4mhj/acfp8/23/1avbcv/
+
+
+▼ 春物先行30％OFF ▼
+￥3,456〜 → ￥2,419〜
+親子ペア★バックロゴデニムシャツ
+【BABY】
+http://m3.rakuten.co.jp/starvations/00051461%253fscid%3drm_215767/-/2/4mhj/acfp8/24/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00051462%253fscid%3drm_215767/-/2/4mhj/acfp8/25/1avbcv/
+【ADULT】
+http://m3.rakuten.co.jp/starvations/00051463%253fscid%3drm_215767/-/2/4mhj/acfp8/26/1avbcv/
+
+
+▼ 春物先行30％OFF ▼
+￥3,456〜 → ￥2,419〜
+星ボーダージップパーカー
+【BABY】
+http://m3.rakuten.co.jp/starvations/00051321%253fscid%3drm_215767/-/2/4mhj/acfp8/27/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00051322%253fscid%3drm_215767/-/2/4mhj/acfp8/28/1avbcv/
+
+
+▼ 春物先行30％OFF ▼
+￥3,456〜 → ￥2,419〜
+親子ペア★ロゴワッペンスタンドジャケット
+【BABY】
+http://m3.rakuten.co.jp/starvations/00049991%253fscid%3drm_215767/-/2/4mhj/acfp8/29/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00049992%253fscid%3drm_215767/-/2/4mhj/acfp8/30/1avbcv/
+【ADULT】
+http://m3.rakuten.co.jp/starvations/00049993%253fscid%3drm_215767/-/2/4mhj/acfp8/31/1avbcv/
+
+
+▼ 春物先行30％OFF ▼
+￥2,376〜 → ￥1,663〜
+親子ペア★BDロゴロングパンツ
+【BABY】
+http://m3.rakuten.co.jp/starvations/00050171%253fscid%3drm_215767/-/2/4mhj/acfp8/32/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00050172%253fscid%3drm_215767/-/2/4mhj/acfp8/33/1avbcv/
+【ADULT】
+http://m3.rakuten.co.jp/starvations/00050173%253fscid%3drm_215767/-/2/4mhj/acfp8/34/1avbcv/
+
+
+▼ 春物先行30％OFF ▼
+￥2,376 → ￥1,663
+BDスウェットロングパンツ
+【BABY】
+http://m3.rakuten.co.jp/starvations/00049461%253fscid%3drm_215767/-/2/4mhj/acfp8/35/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00049462%253fscid%3drm_215767/-/2/4mhj/acfp8/36/1avbcv/
+
+
+春物先行値下げアイテム一覧はこちら＞＞＞
+http://m3.rakuten.co.jp/starvations/c/0000002573/%253fs%3d1%26i%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/37/1avbcv/
+
+------------------------------------------------------
+
+MAX70％OFF★
+サイズ・カラーに限り有り!!早い者勝ち!!
+
+▼ SALE 50％OFF ▼
+￥3,672 → ￥1,836
+ワッペンカラーシャツ
+【BABY】
+http://m3.rakuten.co.jp/starvations/00047061%253fscid%3drm_215767/-/2/4mhj/acfp8/38/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00047062%253fscid%3drm_215767/-/2/4mhj/acfp8/39/1avbcv/
+
+
+▼ SALE 50％OFF ▼
+￥2,592〜 → ￥1,296〜
+親子ペア★カンガルーポケットトレーナー
+【BABY】
+http://m3.rakuten.co.jp/starvations/00046981%253fscid%3drm_215767/-/2/4mhj/acfp8/40/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00046982%253fscid%3drm_215767/-/2/4mhj/acfp8/41/1avbcv/
+【ADULT】
+http://m3.rakuten.co.jp/starvations/00046983%253fscid%3drm_215767/-/2/4mhj/acfp8/42/1avbcv/
+
+▼ SALE 50％OFF ▼
+￥3,240〜 → ￥1,620〜
+親子ペア★切替総柄ジップジャケット
+【BABY】
+http://m3.rakuten.co.jp/starvations/00044001%253fscid%3drm_215767/-/2/4mhj/acfp8/43/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00044002%253fscid%3drm_215767/-/2/4mhj/acfp8/44/1avbcv/
+【ADULT】
+http://m3.rakuten.co.jp/starvations/00044003%253fscid%3drm_215767/-/2/4mhj/acfp8/45/1avbcv/
+
+
+▼ SALE 50％OFF ▼
+￥3,888〜 → ￥1,944〜
+親子ペア★ヒョウ柄ラインベロアジャケット
+【BABY】
+http://m3.rakuten.co.jp/starvations/00045551%253fscid%3drm_215767/-/2/4mhj/acfp8/46/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00045552%253fscid%3drm_215767/-/2/4mhj/acfp8/47/1avbcv/
+【ADULT】
+http://m3.rakuten.co.jp/starvations/00045553%253fscid%3drm_215767/-/2/4mhj/acfp8/48/1avbcv/
+
+▼ SALE 70％OFF ▼
+￥1,166
+「DISNEY★Collection」総柄ニットカーディガン
+【BABY】
+http://m3.rakuten.co.jp/starvations/00037761%253fscid%3drm_215767/-/2/4mhj/acfp8/49/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00037762%253fscid%3drm_215767/-/2/4mhj/acfp8/50/1avbcv/
+
+
+▼ SALE 70％OFF ▼
+￥3,888 → ￥1,166
+ベロアラインジップジャケット
+【BABY】
+http://m3.rakuten.co.jp/starvations/00044141%253fscid%3drm_215767/-/2/4mhj/acfp8/51/1avbcv/
+【KIDS】
+http://m3.rakuten.co.jp/starvations/00044142%253fscid%3drm_215767/-/2/4mhj/acfp8/52/1avbcv/
+
+
+▼SALEアイテムを一覧でCHECK▼
+http://m3.rakuten.co.jp/starvations/c/0000001818/%253fs%3d1%26i%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/53/1avbcv/
+
+
+------------------------------------------------------
+
+☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:
+★　　
+☆　　【予告】
+★　　プロ野球開幕記念!
+☆　　楽天イーグルス応援キャンペーン
+★
+☆　　3/27(金)10:00〜4/3(金)01:59まで
+★
+☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:
+
+3/27(金)10:00〜プロ野球開幕記念として
+楽天イーグルス応援キャンペーンを開催します！！
+http://m3.rakuten.co.jp/gold/starvations/revent/0325web/index.html%253fscid%3drm_215767/-/4/4mhj/acfp8/54/1avbcv/
+
+■毎日更新!
+日替わりクーポン配布!!
+
+■応援キャンペーン限定!
+70％アイテム追加!!
+
+■通販限定!先行値下げ
+春物新作が30％OFF
+
+■限界価格?!
+500円ぽっきり価格!!
+
+
+▼イベントページはこちら▼
+http://m3.rakuten.co.jp/gold/starvations/revent/0325web/index.html%253fscid%3drm_215767/-/4/4mhj/acfp8/55/1avbcv/
+
+
+3/27(金)10:00〜4/3(金)01:59までの期間限定イベント!!
+お見逃しなく!!
+
+
+・・・・・・・・・・・・・・・・・・・・・・・・・・・
+
+
+☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:
+★
+☆　　開催中のオススメイベント＆アイテム
+★
+☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:★:*:☆:*:
+
+＼あなたの1票で決まる★／
+全国83店舗から選ばれた人気スタッフたちが本気プロデュース！
+皆さんの投票をお待ちしております！
+投票期間：3/23(月)〜3/31(火)
+http://m3.rakuten.co.jp/starvations/c/0000002580/%253fscid%3drm_215767/-/2/4mhj/acfp8/56/1avbcv/
+
+＼ヘビロテ！人気の秘密は履きやすさ★／
+http://m3.rakuten.co.jp/starvations/00033202%253fscid%3drm_215767/-/2/4mhj/acfp8/57/1avbcv/
+
+
+＼入園・入学準備を始めよう★／
+http://m3.rakuten.co.jp/starvations/c/0000002497/%253fs%3d1%26i%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/58/1avbcv/
+
+・BABYDOLL　フォーマル
+http://m3.rakuten.co.jp/starvations/c/0000001132/%253fs%3d1%26i%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/59/1avbcv/
+
+
+＼春コーデ満載!スタイルブック公開中♪／
+
+見ているだけで気分が上がるカラフルなコーディネイトがいっぱい☆
+早速見てみてね★
+http://m3.rakuten.co.jp/starvations/c/0000002340%253fscid%3drm_215767/-/2/4mhj/acfp8/60/1avbcv/
+
+
+▼親子ペア人気No.1！セットアップ特集▼
+http://m3.rakuten.co.jp/starvations/c/0000000945/%253fs%3d1%26i%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/61/1avbcv/
+
+▼通販でしか買えない？！限定ロゴトートバッグ▼
+http://m3.rakuten.co.jp/starvations/c/0000001801%253fscid%3drm_215767/-/2/4mhj/acfp8/62/1avbcv/
+
+▼仲良し親子必見！可愛さ倍増♪親子ペアアイテム▼
+http://m3.rakuten.co.jp/search/inshop-mall/%E8%A6%AA%E5%AD%90%E3%83%9A%E3%82%A2/-/f.3-p.1-s.1-%253fscid%3drm_215767/-/d/4mhj/acfp8/63/1avbcv/
+
+sf.0-sid.215767-st.A-v.3
+
+▼BABYDOLLから新生児ブランドデビュー▼
+http://m3.rakuten.co.jp/starvations/c/0000002393%253fscid%3drm_215767/-/2/4mhj/acfp8/64/1avbcv/
+
+
+
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+■BABYDOLL お買い物ガイド■
+http://m3.rakuten.co.jp/gold/starvations/faq/faq.htm%253fscid%3drm_215767/-/4/4mhj/acfp8/65/1avbcv/
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+　最後までお読み頂きありがとうございました(´∀｀*)ノ
+　次回もお楽しみに♪
+　　　　　　　　　　　　　　BABYDOLL楽天市場店 藤喜
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+▼配信停止はこちら▼
+http://emagazine.rakuten.co.jp/q?u=starvations&k=%7c%7exI%3f-%2b%2fdqvm1%3fG1W3%7bPxW%7dySOCIac8VOb53&scid=rm_215767
+
+▼アドレス変更はこちら▼
+http://www.rakuten.co.jp/starvations/news.html?scid=rm_215767
+
+
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+このメールは、
+BABYDOLL楽天SHOPをご利用していただいた事のある方で、
+楽天会員登録していただいたお客様、
+ならびにメルマガ配信をご希望になられた方へ送付しています。
+
+株式会社コージィコーポレーション
+〒542-0081　大阪市中央区南船場1-16-10　大阪岡本ビル3Ｆ
+TEL 06-6125-1458
+
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+
+────────── 【楽天市場からのお知らせ】 ──────────
+【3月27日（金）9：59まで ！】
+　年会費永年無料★楽天カード新規入会でもれなく5,000ポイントのところ、今なら5,300ポイントプレゼント！
+　　⇒ http://link.rakuten.co.jp/1/008/531/?url=2/831/68809/0/RC4 
+　楽天カードなら楽天市場でのお買い物はいつでも2倍★
+
+　楽天市場トップはこちら
+　　⇒ http://www.rakuten.co.jp/?l-id=top_091&scid=rm_215767 
+──────────────────────────────────
+--=_8520de17977a1e9342deb97697ff126e
+Content-Type: text/html; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-2022-jp">
+<meta http-equiv="Content-Language" content="ja">
+<title> 【楽天市場】BABYDOLL </title>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" alink="#ff0000" vlink="#0000ff"><table width="100%" cellspacing="0" cellpadding="1"  border="0" bgcolor="#bf0000">
+<img src="http://m3.rakuten.co.jp/open.phtml/-/4mhj/acfp8/1avbcv" width="1" height="1" border="0"><tr>
+<td>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0"  bgcolor="#ffffff">
+<tr>
+<td width="92">
+<table width="100%" cellpadding="5" cellspacing="0" border="0">
+<tr>
+<td><a href="http://www.rakuten.co.jp/?scid=rm_215767" target="_blank" ><img src="http://event.rakuten.co.jp/com/img/logo/base/w080.gif" width="80" height="36" alt="" border="0"></a></td></tr></table></td>
+
+<td>
+<table width="100%" border="0"cellpadding="5" cellspacing="0">
+<tr>
+<td><a href="http://ad2.trafficgate.net/t/r/2/831/68809/0/RC1/" target="_blank" ><img src="http://event.rakuten.co.jp/com/img/shop/navi/20100301_eagles_135x36.gif" alt="" width="100%" border="0" style="min-width: 95px; max-width: 135px;"></a></td>
+<td align="right">
+<a href="http://ad2.trafficgate.net/t/r/922/3629/198512_234039/" target="_blank" ><img src="http://image.infoseek.rakuten.co.jp/content/toolbar/news/r_mail/toolbar_136x40.gif" alt="" width="100%" border="0" style="min-width: 95px; max-width: 135px;"></a></td>
+</tr>
+</table></td>
+</tr></table></td>
+
+</tr>
+</table>
+
+<br />
+<br><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td><table width="100%" border="0" cellspacing="4" cellpadding="0" ><tr><td><div align="left"><font size="-1">
+黒田 雄 様
+</font></div></td></tr></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"  background="http://image.rakuten.co.jp/starvations/cabinet/mail/haikei/pattern05_05.jpg"><!-- ←カラー変更 -->
+<tr>
+<td align="center">
+
+<table width="697" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="697" align="center">
+
+<table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" width="650">
+<tr><td>
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td colspan="6"><img src="http://image.rakuten.co.jp/starvations/cabinet/header_online04.jpg" width="650" alt="STARVATIONS MAIL MAGAZINE" border="0" /></td>
+</tr>
+</table>
+<br>
+
+
+
+<!-- ▼あいさつ -->
+
+<table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" width="610" align="center">
+<tr>
+<td>
+<center>
+<font color="#666666" size="4"><b>2015.03.25(WED) Vol.1550</b></font><br /><br />
+
+<font color="#99cc00" size="4"><b>
+BABYDOLL楽天市場店の藤喜です(*ゝω・)ノドモ♪<br />
+いつもご愛顧いただきありがとうございます!!</b></font>
+
+<hr color="#FF3399" size="5" width="610">
+<br />
+<font color="#333333" size="4"><b>
+キティちゃんを知らない方はいないと思いますが、<br>
+生まれたのが1974年ってご存知でしたか？<br>
+なんと昨年、生誕40周年を迎えていたんです(*゜o゜*)<br>
+誕生から今までずーっと人気者のキティちゃん!!<br>
+そんな人気者のキティちゃんのアイテムが入荷です(*´∀｀*）<br>
+<br>
+</b></font>
+</center>
+</td>
+</tr>
+</table>
+<!-- ▼あいさつ -->
+<!--　★★大カテゴリ★★　-->
+
+<table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" width="610" align="center">
+<tr>
+<td align="left">
+<!-- ▼ New ARRIVAL -->
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/mail02_new_1212.jpg" width="610" alt="新作" />
+<br>
+<font color="#ff0000" size="7"><b>3月25日(水)19：00発売!!<br /></b></font>
+<hr color="#04b754" size="5" width="600">
+<font color="#04b754" size="4">
+<b>
+かわいいハローキティアイテム♪<br>
+大好きなキティちゃんになりきろう★新作計8点★<br>
+</b></font>
+
+<hr color="#04b754" size="5" width="600"><br>
+
+<!--★☆★ 商品1 ★☆★-->
+<table cellspacing="3" cellpadding="4" border="0" bgcolor="#ffffff" width="610" align="center">
+<tr>
+<td colspan="4" height="30" align="left">
+<a href="http://m3.rakuten.co.jp/starvations/00050792%253fscid%3drm_215767/-/2/4mhj/acfp8/66/1avbcv/" target="_blank" >
+<img src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00050792_wear0303.jpg" width="610" alt="NEW ARRIVAL3" border="0" /></a><br><br>
+<font color="#666666" size="4">
+<font size="6"><b>ハローキティ総柄耳付き<br>ノースリワンピース / ￥3,456</b></font><br>
+<br>
+キティちゃんやリボン、王冠をPOPに散りばめた<br>総柄デザインがCUTEなフリルワンピ♪<br>
+ノースリタイプはコーデ次第でロングシーズン活躍する優秀アイテム★<br>
+程よい厚さでごわつきにくい天竺素材◎洗濯にも強く気軽に着られる1枚★<br>
+リボン＆耳の付いたフードで、大好きなキティちゃんになりきって<br>お出かけしちゃお♪<br><br>
+</font>
+</td>
+</tr>
+<tr>
+<td width="300" align="center" bgcolor="#000000">
+<a href="http://m3.rakuten.co.jp/starvations/00050791%253fscid%3drm_215767/-/2/4mhj/acfp8/67/1avbcv/" target="_blank" ><font size="5" color="#FFFFFF"><b>BABY</b></font></a></td>
+<td width="300" align="center" bgcolor="#000000">
+<a href="http://m3.rakuten.co.jp/starvations/00050792%253fscid%3drm_215767/-/2/4mhj/acfp8/68/1avbcv/" target="_blank" ><font size="5" color="#FFFFFF"><b>KIDS</b></font></a></td>
+
+</tr>
+		<tr><td colspan="3"><hr color="#CCCCCC" size="1"></td></tr>
+</table>
+<!--★☆★ 商品1終わり ★☆★-->
+
+<!--★☆★ 商品2 ★☆★-->
+<table cellspacing="4" cellpadding="3" border="0" bgcolor="#ffffff" width="610" align="center">
+<tr>
+<td width="50%" align="center">
+<a href="http://m3.rakuten.co.jp/starvations/00050821%253fscid%3drm_215767/-/2/4mhj/acfp8/69/1avbcv/" target="_blank" ><img src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00050821_wear0305.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br>
+</td>
+ 
+<td width="50%" align="left"><br />
+<table cellspacing="0" cellpadding="8" border="0" bgcolor="#9999ff" width="100%" align="center">
+<tr><td align="center" bgcolor="#ff6699">
+
+<font size="4" color="#FFFFFF"><b>
+<font color="#fef21a">★</font>NEW<font color="#fef21a">★</font><br>ハローキティリップロゴTシャツ<br>
+<hr color="#ffffff" size="1" width="100%">
+【<a href="http://m3.rakuten.co.jp/starvations/00050821%253fscid%3drm_215767/-/2/4mhj/acfp8/70/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00050822%253fscid%3drm_215767/-/2/4mhj/acfp8/71/1avbcv/" target="_blank" >KIDS</a>/<a href="http://m3.rakuten.co.jp/starvations/00050823%253fscid%3drm_215767/-/2/4mhj/acfp8/72/1avbcv/" target="_blank" >ADULT</a>】<br>
+<font color="#ffffff"><b>￥1,836〜</b></font>
+</b></font>
+</td></tr>
+</table><br>
+<br>
+<font color="#666666" size="3">キティちゃん好き必見！<br>フロントはBIGなキティちゃん♪<br>バックはBIGな王冠マーク★<br>
+インパクトのあるBIGプリントはコラボならではのデザインで注目の的♪<br>
+ママと一緒にオソロ出来るサイズ展開が嬉しい♪仲良く揃えてCUTEに決めちゃおう♪<br>
+<br>
+</font>
+</td>
+</tr>
+		<tr><td colspan="3"><hr color="#CCCCCC" size="1"></td></tr>
+</table>
+<!--★☆★ 商品2終わり ★☆★-->
+
+<!--★☆★ 商品3 ★☆★-->
+<table cellspacing="4" cellpadding="3" border="0" bgcolor="#ffffff" width="610" align="center">
+<tr>
+ 
+<td width="50%" align="left"><br />
+<table cellspacing="0" cellpadding="8" border="0" bgcolor="#9999ff" width="100%" align="center">
+<tr><td align="center" bgcolor="#ff6699">
+
+<font size="4" color="#FFFFFF"><b>
+<font color="#fef21a">★</font>NEW<font color="#fef21a">★</font><br>ハローキティ_シルエットTシャツ<br>
+<hr color="#ffffff" size="1" width="100%">
+【<a href="http://m3.rakuten.co.jp/starvations/00050811%253fscid%3drm_215767/-/2/4mhj/acfp8/73/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00050812%253fscid%3drm_215767/-/2/4mhj/acfp8/74/1avbcv/" target="_blank" >KIDS</a>/<a href="http://m3.rakuten.co.jp/starvations/00050813%253fscid%3drm_215767/-/2/4mhj/acfp8/75/1avbcv/" target="_blank" >ADULT</a>】<br>
+<font color="#ffffff"><b>￥2,268〜</b></font>
+</b></font>
+</td></tr>
+</table><br>
+<br>
+<font color="#666666" size="3">ドット柄リボンを付けたキティちゃんシルエットが大人可愛いTシャツ★<br>
+バックのドット柄王冠も可愛いコラボならではのデザイン★<br>後姿もバッチリで注目の的♪<br>
+ママと一緒にオソロ出来るサイズ展開が嬉しい♪仲良く揃えてCUTEに決めちゃおう♪<br>
+<br>
+</font>
+</td>
+<td width="50%" align="center">
+<a href="http://m3.rakuten.co.jp/starvations/00050813%253fscid%3drm_215767/-/2/4mhj/acfp8/76/1avbcv/" target="_blank" ><img src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00050813_wear0223.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br>
+</td>
+</tr>
+<!--★☆★ 商品3終わり ★☆★-->
+                <tr>
+    <td colspan="5" height="30" align="right"><br />
+      <a href="http://m3.rakuten.co.jp/starvations/c/0000000999/%253fscid%3drm_215767/-/2/4mhj/acfp8/77/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/starvations/cabinet/mail/btn_newarrival.jpg" border="0" /></a><br />
+      </td>
+      </tr>
+</table>
+<!-- ▲ New ARRIVAL -->
+
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/line.jpg" alt="ドットライン" width="610"  border="0" /><br>
+<br />
+<!-- ▼ New ARRIVAL -->
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/mail02_re_1212.jpg" width="610" alt="新作" />
+<br>
+<font color="#ff0000" size="7"><b>3月25日(水)19：00再販!!<br /></b></font>
+<hr color="#04b754" size="5" width="600">
+<font color="#04b754" size="4">
+<b>
+大人気の通販限定ロゴトート、完売カラー・サイズが入荷♪<br>
+他にも人気SALEアイテムが再入荷してます〜★<br>
+</b></font>
+
+<hr color="#04b754" size="5" width="600"><br>
+
+
+<!--★☆★ 商品1 ★☆★-->
+<table cellspacing="3" cellpadding="4" border="0" bgcolor="#ffffff" width="610" align="center">
+<tr>
+<td colspan="4" height="30" align="left">
+<a href="http://m3.rakuten.co.jp/starvations/c/0000001801/%253fscid%3drm_215767/-/2/4mhj/acfp8/78/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/starvations/cabinet/event00/2015/0325rogo_700x700.jpg" width="610" alt="RE ARRIVAL" border="0" /></a><br><br>
+<font color="#666666" size="4">
+<font size="6"><b>通販限定★王冠ロゴトート / ￥1,080〜</b></font><br>
+</font>
+</td>
+</tr>
+<tr>
+<td width="200" align="center" bgcolor="#000000">
+<a href="http://m3.rakuten.co.jp/starvations/00033639%253fscid%3drm_215767/-/2/4mhj/acfp8/79/1avbcv/" target="_blank" ><font size="5" color="#FFFFFF"><b>S</b></font></a></td>
+<td width="200" align="center" bgcolor="#000000">
+<a href="http://m3.rakuten.co.jp/starvations/00033649%253fscid%3drm_215767/-/2/4mhj/acfp8/80/1avbcv/" target="_blank" ><font size="5" color="#FFFFFF"><b>M</b></font></a></td>
+<td width="200" align="center" bgcolor="#000000">
+<a href="http://m3.rakuten.co.jp/starvations/00031669%253fscid%3drm_215767/-/2/4mhj/acfp8/81/1avbcv/" target="_blank" ><font size="5" color="#FFFFFF"><b>L</b></font></a></td>
+</tr>
+		<tr><td colspan="3"><hr color="#CCCCCC" size="1"></td></tr>
+</table>
+<!--★☆★ 商品1終わり ★☆★-->
+
+
+<!--★☆★ 商品2 ★☆★-->
+<table cellspacing="4" cellpadding="3" border="0" bgcolor="#ffffff" width="610" align="center">
+<tr>
+<td width="50%" align="center">
+<a href="http://m3.rakuten.co.jp/starvations/00037762%253fscid%3drm_215767/-/2/4mhj/acfp8/82/1avbcv/" target="_blank" ><img src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00037762_wear1227.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br>
+</td>
+ 
+<td width="50%" align="left"><br />
+<table cellspacing="0" cellpadding="8" border="0" bgcolor="#9999ff" width="100%" align="center">
+<tr><td align="center" bgcolor="#ff6699">
+
+<font size="4" color="#FFFFFF"><b>
+<font color="#fef21a">★</font>再入荷<font color="#fef21a">★</font><br>【70％OFF】アウトレットSALE★<br>
+「DISNEY★Collection」<br>総柄ニットカーディガン<br>
+<hr color="#ffffff" size="1" width="100%">
+【<a href="http://m3.rakuten.co.jp/starvations/00037761%253fscid%3drm_215767/-/2/4mhj/acfp8/83/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00037762%253fscid%3drm_215767/-/2/4mhj/acfp8/84/1avbcv/" target="_blank" >KIDS</a>】<br>
+<font color="#ffffff"><b>￥1,166</b></font>
+</b></font>
+</td></tr>
+</table><br>
+<br>
+<font color="#666666" size="3">カラフルなミッキーの総柄ニットカーデでいっきにオシャレ顔♪<br>王冠とロゴがどかーんと入ったバックプリントでベビドアピールもばっちり★
+<br>
+</font>
+</td>
+</tr>
+		<tr><td colspan="3"><hr color="#CCCCCC" size="1"></td></tr>
+</table>
+<!--★☆★ 商品2終わり ★☆★-->
+
+<table cellspacing="4" cellpadding="3" border="0" bgcolor="#ffffff" width="610" align="center">
+
+	<tr>
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00038429%253fscid%3drm_215767/-/2/4mhj/acfp8/85/1avbcv/" target="_blank" >
+		<img src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk2/00038429_wear0130.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br>
+<font color="#FF0000" size="4"><b>★再入荷★</b></font><br>		<font color="#000000" size="4">A4対応♪BDレッスントートバッグ</font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00038429%253fscid%3drm_215767/-/2/4mhj/acfp8/86/1avbcv/" target="_blank" >GOODS</a>】</font><br>
+		<font color="#000000" size="6"><b>￥2,376</b></font><br>
+		</td>
+
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00032889%253fscid%3drm_215767/-/2/4mhj/acfp8/87/1avbcv/" target="_blank" >
+		<img src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk2/00032889_wear1018.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br>
+<font color="#FF0000" size="4"><b>★再入荷★</b></font><br>			<font color="#000000" size="4">王冠マルチケース</font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00032889%253fscid%3drm_215767/-/2/4mhj/acfp8/88/1avbcv/" target="_blank" >GOODS</a>】</font><br>
+		<font color="#000000" size="6"><b>￥1,296</b></font><br>
+		</td>
+	</tr>
+		<tr><td colspan="3"><hr color="#CCCCCC" size="1"></td></tr>
+	<tr>
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00033771%253fscid%3drm_215767/-/2/4mhj/acfp8/89/1avbcv/" target="_blank" >
+		<img src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk2/00033771_wear0925.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br>
+<font color="#FF0000" size="4"><b>★再入荷★</b></font><br>		<font color="#000000" size="4">ギフトボックス付♪水玉×ボーダーコーデ3点ギフトセット</font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00033771%253fscid%3drm_215767/-/2/4mhj/acfp8/90/1avbcv/" target="_blank" >BABY</a>】</font><br>
+		<font color="#000000" size="6"><b>￥4,320</b></font><br>
+		</td>
+
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00030421%253fscid%3drm_215767/-/2/4mhj/acfp8/91/1avbcv/" target="_blank" >
+		<img src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk2/00030421_wear0711.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br>
+<font color="#FF0000" size="4"><b>★再入荷★</b></font><br>			<font color="#000000" size="4">「DISNEY★Collection」送料無料★なりきりコーデ3点ギフトセット</font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00032889%253fscid%3drm_215767/-/2/4mhj/acfp8/92/1avbcv/" target="_blank" >BABY</a>】</font><br>
+		<font color="#000000" size="6"><b>￥5,400</b></font><br>
+		</td>
+	</tr>
+		<tr><td colspan="3"><hr color="#CCCCCC" size="1"></td></tr>
+
+
+                <tr>
+    <td colspan="5" height="30" align="right"><br />
+      <a href="http://m3.rakuten.co.jp/starvations/c/0000001000/%253fscid%3drm_215767/-/2/4mhj/acfp8/93/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/starvations/cabinet/mail/btn_rearrival.jpg" border="0" /></a><br />
+      </td>
+      </tr>
+</table>
+<!-- ▲ New ARRIVAL -->
+
+
+
+<!-- ▼スタッフおすすめ -->
+<br><br>
+<center>
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/line.jpg" alt="ドットライン" width="610"  border="0" /><br>
+<br />
+<!--★☆★ 30％OFFアイテム ★☆★-->
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/staff_select.jpg" alt="タイトル" width="600"  border="0" />
+<br>
+<a href="http://m3.rakuten.co.jp/starvations/c/0000001444/%253fs%3d1%26i%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/94/1avbcv/" target="_blank" >
+<img alt="セール" width="610" src="http://image.rakuten.co.jp/starvations/cabinet/event00/2015/0320sale_616x350.jpg" border="0" /></a><br><br>
+			<font color="#666666" size="2" >
+				<b>SALEアイテムのため配信時点で完売の場合がございます。
+				</b>
+			</font>
+			<br><br>
+		</center>
+<table cellspacing="3" cellpadding="2" border="0" bgcolor="#ffffff" width="610" align="center">
+<tr>
+<!--★1★-->	
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00051942%253fscid%3drm_215767/-/2/4mhj/acfp8/95/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/14.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br />
+<font color="#ff0000" size="4"><b>▼ 春物先行30％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00051941%253fscid%3drm_215767/-/2/4mhj/acfp8/96/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00051942%253fscid%3drm_215767/-/2/4mhj/acfp8/97/1avbcv/" target="_blank" >KIDS</a>/<a href="http://m3.rakuten.co.jp/starvations/00051943%253fscid%3drm_215767/-/2/4mhj/acfp8/98/1avbcv/" target="_blank" >ADULT</a>】</font>
+		</td>
+<!--★1★-->
+<!--★2★-->
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00051462%253fscid%3drm_215767/-/2/4mhj/acfp8/99/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/imgrc0064837517.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br />
+<font color="#ff0000" size="4"><b>▼ 春物先行30％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00051461%253fscid%3drm_215767/-/2/4mhj/acfp8/100/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00051462%253fscid%3drm_215767/-/2/4mhj/acfp8/101/1avbcv/" target="_blank" >KIDS</a>/<a href="http://m3.rakuten.co.jp/starvations/00051463%253fscid%3drm_215767/-/2/4mhj/acfp8/102/1avbcv/" target="_blank" >ADULT</a>】</font><br>
+		</td>
+	</tr>
+<!--★2★-->
+<tr><td colspan="3"><hr color="#CCCCCC" size="1"></td></tr>
+<!--★3★-->
+<tr>
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00051322%253fscid%3drm_215767/-/2/4mhj/acfp8/103/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/15.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br />
+		
+<font color="#ff0000" size="4"><b>▼ 春物先行30％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00051321%253fscid%3drm_215767/-/2/4mhj/acfp8/104/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00051322%253fscid%3drm_215767/-/2/4mhj/acfp8/105/1avbcv/" target="_blank" >KIDS</a>】</font><br>
+		</td>
+<!--★3★-->
+<!--★4★-->
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00049992%253fscid%3drm_215767/-/2/4mhj/acfp8/106/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/0320sale_08.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br /><br />
+<font color="#ff0000" size="4"><b>▼ 春物先行30％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00049991%253fscid%3drm_215767/-/2/4mhj/acfp8/107/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00049992%253fscid%3drm_215767/-/2/4mhj/acfp8/108/1avbcv/" target="_blank" >KIDS</a>/<a href="http://m3.rakuten.co.jp/starvations/00049993%253fscid%3drm_215767/-/2/4mhj/acfp8/109/1avbcv/" target="_blank" >ADULT</a>】</font><br>
+		</td>
+	</tr>
+<!--★4★-->
+<tr><td colspan="3"><hr color="#CCCCCC" size="1"></td></tr>
+<!--★5★-->
+<tr>
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00050172%253fscid%3drm_215767/-/2/4mhj/acfp8/110/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/0320sale_07.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br />
+<font color="#ff0000" size="4"><b>▼ 春物先行30％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00050171%253fscid%3drm_215767/-/2/4mhj/acfp8/111/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00050172%253fscid%3drm_215767/-/2/4mhj/acfp8/112/1avbcv/" target="_blank" >KIDS</a>/<a href="http://m3.rakuten.co.jp/starvations/00050173%253fscid%3drm_215767/-/2/4mhj/acfp8/113/1avbcv/" target="_blank" >ADULT</a>】</font><br>
+		</td>
+<!--★5★-->
+<!--★6★-->
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00049462%253fscid%3drm_215767/-/2/4mhj/acfp8/114/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/0320sale_11.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br />
+		
+<font color="#ff0000" size="4"><b>▼ 春物先行30％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00049461%253fscid%3drm_215767/-/2/4mhj/acfp8/115/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00049462%253fscid%3drm_215767/-/2/4mhj/acfp8/116/1avbcv/" target="_blank" >KIDS</a>】</font><br>
+		</td>
+	</tr>
+<!--★6★-->
+
+</table>
+<br><br>
+<center>
+<a href="http://m3.rakuten.co.jp/starvations/c/0000002573/%253fs%3d1%26amp%253Bi%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/117/1avbcv/" target="_blank" >
+<img width="610" src="http://image.rakuten.co.jp/starvations/cabinet/event03/0320sale_jump01.jpg" border="0"></a></center>
+<!--★☆★ 30％OFFアイテム ★☆★-->
+
+<center>
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/line.jpg" alt="ドットライン" width="610"  border="0" /><br><br>
+<br /></center>
+
+<!--★☆★ 50〜70％OFFアイテム ★☆★-->
+<center>
+<font color="red" size="6"><b>サイズがあれば即GET ↓↓↓</b></font><br>
+<a href="http://m3.rakuten.co.jp/starvations/c/0000001752/%253fs%3d1%26i%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/118/1avbcv/" target="_top"><img src="http://image.rakuten.co.jp/starvations/cabinet/event03/0320_mail_moji01.jpg" width="610" /></a><br /><br />
+<table cellspacing="3" cellpadding="2" border="0" bgcolor="#ffffff" width="610" align="center">
+<tr>
+<!--★1★-->	
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00047062%253fscid%3drm_215767/-/2/4mhj/acfp8/119/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/imgrc0064866011.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br />
+<font color="#ff0000" size="4"><b>▼ SALE 50％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00047061%253fscid%3drm_215767/-/2/4mhj/acfp8/120/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00047062%253fscid%3drm_215767/-/2/4mhj/acfp8/121/1avbcv/" target="_blank" >KIDS</a>】</font>
+		</td>
+<!--★1★-->
+<!--★2★-->
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00046982%253fscid%3drm_215767/-/2/4mhj/acfp8/122/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/imgrc0064866014.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br />
+<font color="#ff0000" size="4"><b>▼ SALE 50％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00046981%253fscid%3drm_215767/-/2/4mhj/acfp8/123/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00046982%253fscid%3drm_215767/-/2/4mhj/acfp8/124/1avbcv/" target="_blank" >KIDS</a>/<a href="http://m3.rakuten.co.jp/starvations/00046983/%253fscid%3drm_215767/-/2/4mhj/acfp8/125/1avbcv/" target="_blank" >ADULT</a>】</font><br>
+		</td>
+	</tr>
+<!--★2★-->
+<tr><td colspan="3"><hr color="#CCCCCC" size="1"></td></tr>
+<!--★3★-->
+<tr>
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00044002%253fscid%3drm_215767/-/2/4mhj/acfp8/126/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/imgrc0064866012.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br />
+		
+<font color="#ff0000" size="4"><b>▼ SALE 50％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00044001%253fscid%3drm_215767/-/2/4mhj/acfp8/127/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00044002%253fscid%3drm_215767/-/2/4mhj/acfp8/128/1avbcv/" target="_blank" >KIDS</a>/<a href="http://m3.rakuten.co.jp/starvations/00044003%253fscid%3drm_215767/-/2/4mhj/acfp8/129/1avbcv/" target="_blank" >ADULT</a>】</font><br>
+		</td>
+<!--★3★-->
+<!--★4★-->
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/0004555/%253fscid%3drm_215767/-/2/4mhj/acfp8/130/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/imgrc0064866013.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br /><br />
+<font color="#ff0000" size="4"><b>▼ SALE 50％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00045551%253fscid%3drm_215767/-/2/4mhj/acfp8/131/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00045552%253fscid%3drm_215767/-/2/4mhj/acfp8/132/1avbcv/" target="_blank" >KIDS</a>/<a href="http://m3.rakuten.co.jp/starvations/00045553%253fscid%3drm_215767/-/2/4mhj/acfp8/133/1avbcv/" target="_blank" >ADULT</a>】</font><br>
+		</td>
+	</tr>
+<!--★4★-->
+<tr><td colspan="3"><hr color="#CCCCCC" size="1"></td></tr>
+<!--★5★-->
+<tr>
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00037762%253fscid%3drm_215767/-/2/4mhj/acfp8/134/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/imgrc0064866016.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br />
+<font color="#ff0000" size="4"><b>▼ SALE 70％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00037761%253fscid%3drm_215767/-/2/4mhj/acfp8/135/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00037762%253fscid%3drm_215767/-/2/4mhj/acfp8/136/1avbcv/" target="_blank" >KIDS</a>】</font><br>
+		</td>
+<!--★5★-->
+<!--★6★-->
+     		<td width="215" valign="top" align="left">
+		<a href="http://m3.rakuten.co.jp/starvations/00044142%253fscid%3drm_215767/-/2/4mhj/acfp8/137/1avbcv/" target="_blank" >
+		<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/imgrc0064866015.jpg" width="300" alt="NEW ARRIVAL3" border="0" /></a><br><br />
+		
+<font color="#ff0000" size="4"><b>▼ SALE 70％OFF ▼</b></font><br>
+		<font color="#000000" size="5">【<a href="http://m3.rakuten.co.jp/starvations/00044141%253fscid%3drm_215767/-/2/4mhj/acfp8/138/1avbcv/" target="_blank" >BABY</a>/<a href="http://m3.rakuten.co.jp/starvations/00044142%253fscid%3drm_215767/-/2/4mhj/acfp8/139/1avbcv/" target="_blank" >KIDS</a>】</font><br>
+		</td>
+	</tr>
+<!--★6★-->
+
+</table>
+<br><br>
+<a href="http://m3.rakuten.co.jp/starvations/c/0000001444/%253fs%3d1%26amp%253Bi%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/140/1avbcv/" target="_blank" >
+<img width="580" src="http://image.rakuten.co.jp/starvations/cabinet/event03/0320springpre_jump.jpg" border="0"></a><br><br>
+</center>
+<center>
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/line.jpg" alt="ドットライン" width="610"  border="0" /><br>
+<br /></center><br>
+<!--★☆★ 50〜70％OFFアイテム ★☆★-->
+
+
+<!--★☆★ 告知 ★☆★-->
+<center>
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/mail02_news_1212.jpg" width="610" alt="新作" />
+<br><br>
+
+  <font color="#666666" size="3"><b>
+  <font color="#696969" size="+4">＼3/27(金)0時／<br>フライングスタート!!</font><br><br>
+  <font color="#FF6699" size="+3">プロ野球開幕記念！楽天イーグルス<br />応援キャンペーン<br /></font>
+  </b></font>
+    <a href="http://m3.rakuten.co.jp/gold/starvations/revent/0325web/index.html%253fscid%3drm_215767/-/4/4mhj/acfp8/141/1avbcv/" target="_top"><img src="http://image.rakuten.co.jp/starvations/cabinet/event00/2015/0325eve_800x455.jpg" alt="お買い物マラソン" width="610"  border="0" />
+    <br><br />
+<img src="http://image.rakuten.co.jp/starvations/cabinet/event03/0325pre_moji04.jpg" alt="お買い物マラソン" width="610"  border="0" /><br>
+    </a>
+
+<br>
+<font color="#333333" size="5"><b>
+詳しくは予告ページをCHECK!!<br>
+さらに気になるアイテムは「お気に入りに登録」を<br>クリックして<font color="#FF0066" size="5">「お気に入り」に登録！</font><br>
+お買い物がスムーズになるよ♪(((((っ・ω・)っ<br>
+<br><br>
+
+<table cellspacing="4" cellpadding="3" border="0" bgcolor="#ffffff" width="610" align="center">
+<tr>
+<td width="100%" align="center" colspan="2" bgcolor="#ff69b4"><br>
+<a href="http://m3.rakuten.co.jp/gold/starvations/revent/0325web/index.html%253fscid%3drm_215767/-/4/4mhj/acfp8/142/1avbcv/" target="_blank" ><font color="#FFFFFF" size="6"><b>≫≫　イベントページはこちら！　≪≪</b></font></a><br>
+<font color="#FFFFFF" size="3">※イベントページはただ今準備中です。イベント開始までに更新されます。</font><br><br></td>
+</tr>
+</table>
+
+
+<br>
+さ・ら・に<br><br>
+お気に入りショップに登録すると、<br>限定クーポンやお得情報がいち早くGET出来ちゃいます♪
+<br><br>
+お気に入りショップ登録はコチラから!!<br>
+↓↓↓↓<br>
+  <a href="https://my.bookmark.rakuten.co.jp/?func=reg&amp;sname=BABYDOLL&amp;surl=starvations&amp;shop_bid=215767&amp;svid=201" target="_blank" >
+  <img src="http://image.rakuten.co.jp/starvations/cabinet/mail/okiniirishop_link.jpg" alt="お気に入りショップ" width="570"  border="0" /></a>
+<br /><br /><br>
+
+今回もどんどんみなさまにお買い物を楽しんでいただける<br>企画をご用意しています！お楽しみに★
+      
+</b></font>
+
+</center>
+<!--★☆★ 告知 ★☆★-->
+
+<br /><br />
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/line.jpg" alt="ドットライン" width="610"  border="0" />
+<br /><br />
+
+<!--★☆★ 開催中のオススメイベント＆アイテム ★☆★-->
+<center>
+<img src="http://image.rakuten.co.jp/starvations/cabinet/140228_zouzei_pushba.jpg" width="610"><br><br>
+
+<!--★★★ベビドカップ★★★-->
+<br>
+
+<font color="#333333" size="6"><b>＼あなたの1票で決まる<font color="#e22122">★</font>／</b></font><br>
+
+<a href="http://m3.rakuten.co.jp/starvations/c/0000002580%253fscid%3drm_215767/-/2/4mhj/acfp8/143/1avbcv/" target="_blank" >
+<img width="610" src="http://image.rakuten.co.jp/starvations/cabinet/event00/2015/0323bdcup_616x350.jpg" border="0"></a><br><br>
+
+<font color="#333333" size="5"><b>全国83店舗から選ばれた人気スタッフたちが<br>本気プロデュース！<br>この夏、いちばん熱い“ベビドＴ”が決まる！<br><br>
+皆さんの投票をお待ちしております！<br><br><font color="red" size="6">投票期間：3/23(月)〜3/31(火)</font></b></font><br><br>
+<a href="http://m3.rakuten.co.jp/starvations/c/0000002580%253fscid%3drm_215767/-/2/4mhj/acfp8/144/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/starvations/cabinet/event03/0325title1.jpg" border="0" width="550"></a>
+<!--★★★ベビドカップ★★★-->
+<br /><br />
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/line.jpg" alt="ドットライン" width="610"  border="0" />
+<br /><br />
+<!--★★★ストレッチパンツ★★★-->
+<br>
+
+<font color="#333333" size="6"><b>＼ヘビロテ！人気の秘密は履きやすさ<font color="#e22122">★</font>／</b></font><br>
+
+<a href="http://m3.rakuten.co.jp/starvations/00033202%253fscid%3drm_215767/-/2/4mhj/acfp8/145/1avbcv/" target="_blank" >
+<img width="610" src="http://image.rakuten.co.jp/starvations/cabinet/event00/2014/usp06_616x350.jpg" border="0"><br><br>
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/spants-jump02.jpg" width="610" /><br>
+</a>
+<!--★★★ストレッチパンツ★★★-->
+
+<br /><br />
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/line.jpg" alt="ドットライン" width="610"  border="0" />
+<br /><br />
+
+
+<!--★★★入園入学★★★-->
+<font color="#333333" size="6"><b>＼入園・入学準備を始めよう<font color="#e22122">★</font>／</b></font><br>
+
+<a href="http://m3.rakuten.co.jp/starvations/c/0000002497/%253fs%3d1%26amp%253Bi%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/146/1avbcv/" target="_blank" >
+<img alt="セール" width="610" src="http://image.rakuten.co.jp/starvations/cabinet/event00/2015/nyuuen_616x350.jpg" border="0" /></a><br>
+<br><br>
+
+
+<a href="http://m3.rakuten.co.jp/starvations/c/0000001801/%253fscid%3drm_215767/-/2/4mhj/acfp8/147/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/starvations/cabinet/banner/20130913_fw_780x320.jpg" width="610" alt="ロゴトート" /></a>
+
+
+
+<!--★★★入園入学★★★-->
+<br /><br />
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/line.jpg" alt="ドットライン" width="610"  border="0" /><br /><br />
+
+
+<!--★★★スタイルブック★★★-->
+
+<font color="#333333" size="6"><b>＼春コーデ満載!スタイルブック公開中♪／</b></font><br>
+<font color="#333333" size="3"><b>
+見ているだけで気分が上がるカラフルなコーディネイトがいっぱい☆<br>
+早速見てみてね★<br>
+</b></font>
+<a href="http://m3.rakuten.co.jp/starvations/c/0000002340%253fscid%3drm_215767/-/2/4mhj/acfp8/148/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/starvations/cabinet/event00/2015/sbspring_780x320.jpg" width="610" border="0"></a>
+<!--★★★スタイルブック★★★-->
+
+
+<br /><br />
+<img src="http://image.rakuten.co.jp/starvations/cabinet/mail/line.jpg" alt="ドットライン" width="610"  border="0" />
+<br /><br />
+<!--★☆★ 開催中のオススメイベント＆アイテム ★☆★-->
+<!--★★★特集ハーフ★★★-->
+
+
+<a href="http://m3.rakuten.co.jp/starvations/c/0000000945/%253fs%3d1%26amp%253Bi%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/149/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/starvations/cabinet/event00/2014/0919setup_700x700.jpg" width="300" alt="SET-UP" border="0" />
+</a>
+
+
+<a href="http://m3.rakuten.co.jp/starvations/c/0000001132/%253fs%3d1%26amp%253Bi%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/150/1avbcv/" target="_top">
+<img src="http://image.rakuten.co.jp/starvations/cabinet/event00/2015/formal_700x700.jpg" width="300" alt="フォーマル" /></a>
+
+
+
+<br><br>
+
+
+
+
+<a href="http://m3.rakuten.co.jp/search/inshop-mall/%E8%A6%AA%E5%AD%90%E3%83%9A%E3%82%A2/-/f.3-p.1-s.1-sf.0-sid.215767-st.A-v.3%253fscid%3drm_215767/-/d/4mhj/acfp8/151/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/starvations/cabinet/event00/2015/oyakopair_700x700.jpg" alt="親子ペア" width="300"  border="0" /></a>
+
+<a href="http://m3.rakuten.co.jp/starvations/c/0000002393/%253fscid%3drm_215767/-/2/4mhj/acfp8/152/1avbcv/" target="_blank" >
+<img src="http://image.rakuten.co.jp/starvations/cabinet/event00/2014/mfb_700x700.jpg" width="300" alt="MFB" /></a>
+
+
+<br><br>
+<a href="http://m3.rakuten.co.jp/starvations/c/0000001039/%253fs%3d1%26amp%253Bi%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/153/1avbcv/" target="_blank" ></a><a href="http://m3.rakuten.co.jp/starvations/c/0000002396/%253fscid%3drm_215767/-/2/4mhj/acfp8/154/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/starvations/cabinet/event00/2014/line_700x700.jpg" alt="LINE" width="300"  border="0" /></a>
+
+<a href="http://m3.rakuten.co.jp/starvations/c/0000001039/%253fs%3d1%26amp%253Bi%3d1%26scid%3drm_215767/-/2/4mhj/acfp8/155/1avbcv/" target="_blank" ><img src="http://image.rakuten.co.jp/starvations/cabinet/banner/140825_denim_700x700.jpg" alt="デニム特集" width="300"  border="0" /></a>
+
+<br><br>
+</center>
+</td>
+</tr>
+</table>
+<!--★★★ブロック50%OFF★★★-->
+	
+
+<table cellspacing="0" cellpadding="0" border="0" bgcolor="#D0D2D3" width="650"><tr><td>
+<table cellspacing="0" cellpadding="0" border="0" width="610" align="center">
+<tr>
+<td><font color="#666" size="-2"><br /><br />
+このメールは、 BABYDOLL楽天SHOPをご利用していただいた事のある方で、<br />
+楽天会員登録していただいたお客様、<br />
+ならびにメルマガ配信をご希望になられた方へ送付しています。 <br /><br />
+<font color="#666" size="2"><b>BABYDOLLプレス</b></font><br />
+●メール／<a href="mailto:starvations@shop.rakuten.co.jp" target="_blank" >starvations@shop.rakuten.co.jp</a>　●営業時間／平日10:00〜18:00　●電話／06-6125-1458<br /><br />
+<hr><br />
+サイト内の文章、画像などの著作物はCOZY CORPORATIONに属します。文章・写真などの複製、無断転載を禁止します。<br />
+&copy;Disney　／　DC COMICS : TM＆&copy;DC Comics.(s12)<br />
+Copyright &copy; COZY CORPORATION. All rights reserved.<br /><br /><br /><br /><br />
+</font>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+	
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+
+<br><table width="712" cellspacing="0" cellpadding="1" border="0" align="center"><tbody><tr><td bgcolor="#ff3500"><table width="100%" cellspacing="0" cellpadding="3" border="0"><tbody><tr><td bgcolor="#bf0000"><font color="#ffffff" size="-1"><b>■当店の売れ筋アイテム</b></font><br></td></tr><tr><td bgcolor="#ffffff" align="center">
+<table width="90%" cellspacing="3" cellpadding="1" border="0"><tbody><tr valign="top" align="center">
+<!-- 1 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div align="center"><a target="_top" href="http://m3.rakuten.co.jp/starvations/00033202%253fscid%3drm_215767/-/2/4mhj/acfp8/156/1avbcv/" target="_blank" ><img vspace="3" border="0" alt="再販★7万枚突破!!BABYDOLLウルトラストレッチパンツ..." src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/event00/2014/usp06_700x700.jpg?_ex=128x128"></a></div><a target="_top" href="http://m3.rakuten.co.jp/starvations/00033202%253fscid%3drm_215767/-/2/4mhj/acfp8/157/1avbcv/" target="_blank" ><font size="-1"><b>再販★7万枚突破!!BABYDOLLウルトラストレッチパンツ...</b></font></a></td></tr></tbody></table></td><!-- /1 -->
+<!-- 1 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div align="center"><a target="_top" href="http://m3.rakuten.co.jp/starvations/00037762%253fscid%3drm_215767/-/2/4mhj/acfp8/158/1avbcv/" target="_blank" ><img vspace="3" border="0" alt="再販★【70％OFF】アウトレットSALE★「DISNEY★..." src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00037762_wear1227.jpg?_ex=128x128"></a></div><a target="_top" href="http://m3.rakuten.co.jp/starvations/00037762%253fscid%3drm_215767/-/2/4mhj/acfp8/159/1avbcv/" target="_blank" ><font size="-1"><b>再販★【70％OFF】アウトレットSALE★「DISNEY★...</b></font></a></td></tr></tbody></table></td><!-- /1 -->
+<!-- 1 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div align="center"><a target="_top" href="http://m3.rakuten.co.jp/starvations/00041562%253fscid%3drm_215767/-/2/4mhj/acfp8/160/1avbcv/" target="_blank" ><img vspace="3" border="0" alt="【ぽっきり価格】アウトレットSALEブルーロゴロンT-80c..." src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00041562_wear.jpg?_ex=128x128"></a></div><a target="_top" href="http://m3.rakuten.co.jp/starvations/00041562%253fscid%3drm_215767/-/2/4mhj/acfp8/161/1avbcv/" target="_blank" ><font size="-1"><b>【ぽっきり価格】アウトレットSALEブルーロゴロンT-80c...</b></font></a></td></tr></tbody></table></td><!-- /1 -->
+<!-- 1 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div align="center"><a target="_top" href="http://m3.rakuten.co.jp/starvations/00041402%253fscid%3drm_215767/-/2/4mhj/acfp8/162/1avbcv/" target="_blank" ><img vspace="3" border="0" alt="【ぽっきり価格】アウトレットSALEルームウェアにも♪薄手フ..." src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/500989_wear.jpg?_ex=128x128"></a></div><a target="_top" href="http://m3.rakuten.co.jp/starvations/00041402%253fscid%3drm_215767/-/2/4mhj/acfp8/163/1avbcv/" target="_blank" ><font size="-1"><b>【ぽっきり価格】アウトレットSALEルームウェアにも♪薄手フ...</b></font></a></td></tr></tbody></table></td><!-- /1 -->
+<!-- 1 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div align="center"><a target="_top" href="http://m3.rakuten.co.jp/starvations/00041422%253fscid%3drm_215767/-/2/4mhj/acfp8/164/1avbcv/" target="_blank" ><img vspace="3" border="0" alt="【ぽっきり価格】アウトレットSALEロゴロンT-90cm/1..." src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00041422_wear.jpg?_ex=128x128"></a></div><a target="_top" href="http://m3.rakuten.co.jp/starvations/00041422%253fscid%3drm_215767/-/2/4mhj/acfp8/165/1avbcv/" target="_blank" ><font size="-1"><b>【ぽっきり価格】アウトレットSALEロゴロンT-90cm/1...</b></font></a></td></tr></tbody></table></td><!-- /1 -->
+</tr>
+<tr valign="top" align="center">
+<!-- 2 --><td><table width="135" cellspacing="0" cellpadding="5" border="0"><tbody><tr><td><b><font size="-1" color="#ff0000">1,296円</font></b><br><font size="-1">(税込)<br>送料別</font></td></tr></tbody></table></td><!-- /2 -->
+<!-- 2 --><td><table width="135" cellspacing="0" cellpadding="5" border="0"><tbody><tr><td><b><font size="-1" color="#ff0000">1,166円</font></b><br><font size="-1">(税込)<br>送料別</font></td></tr></tbody></table></td><!-- /2 -->
+<!-- 2 --><td><table width="135" cellspacing="0" cellpadding="5" border="0"><tbody><tr><td><b><font size="-1" color="#ff0000">600円</font></b><br><font size="-1">(税込)<br>送料別</font></td></tr></tbody></table></td><!-- /2 -->
+<!-- 2 --><td><table width="135" cellspacing="0" cellpadding="5" border="0"><tbody><tr><td><b><font size="-1" color="#ff0000">1,000円</font></b><br><font size="-1">(税込)<br>送料別</font></td></tr></tbody></table></td><!-- /2 -->
+<!-- 2 --><td><table width="135" cellspacing="0" cellpadding="5" border="0"><tbody><tr><td><b><font size="-1" color="#ff0000">600円</font></b><br><font size="-1">(税込)<br>送料別</font></td></tr></tbody></table></td><!-- /2 -->
+</tr>
+<tr valign="top" align="center">
+<!-- 3 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="9"><img width="9" vspace="2" height="9" alt="" src="http://image.www.rakuten.co.jp/com/img/icon/tri/w05s04/w05s04_red.gif"></td><td width="191"><font size="-1"><a target="_blank"  href="http://m3.rakuten.co.jp/%253fpage_type%3d2%26item_id%3d10025610%26shop_bid%3d215767%26auction%3d0%26scid%3drm_215767/-/a/4mhj/acfp8/166/1avbcv/" target="_blank" >レビュー(1,122件)</a></font></td></tr></tbody></table></td><!-- /3 -->
+<!-- 3 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="9"><img width="9" vspace="2" height="9" alt="" src="http://image.www.rakuten.co.jp/com/img/icon/tri/w05s04/w05s04_red.gif"></td><td width="191"><font size="-1"><a target="_blank"  href="http://m3.rakuten.co.jp/%253fpage_type%3d2%26item_id%3d10026447%26shop_bid%3d215767%26auction%3d0%26scid%3drm_215767/-/a/4mhj/acfp8/167/1avbcv/" target="_blank" >レビュー(10件)</a></font></td></tr></tbody></table></td><!-- /3 -->
+<!-- 3 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="9"><img width="9" vspace="2" height="9" alt="" src="http://image.www.rakuten.co.jp/com/img/icon/tri/w05s04/w05s04_red.gif"></td><td width="191"><font size="-1"><a target="_blank"  href="http://m3.rakuten.co.jp/%253fpage_type%3d2%26item_id%3d10027058%26shop_bid%3d215767%26auction%3d0%26scid%3drm_215767/-/a/4mhj/acfp8/168/1avbcv/" target="_blank" >レビュー(3件)</a></font></td></tr></tbody></table></td><!-- /3 -->
+<!-- 3 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="9"><img width="9" vspace="2" height="9" alt="" src="http://image.www.rakuten.co.jp/com/img/icon/tri/w05s04/w05s04_red.gif"></td><td width="191"><font size="-1"><a target="_blank"  href="http://m3.rakuten.co.jp/%253fpage_type%3d2%26item_id%3d10027072%26shop_bid%3d215767%26auction%3d0%26scid%3drm_215767/-/a/4mhj/acfp8/169/1avbcv/" target="_blank" >レビュー(3件)</a></font></td></tr></tbody></table></td><!-- /3 -->
+<!-- 3 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="9"><img width="9" vspace="2" height="9" alt="" src="http://image.www.rakuten.co.jp/com/img/icon/tri/w05s04/w05s04_red.gif"></td><td width="191"><font size="-1"><a target="_blank"  href="http://m3.rakuten.co.jp/%253fpage_type%3d2%26item_id%3d10027054%26shop_bid%3d215767%26auction%3d0%26scid%3drm_215767/-/a/4mhj/acfp8/170/1avbcv/" target="_blank" >レビュー(4件)</a></font></td></tr></tbody></table></td><!-- /3 -->
+</tr></tbody></table>
+<table width="90%" cellspacing="3" cellpadding="1" border="0"><tbody><tr valign="top" align="center">
+<!-- 1 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div align="center"><a target="_top" href="http://m3.rakuten.co.jp/starvations/00041572%253fscid%3drm_215767/-/2/4mhj/acfp8/171/1avbcv/" target="_blank" ><img vspace="3" border="0" alt="【ぽっきり価格】アウトレットSALEフリースロングパンツ-8..." src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00041572_wear.jpg?_ex=128x128"></a></div><a target="_top" href="http://m3.rakuten.co.jp/starvations/00041572%253fscid%3drm_215767/-/2/4mhj/acfp8/172/1avbcv/" target="_blank" ><font size="-1"><b>【ぽっきり価格】アウトレットSALEフリースロングパンツ-8...</b></font></a></td></tr></tbody></table></td><!-- /1 -->
+<!-- 1 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div align="center"><a target="_top" href="http://m3.rakuten.co.jp/starvations/00047971%253fscid%3drm_215767/-/2/4mhj/acfp8/173/1avbcv/" target="_blank" ><img vspace="3" border="0" alt="【70％OFF】アウトレットSALE★ロゴ王冠トレーナー-8..." src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00047971_wear1126.jpg?_ex=128x128"></a></div><a target="_top" href="http://m3.rakuten.co.jp/starvations/00047971%253fscid%3drm_215767/-/2/4mhj/acfp8/174/1avbcv/" target="_blank" ><font size="-1"><b>【70％OFF】アウトレットSALE★ロゴ王冠トレーナー-8...</b></font></a></td></tr></tbody></table></td><!-- /1 -->
+<!-- 1 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div align="center"><a target="_top" href="http://m3.rakuten.co.jp/starvations/00048291%253fscid%3drm_215767/-/2/4mhj/acfp8/175/1avbcv/" target="_blank" ><img vspace="3" border="0" alt="【70％OFF】アウトレットSALE★親子ペア★ボーダー王冠..." src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00048291_wear1113.jpg?_ex=128x128"></a></div><a target="_top" href="http://m3.rakuten.co.jp/starvations/00048291%253fscid%3drm_215767/-/2/4mhj/acfp8/176/1avbcv/" target="_blank" ><font size="-1"><b>【70％OFF】アウトレットSALE★親子ペア★ボーダー王冠...</b></font></a></td></tr></tbody></table></td><!-- /1 -->
+<!-- 1 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div align="center"><a target="_top" href="http://m3.rakuten.co.jp/starvations/00041542%253fscid%3drm_215767/-/2/4mhj/acfp8/177/1avbcv/" target="_blank" ><img vspace="3" border="0" alt="【ぽっきり価格】アウトレットSALEフリースジップパーカー-..." src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00041542_wear.jpg?_ex=128x128"></a></div><a target="_top" href="http://m3.rakuten.co.jp/starvations/00041542%253fscid%3drm_215767/-/2/4mhj/acfp8/178/1avbcv/" target="_blank" ><font size="-1"><b>【ぽっきり価格】アウトレットSALEフリースジップパーカー-...</b></font></a></td></tr></tbody></table></td><!-- /1 -->
+<!-- 1 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div align="center"><a target="_top" href="http://m3.rakuten.co.jp/starvations/00051052%253fscid%3drm_215767/-/2/4mhj/acfp8/179/1avbcv/" target="_blank" ><img vspace="3" border="0" alt="【30％OFF】SALE★ランダム王冠ロングTシャツ-100..." src="http://thumbnail.image.rakuten.co.jp/@0_mall/starvations/cabinet/wear_bk3/00051052_wear0106.jpg?_ex=128x128"></a></div><a target="_top" href="http://m3.rakuten.co.jp/starvations/00051052%253fscid%3drm_215767/-/2/4mhj/acfp8/180/1avbcv/" target="_blank" ><font size="-1"><b>【30％OFF】SALE★ランダム王冠ロングTシャツ-100...</b></font></a></td></tr></tbody></table></td><!-- /1 -->
+</tr>
+<tr valign="top" align="center">
+<!-- 2 --><td><table width="135" cellspacing="0" cellpadding="5" border="0"><tbody><tr><td><b><font size="-1" color="#ff0000">700円</font></b><br><font size="-1">(税込)<br>送料別</font></td></tr></tbody></table></td><!-- /2 -->
+<!-- 2 --><td><table width="135" cellspacing="0" cellpadding="5" border="0"><tbody><tr><td><b><font size="-1" color="#ff0000">842円</font></b><br><font size="-1">(税込)<br>送料別</font></td></tr></tbody></table></td><!-- /2 -->
+<!-- 2 --><td><table width="135" cellspacing="0" cellpadding="5" border="0"><tbody><tr><td><b><font size="-1" color="#ff0000">777円</font></b><br><font size="-1">(税込)<br>送料別</font></td></tr></tbody></table></td><!-- /2 -->
+<!-- 2 --><td><table width="135" cellspacing="0" cellpadding="5" border="0"><tbody><tr><td><b><font size="-1" color="#ff0000">1,000円</font></b><br><font size="-1">(税込)<br>送料別</font></td></tr></tbody></table></td><!-- /2 -->
+<!-- 2 --><td><table width="135" cellspacing="0" cellpadding="5" border="0"><tbody><tr><td><b><font size="-1" color="#ff0000">1,436円</font></b><br><font size="-1">(税込)<br>送料別</font></td></tr></tbody></table></td><!-- /2 -->
+</tr>
+<tr valign="top" align="center">
+<!-- 3 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="9"><img width="9" vspace="2" height="9" alt="" src="http://image.www.rakuten.co.jp/com/img/icon/tri/w05s04/w05s04_red.gif"></td><td width="191"><font size="-1"><a target="_blank"  href="http://m3.rakuten.co.jp/%253fpage_type%3d2%26item_id%3d10029639%26shop_bid%3d215767%26auction%3d0%26scid%3drm_215767/-/a/4mhj/acfp8/181/1avbcv/" target="_blank" >レビュー(1件)</a></font></td></tr></tbody></table></td><!-- /3 -->
+<!-- 3 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="9"><img width="9" vspace="2" height="9" alt="" src="http://image.www.rakuten.co.jp/com/img/icon/tri/w05s04/w05s04_red.gif"></td><td width="191"><font size="-1"><a target="_blank"  href="http://m3.rakuten.co.jp/%253fpage_type%3d2%26item_id%3d10029233%26shop_bid%3d215767%26auction%3d0%26scid%3drm_215767/-/a/4mhj/acfp8/182/1avbcv/" target="_blank" >レビュー(2件)</a></font></td></tr></tbody></table></td><!-- /3 -->
+<!-- 3 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="9"><img width="9" vspace="2" height="9" alt="" src="http://image.www.rakuten.co.jp/com/img/icon/tri/w05s04/w05s04_red.gif"></td><td width="191"><font size="-1"><a target="_blank"  href="http://m3.rakuten.co.jp/%253fpage_type%3d2%26item_id%3d10029159%26shop_bid%3d215767%26auction%3d0%26scid%3drm_215767/-/a/4mhj/acfp8/183/1avbcv/" target="_blank" >レビュー(1件)</a></font></td></tr></tbody></table></td><!-- /3 -->
+<!-- 3 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="9"><img width="9" vspace="2" height="9" alt="" src="http://image.www.rakuten.co.jp/com/img/icon/tri/w05s04/w05s04_red.gif"></td><td width="191"><font size="-1"><a target="_blank"  href="http://m3.rakuten.co.jp/%253fpage_type%3d2%26item_id%3d10029637%26shop_bid%3d215767%26auction%3d0%26scid%3drm_215767/-/a/4mhj/acfp8/184/1avbcv/" target="_blank" >レビュー(1件)</a></font></td></tr></tbody></table></td><!-- /3 -->
+<!-- 3 --><td><table width="135" cellspacing="0" cellpadding="0" border="0"><tbody><tr></tr></tbody></table></td><!-- /3 -->
+</tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+
+
+</td></tr></table><br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td width="1%"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="1" alt=""></td>
+<td><font size="-1" color="#000000">●</font><font size="-1">配信停止は<a href="http://emagazine.rakuten.co.jp/q?u=starvations&k=%27%5e-ym%23tunw%2b7p.%250DLO967%21IkR.%3fCfysO%7b51&scid=rm_215767" target="_blank" >こちら</a>のページからお願いします。</font></td>
+</tr>
+<tr>
+<td width="1%"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="1" alt=""></td>
+<td><font size="-1" color="#000000">●</font><font size="-1">アドレス変更は、<a href="http://www.rakuten.co.jp/starvations/news.html?scid=rm_215767" target="_blank" >こちら</a>のページから
+お願いします。</font></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td bgcolor="#cdcdcd">
+<font size="-1">
+<a href="http://www.rakuten.co.jp/?scid=rm_rakuten_footer_top&scid=rm_215767" target="_blank" >楽天トップ</a>
+| <a href="http://www.rakuten.co.jp/category/baby/?scid=rm_rakuten_footer_bby&scid=rm_215767" target="_blank" >キッズ・ベビー・マタニティ</a>
+| <a href="http://www.rakuten.co.jp/auction/?scid=rm_rakuten_footer_auc&scid=rm_215767" target="_blank" >オークション</a>
+| <a href="http://event.rakuten.co.jp/present/?scid=rm_rakuten_footer_pre&scid=rm_215767" target="_blank" >懸賞市場</a>
+| <a href="http://affiliate.rakuten.co.jp/?scid=rm_rakuten_footer_aff" target="_blank" >楽天アフィリエイト</a>
+| <a href="http://emagazine.rakuten.co.jp/?scid=rm_rakuten_footer_mail&scid=rm_215767" target="_blank" >楽天のメルマガ申込</a>
+| <a href="http://www.rakuten.co.jp/ec/?camp=70110000000XRf4&scid=mi_ich_rm&scid=rm_215767" target="_blank" >出店のご案内</a>
+</font>
+</td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#999999"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="1" alt=""></td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#BF0000"><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="10" height="2" alt=""></td>
+</tr>
+</table>
+
+<div><img src="http://image.rakuten.co.jp/com/img/home/t.gif" width="8" height="8" alt=""></div>
+
+<table width="80%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>
+<a href="http://link.rakuten.co.jp/1/008/531/?url=2/831/68809/0/RC2" target="_blank" ><img src="http://image.rakuten.co.jp/com/img/email/rmail/item/2009/0527/okaimono_02.gif" width="100%" alt="" border="0"></a></td>
+</tr>
+</table>
+
+</body>
+</html>
+--=_8520de17977a1e9342deb97697ff126e--

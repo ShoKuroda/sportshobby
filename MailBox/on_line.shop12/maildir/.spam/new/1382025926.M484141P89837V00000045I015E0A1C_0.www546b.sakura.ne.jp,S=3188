@@ -1,0 +1,58 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********************
+X-Spam-Status: Yes, score=23.6 required=7.0 tests=BAYES_99,BODY_URI_ONLY,
+	DKIM_ADSP_CUSTOM_MED,FORGED_YAHOO_RCVD,FREEMAIL_FROM,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,NML_ADSP_CUSTOM_MED,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,
+	URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,
+	URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.3 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9999]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (gsilver[at]yahoo.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 FORGED_YAHOO_RCVD 'From' yahoo.com does not match 'Received' headers
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: actes-lyon.org]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.4 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.2 BODY_URI_ONLY Message body is only one line containing a URI
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9HG5Mv6089834
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 18 Oct 2013 01:05:22 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:55801 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1382025922.3895
+Received: from 109.162.69.161 (109-162-69-161-krst.broadband.kyivstar.net [109.162.69.161] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9HG5I9M089785
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 18 Oct 2013 01:05:20 +0900 (JST)
+Date: Fri, 18 Oct 2013 01:05:18 +0900 (JST)
+Message-Id: <201310171605.r9HG5I9M089785@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (gsilver@yahoo.com@229.99.204.53)
+	by 109.162.69.161 with ESMTPA; Thu, 17 Oct 2013 19:09:19 +0200
+X-Originating-IP: 229.99.204.53
+From: gsilver@yahoo.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Do you wish to gratify your female partner at night?
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 17102013 #11205485, status: clean
+
+http://ACTES-LYON.ORG/other.html Improve your action in bed
+

@@ -1,0 +1,138 @@
+Return-Path: <jackie-hobby.division=sportshobby.co.jp@juristlot.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=12.0 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_ONLY_12,HTML_MESSAGE,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: juristlot.com]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: juristlot.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: juristlot.com]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: juristlot.com]
+	*  2.1 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5508]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: juristlot.com]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from fsav405.sakura.ne.jp (fsav405.sakura.ne.jp [133.242.250.104])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0JKZ0iL098493
+	for <hobby.division@sportshobby.co.jp>; Tue, 20 Jan 2015 05:35:00 +0900 (JST)
+	(envelope-from jackie-hobby.division=sportshobby.co.jp@juristlot.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav405.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp);
+ Tue, 20 Jan 2015 05:35:00 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp)
+Received: from mail.juristlot.com (avalonics.net [95.211.141.219] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0JKYwm6098488
+	for <hobby.division@sportshobby.co.jp>; Tue, 20 Jan 2015 05:35:00 +0900 (JST)
+	(envelope-from jackie-hobby.division=sportshobby.co.jp@juristlot.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=juristlot.com;
+ h=Mime-Version:Date:From:Subject:Message-ID:To:Content-Type; i=jackie@juristlot.com;
+ bh=Blxbd3CmaWEdDtJfioNbKrxncbs=;
+ b=WZsz21UAgVmk3xIOWRT5mttSdiwmH7gAqh1D//LqlPMXGqA0tC5Z8bdA5OjO3RdgplD43wwcfFBx
+   lTQ8KiFrByZOihOZ26JjjM2OPHBou9OxhvakXqzvCijff4jGWgMDZ+3k/bQf7NX3I9F0o9/DRJc9
+   +7rsX09dFMZfeCNyRus=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=juristlot.com;
+ b=ShrgmLwT1nLsOXcMLHRVMRhvJfRxlqQVpKY149glikmPA6kAVCwLPwzoXE9AnxSZJAzF8UkJtm8S
+   A+6hQtC6NEWv1/T5XcDWa9joFjheTetk9SgMmHyLvObUETCTIHRCQ0a26KimPUVFklr0fYBcRCB3
+   R2URFueOLr+t5n5vv9k=;
+Mime-Version: 1.0
+Date: Mon, 19 Jan 2015 21:31:39 +0100
+From: Jackie <jackie@juristlot.com>
+Subject: =?UTF-8?B?SeKAmXZlLmFsd2F5cy5iZWVuLnByb2ZpdGFibGUud2l0aC50aGlzLnN5c3RlbS4=?=
+Message-ID: <b4877fc84b639a5f78fe827f162e7122@juristlot.com>
+To: <hobby.division@sportshobby.co.jp>
+Content-Type: multipart/alternative; boundary=b4877fc84b639a5f78fe827f162e7122
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/plain; charset=UTF-8
+
+Hi,
+With this system I have never ended the day in the red.
+Sound good? It gets even better...
+
+No need for Expertise, Experience or Know How.
+
+Discover How to generate $734 every 15 minutes
+
+RIGHT NOW: >> See The Video For Yourself!
+
+>>> http://click.juristlot.com/index.php?id=6248487&a=666610&b=3651&c=57
+Enjoy, Jackie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our address is Tortola, Providence 1512, British Virgin Islands, 
+If you do not wish to receive future email, click here.
+http://click.juristlot.com/index.php?o=2&a=666610&b=3651&c=57
+(You can also send your request to Customer Care at the street address above.) 
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/html; charset=UTF-8
+
+<html>
+<head>
+</head>
+
+<body>
+Hi,<br>
+With this system I have never ended the day in the red.<br>
+Sound good? <a href="http://click.juristlot.com/index.php?id=6248487&a=666610&b=3651&c=57"><b>It gets even better...</b></a><br>
+<br>
+No need for Expertise, Experience or Know How.<br>
+<br>
+Discover How to generate $734 every 15 minutes<br>
+<br>
+<a href="http://click.juristlot.com/index.php?id=6248487&a=666610&b=3651&c=57"><b>RIGHT NOW:</b></a> <a href="http://click.juristlot.com/index.php?id=6248487&a=666610&b=3651&c=57"><b>>> See The Video For Yourself!</b></a><br>
+<br>
+<br>
+Enjoy, Jackie<br>
+<p> </p>
+<p> </p>
+<p>
+Our address is Tortola, Providence 1512, British Virgin Islands, <br>
+If you do not wish to receive future email, <a href="http://click.juristlot.com/index.php?o=2&a=666610&b=3651&c=57" target="_blank">click here</a>.<br>
+(You can also send your request to Customer Care at the street address above.) </p>
+
+<img src="http://click.juristlot.com/index.php?o=1&a=666610&b=3651&c=57" width="1" height="1" border="0" />
+</body>
+</html>
+
+--b4877fc84b639a5f78fe827f162e7122--

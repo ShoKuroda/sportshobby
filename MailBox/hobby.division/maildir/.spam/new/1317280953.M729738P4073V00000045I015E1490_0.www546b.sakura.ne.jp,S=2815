@@ -1,0 +1,57 @@
+Return-Path: <sophia.webster@bestmagic.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.2 required=7.0 tests=DATE_IN_PAST_96_XX,
+	FB_SAVE_PERSC,FS_OBFU_PRMCY,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,T_FRT_PHARMAC,URIBL_AB_SURBL,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.4 FB_SAVE_PERSC BODY: Phrase: save ... prescription.
+	*  0.4 FS_OBFU_PRMCY what could this word be?
+	*  2.1 DATE_IN_PAST_96_XX Date: is 96 hours or more before Received: date
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: pharmacymbia.ru]
+	*  1.7 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: pharmacymbia.ru]
+	*  1.9 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: pharmacymbia.ru]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: pharmacymbia.ru]
+	*  0.0 T_FRT_PHARMAC BODY: ReplaceTags: Pharmac
+	*  2.4 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  1.7 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p8T7MQBn004069
+	for <hobby.division@sportshobby.co.jp>; Thu, 29 Sep 2011 16:22:26 +0900 (JST)
+	(envelope-from sophia.webster@bestmagic.com)
+X-Nat-Received: from [112.78.125.46]:62478 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1317280946.4822
+Received: from wfqehw.com ([223.255.231.29])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p8T7Lm60003889
+	for <hobby.division@sportshobby.co.jp>; Thu, 29 Sep 2011 16:22:20 +0900 (JST)
+	(envelope-from sophia.webster@bestmagic.com)
+Received: from bestmagic.com ([74.122.159.155]) by 223.255.230.64; Wed, 03 Aug 2011 14:26:58 +0800
+Message-ID: <000e01cc51a6$589ce500$40e6ffdf@bestmagic.com>
+From: "SOPHIA Webster" <sophia.webster@bestmagic.com>
+To: <hobby.division@sportshobby.co.jp>
+Subject: diuscount for phahrmacy
+Date: Wed, 03 Aug 2011 14:26:58 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.5600
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.5600
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.44/RELEASE, bases: 29092011 #5496206, status: clean
+
+Our on-line pharmacy has generic medications available if you would like to save even more money on your prescription medication.
+
+http://pharmacymbia.ru/
+

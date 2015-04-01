@@ -1,0 +1,104 @@
+Return-Path: <info.manager@nacha.org>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.8 required=7.0 tests=DATE_IN_PAST_96_XX,FSL_UA,
+	FSL_XM_419,HTML_MESSAGE,KB_RATWARE_OUTLOOK_MID,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.6 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+	*  4.4 KB_RATWARE_OUTLOOK_MID KB_RATWARE_OUTLOOK_MID
+	*  2.1 DATE_IN_PAST_96_XX Date: is 96 hours or more before Received: date
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  2.4 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  1.7 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.2 FSL_UA FSL_UA
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p9OG5r6B064713
+	for <hobby.division@sportshobby.co.jp>; Tue, 25 Oct 2011 01:05:53 +0900 (JST)
+	(envelope-from info.manager@nacha.org)
+X-Nat-Received: from [112.78.125.46]:65135 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1319472353.8903
+Received: from qypqs.com ([178.89.193.144])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p9OG5p7e064704
+	for <hobby.division@sportshobby.co.jp>; Tue, 25 Oct 2011 01:05:52 +0900 (JST)
+	(envelope-from info.manager@nacha.org)
+Received: from nacha.org ([64.212.215.180]) by 178.89.193.144; Wed, 03 Aug 2011 12:23:48 +0600
+Message-ID: <000e01cc51a5$e75d3200$90c159b2@nacha.org>
+From: "info manager" <info.manager@nacha.org>
+To: <hobby.division@sportshobby.co.jp>
+Subject: ACH Payment 4587478 Canceled
+Date: Wed, 03 Aug 2011 12:23:48 +0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+  boundary="----=_NextPart_000_0007_01CC51A5.E75D3200"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.44/RELEASE, bases: 17102011 #5502725, status: clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0007_01CC51A5.E75D3200
+Content-Type: text/plain;
+	charset="windows-1250"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+Payment Notification #82965838=20
+
+The ACH transaction (ID:82965838 ),
+recently initiated from your checking account (by you or any other person),
+was canceled by the other financial institution.
+
+
+Rejected transaction
+Transaction ID: 82965838
+Reason for rejection: See details http://nacha.org/report/82965838/detailis=
+php?n=3D4709
+
+
+
+8961 Sunrise Valley Drive, Suite 100 Herndon, VA 20171 (703)561-1100
+2011 NACHA - The Electronic Payment Association
+
+------=_NextPart_000_0007_01CC51A5.E75D3200
+Content-Type: text/html;
+	charset="windows-1250"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+0">
+<META content=3D"MSHTML 6.00.2600.0000" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY>
+<florist> <div style=3D"font-size:18px; color:#444444">
+<h2 style=3D"color:#9F16DA">Payment Notification #82965838 </h2>
+
+<div>The ACH transaction (ID:82965838 ),
+recently initiated from your checking account (by you or any other person),
+was canceled by the other financial institution.</div>
+
+<div style=3D"color:#000000;background-color:#AFA5DE;margin:20px 0px;paddin=
+g:10px;">
+<b>Rejected transaction
+<br>Transaction ID: 82965838
+<br>Reason for rejection: See details <a href=3D"http://meureal.com/3l0pxw/=
+index.html">http://nacha.org/report/82965838/detailis.php?n=3D4709</a>
+
+
+<hr>
+<div>8961 Sunrise Valley Drive, Suite 100 Herndon, VA 20171 (703)561-1100
+2011 NACHA - The Electronic Payment Association
+</div>
+</BODY></HTML>
+
+------=_NextPart_000_0007_01CC51A5.E75D3200--

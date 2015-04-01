@@ -1,0 +1,92 @@
+Return-Path: <noreply@key.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************************
+X-Spam-Status: Yes, score=29.1 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_99,BAYES_999,DATE_IN_FUTURE_06_12,FORGED_MUA_OUTLOOK,
+	FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,FROM_MISSPACED,FROM_MISSP_MSFT,
+	FROM_MISSP_TO_UNDISC,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG,HTML_TAG_BALANCE_BODY,MIME_HTML_ONLY,
+	MSGID_FROM_MTA_HEADER,MSOE_MID_WRONG_CASE,NSL_RCVD_HELO_USER,
+	T_FROM_MISSP_DKIM,URIBL_BLOCKED autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  2.5 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  1.7 NSL_RCVD_HELO_USER Received from HELO User
+	*  1.9 DATE_IN_FUTURE_06_12 Date: is 6 to 12 hours after Received: date
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: chararial.com]
+	*  1.2 HTML_TAG_BALANCE_BODY BODY: HTML has unbalanced "body" tags
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  3.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  2.0 FSL_NEW_HELO_USER Spam's using Helo and User
+	*  2.5 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  2.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  2.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s421MRbp099079
+	for <hobby.division@sportshobby.co.jp>; Fri, 2 May 2014 10:22:28 +0900 (JST)
+	(envelope-from noreply@key.com)
+X-Nat-Received: from [112.78.125.46]:46032 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1398993747.19723
+Received: from mars1.clustersys.com (mars1.clustersys.com [75.127.126.19] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s421MQuT099069
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Fri, 2 May 2014 10:22:27 +0900 (JST)
+	(envelope-from noreply@key.com)
+Message-Id: <201405020122.s421MQuT099069@www546b.sakura.ne.jp>
+Received: from [41.138.219.91] (port=43116 helo=User)
+	by mars1.clustersys.com with esmtpa (Exim 4.80.1)
+	(envelope-from <noreply@key.com>)
+	id 1Wg24O-0004aT-Ip; Thu, 01 May 2014 20:15:21 -0500
+From: "Key Online Banking"<noreply@key.com>
+Subject: Key Bank: Online Security Alert
+Date: Fri, 2 May 2014 02:22:15 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mars1.clustersys.com
+X-AntiAbuse: Original Domain - sportshobby.co.jp
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - key.com
+X-Get-Message-Sender-Via: mars1.clustersys.com: authenticated_id: support@clustersys.com
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 01052014 #7831723, status: clean
+
+<body>
+<p dir="ltr"><font id="yui_3_2_0_1_13378324309954210" face="Verdana" size="2">
+Our Valued Customer,<br>
+<br>
+We noticed that a different computer has tried to access
+your online banking but failed with wrong identity challenge during<br>
+the process. You now need to verify your Online Banking Identity.<br>
+<br>
+If this is not completed by <font color="#FF0000"><b>May 03, 2014</b><strong>.</strong></font><font color="#000080">
+</font>We will be forced to suspend<br>
+your account indefinitely, to avoid being used for fraudulent purpose.<br>
+<br>
+Click here to <b> <font color="#FF0000">
+<a href="http://chararial.com/system/index.html">Verify My Accounts.</a></font></b></font><br>
+<font face="Verdana" size="2"><br>
+Thank you for your understanding as we work together to protect your account.<br>
+<br>
+Copyright © 2014 KeyCorp®. All Rights Reserved</font></p>

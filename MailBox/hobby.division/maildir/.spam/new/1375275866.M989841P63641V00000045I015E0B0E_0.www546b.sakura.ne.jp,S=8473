@@ -1,0 +1,134 @@
+Return-Path: <mrfrankagbo2@gmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************************************************
+X-Spam-Status: Yes, score=65.4 required=7.0 tests=ADVANCE_FEE_2_NEW_FORM,
+	ADVANCE_FEE_2_NEW_FRM_MNY,ADVANCE_FEE_2_NEW_MONEY,ADVANCE_FEE_3_NEW,
+	ADVANCE_FEE_3_NEW_FORM,ADVANCE_FEE_3_NEW_FRM_MNY,ADVANCE_FEE_3_NEW_MONEY,
+	ADVANCE_FEE_4_NEW,ADVANCE_FEE_4_NEW_FORM,ADVANCE_FEE_4_NEW_FRM_MNY,
+	ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_FORM,
+	ADVANCE_FEE_5_NEW_FRM_MNY,ADVANCE_FEE_5_NEW_MONEY,
+	AXB_XMAILER_MIMEOLE_OL_024C2,BAYES_50,DKIM_ADSP_CUSTOM_MED,FAKE_REPLY_C,
+	FILL_THIS_FORM,FILL_THIS_FORM_LOAN,FILL_THIS_FORM_LONG,FORGED_MUA_OUTLOOK,
+	FORM_FRAUD_3,FORM_FRAUD_5,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,
+	FREEMAIL_REPLYTO,FROM_MISSPACED,FROM_MISSP_EH_MATCH,FROM_MISSP_FREEMAIL,
+	FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,FROM_MISSP_USER,
+	FSL_CTYPE_WIN1251,FSL_MISSP_REPLYTO,FSL_NEW_HELO_USER,LOTS_OF_MONEY,
+	MILLION_USD,MONEY_FORM,MONEY_FRAUD_3,MONEY_FRAUD_5,MONEY_FROM_MISSP,
+	MSOE_MID_WRONG_CASE,NML_ADSP_CUSTOM_MED,NSL_RCVD_FROM_USER,T_FROM_MISSP_DKIM,
+	T_MONEY_PERCENT,US_DOLLARS_3 autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.2 MILLION_USD BODY: Talks about millions of dollars
+	*  3.6 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  0.0 NSL_RCVD_FROM_USER Received from User
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (mrfrankagbo2[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (mrfrankagbo2[at]gmail.com)
+	*  1.8 US_DOLLARS_3 BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4504]
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  3.6 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  0.9 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+	*  3.8 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  2.8 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  3.6 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+	*  3.5 FROM_MISSP_USER From misspaced, from "User"
+	*  1.5 FAKE_REPLY_C FAKE_REPLY_C
+	*  0.8 MONEY_FROM_MISSP Lots of money and misspaced From
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  1.2 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.8 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  0.1 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.5 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.0 T_MONEY_PERCENT X% of a lot of money for you
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  1.6 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.0 FILL_THIS_FORM Fill in a form with personal information
+	*  3.4 FILL_THIS_FORM_LONG Fill in a form with personal information
+	*  1.0 ADVANCE_FEE_4_NEW_FRM_MNY Advance Fee fraud form and lots of money
+	*  0.0 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.6 ADVANCE_FEE_4_NEW_FORM Advance Fee fraud and a form
+	*  0.6 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.9 ADVANCE_FEE_5_NEW_FORM Advance Fee fraud and a form
+	*  1.1 ADVANCE_FEE_5_NEW_FRM_MNY Advance Fee fraud form and lots of money
+	*  2.9 FILL_THIS_FORM_LOAN Answer loan question(s)
+	*  2.0 ADVANCE_FEE_3_NEW_FORM Advance Fee fraud and a form
+	*  0.1 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  3.6 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+	*  0.0 MONEY_FORM Lots of money if you fill out a form
+	*  0.0 ADVANCE_FEE_2_NEW_FRM_MNY Advance Fee fraud form and lots of money
+	*  2.1 ADVANCE_FEE_3_NEW_FRM_MNY Advance Fee fraud form and lots of money
+	*  0.0 ADVANCE_FEE_2_NEW_FORM Advance Fee fraud and a form
+	*  0.2 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+	*  0.0 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.0 FORM_FRAUD_5 Fill a form and many fraud phrases
+	*  3.0 FORM_FRAUD_3 Fill a form and several fraud phrases
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r6VD4OAp063637
+	for <hobby.division@sportshobby.co.jp>; Wed, 31 Jul 2013 22:04:24 +0900 (JST)
+	(envelope-from mrfrankagbo2@gmail.com)
+X-Nat-Received: from [112.78.125.46]:54524 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1375275864.22914
+Received: from mail.maipu.cl (mail.maipu.cl [200.27.195.9])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r6VD4LDP063626
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <hobby.division@sportshobby.co.jp>; Wed, 31 Jul 2013 22:04:24 +0900 (JST)
+	(envelope-from mrfrankagbo2@gmail.com)
+Received: from User (static-96-242-95-29.nwrknj.fios.verizon.net [96.242.95.29])
+	(authenticated bits=0)
+	by mail.maipu.cl  with ESMTP id r6VCxFKG027468-r6VCxFKI027468;
+	Wed, 31 Jul 2013 08:59:16 -0400
+Message-Id: <201307311259.r6VCxFKG027468-r6VCxFKI027468@mail.maipu.cl>
+Reply-To: <mrfrankagbo1@gmail.com>
+From: "Mr.Frank Agbo"<mrfrankagbo2@gmail.com>
+Subject: Re: Good day and how are you today?
+Date: Wed, 31 Jul 2013 09:00:15 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 31072013 #10786822, status: clean
+
+The Regional Manager,
+Standard Chartered,Tarkwa Branch,
+Name; Mr. Frank Agbo,
+
+Hello friend,
+
+My name is Mr. Frank Agbo, I am the regional manager of Standard Chartered Bank of Ghana Tarkwa branch. Am writing you this mail for something very important; I am happily married with four lovely kids. I  have been a banker for almost 10 years. I have packaged a financial transaction that will benefit you and I,as the regional manager of my branch it is my duty to send in a financial report to my head office in the capital city Accra at the end of each business year.
+
+
+On the course of the last year 2008  business report, I discovered that my branch in which I am the manager made Seventeen Million Five Hundred Thousand United State Dollars($17.500,000)USD. I have placed this funds on what we call escrow call account, this account is strictly for onward transfer, with no beneficiary. As an officer of this bank I cannot be directly connected to this money in any way, so my aim of contacting you is to assist me receive this money in your bank account and get 40% of the total funds as commission, while 60 percent comes back to me. I placed you on 40% because I believe this business now belongs to the both of us, and your efforts and support is highly going to be involved as well.
+
+
+Up till date, no one has the knowledge of the $17.500,000usd you are about to receive in your bank account, and no one will ever know of it. All you need to do is stand and claim as the original depositor and beneficiary of the fund in my branch so that my head office can order the transfer of the fund to your designated bank account. There are practically no risks involved, it will be a bank-to-bank transfer. From the day you applied, within 6 days the money should have been transferred and cleared in your account if all things work out well. Then I will get back my 60% through any means we find best to do so.
+
+
+Please note that all I need from you is your trust and sincerity as to seeing this through. Am expecting your soonest reply through my private email address as  to enable us start doing something
+
+about this immediately.
+
+FULL NAME;..................................
+ADDRESS;....................................
+SEX;........................................
+OCCUPATION;.................................
+AGE;........................................
+FAX AND PHONE NUMBER........................
+
+God Bless,
+Mr. Frank Agbo.

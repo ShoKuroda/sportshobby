@@ -1,0 +1,41 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.3 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_JP_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: tkdami.net]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: tkdami.net]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: tkdami.net]
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5575]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r54BL5O0096104
+	for <hobby.division@sportshobby.co.jp>; Tue, 4 Jun 2013 20:21:05 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:64400 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1370344865.3051
+Received: from 91.207.105.5 (gw.zab.v-lan.com.ua [91.207.105.5] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r54BL2Qi096092
+	for <hobby.division@sportshobby.co.jp>; Tue, 4 Jun 2013 20:21:04 +0900 (JST)
+Message-Id: <201306041121.r54BL2Qi096092@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (nrasher@letz.tavrida.ru@82.240.225.98)
+	by 91.207.105.5 with ESMTPA; Tue, 4 Jun 2013 15:27:27 +0300
+From: nrasher@letz.tavrida.ru
+To: hobby.division@sportshobby.co.jp
+Subject: The greatest night of delight you've ever had
+Date: Tue, 4 Jun 2013 15:21:49 +0300
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 04062013 #10273691, status: clean
+
+The perfect man for the perfect woman 
+http://www.spajderr.tkdami.net/pay.html
+

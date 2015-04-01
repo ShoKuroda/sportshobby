@@ -1,0 +1,123 @@
+Return-Path: <viskabojuna@rediffmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.2 required=7.0 tests=ADVANCE_FEE_4_NEW,
+	ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_MONEY,BAYES_50,DKIM_SIGNED,DKIM_VALID,
+	FREEMAIL_FROM,FREEMAIL_REPLYTO,HTML_FONT_FACE_BAD,HTML_MESSAGE,LOTS_OF_MONEY,
+	MONEY_FRAUD_3,MONEY_FRAUD_5,MONEY_FROM_41,T_MONEY_PERCENT autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (viskabojuna[at]rediffmail.com)
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.0 HTML_FONT_FACE_BAD BODY: HTML font face is not a word
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4929]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  2.0 MONEY_FROM_41 Lots of money from Africa
+	*  0.0 T_MONEY_PERCENT X% of a lot of money for you
+	*  0.0 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.0 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  3.7 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  3.9 MONEY_FRAUD_3 Lots of money and several fraud phrases
+	*  1.8 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s4JDiRMD075037
+	for <hobby.division@sportshobby.co.jp>; Mon, 19 May 2014 22:44:27 +0900 (JST)
+	(envelope-from viskabojuna@rediffmail.com)
+X-Nat-Received: from [112.78.125.46]:45803 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1400507067.11003
+Received: from web100205.mail.kks.yahoo.co.jp (web100205.mail.kks.yahoo.co.jp [114.111.99.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s4JDiRgO075034
+	for <hobby.division@sportshobby.co.jp>; Mon, 19 May 2014 22:44:27 +0900 (JST)
+	(envelope-from viskabojuna@rediffmail.com)
+Received: (qmail 30499 invoked by uid 60001); 19 May 2014 13:44:27 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=yj20050223; d=yahoo.co.jp;
+  h=Message-ID:X-YMail-OSG:Received:X-RocketYMMF:X-Mailer:X-YMail-JAS:Sender:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=cpZpEtMH+894VeZNssIfsmBffiR50YfIVIG11+9o4rKeSWjmE39Cs2+M3E1gpT+3aWsoEVMWpBBHDn5845P/G1xe32GL3WLFrwr9P9WGS+NPnxzJ2ztAZC0/+VaHaS60  ;
+Message-ID: <374251.29708.qm@web100205.mail.kks.yahoo.co.jp>
+X-YMail-OSG: bIpDW5EVM1nGtHy5jQZDtYLXlGuBf6M6UbBE5tePX0If3ZEADBakp7W8i5ACJhFBoQtdaZa3u_9AY4.E5vAFGTE2s9VXpqYjseg2LH.1vPjc.inYUpGEtooIWJKcjsn2dg4qfj8GbEYxJcWTJopY6WQ3OoBuU33x5fPM1JTqUwRuyh6_ojf6vF6uNjnPJK7FIuyNPjLlfHXBdSvfUaNesUSFs3fdh9SCTOKiODyOnch3_Dmcuxc7L95aORdDwpQOAvrKDf8m5l2jccVbnHMksuF5frM6iJI58bMh1DFHROCSe9yM11WZWxswfpVOaNDILAfTKQFgiTY6pfZRtAdO3VLxOZ2T1R7NF9J8IWe7zV7NsDwO_CA4LbTXTnEAnayPQQP5HVmELQHyjkSx7TA1M.SssnkUA1S0d1qLv6kIWwdAakQyQfnEAO4cy0iZ7df10f0IkzJqHbojX4iCo3wkjt4e73cMmaqMifCJGq021RFf4DWEj4mp2WWtAq5LTe5x.RXPIIWraD_ZANFG0Xv_B5D6tNNTJiyiMHhOrJ5zwxE8l7L4jYPXmwHEd9ZCzlbUyjz7EtXXQg8GB9H.ZGTMo.dmwr2ViOd1STCo57oDNVHqkfL0s3fCGCm29JoCpolg1Bp3W2P0YZb7O.kxlcwlKLyC
+Received: from [41.207.194.155] by web100205.mail.kks.yahoo.co.jp via HTTP; Mon, 19 May 2014 22:44:26 JST
+X-RocketYMMF: yuutokurahara
+X-Mailer: YahooMailWebService/0.8.111_53
+X-YMail-JAS: 812T2bkVM1lFLwDwhIKy4VhvaciRrNdgCixw6PMQRmN7mXTyAXJgglNFS94o1gooZhVBR33yBUtObp.Agf14rj8kQDT1Q8sfrER3qVTYds0alI9kBNInjFVlE9p88XAfeaoQ
+Sender: yuutokurahara@yahoo.co.jp
+Date: Mon, 19 May 2014 22:44:26 +0900 (JST)
+From: Viska Bojuna <viskabojuna@rediffmail.com>
+Reply-To: Viska Bojuna <bvisika@yahoo.com.sg>
+Subject: Mrs Visika Bojuna 
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-512249330-1400507066=:29708"
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 19052014 #7951212, status: clean
+
+--0-512249330-1400507066=:29708
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=0A=0AGood Day Friend,=0A=0AMy name is Mrs Visika Bojuna have been sufferin=
+g from Brest cancer disease and doctor says that i have just few days to le=
+ave. I am from Australian . As a business woman dealing with cotton / Cafee=
+ exportation, Now that i am about =C2=A0to end the race like this, I have n=
+either family member or child.=0A=0AI have =E2=82=AC2.8 Million EURO in Ban=
+k of Africa (B.O.A) which i instructed the bank to give African union leade=
+rs to help sick people around Africa . But my mind is not at rest because i=
+ am writing this mail now through the help of One of the nurse beside me he=
+re in hospitalroom.=0A=0AI also have =E2=82=AC4.2 Million EURO in another b=
+ank=0Awhich i want you to claim from the bank and use help less privilege p=
+eople in your country, but you must assure me that you will take only 20% o=
+f the total money and give the rest 80% to the Charity organization and orp=
+hanage home in your country for my heart to rest.=0A=0AUpon the receipt of =
+your email that you are willing and capable to execute my plan, i will inst=
+ruct the bank management to make the immediate transfer into your account.=
+=C2=A0=0A=C2=A0Thanks and best regard=0AYours Faithfully,=0AMrs Visika Boju=
+na=C2=A0=0A
+--0-512249330-1400507066=:29708
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:; background-color:; font-family:MS PGothic=
+, sans-serif;font-size:12pt"><div><div><font class=3D"Apple-style-span" fac=
+e=3D"'MS PGothic', sans-serif"><br></font></div><div><font class=3D"Apple-s=
+tyle-span" face=3D"'MS PGothic', sans-serif">Good Day Friend,</font></div><=
+div><font class=3D"Apple-style-span" face=3D"'MS PGothic', sans-serif"><br>=
+</font></div><div><font class=3D"Apple-style-span" face=3D"'MS PGothic', sa=
+ns-serif">My name is Mrs Visika Bojuna have been suffering from Brest cance=
+r disease and doctor says that i have just few days to leave. I am from Aus=
+tralian . As a business woman dealing with cotton / Cafee exportation, Now =
+that i am about &nbsp;to end the race like this, I have neither family memb=
+er or child.</font></div><div><font class=3D"Apple-style-span" face=3D"'MS =
+PGothic', sans-serif"><br></font></div><div><font class=3D"Apple-style-span=
+" face=3D"'MS PGothic', sans-serif">I have =E2=82=AC2.8 Million EURO in Ban=
+k of Africa (B.O.A) which
+ i instructed the bank to give African union leaders to help sick people ar=
+ound Africa . But my mind is not at rest because i am writing this mail now=
+ through the help of One of the nurse beside me here in hospitalroom.</font=
+></div><div><font class=3D"Apple-style-span" face=3D"'MS PGothic', sans-ser=
+if"><br></font></div><div><font class=3D"Apple-style-span" face=3D"'MS PGot=
+hic', sans-serif">I also have =E2=82=AC4.2 Million EURO in another bank</fo=
+nt></div><div><font class=3D"Apple-style-span" face=3D"'MS PGothic', sans-s=
+erif">which i want you to claim from the bank and use help less privilege p=
+eople in your country, but you must assure me that you will take only 20% o=
+f the total money and give the rest 80% to the Charity organization and orp=
+hanage home in your country for my heart to rest.</font></div><div><font cl=
+ass=3D"Apple-style-span" face=3D"'MS PGothic', sans-serif"><br></font></div=
+><div><font class=3D"Apple-style-span" face=3D"'MS PGothic', sans-serif">Up=
+on the receipt of
+ your email that you are willing and capable to execute my plan, i will ins=
+truct the bank management to make the immediate transfer into your account.=
+&nbsp;</font></div><div><font class=3D"Apple-style-span" face=3D"'MS PGothi=
+c', sans-serif">&nbsp;Thanks and best regard</font></div><div><font class=
+=3D"Apple-style-span" face=3D"'MS PGothic', sans-serif">Yours Faithfully,</=
+font></div><div><font class=3D"Apple-style-span" face=3D"'MS PGothic', sans=
+-serif">Mrs Visika Bojuna&nbsp;</font></div><div style=3D"font-family: 'MS =
+PGothic', sans-serif; font-size: 12pt; "><br></div></div></div></body></htm=
+l>
+--0-512249330-1400507066=:29708--

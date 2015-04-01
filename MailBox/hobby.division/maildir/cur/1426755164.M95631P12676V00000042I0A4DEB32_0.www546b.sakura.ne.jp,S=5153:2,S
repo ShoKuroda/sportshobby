@@ -1,0 +1,100 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,NORMAL_HTTP_TO_IP,TVD_RCVD_SPACE_BRACKET,TVD_SPACE_ENC_FM_MIME,
+	TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav303.sakura.ne.jp (fsav303.sakura.ne.jp [153.120.85.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J8qcEA012673
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 17:52:38 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav303.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp);
+ Thu, 19 Mar 2015 17:52:38 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-210.smtp.rakuten.co.jp [202.72.58.210])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J8qc8g012670
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 17:52:38 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat110.prod.jp.local [100.66.16.67])
+	by mxmattx104z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l727B1kGZzRKdt
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 17:52:38 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426755158;
+	bh=x3hx7HAFUxcWnI8lcUZZCHavJmYbM9jAY9szF3Jtmno=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=SQGN89rFPWtPhmQVV3MpyYZxsGiNcql8P1XEhVCs8j56YsgMgfQHdtXEWvqZTGQ3h
+	 I3EXxzroiukbFjU8u/wjRlYu2TczkBTG9FUOrMf0tT974E3UfF7C6pjFiiuiri6m2E
+	 KdmU3h1s7T5/LEw05kO4ZKsbkWS3jrGBUVso/IGE=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat110.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2J8qOhk022877
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 17:52:38 +0900
+Received: from armsrb214c.ap.rakuten.co.jp ([armsrb214c.ap.rakuten.co.jp [172.28.246.142]]) by mat110.prod.jp.local with RELAY id t2J8qbbA024374 ;
+          Thu, 19 Mar 2015 17:52:38 +0900
+Date: Thu, 19 Mar 2015 17:52:37 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: 7738d4f675f17b2345bdd7ff5b1f218ds1@pc.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503191752.t2J8qbbA024374@mat110.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJDRDbUo4JCIkaiQsJEgkJiQ0JDYkJCReJDkhIxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.246.142
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: 0B8C404F591E5A93DF7C1259A9B44CD668F94962
+
+----------------------------------------------------------------------
+このメールはお客様の注文に関する大切なメールです。
+お取引が完了するまで保存してください。
+----------------------------------------------------------------------
+
+福田 宗利様
+
+スポーツホビーです。
+この度は、ご注文ありがとうございました。
+決済が完了致しましたので、発送処理に入らせて頂きました。
+
+荷物の追跡は、お客様の商品購入履歴画面、もしくは、ヤマト宅急便配達状況確認ページ（PC専用）でご確認頂けます。
+悪天候等で、止むを得ず遅れることは、まれにございます。その際はご容赦下さいませ。
+また何かございましたら、よろしくお願い致します。
+http://link.rakuten.co.jp/0/000/005/
+
+　　　　　　　　　　　　　　　　　　　　　スポーツホビー　ガンコーナー　　工藤
+[お荷物伝票番号] 4030-9720-4090
+[配送会社] ヤマト運輸
+[商品]
+      ＢＬＡＣＫＨＡＷＫ！　413513BK-R Glock 20/21/37 SERPA CONCEALMENT SPORTSTER HOLSTER
+      http://item.rakuten.co.jp/sportshobby/10008666/
+
+----------------------------------------------------------------------
+
+★　スポーツホビーからのお願い　★
+ご購入頂いた商品のレビューを書いて頂けると、とても助かります。
+
+▼　こちらを参考にして下さい　▼
+http://review.rakuten.co.jp/howto/write/#01
+
+※楽天でキャンペーンを行っている場合、レビューを書くとポイントが貰える
+場合がございます。
+
+    -------------------------------------------------------
+    有限会社エスエッチケー
+    スポーツホビー
+    002-0861 北海道札幌市北区屯田１１条３−１−１３
+    (TEL) 011-773-5090
+    (URL) http://www.rakuten.co.jp/sportshobby/
+    黒田　陽子(hobby.division@sportshobby.co.jp)
+    
+
+────────── 【楽天市場からのお知らせ】 ──────────
+【3月20日（金）9：59まで ！】
+　期間限定★今なら楽天カード新規入会でもれなく6,000ポイントプレゼント！
+　　⇒ http://link.rakuten.co.jp/1/008/531/?url=2/831/68809/0/RC4 
+　楽天カードなら楽天市場でのお買い物はいつでも2倍★
+
+　楽天市場トップはこちら
+　　⇒ http://www.rakuten.co.jp/?l-id=top_091 
+──────────────────────────────────
+

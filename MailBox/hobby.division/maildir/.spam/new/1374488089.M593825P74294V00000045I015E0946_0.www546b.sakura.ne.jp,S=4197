@@ -1,0 +1,71 @@
+Return-Path: <sales04@zxzmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.6 required=7.0 tests=BAYES_50,DEAR_FRIEND,
+	FROM_EXCESS_BASE64,FROM_MISSP_REPLYTO,HTML_IMAGE_ONLY_12,HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,T_REMOTE_IMAGE,URIBL_BLOCKED
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: trustesmtp.com]
+	*  2.6 DEAR_FRIEND BODY: Dear Friend? That's not very dear!
+	*  2.1 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4666]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  1.0 FROM_EXCESS_BASE64 From: base64 encoded unnecessarily
+	*  3.8 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  0.0 T_REMOTE_IMAGE Message contains an external image
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r6MAEilh074285
+	for <hobby.division@sportshobby.co.jp>; Mon, 22 Jul 2013 19:14:45 +0900 (JST)
+	(envelope-from sales04@zxzmail.com)
+X-Nat-Received: from [112.78.125.46]:64717 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1374488084.31753
+Received: from mx50.newsletter.trustesmtp.com (mx50.newsletter.trustesmtp.com [59.80.152.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r6MAEhkt074275
+	for <hobby.division@sportshobby.co.jp>; Mon, 22 Jul 2013 19:14:44 +0900 (JST)
+	(envelope-from sales04@zxzmail.com)
+To:hobby.division@sportshobby.co.jp
+Subject:=?utf-8?B?UmU6IEFtYXppbmcgUkMgSG9iYnkgSGVscGVyIC8gb25iby1wb3dlciAvIG5ldyE=?=
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: base64
+Reply-To:sales04@onbo-power.com
+X-MessageId:714997-7248
+From:=?utf-8?B?MDcyMg==?=<sales04@zxzmail.com>
+Message-Id: <20130722101434.B18E85C69B08@mx50.newsletter.trustesmtp.com>
+Date: Mon, 22 Jul 2013 18:14:34 +0800 (CST)
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 22072013 #10652860, status: clean
+
+RGVhciBmcmllbmQsPGJyIC8+DQrCoDxiciAvPg0KR2xhZCB0byBoZWFyIHRoYXQgeW914oCZcmUg
+b24gdGhlIG1hcmtldCBmb3IgUkMgbW9kZWwgYW5kIFJDIEJhdHRlcnnvvIE8YnIgLz4NCsKgwqA8
+YnIgLz4NCldlLCBPTkJPLVBvd2VyIENvLixMdGQsIGFyZSBwcm9mZXNzaW9uYWwgTUFOVUZBQ1RV
+UkVSIGluIHRoaXMgZmllbGQsIHNwZWNpYWxpemluZyBpbiBMaXBvIEJhdHRlcnkgZm9yIFJDIEhF
+TEkgYW5kIFJDIENBUiwgd2l0aCBnb29kIHF1YWxpdHkgYW5kIGNvbXBldGl0aXZlIHByaWNlLjxi
+ciAvPg0KPGJyIC8+DQpNb3Jlb3Zlciwgb3VyIGVuZ2luZWVycyBoYXZlIHRlbiB5ZWFycyBleHBl
+cmllbmNlIGluIHN0dWR5aW5nIHRoZSBoaWdoIGN1cnJlbnQgYmF0dGVyaWVzIHdoaWNoIGFkb3B0
+IHRoZSBsYXRlc3QgdGVjaG5vbG9naWVzIHRoYXQgdGhlIGNvbnRpbnVvdXMgZGlzY2hhcmdlIG9m
+IHRoZSBiYXR0ZXJ5IGNvdWxkIGJlIHVwIHRvIDkwQy48YnIgLz4NCjxiciAvPg0KQW55IGZ1cnRo
+ZXIgcXVlc3Rpb25zLCBwbGVhc2UgY29udGFjdCBtZSBmcmVlbHkhIFRoYW5rIHlvdSE8YnIgLz4N
+CsKgwqA8YnIgLz4NCkJlc3QgUmVnYXJkcyE8YnIgLz4NCjxiciAvPg0KQ3J5c2VhPGJyIC8+DQo8
+YnIgLz4NCk9OQk8tUG93ZXIgQ28uLEx0ZDxiciAvPg0KVGVsOsKgIDg2LTA3NTUtMzM1NTY2MjE8
+YnIgLz4NCkZheDrCoCA4Ni0wNzU1LTI4MDY4NjUxPGJyIC8+DQpFbWFpbDogc2FsZXMwNEBvbmJv
+LXBvd2VyLmNvbTxiciAvPg0KV2Vic2l0ZTogd3d3Lm9uYm8tcG93ZXIuY29tPGJyIC8+DQpTYWxl
+cyBDZW50ZXIgOk9OQk8gVGVjaCBCdWlsZGluZywgTm8uOTA2LCBNZWlsb25nIFJkLCBNaW56aGkg
+U3ViLWRpc3RyaWN0LCBMb25naHVhLCBTaGVuemhlbiw1MTgwMDAgUC5SLiBDaGluYTxiciAvPg0K
+RmFjdG9yeSBBZGRyZXNzOiBPTkJPIFRlY2ggcGFyayxEYWtlbmcgUmQsIEppZXppIFN1Yi1kaXN0
+cmljdCwgR3VhbmfigJlhbiwgU2ljaHVhbiw2Mzg0MDAgUC5SLiBDaGluYTxpbWcgc3JjPSdodHRw
+Oi8vaW1hZ2UudHJ1c3Rlc210cC5jb20vdC9hP2E9NzE0OTk3LTcyNDgnIGhlaWdodD0nMScgd2lk
+dGg9JzEnIC8+

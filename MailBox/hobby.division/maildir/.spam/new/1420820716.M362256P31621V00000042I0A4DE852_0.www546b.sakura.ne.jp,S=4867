@@ -1,0 +1,140 @@
+Return-Path: <brian-hobby.division=sportshobby.co.jp@commenemail.info>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.8 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	HTML_IMAGE_ONLY_12,HTML_MESSAGE,PUMPDUMP,T_DKIM_INVALID,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URI_NO_WWW_INFO_CGI autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: commenemail.info]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: commenemail.info]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: commenemail.info]
+	*  2.1 URI_NO_WWW_INFO_CGI URI: CGI in .info TLD other than third-level
+	*      "www"
+	*  2.1 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+	*  1.0 PUMPDUMP Pump-and-dump stock scam phrase
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t09GPC2H031618
+	for <hobby.division@sportshobby.co.jp>; Sat, 10 Jan 2015 01:25:12 +0900 (JST)
+	(envelope-from brian-hobby.division=sportshobby.co.jp@commenemail.info)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Sat, 10 Jan 2015 01:25:12 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from mail.commenemail.info (mail.commenemail.info [146.0.78.21])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t09GPBhX031614
+	for <hobby.division@sportshobby.co.jp>; Sat, 10 Jan 2015 01:25:12 +0900 (JST)
+	(envelope-from brian-hobby.division=sportshobby.co.jp@commenemail.info)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=commenemail.info;
+ h=Mime-Version:Content-Type:Date:From:Subject:Message-ID:To; i=brian@commenemail.info;
+ bh=Pt18Ol8RZsN2ANmmeIkfrN6HuEg=;
+ b=mWTLvjjDyzvFqbo7RO/zmKhYUsh9PABZEYtcdBCk1UWdvqqTsg5drUX5E6KuVwd2blwLMcYAbw+z
+   wBekeDfCgO8R+SPebnWneg6VrUrqX4UxNcG1hZtWFl/JGTYS9fRyIEXWPiawZ11Puv/3m9F6Zwl0
+   6qWaEVLvfBQ/O1JqZvc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=commenemail.info;
+ b=ImeJXUReLSsPo28NZ84HuP2HSqy1q7UT+5sEE8JazEiJO+o/6d+mX8YYhsTQcsbj+f2Ebj0fDELw
+   BwWVc6CczMay6457C/RNMQfpiO8LY+qV2feHrhr4Hb/aGrr7SKPbJSnf/SsjP9rrwDSqlnsq3vuL
+   oIzKuI353CTz/kBZZas=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=b4877fc84b639a5f78fe827f162e7122
+Date: Fri, 9 Jan 2015 17:12:47 +0100
+From: Melanie <brian@commenemail.info>
+Subject: =?UTF-8?B?RGlkIHlvdSBzZWUgdGhlaXIgcHJvb2Y/Pz8=?=
+Message-ID: <b4877fc84b639a5f78fe827f162e7122@commenemail.info>
+To: <hobby.division@sportshobby.co.jp>
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/plain; charset=UTF-8
+
+Hello,
+
+This short video speaks for itself …
+
+Click Here ==>> http://click.commenemail.info/index.php?id=8826248&a=666610&b=3505&c=57
+
+Live proof of a system that actually works!
+
+Once you see this video you'll know 
+you hit the jackpot!!!
+http://click.commenemail.info/index.php?id=8826248&a=666610&b=3505&c=57
+
+Undebatable proof of a system
+that can make you HUNDREDS in MINUTES! 
+
+CLICK BELOW TO SEE THE QUICK VIDEO
+http://click.commenemail.info/index.php?id=8826248&a=666610&b=3505&c=57
+
+Best regards
+
+Melanie
+
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+Hello,<br>
+<br>
+This short video speaks for itself …<br>
+<br>
+<a href="http://click.commenemail.info/index.php?id=8826248&a=666610&b=3505&c=57"> <b> >> Click Here To Watch This Short Video<< </b> </a>  <br>
+<br>
+Live proof of a system that actually works!<br>
+<br>
+Once you see <a href="http://click.commenemail.info/index.php?id=8826248&a=666610&b=3505&c=57"><b>this video</b></a> you'll know <br>
+you hit the jackpot!!!<br>
+<br>
+Undebatable proof of a system<br>
+that can make you HUNDREDS in MINUTES! <br>
+<br>
+<a href="http://click.commenemail.info/index.php?id=8826248&a=666610&b=3505&c=57"><b>CLICK HERE</b></a> TO SEE THE QUICK VIDEO<br>
+<br>
+Best regards<br>
+<br>
+Melanie
+</b>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<a href="http://click.commenemail.info/index.php?o=2&a=666610&b=3505&c=57">Unsubscribe Here</a>
+
+<img src="http://click.commenemail.info/index.php?o=1&a=666610&b=3505&c=57">
+
+</body>
+</html>
+
+
+
+
+
+
+--b4877fc84b639a5f78fe827f162e7122--

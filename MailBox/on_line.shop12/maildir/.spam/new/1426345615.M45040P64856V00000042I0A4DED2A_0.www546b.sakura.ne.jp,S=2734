@@ -1,0 +1,51 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.2 required=7.0 tests=BAYES_99,BODY_URI_ONLY,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: luckyorganicassist.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: luckyorganicassist.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: luckyorganicassist.be]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: luckyorganicassist.be]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9959]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: luckyorganicassist.be]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: luckyorganicassist.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav404.sakura.ne.jp (fsav404.sakura.ne.jp [133.242.250.103])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2EF6qgH064853
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 15 Mar 2015 00:06:52 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav404.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp);
+ Sun, 15 Mar 2015 00:06:52 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp)
+Received: from 190.57.215.171 (171.215.57.190.dsl.dynamic.telviso.net.ar [190.57.215.171] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t2EF6mc9064802
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 15 Mar 2015 00:06:50 +0900 (JST)
+Date: Sun, 15 Mar 2015 00:06:48 +0900 (JST)
+Message-Id: <201503141506.t2EF6mc9064802@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (sales@stockton-house.com@170.34.156.99)
+	by 190.57.215.171 with ESMTPA; Sat, 14 Mar 2015 12:04:45 -0300
+X-Originating-IP: 170.34.156.99
+From: sales@stockton-house.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Proven technique to get rid of intimacy problems
+
+http://softness.luckyorganicassist.be/ Dive deeply into love
+

@@ -1,0 +1,75 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,TVD_RCVD_SPACE_BRACKET,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,
+	URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J1OJPo015640
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 10:24:19 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Thu, 19 Mar 2015 10:24:19 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-212.smtp.rakuten.co.jp [202.72.58.212])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J1OJBV015637
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 10:24:19 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat102.prod.jp.local [100.66.16.43])
+	by mxmattx103z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l6r9v37xbzDZbg
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 10:24:19 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426728259;
+	bh=xLuLLMnA/iNf5PEgI0f9zcJXVo9WbT6OFRy4whhi52g=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=Z/ICcWlkpB39vBJeUpsGVPvZdM5iIQgtDW4jddoGizC8IiKm7mUVS4enJP0vVf4y1
+	 w5E6efZwP7PKdaLhDbgFOVL/vJ0dbtitfRhDmv49PRm95/g8y+tA5cAsyF6RsjFN4o
+	 kE/onbtmwY1zlP7Jsji6EtHde2FL9mKxisSjtMbM=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat102.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2J1NqZj007804
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 10:24:19 +0900
+Received: from armsrb209c.ap.rakuten.co.jp ([armsrb209c.ap.rakuten.co.jp [172.28.246.211]]) by mat102.prod.jp.local with RELAY id t2J1OIXV010152 ;
+          Thu, 19 Mar 2015 10:24:19 +0900
+Date: Thu, 19 Mar 2015 10:24:18 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: ee0de6ad9541a42e9134d76ebe4f66e6s1@ym.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503191024.t2J1OIXV010152@mat102.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJDRDbUo4JCIkaiQsJEgkJiQ0JDYkJCReJDkbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.246.211
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: E1D714D8BB80377DCCF712E85C201EBCBB0D89B4
+
+■ご注文に関するお知らせ■
+
+ｽﾎﾟｰﾂﾎﾋﾞｰです｡
+この度は､ご注文ありがとうございました｡
+お支払は銀行振込ということですので､
+ 銀行名:ｼﾞｬﾊﾟﾝﾈｯﾄ銀行
+ 支店名:すずめ支店
+ 店番号:002
+ 口座 :普通預金 1250379
+ 名義 :有限会社ｴｽｴｯﾁｹｰﾈｯﾄ販売
+こちらに､
+合計: 1025円
+をお振込み下さいませ｡
+ご入金の確認が取れ次第､発送処理に入らせて頂きます｡
+なお､お振込みが完了致しましたら､お手数でなければ､その旨ご一報頂けますと発送処理がよりｽﾑｰｽﾞにいきます｡
+※今回ご注文頂きました商品ですと､無保証をご了承頂けましたら､定形外発送\140での発送も出来ます｡
+変更をご希望でしたら(送料金額変更致します)商品金額\155(税込)+送料(\140)=\295の方でお振込下さい｡
+それでは､よろしくお願い致します｡
+
+                          ｽﾎﾟｰﾂﾎﾋﾞｰ 通信販売部
+[商品]
+      ｸﾚｵｽ Mr.ｶﾗｰ 175 蛍光ｸﾞﾘｰﾝ
+      http://item.rakuten.co.jp/sportshobby/10003991/
+ｽﾎﾟｰﾂﾎﾋﾞｰ
+http://m.rakuten.co.jp/sportshobby/
+  
+
+

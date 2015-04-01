@@ -1,0 +1,253 @@
+Return-Path: <bounce-452-3817700-656-248@sunglassup.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.6 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URIBL_RHS_DOB,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.5 URIBL_RHS_DOB Contains an URI of a new domain (Day Old Bread)
+	*      [URIs: sunglassup.com]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4997]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: sunglassup.com]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: oakleycountry.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: oakleycountry.com]
+Received: from fsav403.sakura.ne.jp (fsav403.sakura.ne.jp [133.242.250.102])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s89IphN1012652
+	for <hobby.division@sportshobby.co.jp>; Wed, 10 Sep 2014 03:51:44 +0900 (JST)
+	(envelope-from bounce-452-3817700-656-248@sunglassup.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav403.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav403.sakura.ne.jp);
+ Wed, 10 Sep 2014 03:51:43 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav403.sakura.ne.jp)
+Received: from kots13213.sunglassup.com (kots13213.sunglassup.com [191.101.13.213])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s89IphtL012645
+	for <hobby.division@sportshobby.co.jp>; Wed, 10 Sep 2014 03:51:43 +0900 (JST)
+	(envelope-from bounce-452-3817700-656-248@sunglassup.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=sunglassup; d=sunglassup.com;
+ h=Date:To:From:Reply-to:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Transfer-Encoding:Content-Type; i=postmaster@sunglassup.com;
+ bh=SqOr0R9HHJHxBmCZdqftGC2jTZs=;
+ b=TFVcIYb0LPjRZC/SfvAiEM/ZAkPncc/EsJM9JMuKhayiOZg6KKLawXxhOOladmd0RTRdPFbqjOE3
+   8fnI2FZSYHGIKAFYwpfqlovw/MLD40dhrTqQD9vPQTa4YHSUbG59/EZfuQ3bWUGOS036vcfWrSoE
+   S3siXr8bgTmicXexvJA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=sunglassup; d=sunglassup.com;
+ b=QdWStppdwVk3GtyA7OABAHTl15TmQgU8jA5ODB6U6nmd6I/X1uY3ymXpjOAMfpmzqLKbY0aCkmM4
+   LbKZIwHGDKYlliEykwmvMAacBA1zXJImbETvIdMRfJ8KVE+CR72eXd5RjfAjtkkKWG6ZbX07b9U4
+   K1vWQBC283ho9rJHWWU=;
+Received: by kots13205.sunglassup.com id h1t63u0e97cq for <hobby.division@sportshobby.co.jp>; Tue, 9 Sep 2014 14:51:41 -0400 (envelope-from <bounce-452-3817700-656-248@sunglassup.com>)
+Date: Tue, 9 Sep 2014 14:51:41 -0400
+To: "hobby.division@sportshobby.co.jp" <hobby.division@sportshobby.co.jp>
+From: Oakley Online Store <postmaster@sunglassup.com>
+Reply-to: Oakley Online Store <postmaster@sunglassup.com>
+Subject: : Grasp Chance! Extra 80% Off Storewide
+Message-ID: <28b23bb549c1f21c7c37cd5745caa800@localhost.localdomain>
+X-Priority: 3
+X-Mailer: Email Sending System
+X-Complaints-To: meinuan112396@163.com
+List-Unsubscribe: <http://qta.sunglassup.com/fronta/u.php?p=ru/rs/f7m/rv/ru/rs>
+X-MessageID: Mnx8fHwxODcxNHx8fHxob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcHx8fHwzfHx8fDF8fHx8MA%3D%3D
+X-Report-Abuse: <http://qta.sunglassup.com/fronta/report_abuse.php?mid=Mnx8fHwxODcxNHx8fHxob2JieS5kaXZpc2lvbkBzcG9ydHNob2JieS5jby5qcHx8fHwzfHx8fDF8fHx8MA%3D%3D>
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<title>Oakley Sunglasses Outlet</title>
+</head>
+<body>
+<table border=3D"0" cellspacing=3D"0" bgcolor=3D"#E1EBF2" cellpadding=3D"0"=
+ style=3D"width: 100%;">
+<tr>
+</tr>
+<tr>
+<td align=3D"center">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff"=
+ style=3D"border: 1px solid #ffffff; font-style: normal; font-variant: norm=
+al; font-weight: normal; font-size: 10px; line-height: 15px; font-family: A=
+rial, Helvetica, sans-serif; color: #666666; width: 640px;">
+<tr>
+<td height=3D"28" colspan=3D"2" align=3D"center" style=3D"border-bottom:dot=
+ted 1px #28B7F1;">Hi! : Hurry, Extra 80% off Oakley, 24 Hours Only ! <a hre=
+f=3D"http://qta.sunglassup.com/fronta/tl.php?p=3Dru/ru/rs/f7m/rv/rs//http%3=
+A%2F%2Fzfdr.sunglassup.com%2Fs2%2F%3Fo%3DfDkwOTd8MTYyMA%26u%3Dhobby.divisio=
+n%40sportshobby.co.jp" style=3D"text-decoration:underline; line-height:17px=
+; color:#000000;" target=3D"_blank">View as Webpage</a> | <a href=3D"http:/=
+/qta.sunglassup.com/fronta/u.php?p=3Dru/rs/f7m/rv/ru/rs" style=3D"text-deco=
+ration:underline; line-height:17px; color:#000000;" target=3D"_blank"> Unsu=
+bscribe</a></td>
+</tr>
+<tr>
+<td height=3D"85" align=3D"left">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 100=
+%;">
+<tr>
+<td width=3D"266"><a href=3D"http://qta.sunglassup.com/fronta/tl.php?p=3Dru=
+/ru/rs/f7m/rv/rs//http%3A%2F%2Fzfdr.sunglassup.com%2Fs2%2F%3Fo%3DfDkwOTd8MT=
+YyMA%26u%3Dhobby.division%40sportshobby.co.jp" target=3D"_blank"><img src=
+=3D"http://zfdr.sunglassup.com/9/Tue/7/zec.jpg" alt=3D"Oakley Online Store"=
+ width=3D"266" height=3D"64" border=3D"0" style=3D"background:#ffffff; colo=
+r:#259EC3; font-weight:bold; font-size:10px; float:left; display:inline-blo=
+ck;" /></a></td>
+<td width=3D"362" align=3D"center" style=3D"text-transform:uppercase; font-=
+size:12px; color:#0E90C5;"><span style=3D"font-weight: bold; line-height: 2=
+0px;">up to 80% off + additional 10% off</span><br /> <span>efer a friend a=
+nd get 15% off your order</span></td>
+<td width=3D"10"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"24" colspan=3D"2">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#0E90C5"=
+ style=3D"text-transform: uppercase; font-style: normal; font-variant: norm=
+al; font-weight: normal; font-size: 10px; line-height: 14px; font-family: '=
+Trebuchet MS', Arial, Helvetica, sans-serif; width: 100%; height: 22px;">
+<tr>
+<td width=3D"23%" align=3D"center" style=3D"border-right:solid 2px #ffffff;=
+"><a style=3D"color:#ffffff; text-decoration:none;" href=3D"http://qta.sung=
+lassup.com/fronta/tl.php?p=3Dru/ru/rs/f7m/rv/rs//http%3A%2F%2Fzfdr.sunglass=
+up.com%2Fs2%2F%3Fo%3DfDkwOTd8MTYyMA%26u%3Dhobby.division%40sportshobby.co.j=
+p" target=3D"_blank">OAKLEY Online Store</a></td>
+<td width=3D"25%" align=3D"center" style=3D"border-right:solid 2px #ffffff;=
+"><a style=3D"color:#ffffff; text-decoration:none;" href=3D"http://qta.sung=
+lassup.com/fronta/tl.php?p=3Dru/ru/rs/f7m/rv/rs//http%3A%2F%2Fzfdr.sunglass=
+up.com%2Fs2%2F%3Fo%3Db2FrbGV5LWFjdGl2ZS1zdW5nbGFzc2VzLWMtMzV8OTA5N3wxNjIw%2=
+6u%3Dhobby.division%40sportshobby.co.jp" target=3D"_blank">Oakley Active</a=
+></td>
+<td width=3D"18%" align=3D"center" style=3D"border-right:solid 2px #ffffff;=
+"><a style=3D"color:#ffffff; text-decoration:none;" href=3D"http://qta.sung=
+lassup.com/fronta/tl.php?p=3Dru/ru/rs/f7m/rv/rs//http%3A%2F%2Fzfdr.sunglass=
+up.com%2Fs2%2F%3Fo%3Db2FrbGV5LWFudGl4LXN1bmdsYXNzZXMtYy0zNHw5MDk3fDE2MjA%26=
+u%3Dhobby.division%40sportshobby.co.jp" target=3D"_blank">Oakley Antix</a><=
+/td>
+<td width=3D"17%" align=3D"center" style=3D"border-right:solid 2px #ffffff;=
+"><a style=3D"color:#ffffff; text-decoration:none;" href=3D"http://qta.sung=
+lassup.com/fronta/tl.php?p=3Dru/ru/rs/f7m/rv/rs//http%3A%2F%2Fzfdr.sunglass=
+up.com%2Fs2%2F%3Fo%3Db2FrbGV5LWVrLXNpZ25hdHVyZS1zdW5nbGFzc2VzLWMtMjh8OTA5N3=
+wxNjIw%26u%3Dhobby.division%40sportshobby.co.jp" target=3D"_blank">Oakley E=
+K Signature</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"350" colspan=3D"2" align=3D"center" bgcolor=3D"#0E90C5">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 94%=
+;">
+<tr>
+<td height=3D"52" align=3D"center" valign=3D"bottom">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width: 100=
+%;">
+<tr>
+<td width=3D"22%" align=3D"right"><img src=3D"http://zfdr.sunglassup.com/9/=
+Tue/7/wer.jpg" alt=3D"-" /></td>
+<td width=3D"56%" align=3D"center"><a href=3D"http://qta.sunglassup.com/fro=
+nta/tl.php?p=3Dru/ru/rs/f7m/rv/rs//http%3A%2F%2Fzfdr.sunglassup.com%2Fs2%2F=
+%3Fo%3DfDkwOTd8MTYyMA%26u%3Dhobby.division%40sportshobby.co.jp" target=3D"_=
+blank" style=3D"color:#ffffff; font:normal 32px/30px 'Trebuchet MS', Arial,=
+ Helvetica, sans-serif; text-decoration:none;">OAKLEY ALL ITEMS</a></td>
+<td width=3D"22%" align=3D"left"><img src=3D"http://zfdr.sunglassup.com/9/T=
+ue/7/wer.jpg" alt=3D"-" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"42" align=3D"center" valign=3D"bottom"><a href=3D"http://qta.=
+sunglassup.com/fronta/tl.php?p=3Dru/ru/rs/f7m/rv/rs//http%3A%2F%2Fzfdr.sung=
+lassup.com%2Fs2%2F%3Fo%3DfDkwOTd8MTYyMA%26u%3Dhobby.division%40sportshobby.=
+co.jp" target=3D"_blank" style=3D"color:#ffffff; font:italic normal 23px/27=
+px 'Times New Roman', Times, serif; text-decoration:none;">Last 24 Hours Fo=
+r Oakley</a></td>
+</tr>
+<tr>
+<td height=3D"145" align=3D"center"><a href=3D"http://qta.sunglassup.com/fr=
+onta/tl.php?p=3Dru/ru/rs/f7m/rv/rs//http%3A%2F%2Fzfdr.sunglassup.com%2Fs2%2=
+F%3Fo%3DfDkwOTd8MTYyMA%26u%3Dhobby.division%40sportshobby.co.jp" target=3D"=
+_blank" style=3D"font:normal 50px/59px 'Times New Roman', Times, serif; bor=
+der-bottom:solid 1px #ffffff; text-decoration:none; color:#ffffff; text-tra=
+nsform:uppercase;">TAKE&nbsp;<span style=3D"font-size: 90px; line-height: 9=
+5px;">80%</span> OFF</a></td>
+</tr>
+<tr>
+<td height=3D"50" align=3D"center">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff"=
+ style=3D"width: 260px;">
+<tr>
+<td height=3D"35" align=3D"center" valign=3D"middle"><a href=3D"http://qta.=
+sunglassup.com/fronta/tl.php?p=3Dru/ru/rs/f7m/rv/rs//http%3A%2F%2Fzfdr.sung=
+lassup.com%2Fs2%2F%3Fo%3DfDkwOTd8MTYyMA%26u%3Dhobby.division%40sportshobby.=
+co.jp" target=3D"_blank" style=3D" text-decoration:none; font:bold 22px/20p=
+x 'Trebuchet MS', Arial, Helvetica, sans-serif; text-transform:uppercase; c=
+olor:#0E90C5;">Shop OAKLEY STORe</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"15" colspan=3D"2"></td>
+</tr>
+<tr>
+<td colspan=3D"2" align=3D"center">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-style=
+: normal; font-variant: normal; font-weight: normal; font-size: 10px; line-=
+height: 18px; font-family: Verdana, Geneva, sans-serif; color: #4c4c4c; wid=
+th: 95%;">
+<tr>
+<td align=3D"left"><span style=3D"font:11px/20px Verdana, Geneva, sans-seri=
+f;color:#666666;">Hi &nbsp;,Here on our site, we offer great chance for you=
+ with authentic sunglasses in top quality. It's morning you have had your f=
+irst cup of tea and step out the door. Then you find that the sun hits your=
+ right in the eyes.</span><br /> <br /> <span style=3D"font:11px/20px Verda=
+na, Geneva, sans-serif;color:#666666;">In this case, it's high time to get =
+a pair newest style and cool of sunglasses, which not only would keep the g=
+laring sun away from you but also would give you a sense of mystery and ele=
+gance.</span><br /> <br /> <span style=3D"font:11px/20px Verdana, Geneva, s=
+ans-serif;color:#666666;">You have registered or accepted our invitation to=
+ receive email or you have made a purchase from www.oakleycountry.com, so y=
+ou have received this message. Please click here, while you want to forward=
+ this to a friend. Please add events@oakleycountry.com to your address book=
+ to make sure you can continue to receive our emails.</span><br /> <br /> <=
+span style=3D"font:11px/20px Verdana, Geneva, sans-serif;color:#666666;">20=
+14 www.oakleycountry.com Inc , 704 W Longview Ave, Littleton, CO 80120. All=
+ rights reserved. </span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<img src=3D"http://zfdr.sunglassup.com/google?OTA5N3wxNjIw|hobby.division@s=
+portshobby.co.jp" width=3D"1" height=3D"1" alt=3D"oakley" border=3D"0" />
+
+<img src=3D"http://qta.sunglassup.com/fronta/to.php?p=3Dru/ru/rs/f7m/rv/rs"=
+ width=3D"5" height=3D"2" alt=3D".">
+
+</body>
+</html>

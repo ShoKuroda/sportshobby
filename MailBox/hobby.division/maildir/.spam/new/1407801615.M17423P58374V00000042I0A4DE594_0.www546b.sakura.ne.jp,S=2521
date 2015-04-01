@@ -1,0 +1,51 @@
+Return-Path: <ghc@shw.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.6 required=7.0 tests=BAYES_80,DATE_IN_FUTURE_24_48,
+	FORGED_OUTLOOK_HTML,FSL_HELO_BARE_IP_2,HTML_MESSAGE,MIME_BASE64_BLANKS,
+	MIME_HTML_ONLY,RCVD_NUMERIC_HELO autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.0 DATE_IN_FUTURE_24_48 Date: is 24 to 48 hours after Received: date
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.9485]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.0 MIME_BASE64_BLANKS RAW: Extra blank lines in base64 encoding
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  1.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s7C00AZk058369
+	for <hobby.division@sportshobby.co.jp>; Tue, 12 Aug 2014 09:00:11 +0900 (JST)
+	(envelope-from ghc@shw.net)
+Received: from 112.78.125.46 (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Tue, 12 Aug 2014 09:00:10 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from shw.net ([183.95.66.192])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s7C008HJ058363
+	for <hobby.division@sportshobby.co.jp>; Tue, 12 Aug 2014 09:00:09 +0900 (JST)
+	(envelope-from ghc@shw.net)
+Message-ID: <21088C5FA47DCA5883F9DE52F62CBA16@shw.net>
+From: =?utf-8?B?6IOh5bid?= <ghc@shw.net>
+To: <hobby.division@sportshobby.co.jp>
+Subject: =?utf-8?B?5LiJ5aSp5omT6bG8LOS4pOWkqeaZkue9kQ==?=
+Date: Wed, 13 Aug 2014 08:04:18 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgaHR0cC1lcXVpdj1Db250ZW50LVR5cGUgY29udGVu
+dD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA2LjAw
+LjI5MDAuNjQ1MiIgbmFtZT1HRU5FUkFUT1I+PC9IRUFEPg0KPEJPRFk+PElOUFVUIGlkPTYwNSB0
+eXBlPWltYWdlIHNyYz0iaHR0cDovL2QyLmZyZWVwLmNuLzN0Yl8xNDA4MTEyMTE3MTBmbmNxNTM3
+MzgzLnBuZyIgYm9yZGVyPTA+IA0KPC9CT0RZPjwvSFRNTD4NCg==
+
+

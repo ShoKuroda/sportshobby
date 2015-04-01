@@ -1,0 +1,53 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.4 required=7.0 tests=BAYES_50,DEAR_SOMETHING,
+	FSL_HELO_BARE_IP_2,LOTS_OF_MONEY,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,
+	SUBJ_ALL_CAPS autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.0 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+	*  1.5 SUBJ_ALL_CAPS Subject is all capitals
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s0FAF9ZO070547
+	for <hobby.division@sportshobby.co.jp>; Wed, 15 Jan 2014 19:15:09 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:56448 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1389780909.32548
+Received: from 59.181.119.69 (static-mum-59.181.119.69.mtnl.net.in [59.181.119.69])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s0FAF5Yd070515
+	for <hobby.division@sportshobby.co.jp>; Wed, 15 Jan 2014 19:15:08 +0900 (JST)
+Date: Wed, 15 Jan 2014 19:15:05 +0900 (JST)
+Message-Id: <201401151015.s0FAF5Yd070515@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (terpy2@personalinjuryhelpline.co.uk@158.184.232.161)
+	by 59.181.119.69 with ESMTPA; Wed, 15 Jan 2014 15:45:21 +0530
+From: terpy2@personalinjuryhelpline.co.uk
+To: hobby.division@sportshobby.co.jp
+Subject: IMPORTANT TO YOU.
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 15012014 #7327335, status: clean
+
+Dear Candidate,
+
+My name is Cecilia Johnsson. I work as a human resource manager in the 
+employment agency. I would like to provide you with some information 
+about job positions we have for you. Study this information carefully.
+
+There are several excellent and high-paid vacancies that are ideal for 
+you. There is a vacancy as a representative of the consulting agency. 
+There is a vacancy as a representative of the real estate agency. There 
+are many other vacancies.
+
+Compensation is from 228,500 Dollars/year + benefits and award fee. There 
+are vacant positions with flexible schedule and with full-time 
+occupation, as well.
+
+You are advised as a right and rising candidate. Jump at the chance! If 
+you are interested in well-paid projects.If you are satisfied with all of 
+our terms, please write me as soon as possible. I will be happy to share 
+with you more information about our company: thomasjwillson@yahoo.co.jp
+

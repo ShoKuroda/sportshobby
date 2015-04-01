@@ -1,0 +1,206 @@
+Return-Path: <pr@cmedia.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.4 required=7.0 tests=BAYES_00,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U9ZHds077923
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:35:17 +0900 (JST)
+	(envelope-from pr@cmedia.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Mon, 30 Mar 2015 18:35:17 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from mail-pa0-f51.google.com (mail-pa0-f51.google.com [209.85.220.51])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U9ZGn6077915
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:35:17 +0900 (JST)
+	(envelope-from pr@cmedia.co.jp)
+Received: by pacgg7 with SMTP id gg7so32852383pac.0
+        for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 02:35:15 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:message-id:from:to:reply-to:date:subject
+         :mime-version:content-type:content-transfer-encoding;
+        bh=w353JDkP9YyTUdukv+wg0QBGGAnEDL9SIqpyM1LVq58=;
+        b=JxAb0UedLh2p7hm3GHtoSPxPhB+w41iZzyfHw805srVn3Ug4XzfOruorltJRYy56Xn
+         UWE/8cl1qQqrlAO0cYanw9ZwnVT3CDKYobvHFTBpRQLO+OhaEymoWQQOfqN3AP0WtZiX
+         IjV+v2kdcdqK/Dgr0XcRltCcG8lvJIZT+htf0UPLE4Yos3H9TZCyGAW05VkPh8GaVomr
+         q4HKkCg6Ji5y0Vf6CdvFDpYWTmXbv2naZlwKLNDPJZ4Rlnjg5toMU8exepbULG97j62q
+         7F28OswhbZ8IgsW+p4nDMoyqZ6EqiknCvhUWY6tToJDj/faSf84YJXFO8x5O/7t+WTV1
+         wt/g==
+X-Gm-Message-State: ALoCoQk3wRKbC99+/UKSg0DEVBEAIhtWw24TGoRtBKGriYpok+6H7OT3S6RAT+cpPtD3tmmmye36
+X-Received: by 10.68.102.228 with SMTP id fr4mr56107690pbb.87.1427708115695;
+        Mon, 30 Mar 2015 02:35:15 -0700 (PDT)
+Received: from localhost (fs76eef04b.chbd214.ap.nuro.jp. [118.238.240.75])
+        by mx.google.com with ESMTPSA id xc4sm976444pac.9.2015.03.30.02.35.14
+        for <hobby.division@sportshobby.co.jp>
+        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 30 Mar 2015 02:35:15 -0700 (PDT)
+Message-ID: <551918d3.04f4420a.70ec.239f@mx.google.com>
+From: =?ISO-2022-JP?B?Q1NTKBskQjN0GyhCKSAbJEIxRDZIJTAlayE8JVcbKEI=?= <pr@cmedia.co.jp>
+To: <hobby.division@sportshobby.co.jp>
+Reply-To: <pr@cmedia.co.jp>
+Date: Mon, 30 Mar 2015 18:35:14 +0900
+Subject: =?ISO-2022-JP?B?VEFMT1MtTkVYIFBPUyAbJEIlUSVDJTEhPCU4JUslZSE8JTkbKEIgMjAxNS4wMy4zMA==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+$BM-8B2q<R(BSHK $B9uEDM:(B $BMM(B
+
+$B$*@$OC$K$J$C$F$*$j$^$9!#(B
+$B%3%s%T%e!<%?%7%9%F%`%5!<%S%93t<02q<R(B(CSS)$B$G$9!#(B
+
+$B>.Gd6H$N(BPOS$B$rDs6!$7$F(B30$BG/$N(BCSS$B$,Ds0F$9$k!"(B
+$BE9J^6HL3$N8zN(2=$r<B8=$7$?!VE9J^1?1D;Y1g%7%9%F%`(B TALOS-NEX($B%?%m%9%M%C%/%9(B)$B!W!#(B
+$BE9J^MM$+$i4s$;$i$l$?2~A1$N$4Ds0F$r$b$H$KF|!9%7%9%F%`$N2~A1$r9T$C$F$*$j$^$9!#(B
+
+$B$3$N%j%j!<%9%K%e!<%9(B($B%a!<%k%^%,%8%s(B)$B$O!":G?7$NDI2C5!G=$r$4>R2p$9$kEy!"(B
+CSS$B$N!V(BTALOS-NEX$B!W(BPOS$B%Q%C%1!<%899?7>pJs$r$*FO$1$7$^$9!#(B
+https://www.cmedia.co.jp/service/pos-system/
+
+
+$B(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(B
+2015.03.10 POS$B%Q%C%1!<%8%j%j!<%9(B Ver1.1.94 $B=$@5!&5!G=DI2C(B
+$B(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(B 
+$B"!!ZK\It![;EF~@hJL<B@S=$@5(B
+$B!!!&E9JL$K=PNO$r9T$o$J$$>l9g$N;EF~@h$O(B
+$B!!!!K\It$KEPO?$5$l$F$$$k;EF~@h$N$_$rI=<($9$k$h$&$K$7$^$7$?!#(B
+
+$B"!!ZK\It!&E9J^![8DJLBZN1:_8K0lMw=$@5(B
+$B!!!&(BCSV$B=PNO9`L\$K=i2s9XF~F|$rDI2C$7$^$7$?!#(B
+
+$B"!CmJ80lMw5!G=DI2C(B
+$B!!!&CmJ80lMw$+$i0l3gG[Aw6H<TJQ99$r9T$($k$h$&$K$7$^$7$?!#(B
+
+$B"!C*4IM}6HL3=$@5(B
+$B!!!&C*4IM}6HL3$h$jC*$K%;%C%H$7$?>l9g$K(B
+$B!!!!C1IJ%a%s%F%J%s%9!&C*27;~$KI=<($5$l$k$h$&$K$7$^$7$?!#(B
+
+$B"!!ZK\It!&E9J^![BgCf>.J,N`:o=|5!G=DI2C(B
+$B!!!&<h0zL@:Y!&HNGd2TF/!&Gc<h2TF/!&:_8K0lMw!&>&IJ%^%9%?0l3g!&(BF5$B>&IJ8!:w;~$G(B
+$B!!!!BgCf>.J,N`$r:o=|$K$7$F$$$k>l9g$K8!:wBP>]$H$7$FI=<($5$l$J$$$h$&$K$7$^$7$?!#(B
+$B!!!&:FEY99?7>uBV$KLa$9$3$H$GI=<($5$;$k$3$H$,$G$-$^$9!#(B
+
+$B"!2q0wGdGcMzNr5!G=DI2C(B
+$B!!!&>r7o$K5!4X;XDj!&GdGc6hJ,$rDI2C$7$^$7$?!#(B
+
+$B"!0\F0F~8K=hM}=$@5(B
+$B!!!&0\F0F~8KEAI<$K%a!<%+!<N,>N$r0u;z$9$k$h$&$K$7$^$7$?!#(B
+
+$B"!:_8K%A%'%C%/$J$7>&IJ=hM}=$@5(B
+$B!!!&Dj2A$,F~NO$5$l$F$$$J$$>l9g?tNLF~NO$r$9$k@_Dj$K$b4X$o$i$:(B
+$B!!!!?tNL$K%+!<%=%k0\F0$7$J$+$C$?$?$a=$@5$7$^$7$?!#(B
+
+
+$B(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(B
+2015.03.17 POS$B%Q%C%1!<%8%j%j!<%9(B Ver1.1.97 $B=$@5!&5!G=DI2C(B
+$B(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(B 
+$B"!3ZE7=PIJ=hM}=$@5(B
+$B!!!&(BF11$B%-!<$G9T:o=|$r9T$($k$h$&$K$7$^$7$?!#(B
+$B!!(B
+$B"!NL$jGc$$2A3J=hM}=$@5(B
+$B!!!&862AN($rE9J^$G@_Dj$G$-$k$h$&$K$7$^$7$?!#(B
+$B!!!&;HMQ$9$k>l9g$OJLES@_Dj$,I,MW$K$J$j$^$9!#(B
+$B!!(B
+$B"!!ZK\It!&E9J^![>&IJ%3%a%s%H%]%C%W%"%C%W5!G==$@5(B
+$B!!-!@_Dj$r9T$&:]$K2~9T$r9T$($k$h$&$K$7$^$7$?!#(B
+$B!!-"E9J^$G$N%]%C%W%"%C%W;~$N%]%C%W%"%C%W%5%$%:$NJQ99!"(B
+$B!!!!%]%C%W%"%C%W;~2;@<$NJQ99$r9T$$$^$7$?!#(B
+$B!!(B
+$B"!!ZK\It!&E9J^![C1IJ>\:Y0lMw=$@5(B
+$B!!!&C1IJ>\:Y8!:w>r7o$K%a!<%+!<!&%i%s%/!&HNGd%A%c%s%M%k!&HNGd4|4V$rDI2C$7$^$7$?!#(B
+$B!!(B
+$B"!!ZK\It![<h0zL@:Y=$@5(B
+$B!!!&E9J^;XDj$J$7!&E9JL%A%'%C%/$J$7$GCj=P$7$?:]$K(B
+$B!!!!A`:nF|IU=g$KJB$V$h$&$K=$@5$7$^$7$?!#(B
+$B!!(B
+$B"!!ZK\It!&E9J^![2A3J4IM}%i%s%/I=<(=g=x@_Dj5!G=DI2C-!(B
+$B!!-!2A3J4IM}%i%s%/L>>N%^%9%?$KI=<(=g=x$rDI2C$7$^$7$?!#(B
+$B!!-"E9F,=hM}%i%s%/Kh>pJsI=<(!&%i%s%/A*Br!&3F=hM}%i%s%/>r7o@_Dj;~$K(B
+$B!!!!I=<(=g=x=g$KJB$V$h$&$K$J$j$^$9!#(B
+$B!!(B
+$B"!CmJ80lMw=$@5(B
+$B!!!&%a%$%/%7%g%C%WCmJ8>&IJ$N7h:Q!&G[Aw6H<T$NJQ99$,9T$($J$+$C$?$?$a(B
+$B!!!!9T$($k$h$&$K=$@5$7$^$7$?!#(B
+
+$B!DEy!">\$7$/$O(BTALOS-NEX $B%*%s%i%$%s%^%K%e%"%k$r$4Mw$/$@$5$$!#(B
+
+
+$B(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(B
+2015.03.10 $B!Z=EMW$J$*CN$i$;![(B
+$B!X(BTALOS-R98$B!Y%5%]!<%H=*N;$N$40FFb(B
+$B(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(B
+$BGR7<!!;~2<1W!9$4@61I$N$3$H$H$*7D$S?=$7>e$2$^$9!#(B
+$BJ?AG$h$jJ@<R%7%9%F%`$r8fMxMQ$$$?$@$-!"8|$/8fNi?=$7>e$2$^$9!#(B
+
+$B$5$FD94|$K$o$?$j$40&8\$r;r$j$^$7$?!X(BTALOS-R98$B!Y$K$D$-$^$7$F!"(B
+$BHNGd=*N;$h$j(B10$BG/$,7P2a$7J]<i8r49ItIJ$ND4C#!&0BDj6!5kJB$S$K%5%]!<%HBP1~$,(B
+$B:$Fq$J>u67$H$J$j$^$7$?!#(B
+
+$B$h$C$F@?$K?=$7Lu$J$-;E57$G$O$4$6$$$^$9$,!"(B2015$BG/(B4$B7n(B30$BF|$r$b$A$^$7$F(B
+$BEEOC%5%]!<%H5Z$S@=IJJ]<i!"=$M}6HL3$r=*N;$5$;$F$$$?$@$-$^$9!#(B
+$B8=:_!X(BTALOS-R98$B!Y$r$4MxMQ$N$*5RMM$K$OBgJQ$4LBOG$r$*$+$1$$$?$7$^$9$,2?B4!"(B
+$B$4M}2r;r$j$^$9$h$&$h$m$7$/$*4j$$?=$7>e$2$^$9!#(B
+
+$BJ@<R$G$O:#8e$b$*5RMM$N%S%8%M%9$K$*LrN)$F$$$?$@$1$k$h$&!"$h$jNI$$%7%9%F%`!"(B
+$B%5!<%S%9$N$4Ds6!$rL\;X$7$F;2$j$^$9!#(B
+$B?7@=IJ$N>\:Y$K$D$-$^$7$F$OJ@<R%[!<%`%Z!<%8$^$?$O$*EEOC$K$F$*Ld$$9g$o$;(B
+$B$/$@$5$$!#(B
+
+$B$*5RMM$K$O!"$3$l$^$G$N$40&8\$K$*?<<U$9$k$H$H$b$K!":#8e$bJ@<R@=IJ$r(B
+$B$40&8\;r$j$^$9$h$&$h$m$7$/$*4j$$?=$7>e$2$^$9!#(B
+
+
+$B(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(B
+2015.03.30 $B%d%U%*%/(B!$B!&%"%^%>%s!&3ZE7;T>l$X0l3g=PIJ!&F1;~J;Gd!*(B
+$B$*5RMM$N@<!V%j%5%$%/%k%^!<%H$_$C$1GpE9MM!WF3F~;vNc$N$4>R2p(B
+$B(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(B
+$B%j%5%$%/%k%b!<%k$_$C$1GpE9MM$O?tG/A0$+$i<BE9J^$HJ#?t$N(BEC$B%5%$%H$G%j%5%$%/%k>&IJ$N(B
+$BHNGd$r9T$C$F$-$^$7$?$,!"E9J^1?1D$r%9%`!<%:$K$7!"%M%C%HDLHN$NGd>e%"%C%W$K9W8%$9$k(B
+$B>.GdE98~$1(BPOS$B%7%9%F%`!X(BTALOS-NEX($B%?%m%9%M%C%/%9(B)$B!Y$r?7$?$K:NMQ$9$k$3$H$G!"=gD4$K(B
+$BGd>e$r?-$P$7$F$$$^$9!#!X(BTALOS-NEX($B%?%m%9%M%C%/%9(B)$B!Y$r$I$N$h$&$K3hMQ$7$F$$$k$+(B
+$B$*;G$$$7$F$-$^$7$?!#(B
+
+$B%"%^%>%s!&%d%U%*%/(B!$B!&3ZE7;T>l!D<BE9J^$r1?1D$7$J$,$iJ#?t(BEC$B%b!<%k$X$NF1;~=PIJ$b(B
+$B9T$C$F$$$k!V$_$C$1MM!W$NF3F~;vNc$r!"J@<R(BWeb$B%5%$%H$K$F$<$R$4Mw$/$@$5$$!#(B
+$B!!"-"-"-"-"-(B
+https://www.cmedia.co.jp/example/introduction/micke.php
+$B!!",",",",",(B
+
+
+$B(!(!(!(!(!(!(!(!(!(!(!(!(B
+$B<!2s$N(BPOS$B%Q%C%1!<%899?7(B
+$B(!(!(!(!(!(!(!(!(!(!(!(!(B
+2015$BG/(B4$B7n2<=\:"$rM=Dj$7$F$*$j$^$9!#(B
+$B$=$NB>$4ITL@$JE@!&$4MWK>$O!"J@<R$^$G$4AjCL$/$@$5$$!#(B
+
+$B:G8e$^$G$*FI$_$$$?$@$-!"@?$K$"$j$,$H$&$4$6$$$^$7$?!#(B
+
+
+$B(!(!(!(!(!(!(!(!(!(!(!(!(!(B
+$B%j%j!<%9%K%e!<%9$NG[?.Dd;_(B
+$B(!(!(!(!(!(!(!(!(!(!(!(!(!(B
+$B$3$N%j%j!<%9%K%e!<%9$O!"0J2<$N$*5RMM$X$*Aw$j$7$F$*$j$^$9!#(B
+$B!!!&!V(BTALOS-NEX$B!W3F<o%Q%C%1!<%8$r8=:_$4MxMQ$NE9J^MM(B
+$B!!!&J@<R$H$*<h0z$N$"$k$*5RMM(B
+$B!!!&J@<R$X$*Ld$$9g$;$$$?$@$$$?:]$K!V%K%e!<%9G[?.!W$r4uK>$5$l$?$*5RMM(B
+
+$B$3$N%j%j!<%9%K%e!<%9$NG[?.Dd;_$r4uK>$5$l$kJ}$O!"$*<j?t$G$9$,(B
+$B$3$N%a!<%k$KBP$7$F$4JV?.$/$@$5$$!#(B
+$B!!!&!V08@h(B(To)$B!W$O(B pr@cmedia.co.jp (CSS$B1D6H%0%k!<%W(B $B9-Js(B)
+$B!!!&!V7oL>(B(Subject)$B!W$K!V%a%k%^%,ITMW!W$H$*=q$-$/$@$5$$!#(B
+
+
+$B$=$l$G$O!"$h$m$7$/$*4j$$$$$?$7$^$9!#(B
+-----------------------------------------------------------------
+$B%3%s%T%e!<%?%7%9%F%`%5!<%S%93t<02q<R!!1D6H%0%k!<%W(B
+$B")(B261-8501 $B@iMU8)@iMU;TH~IM6hCf@%(B1-3 $BKkD%%F%/%N%,!<%G%s(BCD$BEo(B 5F
+$B$*EEOC(B:043-296-2023 ($BJ?F|(B9:30$B!A(B18:00) FAX:043-296-2006
+$B9-Js%a!<%k(B:pr@cmedia.co.jp
+CSS$B%[!<%`%Z!<%8(B: https://www.cmedia.co.jp/
+-----------------------------------------------------------------
+$BJ@<R%7%9%F%`$N%H%i%V%k$O!V(BTALOS$B%5%]!<%H%;%s%?!<!W(B
+-----------------------------------------------------------------
+

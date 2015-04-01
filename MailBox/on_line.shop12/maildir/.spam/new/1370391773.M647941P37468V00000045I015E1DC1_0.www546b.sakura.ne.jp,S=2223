@@ -1,0 +1,42 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.0 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,SUBJECT_NEEDS_ENCODING,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_JP_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: tkdami.net]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: tkdami.net]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: tkdami.net]
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6032]
+	*  0.0 SUBJECT_NEEDS_ENCODING SUBJECT_NEEDS_ENCODING
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r550MoQa037462
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 5 Jun 2013 09:22:50 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:57600 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1370391770.16278
+Received: from 210.159.203.83 (PPPf33.oita-ip.dti.ne.jp [210.159.203.83])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r550MovX037458
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 5 Jun 2013 09:22:50 +0900 (JST)
+Date: Wed, 5 Jun 2013 09:22:50 +0900 (JST)
+Message-Id: <201306050022.r550MovX037458@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (zmuci@gate4india.com@31.44.29.71)
+	by 210.159.203.83 with ESMTPA; Wed, 5 Jun 2013 09:24:09 +0900
+X-Originating-IP: 31.44.29.71
+From: zmuci@gate4india.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Be ¹1 for your girlfriend
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 04062013 #10280749, status: clean
+
+http://www.spajderr.tkdami.net/develop.html Make your love long-lasting
+

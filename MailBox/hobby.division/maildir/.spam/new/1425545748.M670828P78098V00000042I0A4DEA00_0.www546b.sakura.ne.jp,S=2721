@@ -1,0 +1,52 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.7 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,MSGID_FROM_MTA_HEADER,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: besthealingelement.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: besthealingelement.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: besthealingelement.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: besthealingelement.ru]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: besthealingelement.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: besthealingelement.ru]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: besthealingelement.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t258thga078095
+	for <hobby.division@sportshobby.co.jp>; Thu, 5 Mar 2015 17:55:43 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Thu, 05 Mar 2015 17:55:43 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from 178-23-138-100.skif.net ([37.143.93.217])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t258tbhe078051
+	for <hobby.division@sportshobby.co.jp>; Thu, 5 Mar 2015 17:55:40 +0900 (JST)
+Date: Thu, 5 Mar 2015 17:55:37 +0900 (JST)
+Message-Id: <201503050855.t258tbhe078051@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (bvaughn@pensionlawyers.com@69.156.220.151)
+	by 37.143.93.217 with ESMTPA; Thu, 5 Mar 2015 11:56:24 +0300
+From: bvaughn@pensionlawyers.com
+To: hobby.division@sportshobby.co.jp
+Subject: Win your partner's interest
+
+http://finicky.besthealingelement.ru/ The first-rate method to gratify your partner
+

@@ -1,0 +1,89 @@
+Return-Path: <admin@mg-seolinkbuilding.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.8 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,PRICES_ARE_AFFORDABLE,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,SUBJ_BUY,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: mg-seomarketing.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: mg-seomarketing.com]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: mg-seolinkbuilding.com]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: mg-seolinkbuilding.com]
+	*  0.6 PRICES_ARE_AFFORDABLE BODY: Message says that prices aren't too
+	*      expensive
+	*  0.6 SUBJ_BUY Subject line starts with Buy or Buying
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r66D28ZO088584
+	for <hobby.division@sportshobby.co.jp>; Sat, 6 Jul 2013 22:02:08 +0900 (JST)
+	(envelope-from admin@mg-seolinkbuilding.com)
+X-Nat-Received: from [112.78.125.46]:59615 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1373115728.9082
+Received: from mg-seolinkbuilding.com ([128.134.37.115])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r66D25f2088572
+	for <hobby.division@sportshobby.co.jp>; Sat, 6 Jul 2013 22:02:07 +0900 (JST)
+	(envelope-from admin@mg-seolinkbuilding.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=mg-seolinkbuilding.com; s=key; h=From:To:Subject:MIME-Version:
+	Content-Type:Content-Transfer-Encoding; bh=DJyPNrj95gefbFR8ZFff2
+	wHSwg4=; b=pJr8crEE9L9uoNhnctqpQFhT4GFA7hPBn4LIbdYTdKBe96+oWLtH5
+	EH4n4WW2S9jD+yHJLeRUjGV/M6XRlBiv0P9pmmR6i7/PNH5h91UYkg8mseDUibxk
+	rhOEsMdPSPePEb6KkEYTVBGUV570wHB8hh3Kkp2ptHPJR7R36v6ie8=
+From: admin@mg-seolinkbuilding.com
+To: hobby.division@sportshobby.co.jp
+Subject: Buy Dofollow Backlinks
+Date: 06 Jul 2013 16:01:57 +0300
+Message-ID: <20130706160149.AD807F0EBAE63872@mg-seolinkbuilding.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06072013 #10516162, status: clean
+
+What makes this service better compared to other comment posting=20
+services?
+
+ - All links are DOFOLLOW
+ - Supports special chars like chinese, greek etc...
+ - Very detailed report
+ - Fast order delivery. 2-4 buisiness days
+ - Affordable prices
+ - No duplicate links.
+ - Overdelivery of min. 15%
+ - 100% Verified Live Links
+ - No Javascript Links
+ - Multi URL and Keyword support
+
+For Full Details please visit our website:
+http://www.mg-seomarketing.com/dofollow/
+
+
+
+
+
+
+
+
+
+http://www.mg-seomarketing.com/unsubscribe/
+
+

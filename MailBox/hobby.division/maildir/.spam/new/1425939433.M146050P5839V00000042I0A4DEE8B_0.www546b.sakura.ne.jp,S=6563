@@ -1,0 +1,174 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.9 required=7.0 tests=BAYES_50,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	XPRIO autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  1.9 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  1.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav205.sakura.ne.jp (fsav205.sakura.ne.jp [210.224.168.167])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t29MH93O005836
+	for <hobby.division@sportshobby.co.jp>; Tue, 10 Mar 2015 07:17:09 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav205.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp);
+ Tue, 10 Mar 2015 07:17:09 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t29MH94L005833
+	for <hobby.division@sportshobby.co.jp>; Tue, 10 Mar 2015 07:17:09 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIVo5ZjMwIVsbKEIyGyRCJEQkTiVXJWwlPCVzJUghIhsoQg==?=
+	=?iso-2022-jp?B?GyRCPHU8aCRqJEAkMSQqNGokJCQkJD8kNyReJDkhIxsoQg==?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Tue, 10 Mar 2015 07:17:09 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150309221709.5D5C141736@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11101
+━━━━━━━━━━━━━━━━━━━━━━━━
+お世話になっております。
+株式会社マルチノックスの高原直人です。
+
+
+紆余曲折あった私ですが、
+おかげさまで”せどり”で会社を設立することができました。
+
+感謝の気持ちを込めて手紙を書きましたので
+ぜひ受け取ってください。
+
+
+【300名様限定】1円もいただきません。毎月25万円を保証致します。
+
+⇒　http://agar-ex.jp/kldd28454/21101
+
+※ガチで手紙です。
+
+
+会社設立を記念しまして、
+2つのプレゼントを用意させていただきました。
+
+
+1つ目はAmazonの在庫切れ商品を
+1クリックでリスト化してくれる有料ツールです。
+
+在庫切れの商品はプレミア価格になりやすいので
+簡単に利益の取れる商品を見つけることが出来るようになります。
+
+※店舗に電話で問い合わせると効率的です。
+
+
+
+2つ目はせどりで0から月25万円を稼ぐノウハウです。
+
+せどりのメリット・デメリットから始まり、
+仕入れをする時に必要となるツールの話やツールの使い方、
+
+基準となるランキングの話などなど
+かなり具体的にノウハウの核心部分をお伝えしております。
+
+
+⇒　http://agar-ex.jp/kldd28454/31101
+
+
+一足先にノウハウを確認していただいた方から
+こんなメッセージを頂いております。
+
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+◆今回は久し振りに「ワクワク♪」しながら動画を見させて貰いました。
+
+◇特に副業で出来そうなところが気に入りました。
+
+◆非常に専門用語もなく、
+　せどりの“せ”位しか分からない私でも分かりやすい内容でした。
+
+◇おっしゃるとおり、負けない投資ですね。
+
+◆とてもわかりやすく、親しみやすい内容の動画で安心すると同時に、
+　やるぞーと意欲が沸いてきました。
+
+◇メリット、デメリットをあげている方は、いないのでは・・。
+　とても信頼できました。
+
+◆高原さんの話は現実的でせどりがそんなに難しくないという印象を受けました。 
+
+◇肩ひじ張らずに、せどりで成果を上げるというスタンス、いいですね。 
+
+◆高原さんの教えどおりにやれば誰にでも出来ると言う事に希望が持てます。
+
+◇現在副業を探している自分にとって、説得力があると感じました。
+
+◆とても分かりやすい内容で、見終わった時点で成功した気になってしまいました(笑) 
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+
+正直、かなり気合を入れて作成させていただきましたので
+役立つ情報になることはお約束させていただきます。
+
+
+ここで、高らかに宣言させていただきます。
+
+
+「1円もいただきません。毎月25万円を保証致します。」
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+⇒　http://agar-ex.jp/kldd28454/41101
+
+
+なお、有料ツールの配布は先着300名様となりますので
+枠が残っているうちにお受取りをお願いいたします。
+
+
+※フォーム送信後、すぐに動画を見ることができます。
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/51101
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

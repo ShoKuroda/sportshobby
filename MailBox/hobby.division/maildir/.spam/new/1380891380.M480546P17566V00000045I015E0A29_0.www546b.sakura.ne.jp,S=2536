@@ -1,0 +1,47 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.2 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO,URIBL_BLOCKED,
+	URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.3 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: yunuslarvinc.com.tr]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: yunuslarvinc.com.tr]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6991]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav55.sakura.ne.jp [219.94.192.135])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r94CuHVT017561
+	for <hobby.division@sportshobby.co.jp>; Fri, 4 Oct 2013 21:56:17 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:61110 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1380891377.4105
+Received: from 178.123.44.153 ([178.123.54.176])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r94CuED7017557
+	for <hobby.division@sportshobby.co.jp>; Fri, 4 Oct 2013 21:56:16 +0900 (JST)
+Date: Fri, 4 Oct 2013 21:56:14 +0900 (JST)
+Message-Id: <201310041256.r94CuED7017557@www546b.sakura.ne.jp>
+X-AntiVirus: Checked by Dr.Web [version: 7.0.4.09220, engine: 7.0.100.09170, virus records: 3565733, updated: 16.01.2013]
+Received: from unknown (HELO localhost) (grade@nahb.com@52.172.164.55)
+	by 178.123.54.176 with ESMTPA; Fri, 4 Oct 2013 09:39:02 +0400
+From: grade@nahb.com
+To: hobby.division@sportshobby.co.jp
+Subject: Give her better satisfaction
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 04102013 #11175149, status: clean
+
+All girls in town will go with u http://www.yunuslarvinc.com.tr/nearby.html
+

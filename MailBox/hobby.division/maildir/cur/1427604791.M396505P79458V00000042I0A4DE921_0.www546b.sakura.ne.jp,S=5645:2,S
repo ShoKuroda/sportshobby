@@ -1,0 +1,116 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.5 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,NORMAL_HTTP_TO_IP,TVD_RCVD_SPACE_BRACKET,TVD_SPACE_ENC_FM_MIME,
+	TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav403.sakura.ne.jp (fsav403.sakura.ne.jp [133.242.250.102])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2T4r7Qb079454
+	for <hobby.division@sportshobby.co.jp>; Sun, 29 Mar 2015 13:53:08 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav403.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav403.sakura.ne.jp);
+ Sun, 29 Mar 2015 13:53:07 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav403.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-208.smtp.rakuten.co.jp [202.72.58.208])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2T4r77l079451
+	for <hobby.division@sportshobby.co.jp>; Sun, 29 Mar 2015 13:53:07 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat106.prod.jp.local [100.66.16.55])
+	by mxmattx102z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lF4LC4WyKz692v
+	for <hobby.division@sportshobby.co.jp>; Sun, 29 Mar 2015 13:53:07 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427604787;
+	bh=bDwkAWFDprfMF5xY3QbI/vXMfOVGfAYLyFK4eeUzUQg=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=KLUxu1JyYsE26b1uNhh+n5icCzqSbC+2AnGBu40Z2IvCTv+RcoZUDQglz1sAIaO0z
+	 rc35XI4//KIZU3JIkkqlybYxiVR+kMbA8zgdwXP/0hpM8947GxrBYxLf2nku9U4ryy
+	 iOz5H0uqsu/Mtacu94VjmIdhrRJrkRTPXWCmUAgE=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat106.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2T4qdYh014868
+	for <hobby.division@sportshobby.co.jp>; Sun, 29 Mar 2015 13:53:07 +0900
+Received: from armsrb215c.ap.rakuten.co.jp ([armsrb215c.ap.rakuten.co.jp [172.28.246.145]]) by mat106.prod.jp.local with RELAY id t2T4r7vG015967 ;
+          Sun, 29 Mar 2015 13:53:07 +0900
+Date: Sun, 29 Mar 2015 13:53:07 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: cbb4e9e9965bbb8b8df0f01fec43b18fs1@pc.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503291353.t2T4r7vG015967@mat106.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwkRyQ5ISMbKEI=?=
+ =?iso-2022-jp?B?GyRCIVo3aDpRJSglaSE8JE4kNE8iTW0hWxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.246.145
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: 7FDB6E45B278795EED9FF013D9436FAF1CC85AC0
+
+----------------------------------------------------------------------
+このメールはお客様の注文に関する大切なメールです。
+お取引が完了するまで保存してください。
+----------------------------------------------------------------------
+
+福岡 一夫様
+
+スポーツホビーです。
+この度はご注文誠にありがとうございます。
+大変申し訳ございませんが、お客様のカードが「 取扱不可：(210G12) 」のためオーソリNGとなり、決済ができません。
+お手数をお掛け致しますが、下記の中からお選び頂きお返事頂きたいと思います。
+
+１：銀行振込みによるお支払に変更する
+２：代金引換によるお支払に変更する　＋代引手数料￥432
+３：注文全体のキャンセル
+４：クレジットカードの登録を変更する。
+
+★★　　楽天　お客様クレジット変更方法　　★★　
+
+変更の方法は、以下手順でご確認ください。
+
+【注文内容の変更・注文商品のキャンセルの方法】
+
+楽天市場のTOPページからMyRakutenにログイン
+ 　　↓
+ その中の[購入履歴]をクリック
+ 　　↓
+ 修正・キャンセルしたいお買い物の右上にある、
+ [>>履歴の詳細表示]をクリック
+ 　　↓
+ 修正・キャンセルが出来る注文の場合、ページの上または下に
+ [注文内容の変更・注文商品のキャンセルをする＞＞]ボタンがありますので、
+ こちらをクリック
+ 　　↓
+ 楽天会員様のIDとパスワードを要求されますので、
+ 入力してログイン
+ 　　↓
+ 変更したい項目の[変更する＞＞]ボタンをクリック
+
+修正後、[注文内容の変更を確認する＞＞]ボタンをクリック
+ 　　↓
+ 確認画面で確認していただいた後、
+ [注文内容の変更を上記で確定する]ボタンをクリック
+ 　　↓
+ 以上で終了です。
+ 以下のページにも手順がございますので、ご確認ください。
+ http://www.rakuten.co.jp/com/faq/myorder.html
+
+
+    -------------------------------------------------------
+    有限会社エスエッチケー
+    スポーツホビー
+    002-0861 北海道札幌市北区屯田１１条３−１−１３
+    (TEL) 011-773-5090
+    (URL) http://www.rakuten.co.jp/sportshobby/
+    黒田　陽子(hobby.division@sportshobby.co.jp)
+    
+
+────────── 【楽天市場からのお知らせ】 ──────────
+【3月30日（月）9：59まで ！】
+　年会費永年無料★楽天カード新規入会でもれなく8,000ポイントプレゼント！
+　　⇒ http://link.rakuten.co.jp/1/008/531/?url=2/831/68809/0/RC4 
+　楽天カードなら楽天市場でのお買い物はいつでも2倍★
+
+　楽天市場トップはこちら
+　　⇒ http://www.rakuten.co.jp/?l-id=top_091 
+──────────────────────────────────
+

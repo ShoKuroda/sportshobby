@@ -1,0 +1,138 @@
+Return-Path: <m-takahashi@miyazawamokei.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.6 required=7.0 tests=BAYES_00,HTML_MESSAGE,
+	TVD_SPACE_ENCODED,TVD_SPACE_ENC_FM_MIME,URIBL_BLOCKED autolearn=no
+	version=3.3.2
+Received: from fsav302.sakura.ne.jp (fsav302.sakura.ne.jp [153.120.85.133])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2K5meGV023368
+	for <hobby.division@sportshobby.co.jp>; Fri, 20 Mar 2015 14:48:40 +0900 (JST)
+	(envelope-from m-takahashi@miyazawamokei.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav302.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp);
+ Fri, 20 Mar 2015 14:48:40 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp)
+Received: from out10.sjc.mx.trendmicro.com (out10.sjc.mx.trendmicro.com [216.99.131.47])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2K5mdmq023361
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Fri, 20 Mar 2015 14:48:40 +0900 (JST)
+	(envelope-from m-takahashi@miyazawamokei.co.jp)
+Received: from relay10.sjc.mx.trendmicro.com (unknown [10.30.239.78])
+	by out10.sjc.mx.trendmicro.com (Postfix) with ESMTP id 23E6E9816B8
+	for <hobby.division@sportshobby.co.jp>; Fri, 20 Mar 2015 05:48:39 +0000 (UTC)
+Received: from miyazawamokei.co.jp (unknown [101.110.187.136])
+	by relay10.sjc.mx.trendmicro.com (Postfix) with ESMTP id 7E866980465
+	for <hobby.division@sportshobby.co.jp>; Fri, 20 Mar 2015 05:48:38 +0000 (UTC)
+Received: (qmail 7198 invoked by uid 15240); 20 Mar 2015 05:48:37 -0000
+Received: from unknown (HELO Takahashi) ([118.15.154.127])
+          (envelope-sender <m-takahashi@miyazawamokei.co.jp>)
+          by 101.110.187.136 (qmail-ldap-1.03) with SMTP
+          for <usami_h@netbeet.ne.jp>; 20 Mar 2015 05:48:37 -0000
+Message-ID: <944E885E5DCF42E9B3661A9C5D09103B@Takahashi>
+From: =?iso-2022-jp?B?GyRCNVxCdExPNz8bKEIoGyRCM3QbKEIpGyRCOyVLWkU5ISEbKEI=?=
+	=?iso-2022-jp?B?GyRCOWI2NiEhPjs5KBsoQg==?= <m-takahashi@miyazawamokei.co.jp>
+To: <Undisclosed-Recipient:;>
+Subject: =?iso-2022-jp?B?GyRCJT8lXyVkPzdAPUlKRn4yWUZ8N2hEaiROJCokNyRpJDsbKEI=?=
+Date: Fri, 20 Mar 2015 14:48:26 +0900
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0045_01D0631C.EC0132C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3508.205
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3508.205
+X-TM-AS-Product-Ver: IMHS-1.0.0.1437-7.0.0.1014-21410.004
+X-TM-AS-Result: No--12.8213-5.0-31-10
+X-TM-AS-Result-Detail: 
+	Spam:No-Score:-12.8213-Baseline:ModeratelyHigh-Other:Lowest
+X-TMASE-MatchedRID: 5jn1KsaTNISHnUr5Iu8/Gh5+URxv1WlBAQpJn9r1RZbKrWVPCnuKvP0X
+	QJzmdrG+FuZVUlwfDQ+But08N+4gA1ZZWJ6t4AQwfqIfEhWbG0uOlfTtHK5vJmXfLeZOmgDa4Bi
+	gfmZUcnPwGQzA/Zgo5oZcbSSZzX73n9mA2KTMo2TGTxRdMw+jgkcN1Z6QoAdUAMAjo+iybjPyl4
+	QnzdJv+dLGVrMFZnZFYGWaZMtJ/Consemdd/BZkOtUbJynd+wh8lDyoHH5XNEKaxG2skaEOq3Vv
+	sPxys3GM1++Yu0BEFU1UFB/k9E125CVta8P5co0gZR/DoVDwm6uotj9bXg+ONCyWjoYNsd6E95L
+	3EhG9g6gMFF9f8O+i0R8sZM9y4cmqGT2D5UTYjKPk4nuo8/DtxcJPHhQMe99OM7V70mPIejBbfR
+	UpU9mGS+FIQUegSfF0fiebP1FR5NynUnUcHJ8Li+PrAd8gbHJ9zmovpnnRWz5N0o2THGRZDApi0
+	hTr2bdw8tCK8xN/zkQCNG3JtkCz99faxl/I4mhngIgpj8eDcBpkajQR5gb3pacqsSFIP2Uiu7RX
+	/26yjZEjXc2rPDfwFiECgKJK2ISsjvNV98mpPOGCD5tcDnM2jFURzOr9yrgAG3jlPqovgF/ipGR
+	Va88kL8jw+q4ObKbIujnYK3tE2/qigXvTMs9CLhN+Mz5sSHLsV/qG5G2738=
+X-TM-Deliver-Signature: 0a0564505f951c17f8aaa2fd357c368c
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0045_01D0631C.EC0132C0
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: quoted-printable
+
+=1B$B$*<h0z@h!!3F0L=1B(B
+
+=1B$B$$$D$b$*@$OC$K$J$C$F$*$j$^$9!#5\BtLO7?$N9b66$G$9!#H/Gd$,CY1d$7$F$$$^=
+$7$?2<5-#2%"%$%F%`$NH/GdF|$,=1B(B
+=1B$B7hDj$$$?$7$^$7$?$N$G$*CN$i$;$$$?$7$^$9!#CY1d$K$h$k?tNL$NJQ99Ey$"$j$^=
+$7$?$i9b66$^$G$4O"Mm$/$@$5$$!#=1B(B
+
+56036=1B$B!!=1B(B1/16=1B$BN&>e<+1RBb!!=1B(B10=1B$B<0@o<V%U%k%*%Z%l!<%7%g%=
+s%;%C%H=1B(B
+
+45066=1B$B!!%V%i%7%l%9%(%l%/%H%m%K%C%/=1B(B =
+=1B$B%9%T!<%I%3%s%H%m!<%i!<=1B(B03 =1B$B%;%s%5!<IU=1B(B
+
+35344=1B$B!!=1B(B1/35 =1B$B%U%i%s%9Cf@o<V!!%=3D%_%e%"=1B(B S35
+
+=1B$B0J>e=1B(B3=1B$BE@$,=1B(B3=1B$B7n=1B(B26=1B$BF|!JLZ!K$K5\BtCeM=3DDj$G=
+$9!#$*BT$?$;$7$^$7$?!#=1B(B
+
+=1B$B$h$m$7$/$*4j$$$7$^$9!#=1B(B
+
+=1B$B!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z=1B(B
+=1B$B5\BtLO7?=1B(B(=1B$B3t=1B(B)=1B$B;%KZE9=1B(B
+=1B$B9b66!!>;9(=1B(B
+=1B$B")=1B(B003-0871
+=1B$BKL3$F;;%KZ;TGr@P6hJFN$#1>r#3CzL\=1B(B4-8
+TEL011-873-8351
+FAX011-873-8357
+mail:m-takahashi@miyazawamokei.co.jp=20
+=1B$B!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z=1B(B
+------=_NextPart_000_0045_01D0631C.EC0132C0
+Content-Type: text/html;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 10pt; FONT-FAMILY: 'Meiryo'; COLOR: #000000">
+<DIV>=1B$B$*<h0z@h!!3F0L=1B(B</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=1B$B$$$D$b$*@$OC$K$J$C$F$*$j$^$9!#5\BtLO7?$N9b66$G$9!#H/Gd$,CY1d$7$=
+F$$$^$7$?2<5-#2%"%$%F%`$NH/GdF|$,=1B(B</DIV>
+<DIV>=1B$B7hDj$$$?$7$^$7$?$N$G$*CN$i$;$$$?$7$^$9!#CY1d$K$h$k?tNL$NJQ99Ey$=
+"$j$^$7$?$i9b66$^$G$4O"Mm$/$@$5$$!#=1B(B</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>56036=1B$B!!=1B(B1/16=1B$BN&>e<+1RBb!!=1B(B10=1B$B<0@o<V%U%k%*%Z%l!<=
+%7%g%s%;%C%H=1B(B</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>45066=1B$B!!%V%i%7%l%9%(%l%/%H%m%K%C%/=1B(B =
+=1B$B%9%T!<%I%3%s%H%m!<%i!<=1B(B03 =1B$B%;%s%5!<IU=1B(B</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>35344=1B$B!!=1B(B1/35 =1B$B%U%i%s%9Cf@o<V!!%=3D%_%e%"=1B(B =
+S35</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=1B$B0J>e=1B(B3=1B$BE@$,=1B(B3=1B$B7n=1B(B26=1B$BF|!JLZ!K$K5\BtCeM=3D=
+Dj$G$9!#$*BT$?$;$7$^$7$?!#=1B(B</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=1B$B$h$m$7$/$*4j$$$7$^$9!#=1B(B</DIV>
+<DIV>&nbsp;</DIV>
+<DIV=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: 'Meiryo'; COLOR: =
+#000000">=1B$B!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z=1B(B<BR>=1B$B5\B=
+tLO7?=1B(B(=1B$B3t=1B(B)=1B$B;%KZE9=1B(B<BR>=1B$B9b66!!>;9(=1B(B<BR>=1B$B=
+")=1B(B003-0871<BR>=1B$BKL3$F;;%KZ;TGr@P6hJFN$#1>r#3CzL\=1B(B4-8<BR>TEL01=
+1-873-8351<BR>FAX011-873-8357<BR>mail:m-takahashi@miyazawamokei.co.jp=20
+<BR>=1B$B!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z!z=1B(B</DIV></DIV></DIV=
+></BODY></HTML>
+
+------=_NextPart_000_0045_01D0631C.EC0132C0--
+
+

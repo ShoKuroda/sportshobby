@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.6 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: svxoskid.be]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: svxoskid.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: svxoskid.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: svxoskid.be]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: svxoskid.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.7 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav201.sakura.ne.jp (fsav201.sakura.ne.jp [210.224.168.163])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0D9EWq7066991
+	for <hobby.division@sportshobby.co.jp>; Tue, 13 Jan 2015 18:14:32 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav201.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp);
+ Tue, 13 Jan 2015 18:14:32 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp)
+Received: from 217.166.83.216 (static.kpn.net [217.166.83.216] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t0D9ETDW066980
+	for <hobby.division@sportshobby.co.jp>; Tue, 13 Jan 2015 18:14:31 +0900 (JST)
+Date: Tue, 13 Jan 2015 18:14:29 +0900 (JST)
+Message-Id: <201501130914.t0D9ETDW066980@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (cleonard@e-technik.uni-rostock.de@208.153.103.144)
+	by 217.166.83.216 with ESMTPA; Tue, 13 Jan 2015 10:13:20 +0100
+From: cleonard@e-technik.uni-rostock.de
+To: hobby.division@sportshobby.co.jp
+Subject: Never disapoint your girl
+
+I dream you to stay vigorous http://minimize.svxoskid.be/
+

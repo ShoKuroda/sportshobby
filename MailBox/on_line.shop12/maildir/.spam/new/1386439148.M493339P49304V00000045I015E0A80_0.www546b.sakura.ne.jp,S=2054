@@ -1,0 +1,44 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.6 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	FS_LARGE_PERCENT2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,TO_NO_BRKTS_PCNT
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.0 FS_LARGE_PERCENT2 Larger than 100% in subj.
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4989]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.6 TO_NO_BRKTS_PCNT To: misformatted + percentage
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rB7Hx6ih049300
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 8 Dec 2013 02:59:06 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:55863 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1386439146.32192
+Received: from 89.20.125.87 (89.20.125.87.permonline.ru [89.20.125.87] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rB7Hx39a049177
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 8 Dec 2013 02:59:04 +0900 (JST)
+Date: Sun, 8 Dec 2013 02:59:03 +0900 (JST)
+Message-Id: <201312071759.rB7Hx39a049177@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (lkngcgucdd@ftstockton.net@87.216.87.25)
+	by 89.20.125.87 with ESMTPA; Sun, 8 Dec 2013 00:18:19 +0600
+X-Originating-IP: 87.216.87.25
+From: lkngcgucdd@ftstockton.net
+To: on_line.shop12@sportshobby.co.jp
+Subject: This Stock is our Next Potential 200% Gainer!
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 07122013 #7069019, status: clean
+
+It is very fast becoming one of our favourites! It is on HIGH 
+ALERT!!!
+
+Buy at: 0.014 (+16%)
+Trading Date: Mon, Dec 9, 2013
+Name: Registered Express Corporation
+Ticker: RG T-X
+
+It is very fast becoming one of our favourites! It is on HIGH 
+ALERT!!!
+

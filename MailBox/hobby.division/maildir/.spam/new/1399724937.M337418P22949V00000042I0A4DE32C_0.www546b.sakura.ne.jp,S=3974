@@ -1,0 +1,78 @@
+Return-Path: <fbiz0009@yahoo.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.5 required=7.0 tests=BAYES_50,DKIM_ADSP_CUSTOM_MED,
+	FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+	MIME_HTML_ONLY,MSGID_FROM_MTA_HEADER,NML_ADSP_CUSTOM_MED,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2 autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (fbiz0009[at]yahoo.co.jp)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (fbiz0009[at]yahoo.co.jp)
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s4ACSrk7022946
+	for <hobby.division@sportshobby.co.jp>; Sat, 10 May 2014 21:28:53 +0900 (JST)
+	(envelope-from fbiz0009@yahoo.co.jp)
+X-Nat-Received: from [112.78.125.46]:20856 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1399724933.5803
+Received: from server.m-tv.in (hosted-by.altushost.com [79.142.78.143] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s4ACSpgF022940
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-CAMELLIA256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Sat, 10 May 2014 21:28:53 +0900 (JST)
+	(envelope-from fbiz0009@yahoo.co.jp)
+Date: Sat, 10 May 2014 21:28:53 +0900 (JST)
+Message-Id: <201405101228.s4ACSpgF022940@www546b.sakura.ne.jp>
+Received: from [79.142.78.158] (port=59952 helo=79.142.78.158)
+	by server.m-tv.in with smtp (Exim 4.82)
+	(envelope-from <fbiz0009@yahoo.co.jp>)
+	id 1Wj6O3-0001mv-5p
+	for hobby.division@sportshobby.co.jp; Sat, 10 May 2014 21:28:19 +0900
+To: "hobby.division@sportshobby.co.jp
+ From": fbiz0009@yahoo.co.jp
+Subject: =?ISO-2022-JP?B?GyRCTDVOQSUyITwlYCRHTTckViRAJDEkR0toN24jM0t8MV8bKEI=?=
+MIME-Version: 
+Content-type: text/html; charset=utf-8
+To: "hobby.division@sportshobby.co.jp" <hobby.division@sportshobby.co.jp>
+From: =?ISO-2022-JP?B?GyRCOEVAJRsoQiAbJEI1V0h+O1IbKEI=?= <fbiz0009@yahoo.co.jp>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.m-tv.in
+X-AntiAbuse: Original Domain - sportshobby.co.jp
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - yahoo.co.jp
+X-Get-Message-Sender-Via: server.m-tv.in: acl_c_relayhosts_text_entry: |
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 10052014 #7880242, status: clean
+
+
+<Br><Br>無料のゲームで遊んで毎月３万稼げる<br />
+サイトが登場しました。<br />
+<br />
+http://web.m-tv.in/os.html<br />
+<br />
+このサイトでは無料のゲームで<br />
+貯めたポイントが豪華景品に<br />
+交換できるサイトです。<br />
+<br />
+何十個もゲームがあり、楽しみながら<br />
+稼ぐ事の出来るサイトです。<br />
+<br />
+http://web.m-tv.in/os.html<Br><Br>

@@ -1,0 +1,74 @@
+Return-Path: <service7@mx1.hxtradehx.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.8 required=7.0 tests=BAYES_50,
+	CHARSET_FARAWAY_HEADER,DATE_IN_PAST_06_12,DKIM_SIGNED,T_DKIM_INVALID,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: hxtradehx.com]
+	*  1.5 DATE_IN_PAST_06_12 Date: is 6 to 12 hours before Received: date
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: hxtradehx.com]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: hxtradehx.com]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4040]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2752TYS014425
+	for <hobby.division@sportshobby.co.jp>; Sat, 7 Mar 2015 14:02:31 +0900 (JST)
+	(envelope-from service7@mx1.hxtradehx.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Sat, 07 Mar 2015 14:02:29 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from mail.mx1.hxtradehx.com (perez.liwenqianboke.com [23.88.229.11] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2752T4d014421
+	for <hobby.division@sportshobby.co.jp>; Sat, 7 Mar 2015 14:02:29 +0900 (JST)
+	(envelope-from service7@mx1.hxtradehx.com)
+Message-Id: <201503070502.t2752T4d014421@www546b.sakura.ne.jp>
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx1.hxtradehx.com 3ACEC4EE3E2D
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mx1.hxtradehx.com;
+	s=mx1.hxtradehx; t=1425676285;
+	bh=YJnJnHqaywq+JAF3Np0EWxV5Mc5f+jmnFuXrKSB3x50=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=ETgYHHCk2G8bfVIpG+l9orGfWvomrcQtsGhyJzi26CqwFkW3CvM6e1dvAotkH26SY
+	 XIAE3v5iafTBNGZkBb2DykNbvV3Myn3hJEZhwQOJPOKEbldkRPBwtq2dk3iZIVXNdK
+	 CfUbUtmknsffd1l147KvQVE/Rph/mzrYoSVMRAfg=
+Date: Sat, 7 Mar 2015 05:11:17 +0800
+From: "Xian-Sita" <service7@mx1.hxtradehx.com>
+To: "hobby.division" <hobby.division@sportshobby.co.jp>
+Reply-To: <fddz65hf@yeah.net>
+Subject: =?GB2312?B?bm9uLWZlcnJvdXMgbWV0YWwgIHN1cHBsaWVy?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id t2752TYS014425
+
+
+Hello,
+
+We are engaged in non-ferrous metal materials with titanium as the core research and development, production and processing and sales of high-tech enterprises.
+
+If you are looking for titanium products, welcome to contact me.
+ 
+Our product ranges:
+titanium bar,titanium plate/sheet,titanium pipe/tube,titanium wire ,titanium screws/bolt/fastener,titanium filter,titanium ring,titanium part etc.
+
+Best & Rgds
+Tel: 029-86130088
+E-mail: xastlwj369@163.com
+Web: www.xastgs.com
+Xi'an SITA industrial Co., Ltd
+

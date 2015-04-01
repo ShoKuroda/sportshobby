@@ -1,0 +1,66 @@
+Return-Path: <B97BA2AA98@acetank.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.9 required=7.0 tests=BAYES_99,FSL_HELO_DEVICE,
+	FUZZY_CPILL,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	RISK_FREE,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: doctorfops.ru]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: doctorfops.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: doctorfops.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: doctorfops.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.8 FSL_HELO_DEVICE FSL_HELO_DEVICE
+	*  0.0 FUZZY_CPILL BODY: Attempt to obfuscate words in spam
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  3.7 RISK_FREE No risk!
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r2QNwtWL053014
+	for <hobby.division@sportshobby.co.jp>; Wed, 27 Mar 2013 08:58:55 +0900 (JST)
+	(envelope-from B97BA2AA98@acetank.com)
+X-Nat-Received: from [112.78.125.46]:49319 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1364342335.28405
+Received: from dsldevice.lan (dsl-189-153-47-47-dyn.prod-infinitum.com.mx [189.153.47.47] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r2QNwrtt053010
+	for <hobby.division@sportshobby.co.jp>; Wed, 27 Mar 2013 08:58:54 +0900 (JST)
+	(envelope-from B97BA2AA98@acetank.com)
+Message-ID: <20130326175854.D6C5BD508159877D7CFB4.D96C7@dsldevice.lan>
+Date: Tue, 26 Mar 2013 17:58:54 -0500
+From: "Support" <B97BA2AA98@acetank.com>
+To: <hobby.division@sportshobby.co.jp>
+Subject: Reminder: Lowest prices this week
+List-Unsubscribe: <mailto:unsubscribe-F83A81809D0@aiglons.ch>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 26032013 #9799821, status: clean
+
+Dear hobby.division,
+
+Just a friendly reminder for you to take a few minutes and buy some pills now.
+It's easy as 1-2-3. Also we guarantee lowest prices!
+
+Check this out:
+---------------
+* Proepcia only $0.35
+* Levtira only $1.52
+* Ciails only $1.57
+* Viagr only $0.57
+
+Best quality! 100% safe!
+
+Just click here to order http://sEm.doctorfops.ru/

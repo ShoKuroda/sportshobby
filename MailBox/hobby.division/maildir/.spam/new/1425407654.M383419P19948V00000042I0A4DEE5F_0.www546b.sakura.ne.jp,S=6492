@@ -1,0 +1,168 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.6 required=7.0 tests=BAYES_00,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	XPRIO autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.2 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  1.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav402.sakura.ne.jp (fsav402.sakura.ne.jp [133.242.250.101])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t23IYBZ8019945
+	for <hobby.division@sportshobby.co.jp>; Wed, 4 Mar 2015 03:34:11 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav402.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp);
+ Wed, 04 Mar 2015 03:34:11 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t23IYBFA019942
+	for <hobby.division@sportshobby.co.jp>; Wed, 4 Mar 2015 03:34:11 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIVo5ZjMwIVs9aTduJCskaSVRITwlSCRyPC0kYSQ/QGwbKEI=?=
+	=?iso-2022-jp?B?GyRCNkg8Z0lYJE5PQyEjGyhC?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Wed, 04 Mar 2015 03:34:11 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150303183411.245B8407CF@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11061
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+【1日5分〜15分の作業で月25万円の収入を得る方法を無料プレゼント中！】
+
+⇒ http://agar-ex.jp/kldd28454/21061
+
+
+お世話になります。高原直人です。
+
+2010年から”せどり”というビジネスを取り組んでいますが
+インターネットビジネス史上、これほど稼ぎやすいものは無いと断言することができます。
+
+数年前からの物販バブルのおかげで稼ぐためのノウハウやツールが揃い、
+全くの初心者でも実力者と同じ結果が出せるようになったからです。
+
+
+”古本せどり”のイメージが強い”せどり”ですが
+そのジャンルは多岐に渡ります。
+
+書籍、CD、DVD、ゲーム、おもちゃ、家電、フィギュア、キッチン用品などなど
+Amazonで売られているものの多くで利益を取ることができるのです。
+
+
+高原は古本せどりから始めたのですが、当時は悲惨な物でした。
+
+毎日朝から晩までブックオフを回って携帯をピコピコ…
+腱鞘炎になるまで本を抜き続けていました。
+
+
+次第に増えていくカラーボックス、発送に追われる毎日、
+仕入れに行き続けないと増えない収入。。。
+
+
+そんな状況を打破できたのは
+無限とも言える仕入先をゲットできたからです。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+スーパーやホームセンター、ディスカウントストア、家電量販店、
+リサイクルショップ、ドラックストア、コンビニなどなど
+
+日常生活で買い物をするついでの10分〜15分という時間で
+サクッと仕入れができるようになりました。
+
+
+いつでも・どこでも”せどり”ができるようになった高原は
+その手法を限られた人に教えました。
+
+
+その結果…
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+◆3人の子供がいる専業主婦　⇒　初月でパートを辞める
+
+◇うつ病を診断された24歳　⇒　会社をリストラして独立
+
+◆週休1日のサラリーマン　⇒　毎月25万円以上の副収入
+
+◇フルタイムで働くOL　⇒　毎月40万円以上の副収入
+
+◆他の手法での専業せどらー　⇒　2か月で月商が倍の400万円
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+などなど、驚くほど結果を出してくれました。
+
+
+今回お伝えするのは、彼らに教えた内容です。
+
+
+高原がどこで何を仕入れ、いくらになったのか？
+何で判断して仕入れを実行したのか？という部分はもちろん、
+仕入れ時に使うツールや仕入れ時のランキング基準も公開します。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+”せどり”は本当に驚くほど稼ぐやすいです。
+小さい結果だとしても、まずは成功体験を積んでください。
+
+
+今回のプレゼントを通じて、
+あなたには本気で月25万円を稼いでいただきます。
+
+
+⇒ http://agar-ex.jp/kldd28454/31061
+
+
+人数限定での先着特典もありますので、登録は今すぐどうぞ！
+
+
+※フォーム送信後、すぐにビデオを見ることができます。
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/41061
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

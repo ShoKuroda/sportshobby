@@ -1,0 +1,41 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.5 required=7.0 tests=BAYES_80,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_JP_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: tkdami.net]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: tkdami.net]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: tkdami.net]
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.9478]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r54JfhaN095332
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 5 Jun 2013 04:41:43 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:60638 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1370374903.18626
+Received: from 188.19.145.221 ([188.19.145.221])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r54JffUc095327
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 5 Jun 2013 04:41:41 +0900 (JST)
+Message-Id: <201306041941.r54JffUc095327@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (moiseev@interminerals.ru@83.29.103.163)
+	by 188.19.145.221 with ESMTPA; Wed, 5 Jun 2013 01:39:31 +0600
+X-Originating-IP: 83.29.103.163
+From: moiseev@interminerals.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: Do you need more strength?
+Date: Wed, 5 Jun 2013 01:34:56 +0600
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 04062013 #10277569, status: clean
+
+http://www.spajderr.tkdami.net/clay.html Find how to get enormous pleasance
+

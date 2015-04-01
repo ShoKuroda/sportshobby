@@ -1,0 +1,59 @@
+Return-Path: <dimir1@metroymcas.org>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.0 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_A7B9C,
+	BAYES_99,NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,STOX_REPLY_TYPE,STOX_REPLY_TYPE_WITHOUT_QUOTES,
+	URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9998]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: 219.198.196.116]
+	*  1.6 URIBL_SBL Contains an URL listed in the SBL blocklist
+	*      [URIs: 219.198.196.116]
+	*  0.4 STOX_REPLY_TYPE STOX_REPLY_TYPE
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.2 AXB_XMAILER_MIMEOLE_OL_A7B9C AXB_XMAILER_MIMEOLE_OL_A7B9C
+	*  1.8 STOX_REPLY_TYPE_WITHOUT_QUOTES STOX_REPLY_TYPE_WITHOUT_QUOTES
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r3HG73J7096318
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 18 Apr 2013 01:07:03 +0900 (JST)
+	(envelope-from dimir1@metroymcas.org)
+X-Nat-Received: from [112.78.125.46]:49230 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1366214823.24983
+Received: from 178.89.223.45 (178.89.223.45.megaline.telecom.kz [178.89.223.45] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r3HG6oR0096201
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 18 Apr 2013 01:07:01 +0900 (JST)
+	(envelope-from dimir1@metroymcas.org)
+Received: from unknown (HELO wo4) ([105.146.58.173])
+	by 178.89.223.45.megaline.telecom.kz with ESMTP; Wed, 17 Apr 2013 22:07:40 +0600
+Message-ID: <001301ce3b85$8d3eb7f0$69923aad@microsofeaa171wo4>
+From: "Isidore Bender" <dimir1@metroymcas.org>
+To: <on_line.shop12@sportshobby.co.jp>
+Subject: BREAKING - Boston Marathon Explosion
+Date: Wed, 17 Apr 2013 22:01:25 +0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 17042013 #9929603, status: clean
+
+http://219.198.196.116/news.html
+

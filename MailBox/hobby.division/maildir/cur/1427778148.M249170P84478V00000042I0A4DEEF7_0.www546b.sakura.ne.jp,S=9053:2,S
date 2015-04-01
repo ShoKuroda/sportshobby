@@ -1,0 +1,210 @@
+Return-Path: <rd-apex_rakuten_00310000002zs8SAAQ@rderr.tricorn.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.8 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,MSGID_FROM_MTA_HEADER,T_DKIM_INVALID,URIBL_BLOCKED autolearn=no
+	version=3.3.2
+Received: from fsav408.sakura.ne.jp (fsav408.sakura.ne.jp [133.242.250.107])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V52Oxn084469
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 14:02:24 +0900 (JST)
+	(envelope-from rd-apex_rakuten_00310000002zs8SAAQ@rderr.tricorn.net)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav408.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav408.sakura.ne.jp);
+ Tue, 31 Mar 2015 14:02:24 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav408.sakura.ne.jp)
+Received: from mtac10.tricorn.net (mtac10.tricorn.net [203.183.50.211])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V52OpI084466
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 14:02:24 +0900 (JST)
+	(envelope-from rd-apex_rakuten_00310000002zs8SAAQ@rderr.tricorn.net)
+Message-Id: <201503310502.t2V52OpI084466@www546b.sakura.ne.jp>
+Received: from localhost.localdomain (apex1.tricorn.net [202.218.77.194])
+	by mtac10.tricorn.net (Postfix) with ESMTP id 40CCF1080A15
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 14:02:24 +0900 (JST)
+DKIM-Signature: v=1;
+	a=rsa-sha256;
+	c=relaxed/simple;
+	s=tricorn20140129;
+	t=1427778144;
+	h=From:Subject:To;
+	d=mail.rakuten.com;
+	bh=J+0rdg/ghsInKcTCj7jKr2TAcsUhExHZHB0o0Bmczls=;
+	b=OnlLifXkgE+Mcs/SvLQo9cQcxoclgOV3cyn8sQbso4CocnhVGL2lXxzDFVErqfMV
+	61/iS0kC07iIvrOKR9mAd1X2PhqXOF/8r/sBD2/BJQoskz1XuQG07lniDP5i9/VF
+	eAYvDLxJ9qZKqoSbqhzgBA5Oh3K3Uhj75TtEi3Ib2Oh5jYaYMyI3CDlX2UmCQHnW
+	U4kabP2lYbrmWnZJE6uvOclp/6Qyoukvr11FOPGxPUgU88aOS2+N+sZudXFexLPC
+	zTZkTxCvw1l1Em/sYzQj+KC8sbybXz2M8Y3FfPSS0mlLk4w6nasxaheJWs01O6KG
+	AtUJ4ET3pJyxIyO9VWlgYA==
+From: =?ISO-2022-JP?B?GyRCM1pFNztUPmwbKEI=?= <support@mail.rakuten.com>
+To: hobby.division@sportshobby.co.jp
+Subject: =?ISO-2022-JP?B?GyRCIVozWkU3O1Q+bCFbIVpLXEZ8Okc9KkZ8IVsbKEIgGyRCTCQbKEI=?=
+ =?ISO-2022-JP?B?GyRCMnNFeiRORTlKXiQ1JF4kWBsoQiAgGyRCIXwbKEIgMjAxNQ==?=
+ =?ISO-2022-JP?B?GyRCRy8bKEIzGyRCN25FWSEhS35CLUVZJSIlcyUxITwlSCF8GyhCIA==?=
+ =?ISO-2022-JP?B?GyRCPWpNVzt+NFZMcxsoQjIbJEJKLBsoQg==?=
+Date: Tue, 31 Mar 2015 14:00:00 +0900
+X-Mailer: TRICORN AUTOBAHN FOR APPEXCHANGE 1.49 (20140430)
+X-Amnote: rakuten_a0n10000006nmoGAAQ_00310000002zs8SAAQ
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="c6afd14a4a8900a5be79b4cecf5208e8"
+
+This is a multi-part message in MIME format.
+
+
+--c6afd14a4a8900a5be79b4cecf5208e8
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+         【楽天市場】満足度アンケート　ご協力のお願い
+                            
+      　※3月31日(火)　13:00現在、ご回答を確認できない店舗さまへ
+　           お送りしております。
+ 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+
+スポーツホビー　 sportshobby 黒田　陽子　様 
+
+　お世話になっております、楽天市場です。 
+
+　いつも楽天市場をご利用いただき、ありがとうございます。    
+                   
+　より店舗さまのお役に立つ楽天市場となるよう、             
+　サービス向上・改善に関するご意見をいただければ幸いです。     
+                   
+　2分程でお答えいただける、簡単な選択形式のアンケートです。 
+　　※このアンケートは、3ヶ月ごとに皆様の満足度と
+　　ご意見をお伺いすることでサービス向上に反映いたします。
+
+
+　前回ご回答いただいている店舗さまも、
+　ご回答しそびれてしまった店舗さまも
+　ぜひ率直なご意見をお聞かせください。
+
+
+   ▼　アンケート入力画面 
+━━━━━━━━━━━━━━━━━━━━━
+http://sfml.jp/?c=1283124&o=00310000002zs8SAAQ&v=535ca91a
+━━━━━━━━━━━━━━━━━━━━━
+　　【実施期間】3月31日(火) 17:00まで
+
+
+※ RMSのログイン時にもアンケートのご案内をしております。
+
+　行き違いでご回答をいただいていた場合には、
+　なにとぞご容赦のほどお願い申し上げます。
+
+　過去、ご回答いただいた店舗さまにつきましては、
+　ご協力いただきありがとうございました。
+　
+　いただいたご意見から、以下のような機能改善を実現しました。
+　
+　今後もさらなる改善を検討していきますので、
+　ご回答・ご意見のほど、よろしくお願いします。
+
+
+　< ご意見をもとに改善されたRMS機能 >
+　　・登録、編集画面等への商品ページ設定用リンクの追加
+　　・注文確認メールへの納期情報反映
+　　・店舗別ポイント変倍期間設定可能期間の変更
+　　・レビューチェックツール　(レビューと注文番号紐付け機能)
+　　・商品別ポイント変倍の最大倍率変更　【2015年年内リリース予定】
+
+
+　お忙しい中おそれいりますが、
+　ご協力の程よろしくお願いいたします。
+　
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 楽天市場  http://sfml.jp/?c=1283125&o=00310000002zs8SAAQ&v=d3acbe05 
+ support@rakuten.co.jp 
+ 楽天株式会社 
+ 〒140-0002 東京都品川区東品川4-12-3 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+--c6afd14a4a8900a5be79b4cecf5208e8
+Content-Type: text/html; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+<FONT size="3"> 
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/> 
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/> 
+<FONT size="4"> 
+  <br/>　<b>　　【楽天市場】満足度アンケート　ご協力のお願い<br/></b>
+<FONT size="2"> 
+<br/>      　※3月31日(火)　13:00現在、ご回答を確認できない店舗さまへ <br/>
+　           お送りしております。<br/>
+ <br/><FONT size="3">
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/> 
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/> 
+ <br/> 
+スポーツホビー　<br/>
+ sportshobby 黒田　陽子　様 <br/>
+  <br/>
+  <br/>
+   
+  いつも楽天市場をご利用いただき、ありがとうございます。<br /> 
+<br /> 
+より店舗さまのお役に立つ楽天市場となるよう、<br /> 
+サービス向上・改善に関するご意見をいただければ幸いです。<br /> 
+<br /> <font color="red"> 
+<b>2分程でお答えいただける、簡単な選択形式のアンケートです。</b></font><br /> 
+<br /> 
+　　※このアンケートは、3ヶ月ごとに皆様の満足度とご意見をお伺いすることで<br /> 
+　　　サービス向上に反映いたします。<br /> 
+<br /> 
+前回ご回答いただいている店舗さまも、ご回答しそびれてしまった店舗さまも<br /> 
+ぜひ率直なご意見をお聞かせください。<br /> 
+<br /> 
+<br /> 
+    <font size="4"> <b>
+       ▼　アンケート入力画面 <br/>
+━━━━━━━━━━━━━━━━━━━━━<br/>
+https://rakuten.secure.force.com/CSSurvey<br/>
+━━━━━━━━━━━━━━━━━━━━━<br/>
+<font color="red">　　【実施期間】3月31日(火) 17:00まで<br/>
+</font>
+<br /> </b>
+<FONT size="2"> 
+  ※ RMSのログイン時にもアンケートのご案内をしております。<br/>
+　　行き違いでご回答をいただいていた場合には、<br/>
+　　なにとぞご容赦のほどお願い申し上げます。<br/>
+<FONT size="3"> 
+<br /> 
+過去、ご回答いただいた店舗さまにつきましては、<br/>
+ご協力いただきありがとうございました。<br /> 
+<br/>
+いただいたご意見から、以下のような機能改善を実現しました。<br /> 
+今後もさらなる改善を検討していきますので、<br/>
+ご回答・ご意見のほど、よろしくお願いします。<br /> 
+<br /> 
+<br /> 
+　< ご意見をもとに改善されたRMS機能 ><br />     
+　　・登録、編集画面等への商品ページ設定用リンクの追加<br /> 
+　　・注文確認メールへの納期情報反映<br /> 
+　　・店舗別ポイント変倍期間設定可能期間の変更<br /> 
+   　　・レビューチェックツール　(レビューと注文番号紐付け機能)　 <br />   
+<font color =#888888> 　　・商品別ポイント変倍の最大倍率変更　【2015年年内リリース予定】</font><br /> 
+<br /> 
+<br /> 
+<FONT size="3"> 
+お忙しい中おそれいりますが、<br /> 
+ご協力の程よろしくお願いいたします。<br /> 
+<br /> 
+   
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/>
+ 楽天市場  http://www.rakuten.co.jp/ <br/>
+ support@rakuten.co.jp <br/>
+ 楽天株式会社 <br/>
+ 〒140-0002 東京都品川区東品川4-12-3<br/> 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/><img src='http://sfml.jp/?c=1283126&o=00310000002zs8SAAQ&v=89cd8165' alt='' />
+
+
+--c6afd14a4a8900a5be79b4cecf5208e8--
+
+

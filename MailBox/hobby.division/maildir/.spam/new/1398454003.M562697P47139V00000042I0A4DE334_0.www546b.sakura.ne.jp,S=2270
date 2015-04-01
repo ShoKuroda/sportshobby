@@ -1,0 +1,43 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.2 required=7.0 tests=BAYES_60,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: cxupsjcb.eu]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: cxupsjcb.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: cxupsjcb.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: cxupsjcb.eu]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.7513]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: cxupsjcb.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s3PJQcw8047136
+	for <hobby.division@sportshobby.co.jp>; Sat, 26 Apr 2014 04:26:39 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:32249 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1398453998.23016
+Received: from 178.168.102.176 (178-168-102-176.starnet.md [178.168.102.176] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s3PJQZNn047130
+	for <hobby.division@sportshobby.co.jp>; Sat, 26 Apr 2014 04:26:37 +0900 (JST)
+Message-Id: <201404251926.s3PJQZNn047130@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (tanya.johnson@co.edu.yar.ru@26.70.69.235)
+	by 178.168.102.176 with ESMTPA; Fri, 25 Apr 2014 22:25:39 +0400
+From: tanya.johnson@co.edu.yar.ru
+To: hobby.division@sportshobby.co.jp
+Subject: Great site for your health needs
+Date: Fri, 25 Apr 2014 22:14:07 +0400
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 25042014 #7808228, status: clean
+
+For men who wish to act better in bed http://receiver.cxupsjcb.eu/
+

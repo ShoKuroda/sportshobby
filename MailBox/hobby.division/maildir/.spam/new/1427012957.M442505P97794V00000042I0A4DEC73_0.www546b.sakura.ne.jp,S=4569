@@ -1,0 +1,87 @@
+Return-Path: <privateprjec@yahoo.com.hk>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.2 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_95,DKIM_ADSP_CUSTOM_MED,FORGED_MUA_OUTLOOK,FREEMAIL_FROM,
+	FREEMAIL_REPLYTO,FREEMAIL_REPLYTO_END_DIGIT,FROM_MISSPACED,
+	FROM_MISSP_EH_MATCH,FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,
+	FROM_MISSP_TO_UNDISC,FROM_MISSP_XPRIO,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,
+	MSGID_FROM_MTA_HEADER,MSOE_MID_WRONG_CASE,NML_ADSP_CUSTOM_MED,
+	NSL_RCVD_HELO_USER,SUBJ_ALL_CAPS,T_FROM_MISSP_DKIM,T_HK_NAME_FM_DR
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  2.2 NSL_RCVD_HELO_USER Received from HELO User
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (privateprjec[at]yahoo.com.hk)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.5 SUBJ_ALL_CAPS Subject is all capitals
+	*  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+	*      (<privateprojec715[at]aol.com>
+	)
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9802]
+	*  0.0 T_HK_NAME_FM_DR T_HK_NAME_FM_DR
+	*  0.0 FROM_MISSP_XPRIO Misspaced FROM + X-Priority
+	*  0.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  1.4 FSL_NEW_HELO_USER Spam's using Helo and User
+	*  1.4 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  0.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  1.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  0.0 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+Received: from fsav304.sakura.ne.jp (fsav304.sakura.ne.jp [153.120.85.135])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2M8TEkC097789
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Mar 2015 17:29:14 +0900 (JST)
+	(envelope-from privateprjec@yahoo.com.hk)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav304.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp);
+ Sun, 22 Mar 2015 17:29:14 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp)
+Received: from mail.cicorpltd.com (mail.cicorpltd.com [198.1.89.212] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2M8TDBG097742
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-CAMELLIA256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Mar 2015 17:29:14 +0900 (JST)
+	(envelope-from privateprjec@yahoo.com.hk)
+Message-Id: <201503220829.t2M8TDBG097742@www546b.sakura.ne.jp>
+Received: from [64.106.186.57] (port=52575 helo=User)
+	by mail.cicorpltd.com with esmtpa (Exim 4.85)
+	(envelope-from <privateprjec@yahoo.com.hk>)
+	id 1YZbFb-0000IQ-Ft; Sun, 22 Mar 2015 08:28:51 +0000
+Reply-To: <privateprojec715@aol.com>
+From: "Dr. david Gomez"<privateprjec@yahoo.com.hk>
+Subject: HOW ARE YOU DOING TODAY?
+Date: Sun, 22 Mar 2015 04:28:52 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mail.cicorpltd.com
+X-AntiAbuse: Original Domain - sportshobby.co.jp
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - yahoo.com.hk
+X-Get-Message-Sender-Via: mail.cicorpltd.com: authenticated_id: p.projects@pruisecure932848427476426466642842842.net
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+To: undisclosed-recipients:;
+
+business proposal, I represent a client who has interest to do business relative and invest in your country through you.let me know what your response will be to an offer for this executive placement. I await your response via this email address: ( privateprojec919@aol.com )
+ 
+Sincerely yours,
+Dr. David Gomez

@@ -1,0 +1,52 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.6 required=7.0 tests=BAYES_60,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,
+	URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: lcrthovn.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: lcrthovn.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: lcrthovn.eu]
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: lcrthovn.eu]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: lcrthovn.eu]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.7950]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: lcrthovn.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav107.sakura.ne.jp [59.106.188.105])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5EIR4FY016183
+	for <hobby.division@sportshobby.co.jp>; Sun, 15 Jun 2014 03:27:05 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:21377 [ident-empty]
+	by ksav107.sakura.ad.jp with TPROXY id 1402770424.8847
+Received: from 37.45.167.158 ([37.45.167.158])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s5EIQtDl016167
+	for <hobby.division@sportshobby.co.jp>; Sun, 15 Jun 2014 03:26:56 +0900 (JST)
+Date: Sun, 15 Jun 2014 03:26:55 +0900 (JST)
+Message-Id: <201406141826.s5EIQtDl016167@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (scline@testo.at@240.143.126.96)
+	by 37.45.167.158 with ESMTPA; Sun, 15 Jun 2014 21:27:58 +0300
+X-Originating-IP: 240.143.126.96
+From: scline@testo.at
+To: hobby.division@sportshobby.co.jp
+Subject: Are you ready to amaze your girl this night?
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+Find the hottest solution to all your health needs http://blood.lcrthovn.eu/
+
+
+Sent from my iPhone
+

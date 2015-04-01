@@ -1,0 +1,105 @@
+Return-Path: <mevsxu@account.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.9 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_50,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+	FROM_MISSP_EH_MATCH,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,HTML_MESSAGE,
+	MIME_HTML_ONLY,MSOE_MID_WRONG_CASE,TO_NO_BRKTS_FROM_MSSP,TO_NO_BRKTS_MSFT,
+	T_FROM_MISSP_DKIM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  2.8 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  3.6 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  2.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  0.0 TO_NO_BRKTS_FROM_MSSP Multiple formatting errors
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  2.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  3.5 TO_NO_BRKTS_MSFT To: misformatted and supposed Microsoft tool
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r16MD5wg076989
+	for <hobby.division@sportshobby.co.jp>; Thu, 7 Feb 2013 07:13:06 +0900 (JST)
+	(envelope-from mevsxu@account.net)
+X-Nat-Received: from [112.78.125.46]:50676 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1360188785.17404
+Received: from eastrmfepo203.cox.net (eastrmfepo203.cox.net [68.230.241.218])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r16MD4pj076986
+	for <hobby.division@sportshobby.co.jp>; Thu, 7 Feb 2013 07:13:05 +0900 (JST)
+	(envelope-from mevsxu@account.net)
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.04.00 201-2260-137-20101110) with ESMTP
+          id <20130206221304.WMWI21186.eastrmfepo203.cox.net@eastrmimpo306>
+          for <hobby.division@sportshobby.co.jp>;
+          Wed, 6 Feb 2013 17:13:04 -0500
+Received: from logs ([70.168.177.67])
+	by eastrmimpo306 with cox
+	id xAD31k00Q1Tdwn201AD3Gc; Wed, 06 Feb 2013 17:13:04 -0500
+X-CT-Class: Bulk
+X-CT-Score: 5.00
+X-CT-RefID: str=0001.0A020202.5112D4D5.0065,ss=3,sh,re=0.000,fgs=16
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=Tv9kdUrh c=1 sm=1
+ a=0jvJLL7dfn5ClkBCCBG+kg==:17 a=F_tVIVSP6zsA:10 a=6IPDZiyR_fgA:10
+ a=nDOwLv4DKMQA:10 a=uJxzum9qAAAA:8 a=g-P3GAh1_rkA:10 a=pEFAp0ScAAAA:20
+ a=bCcMLVw9hv1UICFBo9sA:9 a=sOKxrc_Uve4A:10 a=_W_S_7VecoQA:10
+ a=tE10SEpaYVT20PtX:21 a=2CBr9vGIb-uA9SpT:21 a=e81DZoL9mnPGKZKd:21
+ a=0jvJLL7dfn5ClkBCCBG+kg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; auth=pass (LOGIN) smtp.auth=jeccles1@cox.net
+Reply-To: mevsxu@account.net
+From: Bank of Tokyo<mevsxu@account.net>
+To: mitsubishi@account.co.jp
+Subject: Security Measures
+Date: Wed, 6 Feb 2013 17:13:03 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="koi8-u"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20130206221304.WMWI21186.eastrmfepo203.cox.net@eastrmimpo306>
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06022013 #10076157, status: clean
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+Dear valued customer,</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+It has come to our attention that your Credit Card information needs to be reactivated as part of our continuing commitment</DIV>
+<DIV>
+to protect your card and to reduce the instance of fraud.</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Once you have reactivated your Credit Card records, your card service will not be interrupted and will continue as normal.</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+To reactivate your Credit Card click on the following link:</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Please <A href="http://users11.jabry.com/mitshu8559/uff/index.html"><FONT color=#0000FF><U>click here</U></FONT></A> to verify your identity</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Thank you.</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Copyright 2013 Bank of Tokyo - Mitsubishi UFJ,Ltd.All rights reserved.</DIV>
+</FONT>
+</BODY></HTML>

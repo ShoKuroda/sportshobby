@@ -1,0 +1,157 @@
+Return-Path: <melanie-hobby.division=sportshobby.co.jp@bullawlot.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.7 required=7.0 tests=BAYES_99,BAYES_999,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_ONLY_12,HTML_MESSAGE,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  2.1 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: bullawlot.com]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: bullawlot.com]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: bullawlot.com]
+Received: from fsav302.sakura.ne.jp (fsav302.sakura.ne.jp [153.120.85.133])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0L4bkYO005794
+	for <hobby.division@sportshobby.co.jp>; Wed, 21 Jan 2015 13:37:46 +0900 (JST)
+	(envelope-from melanie-hobby.division=sportshobby.co.jp@bullawlot.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav302.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp);
+ Wed, 21 Jan 2015 13:37:46 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp)
+Received: from mail.bullawlot.com (curricularizations.force-mighty.com [89.46.100.117] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0L4bjsW005785
+	for <hobby.division@sportshobby.co.jp>; Wed, 21 Jan 2015 13:37:46 +0900 (JST)
+	(envelope-from melanie-hobby.division=sportshobby.co.jp@bullawlot.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=bullawlot.com;
+ h=Mime-Version:Date:From:Subject:Message-ID:To:Content-Type; i=melanie@bullawlot.com;
+ bh=FaxjIarm5+lP6PLspfaPSO1QtbE=;
+ b=e0dpd3a1RjV6S2YhBdxMFVfvCSpONY2iNiWieHTBJybZK94qry4i34JT3ZVPSGr3B593eVPs4CaW
+   R/+aXzU5dY/w9AUxqeg0C3xmcwfwZ3Vi0BW1W1xt3NG1Yxnn+1SBv7WQJKNNMbxSBCuIZCKYkLEH
+   y2wEctENIcfYOLB7C50=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=bullawlot.com;
+ b=bhm38V9xQyqDkCyFbT6urAVQLYQ7oToh15YnyR2h00BcIU7YDctu7BptEYziM7LhruE+utlsh2X/
+   nGuvCr3uVk5TcTjtF/26ol9/NQFpDzmF9hUFdx22/1tv5FrdwbFOr0dbLUNg1NT51pWgTx9XJri4
+   FVa1/Op1W+zikq4Pnp4=;
+Mime-Version: 1.0
+Date: Wed, 21 Jan 2015 05:36:10 +0100
+From: Dan <melanie@bullawlot.com>
+Subject: =?UTF-8?B?VGhlcmUncy53YXkudG9vLm11Y2gudGVuc2lvbiE=?=
+Message-ID: <b4877fc84b639a5f78fe827f162e7122@bullawlot.com>
+To: <hobby.division@sportshobby.co.jp>
+Content-Type: multipart/alternative; boundary=b4877fc84b639a5f78fe827f162e7122
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/plain; charset=UTF-8
+
+Hi,
+
+Have you been watching the news? It looks like everything is just falling to pieces with the international community. 
+Things are seriously going sideways. That stuff in Ukraine? 
+You know what I think? I think we should make some quick cash and then get somewhere safe. 
+
+I found this:
+http://click.bullawlot.com/index.php?id=7568248&a=666610&b=3689&c=57
+
+Check it out. 
+
+Later dude. 
+Dan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our address is Tortola, Providence 1512, British Virgin Islands, 
+If you do not wish to receive future email, click here.
+http://click.bullawlot.com/index.php?o=2&a=666610&b=3689&c=57
+(You can also send your request to Customer Care at the street address above.) 
+
+--b4877fc84b639a5f78fe827f162e7122
+Content-Type:text/html; charset=UTF-8
+
+<html>
+<head></head>
+<body>
+Hi,<br>
+<br>
+Have you been watching the news? It looks like everything is just falling to pieces with the international community. <br>
+Things are seriously going sideways. That stuff in Ukraine? <br>
+You know what I think? I think we should make some quick cash and then get somewhere safe. <br>
+<br>
+I found <a href=http://click.bullawlot.com/index.php?id=7568248&a=666610&b=3689&c=57><b>THIS</b></a><br>
+<br>
+Check it out. <br>
+<br>
+Later dude. <br>
+Dan<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br <p> </p>
+<p> </p>
+<p>
+Our address is Tortola, Providence 1512, British Virgin Islands, <br>
+If you do not wish to receive future email, <a href="http://click.bullawlot.com/index.php?o=2&a=666610&b=3689&c=57" target="_blank">click here</a>.<br>
+(You can also send your request to Customer Care at the street address above.) </p>
+
+<img src="http://click.bullawlot.com/index.php?o=1&a=666610&b=3689&c=57" width="1" height="1" border="0" />
+</body>
+</html>
+
+
+--b4877fc84b639a5f78fe827f162e7122--

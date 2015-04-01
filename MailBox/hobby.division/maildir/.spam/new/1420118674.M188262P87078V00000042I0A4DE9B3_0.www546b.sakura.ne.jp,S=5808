@@ -1,0 +1,121 @@
+Return-Path: <monstermail@monsterslayer.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************************************************
+X-Spam-Status: Yes, score=53.8 required=7.0 tests=ADVANCE_FEE_3_NEW_MONEY,
+	AXB_XMAILER_MIMEOLE_OL_024C2,BAYES_95,DATE_IN_PAST_06_12,DEAR_SOMETHING,
+	FAKE_REPLY_C,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+	FORM_FRAUD_3,FREEMAIL_REPLYTO,FROM_MISSPACED,FROM_MISSP_EH_MATCH,
+	FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_PHISH,FROM_MISSP_REPLYTO,
+	FROM_MISSP_TO_UNDISC,FROM_MISSP_USER,FROM_MISSP_XPRIO,FSL_CTYPE_WIN1251,
+	FSL_NEW_HELO_USER,HTML_MESSAGE,LOTS_OF_MONEY,MIME_HTML_ONLY,MONEY_FORM_SHORT,
+	MONEY_FROM_MISSP,NSL_RCVD_FROM_USER,SUBJ_ALL_CAPS,T_FILL_THIS_FORM_SHORT,
+	T_FROM_MISSP_DKIM,URIBL_BLOCKED,XFER_LOTSA_MONEY,YOU_INHERIT autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  2.0 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+	*  4.1 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  3.6 NSL_RCVD_FROM_USER Received from User
+	*  1.5 DATE_IN_PAST_06_12 Date: is 6 to 12 hours before Received: date
+	*  1.5 SUBJ_ALL_CAPS Subject is all capitals
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: yahoo.com.hk]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9538]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.0 FROM_MISSP_XPRIO Misspaced FROM + X-Priority
+	*  2.9 YOU_INHERIT Discussing your inheritance
+	*  3.2 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  1.2 FSL_NEW_HELO_USER Spam's using Helo and User
+	*  1.2 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  3.7 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  0.5 FROM_MISSP_USER From misspaced, from "User"
+	*  1.5 FAKE_REPLY_C FAKE_REPLY_C
+	*  0.0 MONEY_FROM_MISSP Lots of money and misspaced From
+	*  2.6 FROM_MISSP_PHISH Malformed, claims to be from financial organization
+	*       - possible phish
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  3.9 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  0.0 FROM_MISSPACED From: missing whitespace
+	*  0.5 XFER_LOTSA_MONEY Transfer a lot of money
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  2.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  4.0 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+	*  0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal
+	*      information
+	*  1.2 MONEY_FORM_SHORT Lots of money if you fill out a short form
+	*  3.2 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	*  2.8 FORM_FRAUD_3 Fill a form and several fraud phrases
+Received: from fsav402.sakura.ne.jp (fsav402.sakura.ne.jp [133.242.250.101])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t01DOVCj087074
+	for <hobby.division@sportshobby.co.jp>; Thu, 1 Jan 2015 22:24:31 +0900 (JST)
+	(envelope-from monstermail@monsterslayer.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav402.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp);
+ Thu, 01 Jan 2015 22:24:31 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp)
+Received: from mail.doapark.com.tr (static-18-79-135-78.sadecehosting.net [78.135.79.18] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t01DOPWF087055
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Thu, 1 Jan 2015 22:24:29 +0900 (JST)
+	(envelope-from monstermail@monsterslayer.com)
+Received: from User ([202.62.17.74])
+        by mail.doapark.com.tr (IceWarp 10.3.5) with ASMTP id RAV07727;
+        Wed, 31 Dec 2014 16:16:27 +0200
+Reply-To: <barclaysbankpinvite@gmail.com>
+From: "Barclays Bank Plc invite"<monstermail@monsterslayer.com>
+Subject: RE: GOOD DAY  
+Date: Wed, 31 Dec 2014 21:15:55 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <15a7d124acc7394fbcef82494b3ad72e@monsterslayer.com>
+To: undisclosed-recipients:;
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+<B>Dear Sir/Madam,</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>How are you today? It has come to&nbsp; our notice that you have been spending a lot of funds to get your inheritance funds.</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>After our meeting we concluded that we have to pay you the Sum of $2.5m Preferred Payment Method (Check or ATM ) it will deliver at your door step.You are to contact us with the below information:(1)Name: (2)Address: (3)Mobile number: (4)and your Email (5)Nationality:</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>As soon as this is received by me, Your Check or A.T.M CARD will be posted to you. Contact through this Email:( dr.sandyjohn1@yahoo.com.hk )</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>Sincerely,</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>DR SANDY JOHN</B></DIV>
+<DIV>
+<B>Phone +6285813779331</B></DIV>
+<DIV>
+<B>Accountant General</B></DIV>
+<DIV>
+<B>Global Finance Security Company.</B></DIV>
+</FONT>
+</BODY></HTML>

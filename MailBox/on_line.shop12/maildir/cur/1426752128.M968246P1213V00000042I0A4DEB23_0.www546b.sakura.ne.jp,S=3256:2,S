@@ -1,0 +1,55 @@
+Return-Path: <order-confirm@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham
+	version=3.3.2
+Received: from fsav405.sakura.ne.jp (fsav405.sakura.ne.jp [133.242.250.104])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J826wg001209
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 17:02:07 +0900 (JST)
+	(envelope-from order-confirm@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav405.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp);
+ Thu, 19 Mar 2015 17:02:06 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-129.smtp.rakuten.co.jp [202.72.58.129])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J826uR001206
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 17:02:06 +0900 (JST)
+	(envelope-from order-confirm@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat103.prod.jp.local [100.66.16.46])
+	by mxmator104z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l710t4n8fz9cSK
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 17:02:06 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426752126;
+	bh=Sx8Fe+5mzyUDOGAD7LZfkI/M+gP/J+zzr4nUQdoFO6U=;
+	h=Date:Message-Id:Subject:From:Cc:To:Mime-Version:Content-type;
+	b=NCe1kJ9QJ5KvD/RFW4kGAi9BMGQpiaTrTN31pNSwdJFXqRguI54Cpv+6GvDTaWIFy
+	 Ta7gw/ANeSHFi0UZ43+K83Ku1kZyaU/AKRdAGWuihJKNxEiahQGzWjSycGaNuSoLTK
+	 vcBC9EFKf4V45tdugvtAKb4vIU1NNoBAxhNGn1IQ=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat103.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2J81mVg002224
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 17:02:06 +0900
+Received: from brms402c.db.rakuten.co.jp ([brms402c.db.rakuten.co.jp [172.28.1.202]]) by mat103.prod.jp.local with RELAY id t2J826j7006187 ;
+          Thu, 19 Mar 2015 17:02:06 +0900
+Date: Thu, 19 Mar 2015 17:02:06 +0900
+Message-Id: <201503191702.t2J826j7006187@mat103.db.rakuten.co.jp>
+Subject: =?ISO-2022-JP?B?GyRCIVozWkU3O1Q+bCFbQ21KOCRLNFgkOSRrJCpDTiRpJDsbKEI=?=
+From: order-confirm@rakuten.co.jp
+Cc: on_line.shop12@sportshobby.co.jp
+To: b45ed0b53e0717e967ca55bef46604b0s1@dm.fw.rakuten.ne.jp
+Mime-Version: 1.0
+Content-type: text/plain; charset=iso-2022-jp
+X-Rams-Source: 172.28.1.202
+X-Rams-Id: C767B05DABD9EB01AE9047B74A4DDE164C2E786F
+
+楽天市場です。
+以下のご注文について、ご利用の店舗にて「注文内容修正(送料の確定・変更、価格・個数・手数料の変更など)」されました。
+手続き後のご注文内容を下記に記載しておりますので、ご確認ください。
+注文番号:243411-20150318-0181359241
+※上記の番号にリンクが表示されている場合でもこのリンクから楽天市場やショップへのお問い合わせはできません。
+商品名:
+ＳＷＡＴ　ＳＹＳＴＥＭ　ＨＧ　ヘッドマスク　スケルトン（骸骨）　（ＳＨ−０３　ＳＫ） 
+合計:2109円
+ご利用店舗:スポーツホビー
+メールアドレス: hobby.division@sportshobby.co.jp
+ご不明な点がございましたら、ご利用の店舗まで直接お問い合わせください。

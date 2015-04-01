@@ -1,0 +1,45 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.1 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: diemdensaigon.vn]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6260]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: diemdensaigon.vn]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: diemdensaigon.vn]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: diemdensaigon.vn]
+	*  3.0 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: diemdensaigon.vn]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4N11TNw069048
+	for <hobby.division@sportshobby.co.jp>; Thu, 23 May 2013 10:01:29 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:61510 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1369270888.14335
+Received: from 178.127.31.150 ([178.127.31.150])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4N11Qf0069029
+	for <hobby.division@sportshobby.co.jp>; Thu, 23 May 2013 10:01:28 +0900 (JST)
+Message-Id: <201305230101.r4N11Qf0069029@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (shop@up.com@130.204.197.179)
+	by 178.127.31.150 with ESMTPA; Thu, 23 May 2013 04:02:40 +0200
+From: shop@up.com
+To: hobby.division@sportshobby.co.jp
+Subject: The great break-through in health science
+Date: Thu, 23 May 2013 04:00:51 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 22052013 #10100698, status: clean
+
+Grow to be the ladies' best lover http://www.diemdensaigon.vn/musical.html
+

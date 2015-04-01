@@ -1,0 +1,71 @@
+Return-Path: <service3@mx2.computertradee.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.2 required=7.0 tests=BAYES_50,
+	CHARSET_FARAWAY_HEADER,DEAR_FRIEND,DKIM_SIGNED,T_DKIM_INVALID,URIBL_BLOCKED,
+	URIBL_DBL_SPAM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: computertradee.com]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: computertradee.com]
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  2.6 DEAR_FRIEND BODY: Dear Friend? That's not very dear!
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sB71TOi5093046
+	for <hobby.division@sportshobby.co.jp>; Sun, 7 Dec 2014 10:29:24 +0900 (JST)
+	(envelope-from service3@mx2.computertradee.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Sun, 07 Dec 2014 10:29:24 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from mail.mx2.computertradee.com ( [198.98.114.162] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sB71TNC5093038
+	for <hobby.division@sportshobby.co.jp>; Sun, 7 Dec 2014 10:29:24 +0900 (JST)
+	(envelope-from service3@mx2.computertradee.com)
+Message-Id: <201412070129.sB71TNC5093038@www546b.sakura.ne.jp>
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx2.computertradee.com 0FAC618283A24
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+	d=mx2.computertradee.com; s=mx2.computertradee; t=1417909450;
+	bh=Ka29Ax/6oeaeF20vggoYzfPztNsLVwnz7majVL/kOrY=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=KX/mU8jX+G9l6yzIqHpy6U6ezeXx9CchoJXrq/KhYi5yYvdyFzas5NrGdx2Sv2pra
+	 Vd93+r6/7Sjz1xxSEHKAeVNm9TUvg4/OfpLYzWvJTDrmQ3TsJ8jY/wDhlroVL2R/FJ
+	 OWWl1ggE6OXdMjYXXtAhamUJ/09055nAZWoNcSsU=
+Date: Sun, 7 Dec 2014 07:44:01 +0800
+From: "Jojo" <service3@mx2.computertradee.com>
+To: "info" <info@ariotik.ir>
+Reply-To: <huixinsoft67@foxmail.com>
+Subject: =?GB2312?B?UmU6IGVucXVpcnkgIGZvciBJR05JVElPTiBDT0lMUw==?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id sB71TOi5093046
+
+Dear Friend,
+
+We are specialized in IGNITION COIL .
+
+If you are looking for any IGNITION COILS,welcome to contact me ,
+
+I believe we will bring you success in your business with our fast delivery & high quality & competitive price !
+
+Best regards 
+jojo.c
+
+mobile: 86-13780125908
+skype: weida.ruian
+qianchi road,xinhua dist ,tangxia baotian town, ruian city ,zhejiang pr.,325204,china
+

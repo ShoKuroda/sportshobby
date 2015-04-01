@@ -1,0 +1,48 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.4 required=7.0 tests=BAYES_95,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_SBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  1.3 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: eadamfec.eu]
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9501]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s3JLcLDF000494
+	for <hobby.division@sportshobby.co.jp>; Sun, 20 Apr 2014 06:38:21 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:64527 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1397943501.22693
+Received: from 91.204.60.25 (91.204.60.025.cn.zp.ua [91.204.60.25] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s3JLblVw000451
+	for <hobby.division@sportshobby.co.jp>; Sun, 20 Apr 2014 06:37:49 +0900 (JST)
+Message-Id: <201404192137.s3JLblVw000451@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (okgcompito@saintxfac.com@151.159.71.75)
+	by 91.204.60.25 with ESMTPA; Sun, 20 Apr 2014 01:41:43 +0300
+From: okgcompito@saintxfac.com
+To: hobby.division@sportshobby.co.jp
+Subject: Give to your babe fun
+Date: Sun, 20 Apr 2014 01:35:35 +0300
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 19042014 #7802830, status: clean
+
+http://specialist.eadamfec.eu/ Keep your loved one chuffed this night
+

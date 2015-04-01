@@ -1,0 +1,52 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.2 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,
+	RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,
+	URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: ruaohjji.be]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: ruaohjji.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: ruaohjji.be]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: ruaohjji.be]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: ruaohjji.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1LIfnO9035587
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Feb 2015 03:41:49 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Sun, 22 Feb 2015 03:41:49 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from 82.102.93.194 ([213.207.130.202])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t1LIfbAW035555
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Feb 2015 03:41:47 +0900 (JST)
+Date: Sun, 22 Feb 2015 03:41:37 +0900 (JST)
+Message-Id: <201502211841.t1LIfbAW035555@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (cindy@city.woodstock.on.ca@99.223.73.68)
+	by 82.102.93.194 with ESMTPA; Sat, 21 Feb 2015 20:43:23 +0200
+X-Originating-IP: 99.223.73.68
+From: cindy@city.woodstock.on.ca
+To: hobby.division@sportshobby.co.jp
+Subject: Best method to turn her on
+
+Do you desire to surprise your gf tonight? http://terrible.ruaohjji.be/
+

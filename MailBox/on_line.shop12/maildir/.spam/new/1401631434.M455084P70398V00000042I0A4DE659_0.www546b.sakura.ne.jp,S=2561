@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.5 required=7.0 tests=BAYES_99,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: rlalyjpg.in]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9973]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: rlalyjpg.in]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: rlalyjpg.in]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: rlalyjpg.in]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: rlalyjpg.in]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s51E3oUr070394
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 1 Jun 2014 23:03:50 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:16891 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1401631430.4680
+Received: from 176.194.71.54 (ip-176-194-71-54.bb.netbynet.ru [176.194.71.54] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s51E3kZ8070373
+	for <on_line.shop12@sportshobby.co.jp>; Sun, 1 Jun 2014 23:03:48 +0900 (JST)
+Message-Id: <201406011403.s51E3kZ8070373@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (anthony@gt.spb.ru@82.57.73.118)
+	by 176.194.71.54 with ESMTPA; Sun, 1 Jun 2014 18:04:19 +0400
+From: anthony@gt.spb.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: Do you wish to amaze your loved one tonight?
+Date: Sun, 1 Jun 2014 17:56:15 +0400
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 01062014 #8102735, status: clean
+
+Ensure more vigor http://ah.rlalyjpg.in/
+

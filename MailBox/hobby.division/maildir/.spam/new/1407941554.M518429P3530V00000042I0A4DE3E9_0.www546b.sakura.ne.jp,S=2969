@@ -1,0 +1,65 @@
+Return-Path: <mdbd@zov.org>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=8.0 required=7.0 tests=BAYES_60,DATE_IN_FUTURE_12_24,
+	FSL_HELO_BARE_IP_2,HTML_MESSAGE,MIME_HTML_MOSTLY,NO_DNS_FOR_FROM,
+	RCVD_NUMERIC_HELO autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 NO_DNS_FOR_FROM RBL: Envelope sender has no MX or A DNS records
+	*  3.2 DATE_IN_FUTURE_12_24 Date: is 12 to 24 hours after Received: date
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.7822]
+	*  0.4 MIME_HTML_MOSTLY BODY: Multipart message mostly text/html MIME
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s7DEqV8K003526
+	for <hobby.division@sportshobby.co.jp>; Wed, 13 Aug 2014 23:52:31 +0900 (JST)
+	(envelope-from mdbd@zov.org)
+Received: from 112.78.125.46 (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Wed, 13 Aug 2014 23:52:31 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from zov.org ([111.176.77.114])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s7DEqTS4003514
+	for <hobby.division@sportshobby.co.jp>; Wed, 13 Aug 2014 23:52:30 +0900 (JST)
+	(envelope-from mdbd@zov.org)
+Message-ID: <647CFBE5C4A647DB4C4CCE08634EEAFC@zov.org>
+From: =?utf-8?B?5Zu95a2s?= <mdbd@zov.org>
+To: <hobby.division@sportshobby.co.jp>
+Subject: =?utf-8?B?5oS/5b6X5LiA5Lq65b+DLOeZvemmluS4jeebuOemuw==?=
+Date: Thu, 14 Aug 2014 22:48:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_093D_018F30B8.19A2D8F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_093D_018F30B8.19A2D8F0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+IA==
+------=_NextPart_000_093D_018F30B8.19A2D8F0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgaHR0cC1lcXVpdj1Db250ZW50LVR5cGUgY29udGVu
+dD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA2LjAw
+LjI5MDAuNjQ1MiIgbmFtZT1HRU5FUkFUT1I+PC9IRUFEPg0KPEJPRFk+PElOUFVUIGlkPTJkN2du
+ZHJrIHR5cGU9aW1hZ2Ugc3JjPSJodHRwOi8vaW1nMDcudGFvYmFvY2RuLmNvbS9pbWdleHRyYS/p
+gY3muYPku5TomY7mipXoooXngrzpl7jljoTnoILmnrjogZrphZcvdmphZ2x2MTIyeWRkb3JqNjY4
+eHp4Y25uODM2L1RCMmhwVFhhWFhYWFhjMVhYWFhYWFhYWFhYWF8hITE2MzU3MjkxNjguanBnIiBh
+bGlnbj1iYXNlbGluZSANCmJvcmRlcj0wPiA8L0JPRFk+PC9IVE1MPg0K
+
+------=_NextPart_000_093D_018F30B8.19A2D8F0--
+

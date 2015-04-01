@@ -1,0 +1,212 @@
+Return-Path: <fcbupdate5@hotmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************************************************
+X-Spam-Status: Yes, score=52.2 required=7.0 tests=ADVANCE_FEE_2_NEW_FRM_MNY,
+	ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_FORM,ADVANCE_FEE_3_NEW_FRM_MNY,
+	ADVANCE_FEE_3_NEW_MONEY,ADVANCE_FEE_4_NEW,ADVANCE_FEE_4_NEW_FORM,
+	ADVANCE_FEE_4_NEW_FRM_MNY,ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,
+	ADVANCE_FEE_5_NEW_FORM,ADVANCE_FEE_5_NEW_FRM_MNY,ADVANCE_FEE_5_NEW_MONEY,
+	AXB_XMAILER_MIMEOLE_OL_024C2,BAYES_50,DEAR_BENEFICIARY,FBI_MONEY,FBI_SPOOF,
+	FILL_THIS_FORM,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+	FORM_FRAUD_3,FORM_FRAUD_5,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,
+	FROM_MISSPACED,FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,
+	FROM_MISSP_USER,FROM_MISSP_XPRIO,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,
+	HTML_MESSAGE,LOTS_OF_MONEY,MALFORMED_FREEMAIL,MILLION_USD,MIME_HTML_ONLY,
+	MISSING_HEADERS,MONEY_FORM,MONEY_FRAUD_3,MONEY_FRAUD_5,MONEY_FROM_41,
+	MONEY_FROM_MISSP,NSL_RCVD_FROM_USER,REPLYTO_WITHOUT_TO_CC,SUBJ_ALL_CAPS,
+	TO_NO_BRKTS_FROM_MSSP,TO_NO_BRKTS_MSFT,T_FROM_MISSP_DKIM,URG_BIZ,
+	URIBL_BLOCKED,US_DOLLARS_3 autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: qq.com]
+	*  3.0 DEAR_BENEFICIARY BODY: Dear Beneficiary:
+	*  3.2 MILLION_USD BODY: Talks about millions of dollars
+	*  0.6 URG_BIZ BODY: Contains urgent matter
+	*  0.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  0.0 NSL_RCVD_FROM_USER Received from User
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (fcbupdate5[at]hotmail.com)
+	*  1.5 SUBJ_ALL_CAPS Subject is all capitals
+	*  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (fcbupdate5[at]hotmail.com)
+	*  1.0 MISSING_HEADERS Missing To: header
+	*  1.8 US_DOLLARS_3 BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  1.5 MALFORMED_FREEMAIL Bad headers on message from free email service
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.0 FROM_MISSP_XPRIO Misspaced FROM + X-Priority
+	*  1.6 REPLYTO_WITHOUT_TO_CC REPLYTO_WITHOUT_TO_CC
+	*  0.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  0.7 FSL_NEW_HELO_USER Spam's using Helo and User
+	*  0.0 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  0.0 FROM_MISSP_USER From misspaced, from "User"
+	*  2.0 FBI_SPOOF Claims to be FBI, but not from FBI domain
+	*  0.0 MONEY_FROM_MISSP Lots of money and misspaced From
+	*  0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  0.7 TO_NO_BRKTS_FROM_MSSP Multiple formatting errors
+	*  0.0 FROM_MISSPACED From: missing whitespace
+	*  1.6 FBI_MONEY The FBI wants to give you lots of money?
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  2.0 MONEY_FROM_41 Lots of money from Africa
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  0.0 FILL_THIS_FORM Fill in a form with personal information
+	*  2.5 TO_NO_BRKTS_MSFT To: misformatted and supposed Microsoft tool
+	*  0.0 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+	*  1.4 MONEY_FORM Lots of money if you fill out a form
+	*  1.6 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.0 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.0 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  0.0 FORM_FRAUD_5 Fill a form and many fraud phrases
+	*  1.7 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  4.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+	*  2.4 FORM_FRAUD_3 Fill a form and several fraud phrases
+	*  3.1 ADVANCE_FEE_4_NEW_FRM_MNY Advance Fee fraud form and lots of money
+	*  0.0 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	*  2.5 ADVANCE_FEE_4_NEW_FORM Advance Fee fraud and a form
+	*  0.0 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	*  1.8 ADVANCE_FEE_5_NEW_FORM Advance Fee fraud and a form
+	*  2.1 ADVANCE_FEE_5_NEW_FRM_MNY Advance Fee fraud form and lots of money
+	*  0.9 ADVANCE_FEE_3_NEW_FORM Advance Fee fraud and a form
+	*  1.7 ADVANCE_FEE_2_NEW_FRM_MNY Advance Fee fraud form and lots of money
+	*  1.5 ADVANCE_FEE_3_NEW_FRM_MNY Advance Fee fraud form and lots of money
+	*  0.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+Received: from fsav303.sakura.ne.jp (fsav303.sakura.ne.jp [153.120.85.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s8LKF9jO026048
+	for <hobby.division@sportshobby.co.jp>; Mon, 22 Sep 2014 05:15:10 +0900 (JST)
+	(envelope-from fcbupdate5@hotmail.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav303.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp);
+ Mon, 22 Sep 2014 05:15:09 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp)
+Received: from posta.westec.it (254.43.168.109.dsl.static.ip.kpnqwest.it [109.168.43.254])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s8LKF8lv026043
+	for <hobby.division@sportshobby.co.jp>; Mon, 22 Sep 2014 05:15:09 +0900 (JST)
+	(envelope-from fcbupdate5@hotmail.com)
+Received: from User ([41.138.186.15]) by posta.westec.it with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sun, 21 Sep 2014 08:35:55 +0200
+Reply-To: <federalbureauofinvestigation0202@ovi.com>
+From: "FEDERAL BUREAU OF INVESTIGATION"<fcbupdate5@hotmail.com>
+Subject: CONTACT THE BANK NOW FOR MORE CLEARIFICATIONS..
+Date: Sat, 20 Sep 2014 23:35:54 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Antivirus: avast! (VPS 110323-1, 03/23/2011), Outbound message
+X-Antivirus-Status: Clean
+Bcc:
+Message-ID: <W3SERVERQOuE3chAHre000026eb@posta.westec.it>
+X-OriginalArrivalTime: 21 Sep 2014 06:35:56.0086 (UTC) FILETIME=[4C520D60:01CFD566]
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+<B>JAMES B. COMEY, JR</B></DIV>
+<DIV>
+<B>EXECUTIVE DIRECTOR FBI.</B></DIV>
+<DIV>
+<B>FEDERAL BUREAU OF INVESTIGATION FBI.WASHINGTON D.C.</B></DIV>
+<DIV>
+<B>FEDERAL BUREAU OF INVESTIGATION SEEKING TO WIRETAP INTERNET.</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>ATTENTION: BENEFICIARY,</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>The Federal Bureau of Investigation (FBI) in conjunction with other relevant Investigation Agencies here in the State have been informed through our Global intelligence monitoring network that you have an on-going transaction with the Central Bank of Nigeria (CBN) as regard to your over-due contract payment which was fully endorsed in your favour. It might interest you to know that we have taken time in screening through this project as stipulated on our protocol of operation and have finally confirmed that your contract payment is 100% genuine and hitch free from all facet and of which you have the lawful right to claim without any further delay. We will further advise that you go ahead and deal with the governor office of Central Bank of Nigeria (CBN) accordingly as we will be monitoring all their correspondence with you.</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>In addition, also be informed that we recently had a meeting with the Executive Governor of the Central Bank of Nigeria, in the person of Mr Godwin Emefiele and Mr. Paul Jones along with some of the top officials of the ministry regarding your case and they made us to understand that your file has been held in abase depending on when you personally apply for the claim. They also told us that the only problem they are facing right now is that some unscrupulous element are using this project as an avenue to scam innocent people off their hard earned money by impersonating the Executive Governor and the Central Bank office. We were also made to understand that a lady with name of Mrs. Joan C. Bailey from OHIO has already contacted them and also presented to them all the necessary documentations evidencing your claim purported to have been signed personally by you prior to the release of your contract fund valued at about US$18,000,000.00 (Eighteen million united states dollars).</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>More so, we were advised to warn our dear citizens who must have been informed of their contract payment from the Central Bank of Nigeria, to be very careful prior to the on-going internet irregularities, so that they would not fall victim of ugly circumstances. In case they are already dealing with anybody or office from the Central Bank of Nigeria are strictly advised to STOP further communication with them in their best interest and thereby contact the real office of Central Bank of Nigeria (CBN) via the below information:</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>WOOD FOREST NATIONAL BANK</B></DIV>
+<DIV>
+<B>CONTACT PERSON MR TIMOTHY HICKS</B></DIV>
+<DIV>
+<B>Email: 201399022@qq.com</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>NOTE: In your best interest, you should ignore any message that does not come from the above email address and phone number for security reasons. Meanwhile, you are hereby advised to contact the Governor of the Central Bank of Nigeria via above details immediately and request for instant attention to your payment files as directed herein, so as to enable you receive your contract fund accordingly.</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>To enable them attend to your payment files, you are required to reconfirm and authenticate your personal data/particulars as listed below for onward processing and release of you fund as we will not be held liable for any wrong payment.</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>FULL NAMES: __________________________________</B></DIV>
+<DIV>
+<B>CITY: _________________________</B></DIV>
+<DIV>
+<B>STATE: __________________________________</B></DIV>
+<DIV>
+<B>ZIP: ______________</B></DIV>
+<DIV>
+<B>COUNTRY________________________________</B></DIV>
+<DIV>
+<B>SEX: _______________</B></DIV>
+<DIV>
+<B>AGE: __________________</B></DIV>
+<DIV>
+<B>TELEPHONE NUMBER: _____________________</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>Ensure you follow all due process as required by Governor of the Central Bank of Nigeria in order to hasten up the whole procedures of your fund transfer to your designated account. Bear in mind, that the Central Bank of Nigeria equally has an operational operandi (payment protocol) in line with international banking policy. So, you should adhere to avoid any delay which maybe detriment your fund transfer.</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>Once again, we hereby advise you to contact them via the above email address and make sure you forward to them all the necessary information which they may require from you prior to the release of your fund to you. All modalities have already been worked out and we will be monitoring all your dealings with the CBN’s governor in respect to your fund transfer. Thus, you have nothing to worry about as far as we, the FBI is concerned.</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>Henceforth, you should always update us as to enable us be on track with you and the Central Bank of Nigeria. Finally, we want you to contact them immediately via the above email address so as to enable them attend to your case accordingly without any further delay as time is already running out. Should you need more information(s) in regard to this notification, feel free to get back to us on this email address so that we can put you through and as well guide you during and after your successful actualization of this project.</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>Thank you very much for your anticipated co-operation in advance as we earnestly await your urgent response regards to this matter.</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>Best Regards,</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+<DIV>
+<B>James B. Comey, Jr</B></DIV>
+<DIV>
+<B>Federal Bureau of Investigation</B></DIV>
+<DIV>
+<B>J. Edgar Hoover Building.</B></DIV>
+<DIV>
+<B>935 Pennsylvania Avenue,</B></DIV>
+<DIV>
+<B>NW Washington, D.C.</B></DIV>
+<DIV>
+<B>&nbsp;</B></DIV>
+</FONT>
+</BODY></HTML>

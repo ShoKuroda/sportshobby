@@ -1,0 +1,55 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=15.0 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: onlinedrugsmall.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: onlinedrugsmall.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: onlinedrugsmall.ru]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: onlinedrugsmall.ru]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: onlinedrugsmall.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav206.sakura.ne.jp (fsav206.sakura.ne.jp [210.224.168.168])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t21LiG6o067533
+	for <hobby.division@sportshobby.co.jp>; Mon, 2 Mar 2015 06:44:16 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav206.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp);
+ Mon, 02 Mar 2015 06:44:16 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp)
+Received: from 2.132.136.236.megaline.telecom.kz (2.132.202.32.megaline.telecom.kz [2.132.202.32] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t21LiEv8067528
+	for <hobby.division@sportshobby.co.jp>; Mon, 2 Mar 2015 06:44:15 +0900 (JST)
+Message-Id: <201503012144.t21LiEv8067528@www546b.sakura.ne.jp>
+X-AntiVirus: Checked by Dr.Web [version: 9.1.3.10154, engine: 9.1.3.09240, virus records: 5500971, updated:  4.11.2014]
+Received: from unknown (HELO localhost) (skyhook@e-technik.uni-rostock.de@25.74.239.28)
+	by 2.132.202.32 with ESMTPA; Mon, 2 Mar 2015 03:45:32 +0600
+From: skyhook@e-technik.uni-rostock.de
+To: hobby.division@sportshobby.co.jp
+Subject: Find how to get enormous enjoyment
+Date: Mon, 2 Mar 2015 03:35:20 +0600
+
+http://irate.onlinedrugsmall.ru/
+

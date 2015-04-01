@@ -1,0 +1,47 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.2 required=7.0 tests=BAYES_99,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_AB_SURBL,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: yhnfwgpi.be]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9912]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: yhnfwgpi.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: yhnfwgpi.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: yhnfwgpi.be]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: yhnfwgpi.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5AJIUIS054864
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 11 Jun 2014 04:18:30 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:11353 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1402427910.1855
+Received: from 90.189.212.58 (ws.90.189.212.58.nsk.sibirtelecom.ru [90.189.212.58] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s5AJITvm054861
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 11 Jun 2014 04:18:30 +0900 (JST)
+Date: Wed, 11 Jun 2014 04:18:29 +0900 (JST)
+Message-Id: <201406101918.s5AJITvm054861@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (j.vandervelde@golden.net@181.148.162.154)
+	by 90.189.212.58 with ESMTPA; Wed, 11 Jun 2014 02:19:26 +0400
+X-Originating-IP: 181.148.162.154
+From: j.vandervelde@golden.net
+To: on_line.shop12@sportshobby.co.jp
+Subject: How interesting is your loving life?
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 10062014 #8203084, status: clean
+
+Do you want to impress your woman today? http://stabbing.yhnfwgpi.be/
+
+
+Sent from my iPhone
+

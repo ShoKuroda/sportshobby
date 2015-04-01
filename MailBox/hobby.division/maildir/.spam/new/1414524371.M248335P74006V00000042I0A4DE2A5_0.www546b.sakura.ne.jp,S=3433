@@ -1,0 +1,79 @@
+Return-Path: <service2@mx1.allarelbus.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.1 required=7.0 tests=BAYES_50,
+	CHARSET_FARAWAY_HEADER,DEAR_SOMETHING,DKIM_SIGNED,FREEMAIL_REPLYTO,
+	T_DKIM_INVALID,URIBL_BLOCKED autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: allarelbus.com]
+	*  2.0 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s9SJQ8gC074000
+	for <hobby.division@sportshobby.co.jp>; Wed, 29 Oct 2014 04:26:08 +0900 (JST)
+	(envelope-from service2@mx1.allarelbus.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Wed, 29 Oct 2014 04:26:08 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from mail.mx1.allarelbus.com ([198.71.86.18])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s9SJQ7Fr073996
+	for <hobby.division@sportshobby.co.jp>; Wed, 29 Oct 2014 04:26:08 +0900 (JST)
+	(envelope-from service2@mx1.allarelbus.com)
+Message-Id: <201410281926.s9SJQ7Fr073996@www546b.sakura.ne.jp>
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx1.allarelbus.com 0A76677F20A8
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mx1.allarelbus.com;
+	s=mx1.allarelbus; t=1414523507;
+	bh=PLAv01/Tq5rrvl4TOrPrbMTF73BcHjUnMyg99tnfsIM=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=nXQQpClFpqtGXogPp38q8L4s1ZTqULZYz6LHbvuy8rslgs+nVT+BRrl8JBGyMS9TL
+	 UZu3TlhIUrO5dpXQLXR62X1IjlBLUWyOtp90RK75t1SYrq34TmXLv3zUvLtefdK9dD
+	 fTaAwUAU0xH+SHbQ1fMMAU1Pm4n1mE9CTF2gCuuI=
+Date: Wed, 29 Oct 2014 03:12:28 +0800
+From: "Only" <service2@mx1.allarelbus.com>
+To: "partnership" <partnership@nextfx.net>
+Reply-To: <huixinsoft55@foxmail.com>
+Subject: =?GB2312?B?UmU6IGVucXVpcnkgcHJpY2U=?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id s9SJQ8gC074000
+
+Dear Sirs / Madam 
+
+Have a nice day! 
+
+My name is Only, I am from CHR factory in China, which produces reflective film and traffic facilities professionally. 
+
+This mail is just want to tell you a good news that we have a promotion for partly reflective film and traffic products near the end of this year.
+
+The price will be very charming but with good quality. 
+
+If you have interest or needs, just pls feel free to contact me.
+
+Thank you very much for your time and Regards! 
+
+Only wang 
+Sales manager 
+
+Changzhou CHR Safetyproducts Co.,Ltd
+Tel: 0086 519 81661815
+MP: 0086 18205026443
+Skype:wangli1986wl
+MSN: wangli1986wl@msn.com 
+

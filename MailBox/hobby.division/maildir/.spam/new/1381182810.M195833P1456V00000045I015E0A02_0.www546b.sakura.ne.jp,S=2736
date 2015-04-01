@@ -1,0 +1,53 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.4 required=7.0 tests=BAYES_60,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_ILLEGAL_IP,URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: mhr.ro]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: mhr.ro]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  2.1 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: mhr.ro]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.7154]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav55.sakura.ne.jp [219.94.192.135])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r97LrQlF001453
+	for <hobby.division@sportshobby.co.jp>; Tue, 8 Oct 2013 06:53:26 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:61167 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1381182806.29115
+Received: from bl16-183-234.dsl.telepac.pt (bl16-183-234.dsl.telepac.pt [188.81.183.234])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r97LrL1D001441
+	for <hobby.division@sportshobby.co.jp>; Tue, 8 Oct 2013 06:53:23 +0900 (JST)
+Date: Tue, 8 Oct 2013 06:53:21 +0900 (JST)
+Message-Id: <201310072153.r97LrL1D001441@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (britt.tjaernliden@got.net@231.141.74.134)
+	by 188.81.183.234 with ESMTPA; Mon, 7 Oct 2013 22:52:21 -0000
+From: britt.tjaernliden@got.net
+To: hobby.division@sportshobby.co.jp
+Subject: Wanna act best with your girl?
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 07102013 #11168102, status: clean
+
+The greatest way to gratify your wife http://mhr.ro/parallel.html
+

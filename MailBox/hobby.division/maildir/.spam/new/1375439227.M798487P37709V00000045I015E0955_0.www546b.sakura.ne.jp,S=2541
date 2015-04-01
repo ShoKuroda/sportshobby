@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.9 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_JP_SURBL,URIBL_MW_SURBL,
+	URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  2.3 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: dcon.pl]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.7741]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: dcon.pl]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: dcon.pl]
+	*  1.7 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: dcon.pl]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r72AR4vu037706
+	for <hobby.division@sportshobby.co.jp>; Fri, 2 Aug 2013 19:27:04 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:61940 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1375439224.30991
+Received: from 109.172.59.159 ([109.172.59.159])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r72AR0a9037695
+	for <hobby.division@sportshobby.co.jp>; Fri, 2 Aug 2013 19:27:02 +0900 (JST)
+Message-Id: <201308021027.r72AR0a9037695@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (kmcgowan@mtu.edu@218.164.119.201)
+	by 109.172.59.159 with ESMTPA; Fri, 2 Aug 2013 14:30:23 +0400
+From: kmcgowan@mtu.edu
+To: hobby.division@sportshobby.co.jp
+Subject: Light your instinct to maximum
+Date: Fri, 2 Aug 2013 14:20:06 +0400
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 02082013 #10818659, status: clean
+
+http://s1113.dcon.pl/charge.html The greatest method to gratify your babe
+

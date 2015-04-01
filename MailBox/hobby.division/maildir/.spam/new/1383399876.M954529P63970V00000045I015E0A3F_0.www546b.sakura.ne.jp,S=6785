@@ -1,0 +1,96 @@
+Return-Path: <diarrasangela@yahoo.ca>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.2 required=7.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+	ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_MONEY,ADVANCE_FEE_4_NEW,
+	ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_MONEY,BAYES_50,
+	DKIM_ADSP_CUSTOM_MED,DKIM_SIGNED,DKIM_VALID,FREEMAIL_FROM,FREEMAIL_REPLYTO,
+	LOTS_OF_MONEY,MONEY_FRAUD_3,MONEY_FRAUD_5,NA_DOLLARS,NML_ADSP_CUSTOM_MED,
+	US_DOLLARS_3 autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.6 NA_DOLLARS BODY: Talks about a million North American dollars
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (diarrasangela[at]yahoo.ca)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.8 US_DOLLARS_3 BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  0.0 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.0 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  1.1 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  2.2 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.0 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	*  3.4 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  0.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	*  3.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+	*  2.3 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rA2DiY8o063965
+	for <hobby.division@sportshobby.co.jp>; Sat, 2 Nov 2013 22:44:35 +0900 (JST)
+	(envelope-from diarrasangela@yahoo.ca)
+X-Nat-Received: from [112.78.125.46]:52133 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383399874.1128
+Received: from nm25-vm2.bullet.mail.ne1.yahoo.com (nm25-vm2.bullet.mail.ne1.yahoo.com [98.138.91.213])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rA2DiWpP063957
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Sat, 2 Nov 2013 22:44:34 +0900 (JST)
+	(envelope-from diarrasangela@yahoo.ca)
+Received: from [98.138.101.131] by nm25.bullet.mail.ne1.yahoo.com with NNFMP; 02 Nov 2013 13:44:32 -0000
+Received: from [98.138.89.170] by tm19.bullet.mail.ne1.yahoo.com with NNFMP; 02 Nov 2013 13:44:32 -0000
+Received: from [127.0.0.1] by omp1026.mail.ne1.yahoo.com with NNFMP; 02 Nov 2013 13:44:32 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 218939.421.bm@omp1026.mail.ne1.yahoo.com
+Received: (qmail 57485 invoked by uid 60001); 2 Nov 2013 13:44:32 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.ca; s=s1024; t=1383399871; bh=EKLQwlZoN//lqX6YX1F9YTsvDFKerMvE8dywOSpjUFs=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-RocketYMMF:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding; b=O5ktMDQ68x+/x9ZZ9z1bjRRrlUFXH9gI4nCCRVuhrWxq+1r81n922yHcbg1La4EC/1DAhEcyxnt99c+UsqRRofi8ZU/yyzldmnojIGAwJy4t7pPVZBuRleFVuj3ZnG3kvMp8hM+53oRvaeg5TjpwCmCNgU0zJPuiFH+9mTf0VpI=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.ca;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-RocketYMMF:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=vr+h6pC+0VGhgPL3QirNS2fu4igWY27b/m9jjeq7u1x2wcQz2HoAXZMfG8sShW3x3tdvJnVKUt3G9NhRrNRmRSJ7oVqDrI2dtFkTJEH17N0JyNFpaB5lQxz3z+d7ImkZlX9R/IKpwEhM7Os3avLAsSjd/Jj5Vqeya9i6k12pN/M=;
+X-YMail-OSG: owMwLv8VM1ke6es1TANbKyuRmzhof5QrxkmGKeyFGeGpfqV
+ p_B2mC7L2Yff4kV4KDIJqqkRNVPNJS_eyZkSS4p4y0PMh7cqv7gXPpC7mFcL
+ dFsIj.TFCgg5Mxx8X3R1LWoFU27IeI8XY8CeGEHP.6XX9cK_17rZLkY8G6WI
+ zr8i_KWAe5AeQhImwLXyGmntWBhfPLzoGEad3VTEGna7v.Fkc.l0tU6TV3TS
+ .ooBR_wB5eCZbv5HvGhMS.CuhMA8WlfnZJDDL2z4JYwUB_zzdDtfdK3C4UP7
+ RzBFzrLT8fuLKGKoaDL4xY0MHYGgW2VGuuQcsRsx1I4nuKuMoCU20OrwGy2M
+ 70Hmi812f2aKyDHsuT3NW7yR4xQ3.wamfV01_CY5LoABDhwYxNLuWxedPmsm
+ 1ksWJtRE2RFnYxIqzTAAp2vk3bvR7bAT__Bg9PN6KK5Ou3IAMUqVmwYLYrzg
+ LiWhWjZa8oOLyife7mA7R1vGf7mzje5xAuzOel23WeY2LY2G2dOUx8ar_zjD
+ kcuELkx4FU7TuM51ms4RYYriNWPTh3T4Oyxk44f_ClU.KeQh6Jz4ailZ0Z29
+ _88mZMhD5Os5AZ1D3Ogc-
+Received: from [196.201.72.151] by web125004.mail.ne1.yahoo.com via HTTP; Sat, 02 Nov 2013 06:44:31 PDT
+X-Rocket-MIMEInfo: 002.001,CgrCoApNeSBuYW1lIGlzIE1zIEplbm5pZmVyIE5kYXllemFsdSwKSGVsbG8gRGVhciwKSXQgaXMgbXkgcGxlYXN1cmUgdG8gY29udGFjdCB5b3UgZm9yIGEgYnVzaW5lc3MgdmVudHVyZSB3aGljaCBteSBTb24gYW5kIEkgaW50ZW5kIHRvIGVzdGFibGlzaCBpbiB5b3VyIGNvdW50cnkuIFRob3VnaCBJIGhhdmUgbm90IG1ldCB3aXRoIHlvdSBiZWZvcmUgYnV0IEkgYmVsaWV2ZSwgb25lIGhhcyB0byByaXNrIGNvbmZpZGluZyBpbiBzb21lb25lIHRvIHN1Y2NlZWQgc29tZXRpbWVzIGluIGxpZmUuClRoZXJlIGkBMAEBAQE-
+X-RocketYMMF: diarrasangela
+X-Mailer: YahooMailWebService/0.8.161.596
+Message-ID: <1383399871.57255.YahooMailNeo@web125004.mail.ne1.yahoo.com>
+Date: Sat, 2 Nov 2013 06:44:31 -0700 (PDT)
+From: Jennifer Ndayezalu <jeniferdayezalu@yahoo.com>
+Reply-To: Jennifer Ndayezalu <jeniferndayezalu@yahoo.com>
+Subject: 02/11/2013
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 02112013 #9924273, status: clean
+
+=0A=0A=C2=A0=0AMy name is Ms Jennifer Ndayezalu,=0AHello Dear,=0AIt is my p=
+leasure to contact you for a business venture which my Son and I intend to =
+establish in your country. Though I have not met with you before but I beli=
+eve, one has to risk confiding in someone to succeed sometimes in life.=0AT=
+here is this amount of Six million five hundred thousand U.S dollars($6.500=
+,000.00) which my late Husband kept for us with a bank here in Cote d'Ivoir=
+e before his death.=0ANow my son and I have decided to invest these money a=
+nywhere safe enough outside our Country for my son=E2=80=99s study and futu=
+re. We want you to transfer and invest this fund in any lucrative business =
+were tax will not take much tools. If you can be of an assistance and hones=
+t to us we will be pleased to offer to you 10% of the fund while you manage=
+ the investment for us. It is very urgent and I await your immediate respon=
+se.=0ASincerely yours,=0AMadam Jennifer Ndayezalu

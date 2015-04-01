@@ -1,0 +1,79 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham
+	version=3.3.2
+Received: from fsav304.sakura.ne.jp (fsav304.sakura.ne.jp [153.120.85.135])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2IHYjj6053364
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 02:34:45 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav304.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp);
+ Thu, 19 Mar 2015 02:34:45 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-130.smtp.rakuten.co.jp [202.72.58.130])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2IHYjMt053361
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 02:34:45 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat305zc.zd.rakuten.co.jp [172.18.93.9])
+	by mxmator104z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l6dm51GvTz9cQ5
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 02:34:45 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426700085;
+	bh=KeLagXKvvIa6uqTb58x5JcvcNnrw4Bggmmkaf68iP5E=;
+	h=Date:From:Reply-To:To:Cc:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=kJh5iegvBn+fNXhMh56fSdWVrXyiGtqctpPR/Z7sgCJiTmxiSFag/MuXiBniumZH/
+	 SMG2G3KCg/pCFvFAUG/jBroAsthrLmQ04i0UzoN1MPkIg1c+giIxna6XpgcH6/Iem+
+	 XN1Wc/kGI9Ucj32QcTG/SyhGOEckO82rAC2aZbb4=
+Received: from mat3.zd.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat305zc.zd.rakuten.co.jp (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2IHYYZv028861
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 19 Mar 2015 02:34:45 +0900
+Received: from rakuten.co.jp ([matqor201zc.zd.rakuten.co.jp [172.18.92.9]]) by mat305zc.zd.rakuten.co.jp with RELAY id t2IHYicd028955 ;
+          Thu, 19 Mar 2015 02:34:45 +0900
+Date: Thu, 19 Mar 2015 02:34:44 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: 581c277e49614651bf3924552bb525c9s1@dm.fw.rakuten.ne.jp,
+        on_line.shop12@sportshobby.co.jp
+To: 581c277e49614651bf3924552bb525c9s1@dm.fw.rakuten.ne.jp
+Cc: on_line.shop12@sportshobby.co.jp
+Message-ID: <201503190234.t2IHYicd028955@mat305zc.zd.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3IVtDbUo4RmJNRiQ0M05HJxsoQigbJEI3SEJTGyhCKQ==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.18.92.9
+X-Rams-Id: FA20926C104B58E0A1E303802AF8C310B02A3621
+
+注文内容は以下のﾍﾟｰｼﾞからﾕｰｻﾞID･ﾊﾟｽﾜｰﾄﾞを入力しご確認ください｡
+https://m.order.my.rakuten.co.jp/
+⇒ｱｸｾｽ出来ない方はこちら
+https://order.my.rakuten.co.jp/
+
+[商品] RC4WD 1:2 Ultra Compact Gear Speeder Unit 540用 ｽﾋﾟｰﾀﾞｰﾕﾆｯﾄ (zs0567) 6048円×1
+[今回獲得するﾎﾟｲﾝﾄ]60
+[受注番号] 243411-20150319-0183052131
+※上記の番号にﾘﾝｸが表示されている場合でもこのﾘﾝｸから楽天市場やｼｮｯﾌﾟへのお問い合わせはできません｡
+[ｼｮｯﾌﾟ情報] ｽﾎﾟｰﾂﾎﾋﾞｰ sportshobby@shop.rakuten.co.jp 011-773-5090
+【ご注意】
+ｼｮｯﾌﾟや楽天からﾒｰﾙが届かない場合がありますので､以下のﾄﾞﾒｲﾝを許可ﾄﾞﾒｲﾝとして追加をしてください
+ｼｮｯﾌﾟﾄﾞﾒｲﾝ:shop.rakuten.co.jp
+楽天ﾄﾞﾒｲﾝ:rakuten.co.jp
+
+※送料等の諸費用は変わる場合があります｡
+
+【PR】楽天ｶｰﾄﾞ入会&利用でもれなく5,000ﾎﾟｲﾝﾄﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://r10.to/hGaVbA
+
+【PR】楽天Edyｱﾌﾟﾘをﾀﾞｳﾝﾛｰﾄﾞするだけで400ﾎﾟｲﾝﾄ!!
+ ⇒http://r10.to/hJ999p
+
+
+※商品に関するお問い合わせは上記のｼｮｯﾌﾟにご連絡ください｡このﾒｰﾙに返信されてもお答えできません｡
+※楽天市場に関する問い合わせは､楽天ﾄｯﾌﾟ http://m.rakuten.co.jp/ のご利用ｶﾞｲﾄﾞをご覧ください｡
+⇒ｱｸｾｽ出来ない方はこちら
+http://event.rakuten.co.jp/mobile/iphone/help/
+
+楽天市場(楽天株式会社)
+http://m.rakuten.co.jp/sportshobby/

@@ -1,0 +1,46 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.9 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.7481]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: qdnqzciw.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s0CIgheL010019
+	for <hobby.division@sportshobby.co.jp>; Mon, 13 Jan 2014 03:42:44 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:50204 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1389552163.22333
+Received: from 178.120.219.125 (mm-125-219-120-178.dynamic.pppoe.mgts.by [178.120.219.125] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s0CIgd0x010014
+	for <hobby.division@sportshobby.co.jp>; Mon, 13 Jan 2014 03:42:41 +0900 (JST)
+Message-Id: <201401121842.s0CIgd0x010014@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (adrian.leiter@tybhealth.co.za@35.110.68.116)
+	by 178.120.219.125 with ESMTPA; Sun, 12 Jan 2014 21:43:30 +0300
+X-Originating-IP: 35.110.68.116
+From: adrian.leiter@tybhealth.co.za
+To: hobby.division@sportshobby.co.jp
+Subject: Perfect way to please your women
+Date: Sun, 12 Jan 2014 21:40:16 +0300
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 12012014 #7309542, status: clean
+
+I want u to have good health http://poet.qdnqzciw.be/
+

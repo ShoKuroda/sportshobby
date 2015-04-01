@@ -1,0 +1,175 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.1 required=7.0 tests=BAYES_50,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	URIBL_SBL,XPRIO autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5004]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.5 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  0.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav304.sakura.ne.jp (fsav304.sakura.ne.jp [153.120.85.135])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2L3n4NK041144
+	for <hobby.division@sportshobby.co.jp>; Sat, 21 Mar 2015 12:49:04 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav304.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp);
+ Sat, 21 Mar 2015 12:49:04 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2L3n4xg041141
+	for <hobby.division@sportshobby.co.jp>; Sat, 21 Mar 2015 12:49:04 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIVpMNThCGyhCMVVQGyRCJS0lTiUzIVskLDZ1JCskaRsoQg==?=
+	=?iso-2022-jp?B?GyRCOV8kQyRGJC8kayVTJTglTSU5GyhC?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Sat, 21 Mar 2015 12:49:04 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150321034904.37B1040D04@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11191
+━━━━━━━━━━━━━━━━━━━━━━━━
+スー○ーマリオで1UPキノコってありますよね？
+思わずあれが空から無限に現実世界に降ってくるような
+錯覚に陥ってしまう
+
+まさに不死身のネットビジネスが爆誕しました。
+
+
+○パソコンスキルは必要ですか？
+
+→メールとインターネットができれば十分です！
+
+・・・ピコーン！1UP！
+
+
+○商品を作ったりする必要はありますか？
+
+→必要ありません！
+
+・・・ピコーン！1UP！
+
+
+○集客困ったり、莫大な広告費が必要になりますか？
+
+→集客は全く必要ありません！
+
+・・・ピコーン！1UP！
+
+
+○高齢なんですが経験がなくても大丈夫ですか？
+
+→初心者大賛成です！そもそも全く新しいビジネスモデルなので
+　皆さんが初心者です！
+
+・・・ピコーン！1UP！
+
+○気の遠くなるような作業が必要ですか？
+　時間があまり取れないのですが？
+
+→自動化の仕組みですので設定
+
+・・・ピコーン！1UP！
+
+○なにか法律や規約に反するようなことをするのですか？
+
+→全くブラックやグレーな要素はありません。
+　むしろ社会貢献できるくらいです。
+
+・・・ピコーン！1UP！
+
+○今すぐお金がほしいのですが・・・
+
+→2週間で入金の超即金性がある仕組みです！
+
+・・・ピコーン！1UP！
+
+
+→ http://agar-ex.jp/kldd28454/21191
+
+【期間限定】今なら無料モニターを募集中です。
+
+
+・借金が完済できる
+
+・医療保険、生命保険に入れる
+
+・月３回程度、趣味を楽しめる
+
+・外食、旅行を楽しんでいる
+
+
+ピコーン！・・
+
+ピコーン！・・・
+
+ピコーン！・・・・
+
+
+・初期費用なし
+・実名公開不要
+・在宅ネット完結型
+・拘束時間　1時間〜2時間（１日当り）
+・情報ビジネスではありません
+・アフィリエイトではありません
+・MLM、ネットワークビジネスではありません。
+
+ピコ！ピコ！ピコ！・・・・・1UP!1UP!1UP!
+
+このビジネスの全貌を是非、
+無料で体験してみてください。
+
+
+→ http://agar-ex.jp/kldd28454/31191
+
+【期間限定】今なら無料モニターを募集中です。
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/41191
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

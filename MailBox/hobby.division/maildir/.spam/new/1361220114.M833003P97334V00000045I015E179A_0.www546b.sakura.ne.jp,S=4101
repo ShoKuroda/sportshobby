@@ -1,0 +1,80 @@
+Return-Path: <ykgmdj@account.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.0 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_50,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+	FROM_MISSP_EH_MATCH,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,
+	HK_RANDOM_ENVFROM,HK_RANDOM_FROM,HTML_IMAGE_ONLY_04,HTML_MESSAGE,
+	HTML_SHORT_LINK_IMG_1,MIME_HTML_ONLY,MSOE_MID_WRONG_CASE,T_FROM_MISSP_DKIM,
+	T_REMOTE_IMAGE autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.0 HK_RANDOM_FROM From username looks random
+	*  0.0 HK_RANDOM_ENVFROM Envelope sender username looks random
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5658]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.2 HTML_IMAGE_ONLY_04 BODY: HTML: images with 0-400 bytes of words
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  0.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  0.0 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 HTML_SHORT_LINK_IMG_1 HTML is very short with a linked image
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  4.0 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  0.7 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  0.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  0.0 T_REMOTE_IMAGE Message contains an external image
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r1IKfoRf097331
+	for <hobby.division@sportshobby.co.jp>; Tue, 19 Feb 2013 05:41:50 +0900 (JST)
+	(envelope-from ykgmdj@account.net)
+X-Nat-Received: from [112.78.125.46]:52103 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1361220110.17451
+Received: from fed1rmfepo202.cox.net (fed1rmfepo202.cox.net [68.230.241.147])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r1IKfno1097327
+	for <hobby.division@sportshobby.co.jp>; Tue, 19 Feb 2013 05:41:50 +0900 (JST)
+	(envelope-from ykgmdj@account.net)
+Received: from fed1rmimpo305 ([68.230.241.173]) by fed1rmfepo202.cox.net
+          (InterMail vM.8.01.04.00 201-2260-137-20101110) with ESMTP
+          id <20130218204148.CBAI1243.fed1rmfepo202.cox.net@fed1rmimpo305>
+          for <hobby.division@sportshobby.co.jp>;
+          Mon, 18 Feb 2013 15:41:48 -0500
+Received: from dsds ([24.217.225.191])
+	by fed1rmimpo305 with cox
+	id 1whi1l00d48PvxC01whkMC; Mon, 18 Feb 2013 15:41:48 -0500
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020209.5122920C.00B7,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=KJvY/S5o c=1 sm=1
+ a=yUwZpxWvg2KRH4NjdWwxhw==:17 a=F_tVIVSP6zsA:10 a=6IPDZiyR_fgA:10
+ a=t8h3MGqUbMMA:10 a=uJxzum9qAAAA:8 a=fwkf0BxM2QEA:10 a=-hBC5l8SAAAA:20
+ a=bs9C-MlcAAAA:20 a=QJ9BLCbI1J4k1UjOJVMA:9 a=ZnBHZVZb9rEA:10
+ a=_W_S_7VecoQA:10 a=ZzePhWNQL60A:10 a=yUwZpxWvg2KRH4NjdWwxhw==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; auth=pass (LOGIN) smtp.auth=lam360@cox.net
+Reply-To: ykgmdj@account.net
+From: Bank of Tokyo<ykgmdj@account.net>
+Subject: Customer Satisfaction Survey
+Date: Mon, 18 Feb 2013 15:46:01 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="ks_c_5601-1987"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20130218204148.CBAI1243.fed1rmfepo202.cox.net@fed1rmimpo305>
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 18022013 #9569173, status: clean
+
+<html>
+<tr><td>
+<a href='http://users11.jabry.com/suure322/aici/srv/complete.html'><img src='http://i49.tinypic.com/dnlo4z.jpg' alt='CAF' border='0' /></a></td>
+</tr>
+</html>

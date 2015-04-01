@@ -1,0 +1,84 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED,URIBL_SBL
+	autolearn=no version=3.3.2
+Received: from fsav201.sakura.ne.jp (fsav201.sakura.ne.jp [210.224.168.163])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2MCSjsC035695
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Mar 2015 21:28:45 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav201.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp);
+ Sun, 22 Mar 2015 21:28:45 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav201.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-129.smtp.rakuten.co.jp [202.72.58.129])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2MCSjOB035692
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Mar 2015 21:28:45 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat103.prod.jp.local [100.66.16.46])
+	by mxmator104z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l8yn93M79z9cQS
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Mar 2015 21:28:45 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427027325;
+	bh=RLfJaR330WxaEIJj38r7WhkaLSq1iZSBGM6kUXgt7xI=;
+	h=Message-ID:Date:From:Reply-To:To:Subject:Cc:Mime-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=Mxmr0CAqR/7OVEIdg4HTnUDSgfB8oZk4qqFALZ5wEdadpPibXujtQF9XDEfQ6edaB
+	 kZgfw1az04bFMpx1SqqUNZiu4mdOiXy5LePRp1cMTcVS97M4exU6Tp85ebUHRPh2Vf
+	 28aYt73CZ8PUT8VdEwz9sLLUkjh0yiYG52a4g/D0=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat103.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2MCSIcF030777
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Mar 2015 21:28:45 +0900
+Received: from arms702c.ap.rakuten.co.jp ([arms702c.ap.rakuten.co.jp [172.28.45.106]]) by mat103.prod.jp.local with RELAY id t2MCSi4m032464 ;
+          Sun, 22 Mar 2015 21:28:45 +0900
+Message-ID: <201503222128.t2MCSi4m032464@mat103.db.rakuten.co.jp>
+Date: Sun, 22 Mar 2015 21:28:44 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: 133f3217cf3814c54b2861f112d89ed7s1@km.fw.rakuten.ne.jp,
+        hobby.division@sportshobby.co.jp
+To: 133f3217cf3814c54b2861f112d89ed7s1@km.fw.rakuten.ne.jp
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3O1Q+bCFbTGQkJDlnJG8kO0ZiGyhC?=
+ =?iso-2022-jp?B?GyRCTUYkNDNORychSjwrRjBHWz8uJWEhPCVrIUsbKEI=?=
+Cc: hobby.division@sportshobby.co.jp
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.45.106
+X-Rams-Id: 59C6451F7E020831ECCE6FCAE44B776439FDE8F1
+
+---------------------------------------------------------------------
+本メールはお客様からお送りいただいた情報が、楽天市場のサーバに到達した
+時点で送信される、自動配信メールです。
+---------------------------------------------------------------------
+この度は楽天市場内のショップ「スポーツホビー」を
+ご利用いただきまして、誠にありがとうございます。
+
+ご不明な点、送信内容に誤りなどございましたら、下記ショップまで直接
+お問い合わせください。
+
+==================================================
+■ ショップ名 ： スポーツホビー
+■ ショップURL： http://www.rakuten.co.jp/sportshobby/
+■ 電話   ： 011-773-5090
+■ メールアドレス: hobby.division@sportshobby.co.jp
+==================================================
+
+以下の送信内容がご利用のショップに届いております。
+------------------------------------------------------------------
+（お客様のお名前） 小倉僚太
+（問合わせ商品）   RC4WD Void Scale 1.55 Beadlock Wheels 4本入 zw0045
+   		（ http://item.rakuten.co.jp/sportshobby/zw0045/ ）
+（問合わせ内容）
+こちらの商品の再入荷の予定などはあるのでしょうか？
+お教えいただければ幸いです。
+------------------------------------------------------------------
+
+─────────────問い合わせ─────────────────
+商品、決済・発送に関するお問い合わせ hobby.division@sportshobby.co.jp
+楽天市場に関するご質問　 http://www.rakuten.co.jp/com/faq/
+個人情報保護方針　http://privacy.rakuten.co.jp/
+
+楽天市場 http://www.rakuten.co.jp/ 
+───────────────────────────────────
+

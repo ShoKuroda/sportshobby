@@ -1,0 +1,47 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.2 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,T_FROM_12LTRDOM,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: wnxhcwdq.cf]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: wnxhcwdq.cf]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.0 T_FROM_12LTRDOM From a 12-letter domain
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rACIDWO5039250
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 13 Nov 2013 03:13:32 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:55019 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1384280012.10702
+Received: from 75.107.20.10 ([75.107.20.10])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rACIDR8r039241
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 13 Nov 2013 03:13:30 +0900 (JST)
+Date: Wed, 13 Nov 2013 03:13:27 +0900 (JST)
+Message-Id: <201311121813.rACIDR8r039241@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (mteed@seciedilizia.it@232.102.110.59)
+	by 75.107.20.10 with ESMTPA; Tue, 12 Nov 2013 13:11:14 -0500
+From: mteed@seciedilizia.it
+To: on_line.shop12@sportshobby.co.jp
+Subject: Are you ready for the best night of satisfaction?
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 12112013 #9714065, status: clean
+
+http://cripple.wnxhcwdq.cf/ Perfect method to be stronger
+

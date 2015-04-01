@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=21.0 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: webdoanhnghiep.org]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  3.9 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9967]
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r55ALnZ0076153
+	for <hobby.division@sportshobby.co.jp>; Wed, 5 Jun 2013 19:21:49 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:52483 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1370427709.7318
+Received: from 197.28.23.153 ([197.28.23.153])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r55ALZfx076091
+	for <hobby.division@sportshobby.co.jp>; Wed, 5 Jun 2013 19:21:46 +0900 (JST)
+Message-Id: <201306051021.r55ALZfx076091@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (jo@rdmos.ru@228.101.103.167)
+	by 197.28.23.153 with ESMTPA; Thu, 6 Jun 2013 11:25:04 +0100
+X-Originating-IP: 228.101.103.167
+From: jo@rdmos.ru
+To: hobby.division@sportshobby.co.jp
+Subject: Show your true force to your woman
+Date: Thu, 6 Jun 2013 11:15:32 +0100
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 05062013 #10286570, status: clean
+
+http://balolaptopcaocap.webdoanhnghiep.org/friendly.html Demonstrate your 
+own power
+

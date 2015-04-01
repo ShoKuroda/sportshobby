@@ -1,0 +1,98 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.5 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,NORMAL_HTTP_TO_IP,TVD_RCVD_SPACE_BRACKET,TVD_SPACE_ENC_FM_MIME,
+	TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2M48KAV057516
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Mar 2015 13:08:20 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Sun, 22 Mar 2015 13:08:20 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-211.smtp.rakuten.co.jp [202.72.58.211])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2M48KRQ057513
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Mar 2015 13:08:20 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat106.prod.jp.local [100.66.16.55])
+	by mxmattx104z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l8lgm04hXzRKWC
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Mar 2015 13:08:20 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426997300;
+	bh=twiG8mitwb+PbPvlirfL44T+QY5SeiUlfOo3+ns233A=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=Q9WXBw2geZc18CF7kFg7lU4ZapTNNtPkPr989ZBzA2jjPfRV5DTUm5qXF50OYV6w5
+	 FNoAEoCEuzAStoIpkGhV5q0I8yLL0r4DBXLJ1VC/rIgPa5nZ9OhphQ+sVIMCn2ODOo
+	 GtKZ1eDTWEM5HKT0jesHinW/qzR1xsICuAw2icV8=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat106.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2M47oGv031251
+	for <hobby.division@sportshobby.co.jp>; Sun, 22 Mar 2015 13:08:19 +0900
+Received: from armsrb230c.ap.rakuten.co.jp ([armsrb230c.ap.rakuten.co.jp [172.28.247.116]]) by mat106.prod.jp.local with RELAY id t2M48Jk8032329 ;
+          Sun, 22 Mar 2015 13:08:19 +0900
+Date: Sun, 22 Mar 2015 13:08:19 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: eadbb10c3802e1ba817b08f8602bac4es1@pc.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503221308.t2M48Jk8032329@mat106.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJDRDbUo4JCIkaiQsJEgkJiQ0JDYkJCReJDkbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.247.116
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: 702443EC20A8F8A5B1AEB345BFC1CF206380ECD3
+
+----------------------------------------------------------------------
+このメールはお客様の注文に関する大切なメールです。
+お取引が完了するまで保存してください。
+----------------------------------------------------------------------
+
+本橋 浩和様
+
+スポーツホビーです。ご注文ありがとうございました。
+
+お任せ配送は、レターパックライト：￥360を選択いたしました。
+
+お支払は銀行振込ということですので、
+
+　銀行名：ジャパンネット銀行
+　支店名：すずめ支店
+　店番号：002
+　口座　：普通預金　1250379
+　名義　：有限会社エスエッチケーネット販売
+
+こちらに、
+[合計] 1696(円)
+をお振込み下さいませ。ご入金の確認が取れ次第、発送処理に入らせていただ
+きます。
+
+なお、お振込みが完了いたしましたら、お手数でなければ、その旨ご一報頂け
+ますと発送処理がよりスムーズにいきます。それでは、よろしくお願いいたし
+ます。
+
+[商品]
+      クローラーホイール用ウェイト（鉛レス）
+      http://item.rakuten.co.jp/sportshobby/10000202/
+
+    -------------------------------------------------------
+    有限会社エスエッチケー
+    スポーツホビー
+    002-0861 北海道札幌市北区屯田１１条３−１−１３
+    (TEL) 011-773-5090
+    (URL) http://www.rakuten.co.jp/sportshobby/
+    黒田　陽子(hobby.division@sportshobby.co.jp)
+    
+
+────────── 【楽天市場からのお知らせ】 ──────────
+【3月23日（月）9：59まで ！】
+　期間限定★今なら楽天カード新規入会でもれなく6,000ポイントプレゼント！
+　　⇒ http://link.rakuten.co.jp/1/008/531/?url=2/831/68809/0/RC4 
+　楽天カードなら楽天市場でのお買い物はいつでも2倍★
+
+　楽天市場トップはこちら
+　　⇒ http://www.rakuten.co.jp/?l-id=top_091 
+──────────────────────────────────
+

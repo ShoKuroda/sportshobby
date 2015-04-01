@@ -1,0 +1,44 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.3 required=7.0 tests=BAYES_50,HK_RANDOM_FROM,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CHECK,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.0 HK_RANDOM_FROM From username looks random
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: gpdjqyva.in]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: gpdjqyva.in]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: gpdjqyva.in]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav205.sakura.ne.jp [210.224.168.167])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5CE18uj096464
+	for <hobby.division@sportshobby.co.jp>; Thu, 12 Jun 2014 23:01:08 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:43544 [ident-empty]
+	by ksav205.sakura.ne.jp with TPROXY id 1402581668.21898
+Received: from 178.127.107.39 ([178.127.107.39])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s5CE1601096458
+	for <hobby.division@sportshobby.co.jp>; Thu, 12 Jun 2014 23:01:07 +0900 (JST)
+Message-Id: <201406121401.s5CE1601096458@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (fmmkt152@synetron.com@51.176.79.192)
+	by 178.127.107.39 with ESMTPA; Thu, 12 Jun 2014 17:01:57 +0200
+X-Originating-IP: 51.176.79.192
+From: fmmkt152@synetron.com
+To: hobby.division@sportshobby.co.jp
+Subject: Do you want to amaze your wife tonight?
+Date: Thu, 12 Jun 2014 16:52:15 +0200
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+Enjoy the deepest happiness http://mammoth.gpdjqyva.in/
+
+
+Sent from my iPhone
+

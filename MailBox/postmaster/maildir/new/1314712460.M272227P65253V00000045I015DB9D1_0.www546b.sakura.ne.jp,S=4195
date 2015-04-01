@@ -1,0 +1,113 @@
+Return-Path: <MAILER-DAEMON@www546b.sakura.ne.jp>
+Received: from localhost (localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) id p7UDsKt9065243;
+	Tue, 30 Aug 2011 22:54:20 +0900 (JST)
+	(envelope-from MAILER-DAEMON)
+Date: Tue, 30 Aug 2011 22:54:20 +0900 (JST)
+From: Mail Delivery Subsystem <MAILER-DAEMON>
+Message-Id: <201108301354.p7UDsKt9065243@www546b.sakura.ne.jp>
+To: <sportshobby2@www546b.sakura.ne.jp>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="p7UDsKt9065243.1314712460/www546b.sakura.ne.jp"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--p7UDsKt9065243.1314712460/www546b.sakura.ne.jp
+
+The original message was received at Tue, 30 Aug 2011 22:54:19 +0900 (JST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<g.bom.ya.922@uv.tnc.ne.jp>
+    (reason: 550 5.1.1 No such user <g.bom.ya.922@uv.tnc.ne.jp>)
+
+   ----- Transcript of session follows -----
+... while talking to asm.tnc.ne.jp.:
+>>> DATA
+<<< 550 5.1.1 No such user <g.bom.ya.922@uv.tnc.ne.jp>
+550 5.1.1 <g.bom.ya.922@uv.tnc.ne.jp>... User unknown
+<<< 503 5.5.1 Bad sequence of commands. (specify RCPT first)
+
+--p7UDsKt9065243.1314712460/www546b.sakura.ne.jp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; www546b.sakura.ne.jp
+Received-From-MTA: DNS; localhost
+Arrival-Date: Tue, 30 Aug 2011 22:54:19 +0900 (JST)
+
+Final-Recipient: RFC822; g.bom.ya.922@uv.tnc.ne.jp
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; asm.tnc.ne.jp
+Diagnostic-Code: SMTP; 550 5.1.1 No such user <g.bom.ya.922@uv.tnc.ne.jp>
+Last-Attempt-Date: Tue, 30 Aug 2011 22:54:20 +0900 (JST)
+
+--p7UDsKt9065243.1314712460/www546b.sakura.ne.jp
+Content-Type: message/rfc822
+
+Return-Path: <sportshobby2@www546b.sakura.ne.jp>
+Received: from www546b.sakura.ne.jp (localhost [127.0.0.1])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p7UDsJt9065241
+	for <g.bom.ya.922@uv.tnc.ne.jp>; Tue, 30 Aug 2011 22:54:19 +0900 (JST)
+	(envelope-from sportshobby2@www546b.sakura.ne.jp)
+Received: (from sportshobby2@localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3/Submit) id p7UDsJvF065240;
+	Tue, 30 Aug 2011 22:54:19 +0900 (JST)
+	(envelope-from sportshobby2)
+Date: Tue, 30 Aug 2011 22:54:19 +0900 (JST)
+To: =?iso-2022-jp?B?GyRCOzNLXCEhT0JMaRsoQg==?= <g.bom.ya.922@uv.tnc.ne.jp>
+Subject: =?iso-2022-jp?B?GyRCIVolOSVdITwlRCVbJVMhPCFbOl84SyROJCpMZCQkOWcbKEI=?=
+	=?iso-2022-jp?B?GyRCJG8kOyRyPHUkMUlVJDEkXiQ3JD8bKEI=?=
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Message-Id: <Qdmail.1.2.6b_31b0eb41ed084efd4461b5b33164c110761c461c@hal456.net>
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-PHP-Qdmail: version-1.2.6b The_MIT_License http://hal456.net/qdmail PHPver 5.2.17
+	send-by MailFunction
+
+-------------------------------
+このメールは在庫のお問合せの自動返信メールとなっております。
+-------------------------------
+山本　和也  様
+
+TCS　ハイクリアランスベントリンク　BLACK　4本入の在庫確認を承りました。
+担当者より返信いたしますので、少々お待ち下さい。
+
+お急ぎの場合はお電話でお問合わせください。
+電話番号：011-773-5090
+
+-------下記情報を送信いたしました-----------
+商品ID　：　243411-0010000842
+商品名　：　TCS　ハイクリアランスベントリンク　BLACK　4本入
+価格　：　1680 円
+
+電話番号　：　
+メール　　：　g.bom.ya.922@uv.tnc.ne.jp
+都道府県　：　静岡県
+住所（市区町村）　　：　
+住所（番地・建物名）　　：　
+
+お問い合わせ内容：　
+-------------------------------
+当社理由　：　Yahoo
+
+**********************************************
+ご不明な点など御座いましたらお気軽にご相談ください。
+
+ラジコンショップ｜スポーツホビー
+運営会社：有限会社SHK
+
+URL：http://www.sportshobby.co.jp
+
+〒002-0859 北海道札幌市北区屯田11条3丁目
+TEL 011-773-5090
+代表取締役　黒田　民雄
+E-mail <info@sportshobby.co.jp>
+**********************************************
+
+--p7UDsKt9065243.1314712460/www546b.sakura.ne.jp--
+

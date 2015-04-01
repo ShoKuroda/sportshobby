@@ -1,0 +1,51 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.7 required=7.0 tests=BAYES_99,BODY_URI_ONLY,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: actes-lyon.org]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.5 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.4 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only one line containing a URI
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9I7xFXM060068
+	for <hobby.division@sportshobby.co.jp>; Fri, 18 Oct 2013 16:59:15 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:55112 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1382083155.11356
+Received: from 37.45.31.104 ([37.45.31.104])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9I7x9Lm060050
+	for <hobby.division@sportshobby.co.jp>; Fri, 18 Oct 2013 16:59:13 +0900 (JST)
+Date: Fri, 18 Oct 2013 16:59:09 +0900 (JST)
+Message-Id: <201310180759.r9I7x9Lm060050@www546b.sakura.ne.jp>
+X-AntiVirus: Checked by Dr.Web [version: 7.0.4.07130, engine: 7.0.1.05020, virus records: 3667103, updated: 14.02.2013]
+Received: from unknown (HELO localhost) (william_wai_ting@apb.com.au@144.152.32.64)
+	by 37.45.31.104 with ESMTPA; Fri, 18 Oct 2013 12:03:26 +0400
+From: william_wai_ting@apb.com.au
+To: hobby.division@sportshobby.co.jp
+Subject: Very good technique to recharge your loving life
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 18102013 #11163413, status: clean
+
+http://ACTES-LYON.ORG/secret.html The greatest technique to gratify your 
+woman
+

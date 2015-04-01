@@ -1,0 +1,47 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.3 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.7518]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: meemooz.com]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: meemooz.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: meemooz.com]
+	*  3.2 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: meemooz.com]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: meemooz.com]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4P2bOcd067812
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 25 May 2013 11:37:24 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:60076 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1369449444.19813
+Received: from 176.60.213.2 ([176.60.213.2])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4P2bMRd067805
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 25 May 2013 11:37:23 +0900 (JST)
+Date: Sat, 25 May 2013 11:37:22 +0900 (JST)
+Message-Id: <201305250237.r4P2bMRd067805@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (elanium@ksbank.ru@70.190.82.127)
+	by 176.60.213.2 with ESMTPA; Sat, 25 May 2013 05:38:43 +0200
+X-Originating-IP: 70.190.82.127
+From: elanium@ksbank.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: Achieve a success in bedroom life
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 25052013 #10127299, status: clean
+
+Are you ready to surprise your beloved one tonight? 
+http://meemooz.com/hate.html
+

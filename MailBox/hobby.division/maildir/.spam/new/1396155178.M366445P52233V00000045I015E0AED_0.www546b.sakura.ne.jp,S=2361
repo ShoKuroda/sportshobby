@@ -1,0 +1,48 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.9 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_DBL_SPAM,URIBL_JP_SURBL,
+	URIBL_SBL,URIBL_SC_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: wvbjwshe.eu]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: wvbjwshe.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: wvbjwshe.eu]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5349]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: wvbjwshe.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s2U4qrXD052229
+	for <hobby.division@sportshobby.co.jp>; Sun, 30 Mar 2014 13:52:53 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:52205 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1396155173.23012
+Received: from 210.4.225.194 (adsl-mel-4-194.ozonline.com.au [210.4.225.194])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s2U4qnfq052218
+	for <hobby.division@sportshobby.co.jp>; Sun, 30 Mar 2014 13:52:52 +0900 (JST)
+Date: Sun, 30 Mar 2014 13:52:49 +0900 (JST)
+Message-Id: <201403300452.s2U4qnfq052218@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (tokarev@sygnus.ca@182.58.125.198)
+	by 210.4.225.194 with ESMTPA; Sun, 30 Mar 2014 15:42:30 +1000
+X-Originating-IP: 182.58.125.198
+From: tokarev@sygnus.ca
+To: hobby.division@sportshobby.co.jp
+Subject: Keep your gf gratified every night
+X-Antivirus: avast! (VPS 140329-2, 30/03/2014), Outbound message
+X-Antivirus-Status: Clean
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 30032014 #7703857, status: clean
+
+Do you wish to gratify your gf at night? http://flout.wvbjwshe.eu/
+
+
+---
+This email is free from viruses and malware because avast! Antivirus protection is active.
+http://www.avast.com
+

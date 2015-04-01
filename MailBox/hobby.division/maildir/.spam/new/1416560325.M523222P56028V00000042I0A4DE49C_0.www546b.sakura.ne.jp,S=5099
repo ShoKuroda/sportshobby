@@ -1,0 +1,130 @@
+Return-Path: <hobby.divisione3@grooveslab.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.4 required=7.0 tests=BAYES_40,HTML_MESSAGE,
+	URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: stocktips.com]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: stocktips.com]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: stocktips.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: stocktips.com]
+	* -0.0 BAYES_40 BODY: Bayes spam probability is 20 to 40%
+	*      [score: 0.3822]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sAL8wg86056022
+	for <hobby.division@sportshobby.co.jp>; Fri, 21 Nov 2014 17:58:42 +0900 (JST)
+	(envelope-from hobby.divisione3@grooveslab.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Fri, 21 Nov 2014 17:58:42 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from [2.187.24.63] ([2.187.24.63])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sAL8weag056004
+	for <hobby.division@sportshobby.co.jp>; Fri, 21 Nov 2014 17:58:41 +0900 (JST)
+	(envelope-from hobby.divisione3@grooveslab.com)
+Received: from [10.0.0.121] ([10.0.0.121:5603] helo=MS-38BF827CBAEB)
+	by A0336 (envelope-from <hobby.divisione3@grooveslab.com>)
+	(ecelerity 3.5.1.37854 r(Momo-dev:3.5.1.0)) with ESMTP
+	id 0F/1F-3DDB5-DD9369B3; Fri, 21 Nov 2014 12:28:41 +0430
+Date: Fri, 21 Nov 2014 12:28:34 +0430
+From: "StockTips.com" <hobby.divisione3@grooveslab.com>
+Reply-To: <hobby.divisione3@grooveslab.com>
+To: hobby.division@sportshobby.co.jp
+Message-ID: <8C23973800CA0CC81DECE7B5E1E0EA91413F52643231E6F4-5d3312dadabc3e33991708b091b70962@email.grooveslab.com>
+Subject: Sign up now
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_45223_3494175406.9509727942292"
+X-Mailer: WhatCounts
+ENVID: WC-2480487224382-8C23973800CA0CC81DECE7B5E1E0EA91413F52643231E6F4-5d3312dadabc3e33991708b091b70962
+List-Unsubscribe: <https://DFAA7FBECB50E2/unsubscribe/?id=8C23973800CA0CC81DECE7B5E1E0EA91413F52643231E6F4>
+X-Unsubscribe-Web: <https://B8C2A6AC0A41603/unsubscribe/?id=8C23973800CA0CC81DECE7B5E1E0EA91413F52643231E6F4>
+
+------=_Part_45223_3494175406.9509727942292
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+StockTips
+
+=20
+
+Want to make money with stocks?
+
+Sign up at http://www.stocktips.com/ http://www.stocktips.com/ for a =
+small monthly fee only.
+
+=20
+
+=A9 2001-2012 StockTips.com. All Rights Reserved.
+StockTips.com is operated by Amerada Corp
+------=_Part_45223_3494175406.9509727942292
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content=3D"en-us" http-equiv=3D"Content-Language" />
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type" =
+/>
+<title>StockTips Newsletter</title>
+</head>
+
+<body>
+
+<table align=3D"center" style=3D"width: 500px">
+	<tr>
+		<td style=3D"text-align: center; font-size: xx-large; font-family: =
+Georgia, 'Times New Roman', Times, serif">
+		<strong>Stock</strong><em>Tips</em></td>
+	</tr>
+	<tr>
+		<td>
+		<p>&nbsp;</p>
+		<p style=3D"font-size: x-large; font-family: Tahoma; color: #BC3434; =
+text-align: center;">
+		<strong>Want to
+		make money with stocks?</strong></p>
+		<p style=3D"text-align: center"><span style=3D"font-size: large; =
+font-family: Tahoma"><strong>Sign up
+		at</strong> </span><a href=3D"http://www.stocktips.com/" =
+target=3D"_blank" title=3D"One-Click here">
+		<span style=3D"font-size: large; font-family: Tahoma">
+		http://www.stocktips.com/</span></a><span style=3D"font-size: large; =
+font-family: Tahoma">
+		for a small monthly fee only.</span></p>
+		<p>&nbsp;</p>
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"text-align: center; background-color: #006699">
+		<span style=3D"color: #FFFFFF; font-family: Georgia, 'Times New =
+Roman', Times, serif">
+		<br />
+		=A9 2001-2012 StockTips.com. All Rights Reserved.</span><br =
+style=3D"color: #FFFFFF; font-family: Georgia, 'Times New Roman', Times, =
+serif; background-color: #006699" />
+		<span style=3D"color: #FFFFFF; font-family: Georgia, 'Times New =
+Roman', Times, serif">
+		StockTips.com is operated by Amerada Corp<br />
+		</span></td>
+	</tr>
+</table>
+
+</body>
+
+</html>
+------=_Part_45223_3494175406.9509727942292--

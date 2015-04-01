@@ -1,0 +1,79 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham
+	version=3.3.2
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2JLhRhi035835
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 06:43:27 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Fri, 20 Mar 2015 06:43:27 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-131.smtp.rakuten.co.jp [202.72.58.131])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2JLhRVW035832
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 06:43:27 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat303zc.zd.rakuten.co.jp [172.18.93.5])
+	by mxmator101z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3l7MDb4gvszJmlt
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 06:43:27 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1426801407;
+	bh=XF9PwkrA4XCycU7fLKiowc2Z1sS0dKqZuEaFcz+bm8Y=;
+	h=Date:From:Reply-To:To:Cc:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=fInq7l/s/6E6paWfYPknQJx2ZTvfDKJdbbiPWZMq0m73wUs6vfQDOna5SegeYTlH0
+	 bmm3717z8FIGsCTwWOxKXOCLgWQE9XTJOW95y1SUczTFJI43j/AfGY4qdazCYJs3Eg
+	 4+4yPWqCIh3c8fqR46nklSYMGko+F8dBzULcHOFc=
+Received: from mat3.zd.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat303zc.zd.rakuten.co.jp (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2JLh0hv013032
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 20 Mar 2015 06:43:27 +0900
+Received: from rakuten.co.jp ([matqor201zc.zd.rakuten.co.jp [172.18.92.9]]) by mat303zc.zd.rakuten.co.jp with RELAY id t2JLhRlW013293 ;
+          Fri, 20 Mar 2015 06:43:27 +0900
+Date: Fri, 20 Mar 2015 06:43:27 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: f1321dc9ff245bb1681632bf961e1d1bs1@dm.fw.rakuten.ne.jp,
+        on_line.shop12@sportshobby.co.jp
+To: f1321dc9ff245bb1681632bf961e1d1bs1@dm.fw.rakuten.ne.jp
+Cc: on_line.shop12@sportshobby.co.jp
+Message-ID: <201503200643.t2JLhRlW013293@mat303zc.zd.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3IVtDbUo4RmJNRiQ0M05HJxsoQigbJEI3SEJTGyhCKQ==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.18.92.9
+X-Rams-Id: 1466B1FD195FE5649B9C33702CF34506E0534D8A
+
+注文内容は以下のﾍﾟｰｼﾞからﾕｰｻﾞID･ﾊﾟｽﾜｰﾄﾞを入力しご確認ください｡
+https://m.order.my.rakuten.co.jp/
+⇒ｱｸｾｽ出来ない方はこちら
+https://order.my.rakuten.co.jp/
+
+[商品] SANWA(ｻﾝﾜ) MX-V  RX-37W PC(送信機＆防水受信機) (mxvpcw) 10800円×1
+[今回獲得するﾎﾟｲﾝﾄ]108
+[受注番号] 243411-20150320-0200211323
+※上記の番号にﾘﾝｸが表示されている場合でもこのﾘﾝｸから楽天市場やｼｮｯﾌﾟへのお問い合わせはできません｡
+[ｼｮｯﾌﾟ情報] ｽﾎﾟｰﾂﾎﾋﾞｰ sportshobby@shop.rakuten.co.jp 011-773-5090
+【ご注意】
+ｼｮｯﾌﾟや楽天からﾒｰﾙが届かない場合がありますので､以下のﾄﾞﾒｲﾝを許可ﾄﾞﾒｲﾝとして追加をしてください
+ｼｮｯﾌﾟﾄﾞﾒｲﾝ:shop.rakuten.co.jp
+楽天ﾄﾞﾒｲﾝ:rakuten.co.jp
+
+※送料等の諸費用は変わる場合があります｡
+
+【PR】楽天ｶｰﾄﾞ入会&利用でもれなく5,000ﾎﾟｲﾝﾄﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://r10.to/hGaVbA
+
+【PR】楽天Edyｱﾌﾟﾘをﾀﾞｳﾝﾛｰﾄﾞするだけで400ﾎﾟｲﾝﾄ!!
+ ⇒http://r10.to/hJ999p
+
+
+※商品に関するお問い合わせは上記のｼｮｯﾌﾟにご連絡ください｡このﾒｰﾙに返信されてもお答えできません｡
+※楽天市場に関する問い合わせは､楽天ﾄｯﾌﾟ http://m.rakuten.co.jp/ のご利用ｶﾞｲﾄﾞをご覧ください｡
+⇒ｱｸｾｽ出来ない方はこちら
+http://event.rakuten.co.jp/mobile/iphone/help/
+
+楽天市場(楽天株式会社)
+http://m.rakuten.co.jp/sportshobby/

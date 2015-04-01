@@ -1,0 +1,53 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=18.2 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_MW_SURBL,URIBL_SC_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: 89.106.30.247]
+	*  3.2 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: 89.106.30.247]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: 89.106.30.247]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: 89.106.30.247]
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4M2mRBO012132
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 22 May 2013 11:48:27 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:59649 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1369190907.12141
+Received: from 110.164.87.98 (mx-ll-110-164-87-98.static.3bb.co.th [110.164.87.98] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4M2mHd8012059
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 22 May 2013 11:48:23 +0900 (JST)
+Date: Wed, 22 May 2013 11:48:17 +0900 (JST)
+Message-Id: <201305220248.r4M2mHd8012059@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (lysik.ru@scanport.ru@28.79.149.104)
+	by 110.164.87.98 with ESMTPA; Wed, 22 May 2013 09:45:40 +0700
+X-Originating-IP: 28.79.149.104
+From: lysik.ru@scanport.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: Do not disappoint your girl today
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 21052013 #10084224, status: clean
+
+http://89.106.30.247/importance.html Are you ready to gratify your female 
+partner tonight?
+

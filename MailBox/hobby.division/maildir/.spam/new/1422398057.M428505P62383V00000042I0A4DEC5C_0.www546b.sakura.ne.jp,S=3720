@@ -1,0 +1,88 @@
+Return-Path: <service8@mx1.powersqve.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.2 required=7.0 tests=BAYES_50,
+	CHARSET_FARAWAY_HEADER,DATE_IN_PAST_03_06,DKIM_SIGNED,FREEMAIL_REPLYTO,
+	T_DKIM_INVALID,URIBL_BLOCKED,URIBL_DBL_SPAM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: sina.com]
+	*  1.6 DATE_IN_PAST_03_06 Date: is 3 to 6 hours before Received: date
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: powersqve.com]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4932]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0RMYEun062380
+	for <hobby.division@sportshobby.co.jp>; Wed, 28 Jan 2015 07:34:14 +0900 (JST)
+	(envelope-from service8@mx1.powersqve.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Wed, 28 Jan 2015 07:34:14 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from mail.mx1.powersqve.com (zde4.zeetech.net.in [192.157.244.43] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t0RMYE7S062375
+	for <hobby.division@sportshobby.co.jp>; Wed, 28 Jan 2015 07:34:14 +0900 (JST)
+	(envelope-from service8@mx1.powersqve.com)
+Message-Id: <201501272234.t0RMYE7S062375@www546b.sakura.ne.jp>
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx1.powersqve.com 33A24FD453D6
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mx1.powersqve.com;
+	s=mx1.powersqve; t=1422380620;
+	bh=jmtsnBAEY2DUg2ecj8kuwzPPvROfX2xWNH94lGKH8sU=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=cYgU5ro1142cB8bcM9F+Ci1pFQsThkjHCwgUjmaBs6pUBIEzfL1A8eQaLQyJYaubE
+	 zAIF+9HUybzx7xhrrSl7ttTvMQE/BgbqPbeB6myxaoyIlApNWSr5YUUAOgc53IqeMC
+	 WPGkG3013/9NTtb2XmI2wIPMC28JsfH7ZHx1BTl4=
+Date: Wed, 28 Jan 2015 01:43:28 +0800
+From: "Neo" <service8@mx1.powersqve.com>
+To: "wayne" <wayne@lifestyledesign.gi>
+Reply-To: <dfs4g2gsd@163.com>
+Subject: =?GB2312?B?Q05DIE1hY2hpbmluZy9JbmplY3Rpb24gTW9sZGluZyBlbnF1aXJ5?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id t0RMYEun062380
+
+Dear Friends,
+
+Does your company need Precision CNC Machining/ Plastic Injection Molding parts or service?
+
+Our company is a chinese CNC Machining and Injection Molding manufacturer, but in 2006, past ISO9001 2008 over 5 years.
+
+We specialized in:
+* CNC Turning
+* CNC Milling
+* Precision Machining
+* Injection Molding
+* welding & Assembly
+ 
+MOQ: IPC
+Max precision: +/- 0.005mm
+
+Some customer's cases shows on follow link, pls check it:
+http://beger3m.blog.163.com/album/#m=1&aid=275636715&p=1
+
+Rapid prototype available, small quantity acceptable!
+looking forward to cooperating with you. 
+
+thanks & Best Regards 
+Neo.Wang 
+Marketing Manager 
+
+Email: boger3m@vip.sina.com  
+          bogiemolding@gmail.com
+Boger Mechanical Technology Co.,Ltd 
+

@@ -1,0 +1,46 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.4 required=7.0 tests=BAYES_99,BAYES_999,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: thepillsinvestment.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: thepillsinvestment.be]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: thepillsinvestment.be]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: thepillsinvestment.be]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9994]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 0.9994]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: thepillsinvestment.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from fsav205.sakura.ne.jp (fsav205.sakura.ne.jp [210.224.168.167])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s7SDHein059436
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 28 Aug 2014 22:17:40 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav205.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp);
+ Thu, 28 Aug 2014 22:17:40 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp)
+Received: from 37.218.152.79 ([37.218.152.79])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s7SDHcIC059430
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 28 Aug 2014 22:17:39 +0900 (JST)
+Message-Id: <201408281317.s7SDHcIC059430@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (mark@uk.nomura.com@96.145.91.159)
+	by 37.218.152.79 with ESMTPA; Thu, 28 Aug 2014 19:13:39 +0300
+From: mark@uk.nomura.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Do you desire to impress your girl at night?
+Date: Thu, 28 Aug 2014 19:07:10 +0300
+
+Check this potence refresher http://insecure.thepillsinvestment.be/
+

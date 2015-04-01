@@ -1,0 +1,87 @@
+Return-Path: <order@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham
+	version=3.3.2
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBD5Fqi5056096
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 13 Dec 2013 14:15:53 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+X-Nat-Received: from [112.78.125.46]:60523 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1386911752.5729
+Received: from rakuten.co.jp (mxtr102c.rakuten.co.jp [202.72.52.125])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBD5Fq2E056093
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 13 Dec 2013 14:15:52 +0900 (JST)
+	(envelope-from order@rakuten.co.jp)
+Received: from mat.rakuten.co.jp (mat303zc.zd.rakuten.co.jp [172.18.93.5])
+	by mxtr105c.rakuten.co.jp (Rakuten MGw 1.3.7) with ESMTP id D0C0A130E19B
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 13 Dec 2013 14:15:52 +0900 (JST)
+Received: from mat3.zd.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat303zc.zd.rakuten.co.jp (Switch-3.3.4/Switch-3.3.4) with ESMTP id rBD5ESSX008597
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 13 Dec 2013 14:14:32 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0120130400; t=1386911672;
+	bh=9Yjsmw7elmeZaAP671zK9BUSJiwqHkiv+fwx8jJiLBY=;
+	h=Date:From:Reply-To:To:Cc:Message-ID:Subject:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=NHRSh6bnhFDGPF60NRftkOGHWFnjtOWkrOdLx5GOJjtUUpJfnHcu6bFSltPgYchCr
+	 29RTd9te99HhwDuuimAonkvl7kxZ4MPo4PnmWJ9zo0U7M4cL8wYezxuT8sFjGhrtZL
+	 aWjmtCLSXBrQ3BpZ9Wo00i001PnMBmemP26eWS9k=
+Received: from rakuten.co.jp ([matqor202zc.zd.rakuten.co.jp [172.18.92.11]]) by mat303zc.zd.rakuten.co.jp with RELAY id rBD5EWLc008965 ;
+          Fri, 13 Dec 2013 14:14:32 +0900
+Date: Fri, 13 Dec 2013 14:15:52 +0900 (JST)
+From: order@rakuten.co.jp
+Reply-To: c4acd6f1d2ce7c8e4abad40cc69b3495s1@dm.fw.rakuten.ne.jp,
+        on_line.shop12@sportshobby.co.jp
+To: c4acd6f1d2ce7c8e4abad40cc69b3495s1@dm.fw.rakuten.ne.jp
+Cc: on_line.shop12@sportshobby.co.jp
+Message-ID: <201312131414.rBD5EWLc008965@mat303zc.zd.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCIVozWkU3IVtDbUo4RmJNRiQ0M05HJxsoQigbJEI3SEJTGyhCKQ==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.18.92.11
+X-Rams-Id: D7A2FC76FCD7A04792910BF8C40DCB7B39791AE1
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 13122013 #7110951, status: clean
+
+注文内容は以下のﾍﾟｰｼﾞからﾕｰｻﾞID･ﾊﾟｽﾜｰﾄﾞを入力しご確認ください｡
+https://m.order.my.rakuten.co.jp/
+⇒ｱｸｾｽ出来ない方はこちら
+(https://order.my.rakuten.co.jp/)
+
+[商品] JunFac Spare wheel mount for Tamiya CC01 PAJERO (J80026) 1155円×1
+GPM STEEL ｾﾝﾀｰｷﾞﾔ (1pc) (scc038g) 1380円×2
+GPM ｱﾙﾐﾘｱﾀﾞﾝﾊﾟｰ ﾎﾞｰﾙﾄｯﾌﾟ仕様 70mm 2本入り ｶﾗｰ:ｼﾙﾊﾞｰ (cc70rsilver) 2480円×1
+GPM ｱﾙﾐﾌﾛﾝﾄﾀﾞﾝﾊﾟｰ ﾅｲﾛﾝﾄｯﾌﾟ仕様 70mm 2本入り ｶﾗｰ:ｼﾙﾊﾞｰ (cc70fsilver) 2480円×1
+GPM ｱﾙﾐ ﾘｱ ﾀﾞﾝﾊﾟｰﾏｳﾝﾄ 2個入 ｶﾗｰ:ｼﾙﾊﾞｰ (cc070silver) 980円×1
+GPM ｱﾙﾐ ﾌﾛﾝﾄ ﾀﾞﾝﾊﾟｰﾏｳﾝﾄ ｼﾙﾊﾞｰ 2個入 (cc070fs) 980円×2
+GPM STEEL ﾕﾆﾊﾞｰｻﾙｽｲﾝｸﾞｼｬﾌﾄ ﾌﾛﾝﾄ用 (scc245) 2280円×1
+[今回獲得するﾎﾟｲﾝﾄ]136
+[受注番号] 243411-20131213-0172239229
+※上記の番号にﾘﾝｸが表示されている場合でもこのﾘﾝｸから楽天市場やｼｮｯﾌﾟへのお問い合わせはできません｡
+[ｼｮｯﾌﾟ情報] ｽﾎﾟｰﾂﾎﾋﾞｰ hobby.division@sportshobby.co.jp 011-773-5090
+【ご注意】
+ｼｮｯﾌﾟや楽天からﾒｰﾙが届かない場合がありますので､以下のﾄﾞﾒｲﾝを許可ﾄﾞﾒｲﾝとして追加をしてください
+ｼｮｯﾌﾟﾄﾞﾒｲﾝ:sportshobby.co.jp
+楽天ﾄﾞﾒｲﾝ:rakuten.co.jp
+
+※送料等の諸費用は変わる場合があります｡
+
+【PR】Xmas特集2013 ﾎﾟｲﾝﾄ最大10倍も!ｹｰｷにﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://r10.to/hhh9kp
+
+【PR】楽天ｶｰﾄﾞ入会でもれなく2,000円ﾎﾟｲﾝﾄﾌﾟﾚｾﾞﾝﾄ
+ ⇒http://rac.rakuten.co.jp/2964/
+
+【PR】楽天Edyｱﾌﾟﾘをﾀﾞｳﾝﾛｰﾄﾞするだけで400ﾎﾟｲﾝﾄ!!
+ ⇒http://r10.to/hJ999p
+
+
+※商品に関するお問い合わせは上記のｼｮｯﾌﾟにご連絡ください｡このﾒｰﾙに返信されてもお答えできません｡
+※楽天市場に関する問い合わせは､楽天ﾄｯﾌﾟ( http://m.rakuten.co.jp/ )のご利用ｶﾞｲﾄﾞをご覧ください｡
+⇒ｱｸｾｽ出来ない方はこちら
+(http://event.rakuten.co.jp/mobile/iphone/help/)
+
+楽天市場(楽天株式会社)
+http://m.rakuten.co.jp/sportshobby/

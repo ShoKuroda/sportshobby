@@ -1,0 +1,72 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav309.sakura.ne.jp (fsav309.sakura.ne.jp [153.120.85.140])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2Q9wbmp011686
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 18:58:38 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav309.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav309.sakura.ne.jp);
+ Thu, 26 Mar 2015 18:58:37 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav309.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-209.smtp.rakuten.co.jp [202.72.58.209])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2Q9wbfY011683
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 18:58:37 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat104.prod.jp.local [100.66.16.49])
+	by mxmattx105z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lCMG55Lk8z976t
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 18:58:37 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427363917;
+	bh=EhmtPWgeTxlxrijIq9mCd1O7jhoPYik0o545+aMhjU8=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=CVlCaSZmH0WENd0nUV0rMs7FWxlzRinvUnTUSaCOB9et3ueAWjpzz3QSF9mJHhoYr
+	 Wjz3SZaxmcM3NpL6VhXDn7fXniKlG78xCs7Ux9W6gKeo88t/1+Se8D/P+aquAWGoii
+	 jI0XHDZYOW1d0vsv0Mh0+ko3Q3J97Dlfdh1o8A8M=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat104.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2Q9wAJj000872
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 18:58:37 +0900
+Received: from armsrb207c.ap.rakuten.co.jp ([armsrb207c.ap.rakuten.co.jp [172.28.246.155]]) by mat104.prod.jp.local with RELAY id t2Q9wb9O002405 ;
+          Thu, 26 Mar 2015 18:58:37 +0900
+Date: Thu, 26 Mar 2015 18:58:37 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: fc25c331a6df2e3859f100797bf0be00s1@ym.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503261858.t2Q9wb9O002405@mat104.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJDRDbUo4JCIkaiQsJEgkJiQ0JDYkJCReJDkhIxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.246.155
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: 5EAFB0E88BA372BE9A0B3E83D18D236F6F3A2905
+
+■ご注文に関するお知らせ■
+
+寺岡 俊介 様
+
+ｽﾎﾟｰﾂﾎﾋﾞｰです｡
+この度は､ご注文ありがとうございました｡
+決済が完了致しましたので､本日､定形外郵便にて発送させて頂きました｡
+悪天候等で､止むを得ず遅れることは､まれにございます｡その際はご容赦下さいませ｡
+また何かございましたら､よろしくお願い致します｡
+
+                      ｽﾎﾟｰﾂﾎﾋﾞｰ ｶﾞﾝｺｰﾅｰ  工藤
+お荷物伝票番号: 
+配送会社: 日本郵便
+[商品]
+      ﾏﾙｼﾝ CDXｶｰﾄﾘｯｼﾞ(12g型CO2)5本ｾｯﾄ
+      http://item.rakuten.co.jp/sportshobby/10007033/
+
+★ ｽﾎﾟｰﾂﾎﾋﾞｰからのお願い ★ご購入頂いた商品のﾚﾋﾞｭｰを書いて頂けると､とても助かります｡
+▼ こちらを参考にして下さい ▼
+http://m.rakuten.co.jp/ev/guide/mal0600.phtml
+※楽天でｷｬﾝﾍﾟｰﾝを行っている場合､ﾚﾋﾞｭｰを書くとﾎﾟｲﾝﾄが貰える場合がございます｡
+ｽﾎﾟｰﾂﾎﾋﾞｰ
+http://m.rakuten.co.jp/sportshobby/
+  
+
+

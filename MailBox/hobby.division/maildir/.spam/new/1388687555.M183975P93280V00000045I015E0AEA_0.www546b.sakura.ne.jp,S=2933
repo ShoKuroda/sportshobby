@@ -1,0 +1,56 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.3 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_PH_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9907]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: ailiek.ru]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: ailiek.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: ailiek.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: ailiek.ru]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: ailiek.ru]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: ailiek.ru]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: ailiek.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav55.sakura.ne.jp [219.94.192.135])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s02IWVAD093277
+	for <hobby.division@sportshobby.co.jp>; Fri, 3 Jan 2014 03:32:31 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:65288 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1388687551.9204
+Received: from 118.165.127.135 (118-165-127-135.dynamic.hinet.net [118.165.127.135])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s02IWRTC093269
+	for <hobby.division@sportshobby.co.jp>; Fri, 3 Jan 2014 03:32:29 +0900 (JST)
+Date: Fri, 3 Jan 2014 03:32:27 +0900 (JST)
+Message-Id: <201401021832.s02IWRTC093269@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (orlando.ferrante@angelinotturni.it@131.186.159.72)
+	by 118.165.127.135 with ESMTPA; Fri, 3 Jan 2014 02:34:14 +0800
+From: orlando.ferrante@angelinotturni.it
+To: hobby.division@sportshobby.co.jp
+Subject: Give your partner best stimulation
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 02012014 #7226938, status: clean
+
+Get tips to improve your love life http://magnanimous.ailiek.ru/
+

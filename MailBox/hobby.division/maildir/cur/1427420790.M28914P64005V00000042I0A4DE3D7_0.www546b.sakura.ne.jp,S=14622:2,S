@@ -1,0 +1,310 @@
+Return-Path: <spiral-error-278766051f500b8f4c3234b4ae05490e@rcv31.smp.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.5 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,
+	URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav202.sakura.ne.jp (fsav202.sakura.ne.jp [210.224.168.164])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2R1kQCw064002
+	for <hobby.division@sportshobby.co.jp>; Fri, 27 Mar 2015 10:46:26 +0900 (JST)
+	(envelope-from spiral-error-278766051f500b8f4c3234b4ae05490e@rcv31.smp.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav202.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp);
+ Fri, 27 Mar 2015 10:46:26 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp)
+Received: from agt3101.smp.ne.jp (agt3101.smp.ne.jp [59.106.100.149])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t2R1kQwC063999
+	for <hobby.division@sportshobby.co.jp>; Fri, 27 Mar 2015 10:46:26 +0900 (JST)
+	(envelope-from spiral-error-278766051f500b8f4c3234b4ae05490e@rcv31.smp.ne.jp)
+Received: (qmail 17315 invoked by uid 200); 27 Mar 2015 10:46:26 +0900
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=n01.smp.ne.jp;
+	s=D20140617-spiral; t=1427420786;
+	bh=9/FWCXPhb1gq1BT+8VzkvkLKl0hwncjkjqbPMJCZNWc=;
+	h=Message-Id:Date:From:Subject:To:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=U/jc+jZIIicFVFerwINy5wrYRLSZnjYGqy13wh5hyNP+N2+AIcCzRvh2/bNN2jJn3
+	 u0JFYDKZPSFgYqRYHcqicjLjyOEO47IDm9YZ5hSlp3k+2ayOYhd/uBYL77iNEdSpfd
+	 qnNnjeVbRf5YHv31W9MD+rjK6JEnOC2BfTEp6MJEk5AkvQMFJoJSFzl/4OZZGjgl/n
+	 KHEGg1r9BlnuSD2SN8SP9IKUjWb5wUpYJEcQnssjqUzrZFNUmjxLxkvMGhaQ6HAZka
+	 cCspisDS35BHAmg652lEfEKm0Ycmow1ScD8RXe29RYcGAiMiNRL5QT/09LDI4ktPB6
+	 ke0wYuVw4ZM2A==
+Message-Id: <SMP29_806784_63127586.1427420786@agt3101.smp.ne.jp>
+Date: Fri, 27 Mar 2015 10:46:26 +0900
+From: =?iso-2022-jp?B?GyRCJTklSCUiISYlKCUtJTklVyVsJTkbKEI=?= <news@tenken.co.jp>
+Subject: =?iso-2022-jp?B?GyRCOkdCZxsoQjc4GyRCIXMbKEJPRkYbJEIhKjojN244QhsoQg==?=
+ =?iso-2022-jp?B?GyRCJGokTkJnRkMyQSUiJSQlRiVgJHIkND5SMnAhKiFaJTklSBsoQg==?=
+ =?iso-2022-jp?B?GyRCJSIhJiUoJS0lOSVXJWwlOSFbGyhCIA==?=
+To: hobby.division@sportshobby.co.jp
+Reply-To: news@tenken.co.jp
+User-Agent: Spiral/1.11; Messaging Agent
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆
+　　　┏━━┓　　　店舗応援マガジン
+　　　┃＼／┃　　　ストア・エキスプレスＮＥＷＳ　号外
+　　　┗━━┛　　　株式会社店研創意　＜2015.3.27発行＞
+　　　　　　　　　　https://www.store-express.com/CGI/index.cgi
+◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆◇◇◆
+※このメールは「MSゴシック」など等幅フォントできれいに見られます。
+
+↓お買い逃しはありませんか？3月31日(火)で終了の激安セール！/／
+ ★     ★     ★     ★     ★     ★     ★
+ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+　　　　　 　☆3月31日(火)まで！☆
+　　　　 ┏━━━━━━━━━━━━┓
+　　　　 ┃------------------------┃
+　　　 ＿┃ 　在庫処分セール！！　 ┃＿
+　　　 ＼┃------------------------┃／
+　　　 ／┗━┯━━━━━━━━┯━┛＼
+　　　 ￣￣￣                    ￣￣￣
+▼『在庫処分セール』全商品はこちら
+http://r31.smp.ne.jp/u/No/806784/FFtCe4Gfg_89_63127586/806784_150327001.html
+ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+  ★     ★     ★     ★     ★     ★     ★
+  
+
+＼＼買うなら今がチャンス！まもなく終了ですっ／／
+≪3月限りの特価商品をピックアップ！お早めにどうぞ！≫
+↓　↓　↓　↓　↓　↓　↓　↓　↓　↓
+
+【今月だけ大幅プライスダウン♪おすすめ店舗什器！！】
+
+＼50％OFF★／
+○ライティングデスク オフホワイト
+33,738円⇒16,740円！
+http://r31.smp.ne.jp/u/No/806784/2gaxj0Gfg_89_63127586/806784_150327002.html
+
+＼50％OFF★／
+○ダンボール製販売台
+4,104円⇒2,050円！
+http://r31.smp.ne.jp/u/No/806784/09Gek8Gfg_89_63127586/806784_150327003.html
+
+＼40％OFF★／
+○シューズ用スツール ミラー
+17,486円⇒10,491円！
+http://r31.smp.ne.jp/u/No/806784/97o363Gfg_89_63127586/806784_150327004.html
+
+＼30％OFF★／
+○折りたたみワゴン
+6,995円⇒4,895円！
+http://r31.smp.ne.jp/u/No/806784/dcAubBGfg_89_63127586/806784_150327005.html
+
+＼30％OFF★／
+○木製テーブル テーパー脚 ホワイト
+27,565円⇒19,295円！
+http://r31.smp.ne.jp/u/No/806784/d7WlDAGfg_89_63127586/806784_150327006.html
+
+【こちらも今月限りの大特価！店舗運営のお役立ちアイテム♪】
+＼78％OFF★／
+●卓上ファンキーボード グラス
+1,512円⇒324円！
+http://r31.smp.ne.jp/u/No/806784/GfsLJ6Gfg_89_63127586/806784_150327007.html
+
+＼76％OFF★／
+●卓上ファンキーボード ビール
+1,512円⇒648円！
+http://r31.smp.ne.jp/u/No/806784/aCEvd1Gfg_89_63127586/806784_150327008.html
+
+＼37％OFF★／
+●シンガーポリスーパーグローブ SS
+100枚 172円⇒108円！(単価1.1円)
+http://r31.smp.ne.jp/u/No/806784/H2Do9CGfg_89_63127586/806784_150327009.html
+
+＼11％OFF★／
+●アクリルマルチプライサー
+1,222円⇒1,080円！
+http://r31.smp.ne.jp/u/No/806784/CIL7E1Gfg_89_63127586/806784_150327010.html
+
+＼5％OFF★／
+●仕切板
+10枚 1,404円⇒1,333円！(単価134円)
+http://r31.smp.ne.jp/u/No/806784/85IR7AGfg_89_63127586/806784_150327011.html
+
+＼＼☆3月31日(火)まで！☆在庫限りの売り切り価格！／／
+http://r31.smp.ne.jp/u/No/806784/IBbabeGfg_89_63127586/806784_150327012.html
+
+他にもあります♪在庫処分セールの激安アイテム！
+▼『在庫処分セール』特集ページはこちら
+http://r31.smp.ne.jp/u/No/806784/JAGJDEGfg_89_63127586/806784_150327013.html
+
+▼『在庫処分セール』全商品はこちら
+http://r31.smp.ne.jp/u/No/806784/FFtCe4Gfg_89_63127586/806784_150327001.html
+
+◇―*☆*―◇―*☆*―◇―*☆*―◇―*☆*―◇―*☆*―◇―*☆*―◇
+
+　　＼今年の母の日は5月10日(日)！／☆★【母の日特集】☆★
+　　　＝＝＝＝＝＝＝＝＝＝＝＝＝　　　　＝＝＝＝＝＝
+◇―*☆*―◇―*☆*―◇―*☆*―◇―*☆*―◇―*☆*―◇―*☆*―◇
+http://r31.smp.ne.jp/u/No/806784/K1fQDhGfg_89_63127586/806784_150327014.html
+
+↓母の日に最適♪おすすめアイテムをご紹介！/／
+
+○プードルバスケット ミニ
+420円
+http://r31.smp.ne.jp/u/No/806784/8IaxDiGfg_89_63127586/806784_150327015.html
+
+○プードルハートラップ
+1,180円
+http://r31.smp.ne.jp/u/No/806784/f06DaHGfg_89_63127586/806784_150327016.html
+
+○お母さんありがとう ポスター
+10枚 540円〜(単価54円〜)
+http://r31.smp.ne.jp/u/No/806784/9C-Pk1Gfg_89_63127586/806784_150327017.html
+
+○Happy Mother's Day ディスプレーシート
+2,160円
+http://r31.smp.ne.jp/u/No/806784/Cebzj0Gfg_89_63127586/806784_150327018.html
+
+▼『母の日特集』特集ページはこちら
+http://r31.smp.ne.jp/u/No/806784/K1fQDhGfg_89_63127586/806784_150327014.html
+
+↓『母の日特集』商品一覧はこちら
+http://r31.smp.ne.jp/u/No/806784/cfHXjIGfg_89_63127586/806784_150327019.html
+
+＼ご請求は無料！／
+◇『春の装飾品〜母の日特集〜』カタログご請求はこちら
+http://r31.smp.ne.jp/u/No/806784/60RSBiGfg_89_63127586/806784_150327020.html
+※ログイン後、ご請求いただけます。
+
+◆『春の装飾品〜母の日特集〜』デジタルカタログはこちら
+http://r31.smp.ne.jp/u/No/806784/8a2HfcGfg_89_63127586/806784_150327021.html
+
+┏━━━┓
+┃　　　┃＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+┃　　  ┃　　　　こちらもお見逃しなく！
+┗┻┻┫┃
+      ┃┃オンラインショップのおすすめコンテンツ♪
+  ＼＼┗┛／／
+
+*⌒*⌒*⌒*⌒*⌒*⌒*⌒*⌒*
+ストアプランニングツール
+*⌒*⌒*⌒*⌒*⌒*⌒*⌒*⌒*
+間取りを決めて、什器をドラッグ＆ドロップするだけ♪
+そのまま商品をカートに入れたり、簡単な見積もりも作成できます。
+さらに、シミュレーション結果をPDFで保存いただけます♪　
+http://r31.smp.ne.jp/u/No/806784/J0pIe7Gfg_89_63127586/806784_150327022.html
+※ご利用時にはAdobe Flash Playerが必要です。
+
+＼人気のレジスターが期間限定の大特価！／
+春の新店オープンや、レジスターの買換えに是非！
+＝＝＝＝☆★春のレジスターフェア☆★＝＝＝＝
+【お得なフェアは4月30日(木)まで！】
+▼商品一覧はこちら！
+http://r31.smp.ne.jp/u/No/806784/I1zTbcGfg_89_63127586/806784_150327023.html
+
+※品切れ・完売の際は何卒ご容赦ください。
+
+━━…━━…━━…━━…━━…━━
+●POPテンプレート無料ダウンロード●
+━━…━━…━━…━━…━━…━━
+＼NET会員様限定！春向けのデザインを豊富にご用意しております♪／
+☆是非ご活用ください♪
+http://r31.smp.ne.jp/u/No/806784/bix0FBGfg_89_63127586/806784_150327024.html
+※ログイン後、ご利用いただけます。
+
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
+
+　　　　　来月のストエキの日は【4月8日(水)と15日(水)】です！
+　　　　　━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　　キャンペーン内容は当日発表！次回も是非お楽しみに(＾▽＾）／
+
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□
+┣━┓━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┏━┓
+┃□┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　┃
+┃∵┃　　　★スマートフォンサイト＆モバイルサイトのご案内★　　　┃∩┃
+┗━┛━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┗|hnn
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　L  」
+☆スマートフォンサイト☆　　　　　　　　　　　　　　　　　　　　　　││
+========================
+スマホで楽々ご注文♪デジタルカタログもご覧いただけます。
+iPhone・Android用壁紙ダウンロードは無料です！
+スマホ版メルマガも配信中！
+
+▼スマホサイトはこちら↓
+http://r31.smp.ne.jp/u/No/806784/58sK69Gfg_89_63127586/806784_150327025.html
+※PC、タブレット、フィーチャーフォンからはご利用になれません。
+
+　☆モバイルサイト☆
+======================
+タイムセールなど、モバイルだけのお得なサービスがあります！
+モバイルサイト限定メルマガ購読キャンペーンも♪
+
+＊モバイルサイトについて＊
+http://r31.smp.ne.jp/u/No/806784/ba3BfhGfg_89_63127586/806784_150327026.html
+
+＼モバイル版メルマガも配信中！／
+▼モバイルサイトはこちら↓
+https://st-exp.com/
+※PC、スマートフォンからはご利用になれません。
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+今号も、最後までお付き合いいただき、ありがとうございました。
+皆様のご利用を、心よりお待ち申し上げております。
+それでは、次号もお楽しみに〜(＾-＾)ノ~
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+□メールマガジンの配信停止
+
+今後メールマガジンの配信をご希望でないお客様は・・・
+
+オンラインショップ お客様専用マイページの『メルマガ購読の変更』画面にて、
+＊メールマガジン購読希望＊の項目を“希望しない”とご変更ください。
+
+※当メールマガジンは購読をご希望いただいた方に、お送りしております。
+
+　-------------------------------------------------------------------------
+
+□この記事や、商品に関するお問い合わせは
+
+　株式会社店研創意　ストア・エキスプレス　カスタマーサービス
+　https://www.store-express.com/CGI/contact/customer.cgi
+　TEL：06-6203-6660　FAX：0120-933-530
+
+※皆様のご意見・ご希望などもお待ちしております。(＾O＾)／(＾O＾)／
+
+　-------------------------------------------------------------------------
+
+□店研創意「企業サイト」はこちら(各店舗営業日も掲載しています。)
+　http://www.tenken.co.jp/
+
+　------------------------------------------------------------------------
+
+＼お近くにお越しの際は是非お立ち寄りください／
+　★-★-★-★-★各店舗のご案内★-★-★-★-★
+
+■エキスプレス・デポ全店■
+春のレジスターフェア開催中♪≪〜4/30(木)まで≫
+
+【ストア・エキスプレス】
+・東京本店　【〜3/31(火)までポイント2倍！】
+http://r31.smp.ne.jp/u/No/806784/hAex8bGfg_89_63127586/806784_150327027.html
+・大阪本店
+※本日、3/27(金)は社内行事のため、16:30で閉店します。
+http://r31.smp.ne.jp/u/No/806784/H4Tg8CGfg_89_63127586/806784_150327028.html
+・名古屋店　【〜3/31(火)までポイント2倍！】
+http://r31.smp.ne.jp/u/No/806784/haelkJGfg_89_63127586/806784_150327029.html
+・福岡店　【〜3/31(火)までポイント2倍！】
+http://r31.smp.ne.jp/u/No/806784/CbjG59Gfg_89_63127586/806784_150327030.html
+
+【ストアデポ】
+★デポ全店★
+★毎週水曜日はポイント2倍！
+★日・祝のみ、お買上げ税込500円毎に1ポイント加算サービス中！
+★〜3/31(火)までラッピング用品5％OFF！
+・三条寺町店　
+　※下記の通り、営業時間を変更しております。
+　【月〜金】10:00〜19:00【土】10:00〜18:00【日・祝】10:00〜17:00
+http://r31.smp.ne.jp/u/No/806784/EcfL4iGfg_89_63127586/806784_150327031.html
+・四条烏丸店
+　※下記の通り、営業時間を変更しております。
+　【月〜金】10:00〜19:00【土・日・祝】10:00〜17:00
+http://r31.smp.ne.jp/u/No/806784/f6e2i9Gfg_89_63127586/806784_150327032.html
+・神戸元町店　【土・日・祝は飲食用備品5％OFF！】
+http://r31.smp.ne.jp/u/No/806784/iGJkGkGfg_89_63127586/806784_150327033.html
+
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+Copyright(C)TENKENSOUI Co., Ltd. All Rights reserved.
+*ご商友への転送は、大歓迎いたします。
+

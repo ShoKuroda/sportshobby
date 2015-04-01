@@ -1,0 +1,81 @@
+Return-Path: <service12@mx1.hxtradehx.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.0 required=7.0 tests=BAYES_50,
+	CHARSET_FARAWAY_HEADER,DATE_IN_PAST_96_XX,DKIM_SIGNED,T_DKIM_INVALID,
+	URIBL_BLOCKED,URIBL_DBL_SPAM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.4 DATE_IN_PAST_96_XX Date: is 96 hours or more before Received: date
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: hxtradehx.com]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: qdtll.cn]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4869]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V9eXBK048551
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 18:40:48 +0900 (JST)
+	(envelope-from service12@mx1.hxtradehx.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Tue, 31 Mar 2015 18:40:33 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from mail.mx1.hxtradehx.com ([192.157.233.105])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V9eHG7048516
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 18:40:32 +0900 (JST)
+	(envelope-from service12@mx1.hxtradehx.com)
+Message-Id: <201503310940.t2V9eHG7048516@www546b.sakura.ne.jp>
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx1.hxtradehx.com 2E69E9C82A0A
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mx1.hxtradehx.com;
+	s=mx1.hxtradehx; t=1427430888;
+	bh=DoE3DaTYyk56ySOx55FJicICfmLsdhhQf6ueZH6rZaw=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=wpKoCCk/+19Q9V92hzSo9ono0HsB0PQwYyY09gv7B25zbx+cbXTbFH24jZpEu8iQs
+	 Jwo9xz/gA2XcqMM3mZH/vyfn/1u/uGHg9Eg0I/yI63AFi5nveefWFk+Ov2D0RlqS02
+	 BtmrG2UOSg4760/SVRumz39mIfq+0gM4RtVzYXGk=
+Date: Fri, 27 Mar 2015 12:34:46 +0800
+From: "Hui Lu" <service12@mx1.hxtradehx.com>
+To: "info" <info@dicta.hr>
+Reply-To: <huixinsoft92@foxmail.com>
+Subject: =?GB2312?B?UmU6IG9mZmVyIGZvciBDTkMgbWFjaGluaW5nIHBhcnRz?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id t2V9eXBK048551
+
+
+Dear Friends,
+ 
+Nice day to you, I am Hui Lu. Hope I have chance to cooperate with you.
+ 
+I have engaged in the casting industry for about 14years.
+
+I can pricing to you in one day after you send me the detailed drawings with techinical requirements.
+ 
+We are glad to provide you OEM service.
+ 
+Welcome to visit our foundry which is located in Qingdao-a beautiful port city in China.
+ 
+Looking forward to your early reply.
+ 
+Best Regards,
+Hui Lu
+
+TLL Metal Stock Co., Ltd
+Add: Qingdao, China
+Tel: +86 (532)83188779
+Mobile: +86 13853286227
+MAIL:TLL7@qdtll.cn
+
+

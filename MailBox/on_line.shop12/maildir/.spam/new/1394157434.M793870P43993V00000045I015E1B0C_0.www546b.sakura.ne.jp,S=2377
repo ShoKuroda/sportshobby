@@ -1,0 +1,45 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.2 required=7.0 tests=BAYES_95,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL,URI_NOVOWEL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: qwswcdqq.eu]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: qwswcdqq.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: qwswcdqq.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: qwswcdqq.eu]
+	*  0.5 URI_NOVOWEL URI: URI hostname has long non-vowel sequence
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9658]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: qwswcdqq.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s271vBPX043990
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 7 Mar 2014 10:57:11 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:58924 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1394157431.9597
+Received: from 118.97.211.21 (21.subnet118-97-211.static.astinet.telkom.net.id [118.97.211.21] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s271uoVY043917
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 7 Mar 2014 10:57:09 +0900 (JST)
+Date: Fri, 7 Mar 2014 10:56:50 +0900 (JST)
+Message-Id: <201403070157.s271uoVY043917@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (lwhite@co.franklin.oh.us@154.223.227.118)
+	by 118.97.211.21 with ESMTPA; Fri, 7 Mar 2014 10:04:35 -0800
+X-Originating-IP: 154.223.227.118
+From: lwhite@co.franklin.oh.us
+To: on_line.shop12@sportshobby.co.jp
+Subject: Do not put your health at risk
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06032014 #7420608, status: clean
+
+http://unpack.qwswcdqq.eu/ Give your woman joy
+

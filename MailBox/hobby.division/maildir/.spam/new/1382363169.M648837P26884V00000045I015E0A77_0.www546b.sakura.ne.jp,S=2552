@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.6 required=7.0 tests=BAYES_95,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: vinmajor.com.tw]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: vinmajor.com.tw]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: vinmajor.com.tw]
+	*  1.5 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: vinmajor.com.tw]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: vinmajor.com.tw]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: vinmajor.com.tw]
+	*  3.0 BAYES_95 BODY: Bayes spam probability is 95 to 99%
+	*      [score: 0.9627]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.4 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav55.sakura.ne.jp [219.94.192.135])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9LDk5Yj026881
+	for <hobby.division@sportshobby.co.jp>; Mon, 21 Oct 2013 22:46:05 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:55636 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1382363165.595
+Received: from 178.127.120.49 ([178.127.120.49])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9LDk2Pn026872
+	for <hobby.division@sportshobby.co.jp>; Mon, 21 Oct 2013 22:46:04 +0900 (JST)
+Message-Id: <201310211346.r9LDk2Pn026872@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (janzura@trinit.cz@238.84.236.200)
+	by 178.127.120.49 with ESMTPA; Mon, 21 Oct 2013 17:48:43 +0300
+From: janzura@trinit.cz
+To: hobby.division@sportshobby.co.jp
+Subject: Get rid of bad dreams
+Date: Mon, 21 Oct 2013 17:43:37 +0300
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 21102013 #11091563, status: clean
+
+Disclose your love force http://www.vinmajor.com.tw/cause.html
+

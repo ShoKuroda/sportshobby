@@ -1,0 +1,221 @@
+Return-Path: <email@bagcurrent.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.3 required=7.0 tests=BAYES_50,DATE_IN_PAST_06_12,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,URIBL_DBL_SPAM
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: bagcurrent.com]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: bagcurrent.com]
+	*  1.5 DATE_IN_PAST_06_12 Date: is 6 to 12 hours before Received: date
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav55.sakura.ne.jp [219.94.192.135])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBEJU8pY067805
+	for <hobby.division@sportshobby.co.jp>; Sun, 15 Dec 2013 04:30:09 +0900 (JST)
+	(envelope-from email@bagcurrent.com)
+X-Nat-Received: from [112.78.125.46]:62639 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1387049408.17854
+Received: from 191vc12.tivzc.com (191vcl12.tivzc.com [23.225.191.12] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rBEJU64G067798
+	for <hobby.division@sportshobby.co.jp>; Sun, 15 Dec 2013 04:30:07 +0900 (JST)
+	(envelope-from email@bagcurrent.com)
+DomainKey-Signature: a=rsa-sha1; s=dkim; d=bagcurrent.com; c=simple; q=dns;
+ b=ruj/jFTTDz/CtkU01PNzh7zFrtqO61LNtyQRFXT2lPG6TC5wo4XM1tU0FqkJMlf59To1KP5Lk3JwL4S/n1v3A7wUxoElMToAsyi2MTDJVNTfFKobz245lEBxRItfuD7MW0TLHFTNi5IWscFwC9FnX5u+Hib1V8zWE2bz+r7tgMg=;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=bagcurrent.com; 
+ i=@bagcurrent.com; q=dns/txt; s=dkim; t=1387049391; h=Date : To : From 
+ : Subject : Message-ID : MIME-Version : Content-Type : Date : From : 
+ Subject; bh=LfG+3pLvUF7jlPOkWogefXn43yGGdKiiWd5Ao19GpVA=; 
+ b=vGfM9JaZtqfYgVRNigvxQOq2lImn5HlXoTDTMyFW2Jxtd8Gst2MytAHWRyKTCEu3LSJ4qX
+ Ew7KpfMTzHH7ukUiprAkG4mnf5yXq/mV6/2I+z/oRoHfLoQzAxkfLk99Ld/KnHL2tHSfXHB8
+ ChcgOia7MeRHj1xVTVq3Mf9Flt49U=
+Date: Sat, 14 Dec 2013 21:17:51 +0800
+To: =?utf-8?b?5pyJ6ZmQ5Lya56S+44Ko44K544Ko44OD44OB44Kx44O8?=
+ <hobby.division@sportshobby.co.jp>
+From: Louis Vuitton Shop <email@bagcurrent.com>
+Subject: =?utf-8?q?Everything_-_80=25_Off_plus_FREE_shipping=2C_24_hrS_ONLY!?=
+Message-ID: <20131214211751.33277-{T:20131214211742-1881-61}-0020728@bagcurrent.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_3ba42c732f9f606aa9a06060922c15cd"
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 14122013 #7131732, status: clean
+
+
+
+
+--b1_3ba42c732f9f606aa9a06060922c15cd
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+* Free Shipping promotion valid today EST only. Valid only at bagcurrent.co=
+m. Valid for standard world wide ground shipping. Valid one time use per cu=
+stomer. Not valid on previous purchases or in conjunction with any other of=
+fer or coupon.
+
+--b1_3ba42c732f9f606aa9a06060922c15cd
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8" /><title>Bags</title></head><body><table width=3D"600" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"#ffffff"=
+><tr><td width=3D"455" height=3D"24" style=3D"font-family:Verdana, Arial, H=
+elvetica, sans-serif; font-size:10px; color:#666666;">=E6=9C=89=E9=99=90=E4=
+=BC=9A=E7=A4=BE=E3=82=A8=E3=82=B9=E3=82=A8=E3=83=83=E3=83=81=E3=82=B1=E3=83=
+=BC, Hurry! Extra Savings on Select LV Bags Today Only</td><td width=3D"145=
+" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10p=
+x; color:#666666;"><a href=3D"http://bagcurrent.com/lo/?l=3DL3w0NTYzfDE4ODE=
+|hobby.division@sportshobby.co.jp" target=3D"_blank" style=3D"color:#666666=
+;">View Online</a> | <a href=3D"http://bagcurrent.com/unsubscribe?MTg4MXw0N=
+TYz|hobby.division@sportshobby.co.jp"  target=3D"_blank" style=3D"color:#66=
+6666;">Unsubscribe</a></td></tr><tr><td colspan=3D"2"><table width=3D"600" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" height=3D"55"><tr><td widt=
+h=3D"280"><a href=3D"http://bagcurrent.com/lo/?l=3DL3w0NTYzfDE4ODE|hobby.di=
+vision@sportshobby.co.jp" target=3D"_blank"><img src=3D"http://bagcurrent.c=
+om/12/14/96/8f.jpg" width=3D"150" height=3D"45" alt=3D"Online Louis Vuitton=
+ Store" border=3D"0" style=3D"display:block; text-decoration:none; font-siz=
+e:10px; background:#ffffff; color:#333333;"/></a></td><td width=3D"320" ali=
+gn=3D"right"><table width=3D"280" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" style=3D"font:normal 12px/19px 'Times New Roman', Times, serif; tex=
+t-transform:uppercase;"><tr><td width=3D"39"><img src=3D"http://bagcurrent.=
+com/12/14/96/tt.jpg" alt=3D"Free Delivery" width=3D"32" height=3D"24" borde=
+r=3D"0" style=3D"background:#ffffff; font-size:10px;" /></td><td width=3D"1=
+14">Free Delivery*</td><td width=3D"29" align=3D"right"><img src=3D"http://=
+bagcurrent.com/12/14/96/cl.jpg" alt=3D"Fast Returns" width=3D"25" height=3D=
+"26" border=3D"0" style=3D"background:#ffffff; font-size:10px;" /></td><td =
+width=3D"98" align=3D"right">Fast Returns</td></tr></table></td></tr></tabl=
+e></td></tr><tr><td height=3D"28" colspan=3D"2"><table width=3D"600" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" height=3D"26" style=3D"border-to=
+p:1px solid #b2b2b2; font-family:Verdana, Arial, Helvetica, sans-serif; fon=
+t-size:12px; font-weight:bold; text-transform:uppercase; color:#333333;"><t=
+r><td width=3D"45" align=3D"right"><a href=3D"http://bagcurrent.com/lo/?l=
+=3DL3w0NTYzfDE4ODE|hobby.division@sportshobby.co.jp" target=3D"_blank" styl=
+e=3D" text-decoration:none; color:#333333;">home</a></td><td width=3D"86" a=
+lign=3D"right"><a href=3D"http://bagcurrent.com/lo/?l=3DL3w0NTYzfDE4ODE|hob=
+by.division@sportshobby.co.jp" target=3D"_blank" style=3D" text-decoration:=
+none; color:#333333;">women</a></td><td width=3D"62" align=3D"right"><a hre=
+f=3D"http://bagcurrent.com/lo/?l=3DL3w0NTYzfDE4ODE|hobby.division@sportshob=
+by.co.jp" target=3D"_blank" style=3D" text-decoration:none; color:#333333;"=
+>men</a> </td><td width=3D"108" align=3D"right"><a href=3D"http://bagcurren=
+t.com/lo/?l=3DL3w0NTYzfDE4ODE|hobby.division@sportshobby.co.jp" target=3D"_=
+blank" style=3D" text-decoration:none; color:#333333;">handbags</a></td><td=
+ width=3D"80" align=3D"right"><a href=3D"http://bagcurrent.com/lo/?l=3DL3w0=
+NTYzfDE4ODE|hobby.division@sportshobby.co.jp" target=3D"_blank" style=3D" t=
+ext-decoration:none; color:#333333;">shoes</a></td><td width=3D"85" align=
+=3D"right"><a href=3D"http://bagcurrent.com/lo/?l=3DL3w0NTYzfDE4ODE|hobby.d=
+ivision@sportshobby.co.jp" target=3D"_blank" style=3D" text-decoration:none=
+; color:#333333;">travel</a></td><td width=3D"128" align=3D"right"><a href=
+=3D"http://bagcurrent.com/lo/?l=3DL3w0NTYzfDE4ODE|hobby.division@sportshobb=
+y.co.jp" target=3D"_blank" style=3D" text-decoration:none; color:#333333;">=
+accessories</a></td><td width=3D"6"></td></tr></table></td></tr><tr><td hei=
+ght=3D"522" colspan=3D"2" align=3D"center" bgcolor=3D"#a10123"><table width=
+=3D"513" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" height=3D"423" bg=
+color=3D"#ffffff"><tr><td width=3D"513"><table width=3D"513" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" height=3D"450"><tr><td width=3D"513" hei=
+ght=3D"100" align=3D"center" valign=3D"bottom"><table width=3D"429" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#a10123" height=3D"99=
+"><tr><td width=3D"429" align=3D"center" style=3D"font-family:Verdana, Aria=
+l, Helvetica, sans-serif; font-weight:bold; font-size:42px; color:#ffffff; =
+text-transform:uppercase; line-height:45px;"><a href=3D"http://bagcurrent.c=
+om/lo/?l=3DL3w0NTYzfDE4ODE|hobby.division@sportshobby.co.jp" target=3D"_bla=
+nk" style=3D"color:#ffffff; text-decoration:none;">Louis Vuitton</a><br /><=
+span style=3D"font-size:25px; font-style:italic; font-weight:normal; line-h=
+eight:30px;"><a href=3D"http://bagcurrent.com/lo/?l=3DL3w0NTYzfDE4ODE|hobby=
+.division@sportshobby.co.jp" target=3D"_blank" style=3D"color:#ffffff; text=
+-decoration:none;">Laster 24 Hours!</a></span></td></tr></table></td></tr><=
+tr><td width=3D"513" height=3D"70" align=3D"center" style=3D"font:normal 85=
+px/85px Verdana, Arial, Helvetica, sans-serif; color:#530706; text-transfor=
+m:uppercase; font-weight:bold;"><a href=3D"http://bagcurrent.com/lo/?l=3DL3=
+w0NTYzfDE4ODE|hobby.division@sportshobby.co.jp" target=3D"_blank" style=3D"=
+color:#530706; text-decoration:none;">80%off</a></td></tr><tr><td width=3D"=
+513" height=3D"50" valign=3D"middle" align=3D"center" style=3D"font:normal =
+50px/46px Verdana, Arial, Helvetica, sans-serif; color:#999999; text-transf=
+orm:uppercase; font-weight:bold;"><a href=3D"http://bagcurrent.com/lo/?l=3D=
+L3w0NTYzfDE4ODE|hobby.division@sportshobby.co.jp" target=3D"_blank" style=
+=3D"color:#999999; text-decoration:none;">everything</a></td></tr><tr><td w=
+idth=3D"513" height=3D"45" align=3D"center" valign=3D"middle" style=3D"font=
+:normal 26px/16px Calibri; color:#530706; font-style:italic;"><a href=3D"ht=
+tp://bagcurrent.com/lo/?l=3DL3w0NTYzfDE4ODE|hobby.division@sportshobby.co.j=
+p" target=3D"_blank" style=3D"color:#530706; text-decoration:none;">plus fr=
+ee shipping on all orders*</a></td></tr><tr><td width=3D"513" height=3D"55"=
+ valign=3D"top" align=3D"center"><table width=3D"230" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" height=3D"45" bgcolor=3D"#FF3100"><tr><td width=
+=3D"230" align=3D"center" style=3D"border:1px solid #c07d87; font-family:Ca=
+libri; text-transform:uppercase; color:#FFFF00; font-size:25px; font-weight=
+:bold; letter-spacing:1px;"><a href=3D"http://bagcurrent.com/lo/?l=3DL3w0NT=
+YzfDE4ODE|hobby.division@sportshobby.co.jp" target=3D"_blank" style=3D"text=
+-decoration:none; color:#ffffff;">-- shop now --</a></td></tr></table></td>=
+</tr></table></td></tr></table></td></tr><tr><td height=3D"125" colspan=3D"=
+2" align=3D"center"><table width=3D"600" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" height=3D"111" bgcolor=3D"#a10123"><tr><td width=3D"298" ali=
+gn=3D"center" style=3D"font-family:Arial, Helvetica, sans-serif; color:#fff=
+fff; text-transform:uppercase; font-size:12px;"><span style=3D"font-size:24=
+px; font-weight:bold;">amazing Extra</span><br />Extra 5% Off For 2 Items<b=
+r /> 10% Off For 3 or More.<strong><a href=3D"http://bagcurrent.com/lo/?l=
+=3DL3w0NTYzfDE4ODE|hobby.division@sportshobby.co.jp" target=3D"_blank" styl=
+e=3D"color:#ffffff;">buy now >></a></strong></td><td width=3D"4" bgcolor=3D=
+"#FFFFFF";></td><td width=3D"298" align=3D"center" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; color:#ffffff; text-transform:uppercase; font-si=
+ze:12px;"><span style=3D"font-size:24px; font-weight:bold;">Free Shipping</=
+span><br />Everything Louis Vuitton<br /><strong><a href=3D"http://bagcurre=
+nt.com/lo/?l=3DL3w0NTYzfDE4ODE|hobby.division@sportshobby.co.jp" target=3D"=
+_blank" style=3D"color:#ffffff;">buy now >></a></strong></td></tr></table><=
+/td></tr><tr><td height=3D"40" colspan=3D"2" align=3D"center" style=3D"bord=
+er-bottom:solid 1px #A0A0A0; font-weight:bold; color:#000000;"><table width=
+=3D"499" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font:nor=
+mal 11px/15px Verdana, Geneva, sans-serif; text-decoration:none;"><tr><td w=
+idth=3D"41" height=3D"15" align=3D"center"><img src=3D"http://bagcurrent.co=
+m/12/14/96/y2.jpg" width=3D"26" height=3D"26"></td><td width=3D"41" align=
+=3D"center" style=3D"font-size:10px;">Email</td><td width=3D"41" align=3D"c=
+enter"><img src=3D"http://bagcurrent.com/12/14/96/ot.jpg" width=3D"26" heig=
+ht=3D"26"></td><td width=3D"41" align=3D"center" style=3D"font-size:10px;">=
+Facebook</td><td width=3D"41" align=3D"center"><img src=3D"http://bagcurren=
+t.com/12/14/96/hg.jpg" width=3D"26" height=3D"26"></td><td width=3D"41" ali=
+gn=3D"center" style=3D"font-size:10px;">Twitter</td><td width=3D"41" align=
+=3D"center"><img src=3D"http://bagcurrent.com/12/14/96/pb.jpg" width=3D"26"=
+ height=3D"26"></td><td width=3D"41" align=3D"center" style=3D"font-size:10=
+px;">lnstagram</td><td width=3D"41" align=3D"center"><img src=3D"http://bag=
+current.com/12/14/96/4z.jpg" width=3D"26" height=3D"26"></td><td width=3D"4=
+8" align=3D"center" style=3D"font-size:10px;">YouTube</td></tr></table></td=
+></tr><tr><td colspan=3D"2" style=3D"font-family:Verdana, Arial, Helvetica,=
+ sans-serif; font-size:10px; color:#666666; line-height:17px;"><br />You ha=
+ve received this email because you requested to be updated with our latest =
+news, products and offers.You subscribed with the email address hobby.divis=
+ion@sportshobby.co.jp. Don't forget to add email@bagcurrent.com to your add=
+ress book so we'll be sure to land in your inbox!  <br /><br />if you no lo=
+nger wish to receive our emails,Please <a href=3D"http://bagcurrent.com/uns=
+ubscribe?MTg4MXw0NTYz|hobby.division@sportshobby.co.jp"  target=3D"_blank" =
+style=3D"color:#666666;">unsubscribe</a>.<br /><br />* 80% off promotion va=
+lid today EST only. Valid at bagcurrent.com. Offer automatically applies in=
+ cart. Not valid on 80% off original price 12 days of deals styles. Valid o=
+ne time use per customer. <br /><br />* Free Shipping promotion valid today=
+ EST only. Valid only at bagcurrent.com. Valid for standard world wide grou=
+nd shipping. Valid one time use per customer. Not valid on previous purchas=
+es or in conjunction with any other offer or coupon. <br /><br />If you wou=
+ld like to contact us about your subscription call us toll-free at 800.953.=
+2854, or send an email.<br /><br />copyright bagcurrent.com | Attn: Custome=
+r Service | 1 HSN Drive | St. Petersburg, FL 35723</td></tr></table><img sr=
+c=3D"http://bagcurrent.com/track?NDU2M3wxODgx|hobby.division@sportshobby.co=
+.jp" width=3D"1" height=3D"1" border=3D"0" alt=3D"" /></body></html>
+
+
+--b1_3ba42c732f9f606aa9a06060922c15cd--

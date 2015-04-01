@@ -1,0 +1,48 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.5 required=7.0 tests=BAYES_60,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: pharmaceuticalsgenericsrx.ga]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: pharmaceuticalsgenericsrx.ga]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: pharmaceuticalsgenericsrx.ga]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: pharmaceuticalsgenericsrx.ga]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: pharmaceuticalsgenericsrx.ga]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.7603]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rAL7LYSm017741
+	for <hobby.division@sportshobby.co.jp>; Thu, 21 Nov 2013 16:21:34 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:55527 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1385018494.16985
+Received: from 2.133.225.99 (2.133.225.99.megaline.telecom.kz [2.133.225.99] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rAL7LUJi017728
+	for <hobby.division@sportshobby.co.jp>; Thu, 21 Nov 2013 16:21:33 +0900 (JST)
+Message-Id: <201311210721.rAL7LUJi017728@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (zhks2vyb@ops.ru@216.194.181.199)
+	by 2.133.225.99 with ESMTPA; Thu, 21 Nov 2013 13:20:53 +0600
+X-Originating-IP: 216.194.181.199
+From: zhks2vyb@ops.ru
+To: hobby.division@sportshobby.co.jp
+Subject: Boost your life
+Date: Thu, 21 Nov 2013 13:11:32 +0600
+X-Antivirus: avast! (VPS 130219-0, 19.02.2013), Outbound message
+X-Antivirus-Status: Clean
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 21112013 #8533651, status: clean
+
+Do you want an extra fire in your love life? 
+http://conscientious.pharmaceuticalsgenericsrx.ga/
+

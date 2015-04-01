@@ -1,0 +1,57 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.6 required=7.0 tests=BAYES_50,BODY_URI_ONLY,
+	HTTP_EXCESSIVE_ESCAPES,MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: xvis.ru]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: xvis.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: xvis.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: xvis.ru]
+	*  1.6 HTTP_EXCESSIVE_ESCAPES URI: Completely unnecessary %-escapes inside
+	*      a URL
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5046]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: xvis.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+	*  0.7 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav204.sakura.ne.jp (fsav204.sakura.ne.jp [210.224.168.166])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s94HYvDf058141
+	for <hobby.division@sportshobby.co.jp>; Sun, 5 Oct 2014 02:34:57 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav204.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp);
+ Sun, 05 Oct 2014 02:34:57 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav204.sakura.ne.jp)
+Received: from 37.150.230.202 (37.150.230.202.megaline.telecom.kz [37.150.230.202] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s94HYs0h058129
+	for <hobby.division@sportshobby.co.jp>; Sun, 5 Oct 2014 02:34:56 +0900 (JST)
+Date: Sun, 5 Oct 2014 02:34:54 +0900 (JST)
+Message-Id: <201410041734.s94HYs0h058129@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (anna@inspire.net.nz@206.134.76.99)
+	by 37.150.230.202 with ESMTPA; Sat, 4 Oct 2014 23:37:14 +0600
+From: anna@inspire.net.nz
+To: hobby.division@sportshobby.co.jp
+Subject: The only technique to ensure your loving life
+
+Absorb strength for longer banging https://www.google.com/url?q=http%3A%2F%2Fra%64%69%6F%6C%6F%67y%2E%78v%69s.%72%75%2F&sa=D&sntz=1&usg=AFQjCNEyd8B8DYyVK5xDn_hA--Be1OYiqw
+

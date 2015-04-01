@@ -1,0 +1,45 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.9 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9970]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: behoop.ru]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: behoop.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: behoop.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: behoop.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: behoop.ru]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: behoop.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s0RDUT9J010812
+	for <hobby.division@sportshobby.co.jp>; Mon, 27 Jan 2014 22:30:29 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:49979 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1390829429.29139
+Received: from 178.121.21.57 (mm-57-21-121-178.dynamic.pppoe.mgts.by [178.121.21.57] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s0RDURnU010807
+	for <hobby.division@sportshobby.co.jp>; Mon, 27 Jan 2014 22:30:28 +0900 (JST)
+Message-Id: <201401271330.s0RDURnU010807@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (rhendrata@travelhotline.com.au@154.158.224.198)
+	by 178.121.21.57 with ESMTPA; Mon, 27 Jan 2014 17:31:20 +0400
+From: rhendrata@travelhotline.com.au
+To: hobby.division@sportshobby.co.jp
+Subject: Feel magic this night
+Date: Mon, 27 Jan 2014 17:25:07 +0400
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 27012014 #7417680, status: clean
+
+Do you want to amaze your girlfriend tonight? http://memento.behoop.ru/
+

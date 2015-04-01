@@ -1,0 +1,396 @@
+Return-Path: <info@e.crmstyle.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=0.7 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,HTML_IMAGE_RATIO_04,HTML_MESSAGE,TVD_SPACE_ENC_FM_MIME,
+	T_REMOTE_IMAGE,URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J6dPYT082882
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 15:39:25 +0900 (JST)
+	(envelope-from info@e.crmstyle.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Thu, 19 Mar 2015 15:39:25 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from mail51a.crmstyle.com (mail51a.crmstyle.com [113.39.92.51])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2J6dPhh082879
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 15:39:25 +0900 (JST)
+	(envelope-from info@e.crmstyle.com)
+DKIM-Signature: v=1; a=rsa-sha256; d=crmstyle.com; s=v000; c=relaxed/simple;
+	q=dns/txt; i=@crmstyle.com; t=1426747164;
+	h=From:Subject:Date:To:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=LT+NcmYDkDhRRdhoOcs4Mt7ONjJS0/ArKVlUzUfFb1Y=;
+	b=Lhh+x5mgI4qMKKEtmHJ2NZdyFSoR/6IReXssNOrOUjihNGwq/bDRVGHN2/J6fUN9
+	2FBn0Ryf2RuC4659prIOfNPkOfegxjeyVk6ymzoYIUyFS8TjHPDZZ1RWDdBQqxVD
+	oyNyVM7IyGE5mRWMCmrpyu8dHRnOwRBkVdq6IlECNKc=;
+Received: from [172.27.15.105] ([172.27.15.105:44640] helo=mta005.crmstyle.com)
+	by mom05.crmstyle.com (envelope-from <info@e.crmstyle.com>)
+	(ecelerity 3.5.0.36377 r(Momo-dev:3.5.0-hotfix1)) with ESMTP
+	id C6/30-17584-C1F6A055; Thu, 19 Mar 2015 15:39:24 +0900
+Received: from s007.crmstyle.com (unknown [172.27.15.12])
+	by mta005.crmstyle.com (Postfix) with ESMTP id A98006348
+	for <hobby.division@sportshobby.co.jp>; Thu, 19 Mar 2015 15:39:24 +0900 (JST)
+Message-ID: <23356241.1426747164721.JavaMail.tomcat@s007.crmstyle.com>
+Date: Thu, 19 Mar 2015 15:39:24 +0900 (JST)
+From: =?ISO-2022-JP?B?GyRCM1pFN0JnM1gbKEI=?= <rakuten-daigaku@mail.rakuten.com>
+Reply-To: rakuten-daigaku@mail.rakuten.com
+To: hobby.division@sportshobby.co.jp
+Subject: =?ISO-2022-JP?B?GyRCIVobKEJSVXgbJEJETD8uIVs/TTUkRTkbKEI=?=
+ =?ISO-2022-JP?B?GyRCRDkkTiQqNCskYUtcOkc/NzQpIXUkYhsoQg==?=
+ =?ISO-2022-JP?B?GyRCJDckYjojPVBFOSQ3JD8kaSEpIUEbKEI=?=
+ =?ISO-2022-JP?B?GyRCS0wzJEY7JCpFWjs6QzU4IUJiQj4hQRsoQg==?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_7765015_29768545.1426747164715"
+Content-Transfer-Encoding: 7bit
+X-SM-SendConf: pcbb
+X-SM-ID: S7141092000011502
+X-Sequence: 7141092000011502
+X-Priority: 3
+
+------=_Part_7765015_29768545.1426747164715
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　　　■楽天大学　RUx通信　コンテンツリリースのお知らせ
+　　　　　　　──　店舗運営　is　Entertainment！　──
+──────────────────────────────────
+　RUxをまだ見たことがない方は以下のURLよりログインしてください。
+
+　RUxログインURL
+　http://f.msgs.jp/r/c.do?53_SGS_a_pcbb
+
+【ログイン情報〜初めての場合〜】
+　お名前をご入力ください： sportshobby（店舗URL）
+　メールアドレス：hobby.division@sportshobby.co.jp（連絡先E-mailアドレス）
+　パスワードを作成：半角英数字6文字以上でご設定下さい
+
+　既に見たことがあるという方はこちら
+　→ http://f.msgs.jp/r/c.do?54_SGS_a_pcbb
+　パスワードをお忘れの方はこちら
+　→ http://f.msgs.jp/r/c.do?55_SGS_a_pcbb
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　※こちらのメールは送信専用です。 
+
+
+スポーツホビー
+黒田　陽子様
+
+
+こんにちは！楽天大学の勝（Terry）です！
+
+
+今週は気軽に見ていただけるコンテンツをご案内します。
+
+その前に質問です。
+
+本屋さんで一番売れる本はどこに置くでしょうか？
+
+正解は「平積み」スペースです。
+
+通常、入口付近に置かれて、人の目線よりも低い位置に
+表紙を上にして山のように積み上げていくことが多いです。
+ベストセラーなどが置かれてますね。
+
+では、書店員さんがお勧めする本はどこに置くでしょうか？
+
+
+ちっ
+
+
+ちっ
+
+
+ちっ
+
+
+ポーン！
+
+
+正解は「面陳列」と呼ばれるスペース。
+
+本を棚に立て、表紙を見せる陳列方法です。
+
+人の目線の位置に表紙が見えるように置かれることが多く、
+在庫はあまりありませんが、
+書店員さんが売りたい本が置いてあります。
+
+
+平積みは出版社の意向、面陳は書店の意向が
+反映されていると言われています。
+
+
+そんな想いがあると、面陳列の本を手に取りたくなりますよね。
+
+
+実は日頃店舗さんの取材で
+全国を（日帰りで）飛び回っておりますが
+人気店長さんにお勧めの本と
+その本がどう店舗運営に影響を与えたのかを伺っています。
+
+
+店舗さんが成長されていく過程で、
+店舗運営に影響を与えた本があるはず。
+
+
+それは他の店舗さんの経営や店舗運営にも必ず役に立つ！
+そんな想いではじめた企画です。
+
+
+昨年リリースしたvol.1-5に続いて
+今週最新刊vol.6-10をリリースしました。
+
+
+成功者たちの至高の一冊
+http://f.msgs.jp/r/c.do?56_SGS_a_pcbb
+※1コンテンツ4分程度の動画です。
+
+
+vol.1〜10をあわせると全40名の店舗さん、
+43冊の本・雑誌をご案内しています。
+
+今回も私が編集を担当していますが、
+それぞれの店舗さんの店舗運営への想いが
+お勧めいただいた本に込められているようで
+思わずすぐに読みたくなってきます。
+※私も最新刊から2冊買いました！
+
+お勧め本がすぐに買える一覧リンクも
+レクチャー2に追加させていただきましたのでぜひご利用ください。
+
+なお、以下今週RUxでリリースしたコンテンツです。
+新規店舗さんには「成功に導く３つの鍵〜もしも出店したばかりだったら〜」が必見です！
+
+今週リリース----------------------------------------------------------------------
+
+■Merchant Voice
+成功に導く３つの鍵〜もしも出店したばかりだったら〜
+http://f.msgs.jp/r/c.do?57_SGS_a_pcbb
+人気店舗さんに今楽天市場に出店したら、何から始めるかを伺いました。
+新規店舗さん必見です！
+
+北海道お土産探検隊
+http://f.msgs.jp/r/c.do?58_SGS_a_pcbb
+Shop of the Year 2014で海外販売賞を受賞
+SOYにかけた想いと海外販売への取り組みを伺いました。
+
+■EC knowhow
+購買心理からみる商品ページ
+http://f.msgs.jp/r/c.do?59_SGS_a_pcbb
+【商品ページチェック2】ファーストビューの課題がわかる！
+【ファーストビューLV1】画像で目をひく！ 画像表現改善
+【ファーストビューLV2】お客さんの心をつかむ！表現改善
+-----------------------------------------------------------------------------------
+
+書店員さんがお勧めする本の祭典
+本屋大賞が4/7に発表されますが、
+いつかはこの「成功者たちの至高の一冊」も
+そんなイベントにしたいと野望を抱いています（笑）
+
+
+今週も最後までお読みいただき
+ありがとうございます！
+
+
+
+RUx最新情報は
+楽天大学のFacebookページへhttp://f.msgs.jp/r/c.do?5a_SGS_a_pcbb
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+□ 楽天株式会社　楽天大学 
+　　http://f.msgs.jp/r/c.do?5b_SGS_a_pcbb
+営業時間 　9:30〜18:00（土日祝休）
+
+--ご不明な点等ございましたら、下記よりお問い合わせください-----
+　　http://f.msgs.jp/r/c.do?5c_SGS_a_pcbb
+RUx問い合わせ電話 ：050-5817-1119
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+------=_Part_7765015_29768545.1426747164715
+Content-Type: text/html; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><HEAD>
+<META content="text/html; charset=Shift_JIS" http-equiv="Content-Type">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 11.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<DIV><BR></DIV>
+<DIV>
+<DIV style="TEXT-ALIGN: center" align=center>
+<TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD style="MAX-WIDTH: 700px" align=center>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=3 align=right border=0>
+              <TBODY>
+              <TR>
+                <TD align=right><FONT color=#5e5e5e size=-2>2015年3月19日 
+                </FONT></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD bgColor=#3f3f3f>
+            <TABLE cellSpacing=0 cellPadding=3 align=right border=0>
+              <TBODY>
+              <TR>
+                <TD align=right><FONT color=#ffffff 
+                  size=-2>【RUx通信】コンテンツリリースのお知らせ</FONT></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD>
+            <TABLE style="BORDER-BOTTOM: #cecece 1px solid" cellSpacing=0 
+            cellPadding=0 width="100%" border=0>
+              <TBODY>
+              <TR>
+                <TD><A target="_blank" href="http://f.msgs.jp/r/c.do?53_SGS_a_pcbb"><IMG 
+                  border=0 
+                  src="http://image.rakuten.co.jp/daigaku/cabinet/04311229/imgrc0065339397.jpg" 
+                  width=800 height=63></A></TD>
+                <TD></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD style="MAX-WIDTH: 700px; TEXT-ALIGN: left" align=left>
+      <TABLE width=856>
+        <TBODY>
+        <TR bgColor=#ffffff>
+          <TD style="BACKGROUND-COLOR: #e6e6e6" width="50%"><FONT 
+            color=#000000 size=-1>まだ見たことがない方は以下のURLよりログインして下さい<BR>　RUxログインURL→<A href="http://f.msgs.jp/r/c.do?53_SGS_a_pcbb">https://rakuten.udemy.com/</A><BR><BR>【ログイン情報〜初めての場合〜】<BR>　お名前をご入力ください： 
+sportshobby（店舗URL）<BR>　メールアドレス：hobby.division@sportshobby.co.jp（連絡先E-mailアドレス）<BR>　パスワードを作成：半角英数字6文字以上でご設定下さい<BR><BR>【ログイン情報〜既に見たことがある場合〜】<BR>　<A href="http://f.msgs.jp/r/c.do?54_SGS_a_pcbb">https://rakuten.udemy.com/join/login-popup/</A><BR>　パスワードをお忘れの方はこちら<BR>　→<A href="http://f.msgs.jp/r/c.do?55_SGS_a_pcbb">https://rakuten.udemy.com/user/forgot-password/</A></FONT></TD>
+          <TD style="TEXT-ALIGN: center" width="20%" align=center><FONT 
+            size=-1>◆成功者たちの至高の一冊◆</FONT><BR>
+            <TABLE border="0">
+              <TBODY>
+                <TR>
+                  <TD>
+<A href="http://f.msgs.jp/r/c.do?56_SGS_a_pcbb"><IMG src="http://image.rakuten.co.jp/daigaku/cabinet/04311229/imgrc0065447271.jpg" width="377" height="178" border="0"></A>
+
+
+</TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+
+
+            <TABLE border=0>
+              <TBODY>
+              <TR>
+
+
+
+</TR></TBODY></TABLE><A href="http://f.msgs.jp/r/c.do?56_SGS_a_pcbb"><FONT 
+            size=-1>https://rakuten.udemy.com/courses/#/browse/573922</FONT></A><BR>
+            <TABLE cellSpacing=0 cellPadding=0 width=330 border=0>
+              <TBODY>
+              <TR vAlign=top></TR></TBODY></TABLE>
+            <TABLE border=0>
+              <TBODY></TBODY></TABLE></TD></TR></TBODY></TABLE>
+      <P><FONT 
+      color=#cccccc>----------------------------------------------------------------------------------------------------------</FONT><BR><BR>スポーツホビー<BR>黒田　陽子様<BR><BR><BR><BR>こんにちは！楽天大学の勝（Terry）です！
+<BR><BR><BR>今週は気軽に見ていただけるコンテンツをご案内します。
+<BR><BR>その前に質問です。<BR><BR>本屋さんで一番売れる本はどこに置くでしょうか？
+<BR><BR>正解は<STRONG>「平積み」</STRONG>スペースです。
+<BR><BR>通常、入口付近に置かれて、人の目線よりも低い位置に
+<BR>表紙を上にして山のように積み上げていくことが多いです。
+<BR>ベストセラーなどが置かれてますね。
+<BR><BR>では、書店員さんがお勧めする本はどこに置くでしょうか？
+<BR><BR><BR>ちっ
+<BR><BR><BR>ちっ
+<BR><BR><BR>ちっ
+<BR><BR><BR>ポーン！
+<BR><BR><BR>正解は<STRONG>「面陳列」</STRONG>と呼ばれるスペース。
+<BR><BR>本を棚に立て、表紙を見せる陳列方法です。
+<BR><BR>人の目線の位置に表紙が見えるように置かれることが多く、
+<BR>在庫はあまりありませんが、<BR>書店員さんが売りたい本が置いてあります。
+<BR><BR><BR>出版業界では平積みは出版社の意向、面陳は書店の意向が
+<BR>反映されていると言われています。
+<BR><BR><BR>そんな想いがあると、面陳列の本を手に取りたくなりますよね。
+<BR><BR><BR>実は日頃店舗さんの取材で<BR>全国を（日帰りで）飛び回っておりますが
+<BR>人気店長さんにお勧めの本と<BR>その本がどう店舗運営に影響を与えたのかを伺い、<BR>動画コンテンツにしています。
+<BR><BR><BR>店舗さんが成長されていく過程で、<BR>店舗運営に影響を与えた本があるはず。
+<BR><BR><BR>それは他の店舗さんの経営や店舗運営にも必ず役に立つ！<BR>そんな想いではじめた企画です。
+<BR><BR><BR>昨年リリースしたvol.1-5に続いて<BR>今週最新刊vol.6-10をリリースしました。
+<BR><BR><BR><STRONG><FONT color=#ff0000>成功者たちの至高の一冊<BR></FONT></STRONG><A href="http://f.msgs.jp/r/c.do?56_SGS_a_pcbb">https://rakuten.udemy.com/courses/#/browse/573922</A>
+<BR>※1コンテンツ4分程度の動画です。
+<BR><BR><BR>vol.1〜10をあわせると全40名の店舗さん、
+<BR>43冊の本・雑誌をご案内しています。
+<BR><BR>今回も私が編集を担当していますが、
+<BR>それぞれの店舗さんの店舗運営への想いが
+<BR>お勧めいただいた本に込められているようで<BR>思わずすぐに読みたくなってきます。
+<BR>※私も最新刊から2冊買いました！<BR><BR>そこで、お勧め本がすぐに買える一覧リンクも
+<BR>レクチャー2に追加させていただきましたのでぜひご利用ください。
+<BR><BR>なお、以下今週RUxでリリースしたコンテンツです。
+<BR>新規店舗さんには「成功に導く３つの鍵〜もしも出店したばかりだったら〜」が必見です！
+<BR><BR>今週リリース----------------------------------------------------------------------<BR>■Merchant 
+      Voice<BR><STRONG>成功に導く３つの鍵〜もしも出店したばかりだったら〜<BR></STRONG><A href="http://f.msgs.jp/r/c.do?57_SGS_a_pcbb">https://rakuten.udemy.com/courses/#/browse/964392</A>
+<BR>人気店舗さんに今楽天市場に出店したら、何から始めるかを伺いました。
+<BR>新規店舗さん必見です！<BR><BR><STRONG>北海道お土産探検隊
+<BR></STRONG><A href="http://f.msgs.jp/r/c.do?58_SGS_a_pcbb">https://rakuten.udemy.com/courses/#/search?q=hokkaido-omiyage</A><BR>Shop 
+      of the Year 2014で海外販売賞を受賞
+<BR>SOYにかけた想いと海外販売への取り組みを伺いました。<BR><BR>■EC 
+      knowhow<BR><STRONG>購買心理からみる商品ページ</STRONG>
+<BR><A href="http://f.msgs.jp/r/c.do?5d_SGS_a_pcbb">https://rakuten.udemy.com/courses/#/browse/964398?p=1&amp;pageSize=12</A>
+<BR>【商品ページチェック2】ファーストビューの課題がわかる！
+<BR>【ファーストビューLV1】画像で目をひく！ 
+      画像表現改善<BR>【ファーストビューLV2】お客さんの心をつかむ！表現改善<BR>-----------------------------------------------------------------------------------
+<BR><BR>書店員さんがお勧めする本の祭典<BR>本屋大賞が4/7に発表されますが、
+<BR>いつかはこの「成功者たちの至高の一冊」も<BR>そんなイベントにしたいと野望を抱いています（笑）
+<BR><BR><BR>今週も最後までお読みいただき<BR>ありがとうございます！ 
+      <BR><BR></P>
+      <TABLE cellSpacing=0 cellPadding=4 width=700 border=0>
+        <TBODY></TBODY></TABLE><BR>
+      <TABLE cellSpacing=0 cellPadding=4 width=700 border=0>
+        <TBODY>
+        <TR>
+          <TD bgColor=#3f3f3f><FONT color=#ffffff 
+            size=-1><B>■ログインID・ご利用方法について</B></FONT></TD></TR></TBODY></TABLE><BR><IMG 
+      border=0 
+      src="http://image.rakuten.co.jp/daigaku/cabinet/04293653/imgrc0065245234.jpg" 
+      width=787 height=425><BR>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY></TBODY></TABLE><BR><IMG border=0 
+      src="http://image.rakuten.co.jp/daigaku/cabinet/04293653/imgrc0065245235.jpg" 
+      width=799 height=380><BR>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE><BR>　<IMG border=0 
+      src="http://image.rakuten.co.jp/daigaku/cabinet/04293653/imgrc0065245236.jpg" 
+      width=779 height=365>　<BR>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <DIV>　</DIV>　<IMG border=0 
+      src="http://image.rakuten.co.jp/daigaku/cabinet/04293653/imgrc0065245237.jpg" 
+      width=533 height=682>　<BR><BR>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE><BR>
+      <TABLE cellSpacing=0 cellPadding=4 width=700 border=0>
+        <TBODY></TBODY></TABLE><BR>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+        <TBODY></TBODY></TABLE>RUx最新情報は<BR>楽天大学のFacebookページへ<A href="http://f.msgs.jp/r/c.do?5a_SGS_a_pcbb">https://www.facebook.com/rakutendaigaku</A><BR>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<BR>□ 
+      楽天株式会社　楽天大学 <BR>　　<A href="http://f.msgs.jp/r/c.do?5b_SGS_a_pcbb">http://university.rakuten.co.jp/</A>
+<BR>営業時間 
+      　9:30〜18:00（土日祝休）
+<BR><BR>--ご不明な点等ございましたら、下記よりお問い合わせください-----
+<BR>　　RUx問い合わせ電話 
+      ：050-5817-1119<BR>　　<A href="http://f.msgs.jp/r/c.do?5c_SGS_a_pcbb">https://rakuten.secure.force.com/daigaku</A>
+<BR><BR>　〒140-0002<BR>　東京都品川区東品川4-12-3 
+      品川シーサイド楽天タワー<BR>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <BR>
+      <TABLE cellSpacing=5 cellPadding=0 width=700 border=0>
+        <TBODY>
+        <TR></TR></TBODY></TABLE>
+      <TABLE cellSpacing=0 cellPadding=4 width=700 border=0>
+        <TBODY></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></DIV></BODY></HTML>
+<img src="http://f.msgs.jp/webbeacon.gif?s=210234&r=10&d=pcbb" width="0" height="0" />
+------=_Part_7765015_29768545.1426747164715--
+

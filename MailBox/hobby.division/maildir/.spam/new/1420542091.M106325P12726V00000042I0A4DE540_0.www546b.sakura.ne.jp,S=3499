@@ -1,0 +1,90 @@
+Return-Path: <hobby.divisionwf@hazeltine.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.5 required=7.0 tests=BAYES_99,BAYES_999,
+	HTML_MESSAGE,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: bredokol.com]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9997]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: bredokol.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: bredokol.com]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 0.9997]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+Received: from fsav303.sakura.ne.jp (fsav303.sakura.ne.jp [153.120.85.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t06B1P1Q012722
+	for <hobby.division@sportshobby.co.jp>; Tue, 6 Jan 2015 20:01:25 +0900 (JST)
+	(envelope-from hobby.divisionwf@hazeltine.net)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav303.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp);
+ Tue, 06 Jan 2015 20:01:25 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp)
+Received: from [216.155.89.234] ([216.155.89.234])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t06B1N7M012699
+	for <hobby.division@sportshobby.co.jp>; Tue, 6 Jan 2015 20:01:24 +0900 (JST)
+	(envelope-from hobby.divisionwf@hazeltine.net)
+From: "Eva" <hobby.divisionwf@hazeltine.net>
+To: hobby.division@sportshobby.co.jp
+Subject: my latest photos
+Date: Tue, 06 Jan 2015 08:01:22 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="MIMEBoundary9dec7cf0437cab692bd489d42592312a"
+List-Unsubscribe: <mailto:leave-03747eebab776570b84a6d5a6a26f99e@hazeltine.net>
+Reply-To: hobby.divisionwf@hazeltine.net
+Message-ID: <DEBE8-34882598-14047953-2015.01.06-08.01.22-hobby.division#sportshobby.co.jp@3B993176EFA7440>
+
+This is a multi-part message in MIME format.
+
+--MIMEBoundary9dec7cf0437cab692bd489d42592312a
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, so glad I've finally found you!
+
+It would be great to get to know each other better, what do you think?
+Did you see my photos?
+
+Find some of my latest photos at this link =
+http://bredokol.com/viewtopic.php?f=3D46&t=3D9373&p=3D19305#p19305
+--MIMEBoundary9dec7cf0437cab692bd489d42592312a
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content=3D"en-us" http-equiv=3D"Content-Language" />
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type" =
+/>
+<title></title>
+</head>
+
+<body>
+
+<p>Hey, so glad I've finally found you!<br />
+<br />
+It would be great to get to know each other better, what do you =
+think?<br />
+Did you see my photos?<br />
+<br />
+Find some of my latest photos at <a =
+href=3D"http://bredokol.com/viewtopic.php?f=3D46&t=3D9373&p=3D19305#p1930=
+5">this link</a></p>
+
+</body>
+
+</html>
+--MIMEBoundary9dec7cf0437cab692bd489d42592312a--

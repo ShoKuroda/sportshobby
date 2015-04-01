@@ -1,0 +1,45 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.2 required=7.0 tests=BAYES_40,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: pc-mediacorner.de]
+	*  2.1 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	* -0.0 BAYES_40 BODY: Bayes spam probability is 20 to 40%
+	*      [score: 0.2621]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4GMuVsu024643
+	for <hobby.division@sportshobby.co.jp>; Fri, 17 May 2013 07:56:31 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:53406 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1368744991.25354
+Received: from 178.122.200.247 ([178.122.200.247])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4GMuQkl024615
+	for <hobby.division@sportshobby.co.jp>; Fri, 17 May 2013 07:56:29 +0900 (JST)
+Date: Fri, 17 May 2013 07:56:26 +0900 (JST)
+Message-Id: <201305162256.r4GMuQkl024615@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (T_FROM@136.155.211.107)
+	by 178.122.200.247 with ESMTPA; Fri, 17 May 2013 00:55:55 +0200
+From: T_FROM@www546b.sakura.ne.jp
+To: hobby.division@sportshobby.co.jp
+Subject: Proven technique to get rid of health problems
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 16052013 #10006876, status: clean
+
+http://pc-mediacorner.de/board.html Why online chemists are so cheap
+

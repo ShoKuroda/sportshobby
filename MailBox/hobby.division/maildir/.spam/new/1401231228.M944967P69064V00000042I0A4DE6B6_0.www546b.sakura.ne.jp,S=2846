@@ -1,0 +1,55 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.2 required=7.0 tests=BAYES_99,BAYES_999,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: ptalux.ru]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: ptalux.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: ptalux.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: ptalux.ru]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: ptalux.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s4RMriKw069060
+	for <hobby.division@sportshobby.co.jp>; Wed, 28 May 2014 07:53:44 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:51954 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1401231224.6429
+Received: from 190.166.253.66 (66.253.166.190.f.sta.codetel.net.do [190.166.253.66] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s4RMrggU069052
+	for <hobby.division@sportshobby.co.jp>; Wed, 28 May 2014 07:53:43 +0900 (JST)
+Message-Id: <201405272253.s4RMrggU069052@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (hchristmann@servicebymedallion.com@46.190.203.53)
+	by 190.166.253.66 with ESMTPA; Tue, 27 May 2014 18:56:36 -0400
+X-Originating-IP: 46.190.203.53
+From: hchristmann@servicebymedallion.com
+To: hobby.division@sportshobby.co.jp
+Subject: Secrets of better love life
+Date: Tue, 27 May 2014 18:43:57 -0400
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 27052014 #8053282, status: clean
+
+http://leather.ptalux.ru/ Do you desire to please your lover tonight?
+

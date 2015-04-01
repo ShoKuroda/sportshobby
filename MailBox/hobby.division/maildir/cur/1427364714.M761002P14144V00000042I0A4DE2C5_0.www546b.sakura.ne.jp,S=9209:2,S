@@ -1,0 +1,180 @@
+Return-Path: <aircraft@vps.shoraidirect.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: *
+X-Spam-Status: No, score=1.3 required=7.0 tests=BAYES_00,HTML_MESSAGE,
+	SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS,URIBL_BLOCKED,URIBL_SBL
+	autolearn=no version=3.3.2
+Received: from fsav205.sakura.ne.jp (fsav205.sakura.ne.jp [210.224.168.167])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2QABoqp014141
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 19:11:50 +0900 (JST)
+	(envelope-from aircraft@vps.shoraidirect.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav205.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp);
+ Thu, 26 Mar 2015 19:11:50 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav205.sakura.ne.jp)
+Received: from vps.shoraidirect.com (server.shoraidirect.com [198.1.81.115])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2QABnDS014134
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-CAMELLIA256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Thu, 26 Mar 2015 19:11:50 +0900 (JST)
+	(envelope-from aircraft@vps.shoraidirect.com)
+Received: from aircraft by vps.shoraidirect.com with local (Exim 4.85)
+	(envelope-from <aircraft@vps.shoraidirect.com>)
+	id 1Yb4lS-0004cE-Eq
+	for hobby.division@sportshobby.co.jp; Thu, 26 Mar 2015 10:11:50 +0000
+To: hobby.division@sportshobby.co.jp
+Subject: エアクラフト ご注文確認メール
+X-PHP-Script: www.aircraft-world.com/purl/frontend/index.php for 210.197.199.41
+MIME-Version: 1.0
+X-Mailer: PURL Mailer
+Content-Type: multipart/alternative;
+	boundary="=_779bd5cb128c5993413ab6e85fe5475a"
+Reply-To: dealer@aircraftjapan.com
+From: dealer@aircraftjapan.com
+Message-Id: <d76251286dc69d21114d1e1c25aa55dc75159547@aircraft-world.com>
+Date: Thu, 26 Mar 2015 10:11:50 +0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - vps.shoraidirect.com
+X-AntiAbuse: Original Domain - sportshobby.co.jp
+X-AntiAbuse: Originator/Caller UID/GID - [501 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - vps.shoraidirect.com
+X-Get-Message-Sender-Via: vps.shoraidirect.com: authenticated_id: aircraft/only user confirmed/virtual account not confirmed
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php 
+X-Source-Dir: aircraft-world.com:/public_html
+
+--=_779bd5cb128c5993413ab6e85fe5475a
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+エアクラフト (Y.K.)
+http://aircraft-japan.com
+shop@aircraftjapan.com
+TEL: 050 3360 9285
+FAX: 0948 21 1040
+
+エアクラフトをご利用いただきありがとうございます。
+以下はご注文の確認になります。またエアクラフトウェブサイトにログイン頂き、マイアカウントのマイオーダーから過去のご注文もご覧いただけます。
+
+顧客番号: 1158005
+Eメール: hobby.division@sportshobby.co.jp
+今後、ログインに必要になります。登録メールアドレスとパスワードは保管してください。
+
+ご注文番号: 1382649
+商品合計: ￥23,564
+送料: ￥750
+消費税: ￥1,885
+合計: ￥26,199
+
+配達方法: 代引き配達
+お支払方法: 代引き
+ご注文日: 2015年03月26日 19:11
+電話番号: 011-773-6190
+
+*お振込みをお選びの場合こちらの口座へお願いします。
+【銀行の場合】
+福岡銀行　飯塚(イイヅカ）支店　普通口座 2653082 エアクラフト 
+
+（お振込み手数料はお客様ご負担となります）
+
+お支払情報
+黒田雄
+クロダ
+〒002-8012 札幌市北区太平12条１丁目1-1　トライアル1F　スポーツホビー
+
+配達先情報
+黒田雄
+クロダ
+〒002-8012 札幌市北区太平12条１丁目1-1　トライアル1F　スポーツホビー
+
+ご注文の商品:
+IM-X400-TWINS | iMaxRC X400 TWINS 2CH 6S DC 充電器
+ - 数量 1
+ - Item Total: ￥13,430
+
+FAS-ACC-4STXFILT | FPV送信機用 パワーサプライ (2S/3S/4S) 
+ - 数量 3
+ - Item Total: ￥2,448
+
+HP-XSC40770-77 | 40Mhz フルサイズ - Ch 77
+ - 数量 1
+ - Item Total: ￥109
+
+IM-X150AD-P | iMaxRC X150 6S AC/DC 充電器
+ - 数量 1
+ - Item Total: ￥6,953
+
+HP-LG325-0160-1S-UM | G3, 160mAh 25C/45C 3.7V 単セル UMタイプ 
+ - 数量 2
+ - Item Total: ￥624
+
+
+ 
+
+--=_779bd5cb128c5993413ab6e85fe5475a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<p>=E3=82=A8=E3=82=A2=E3=82=AF=E3=83=A9=E3=83=95=E3=83=88 (Y.K.)<br><a href=
+=3D"http://aircraft-japan.com/">http://aircraft-japan.com</a><br><a href=3D=
+"mailto:shop@aircraftjapan.com">shop@aircraftjapan.com</a><br>TEL: 050 3360=
+ 9285<br>FAX: 0948 21 1040<br><br><span style=3D"font-weight: bold;">=E3=82=
+=A8=E3=82=A2=E3=82=AF=E3=83=A9=E3=83=95=E3=83=88=E3=82=92=E3=81=94=E5=88=A9=
+=E7=94=A8=E3=81=84=E3=81=9F=E3=81=A0=E3=81=8D=E3=81=82=E3=82=8A=E3=81=8C=E3=
+=81=A8=E3=81=86=E3=81=94=E3=81=96=E3=81=84=E3=81=BE=E3=81=99=E3=80=82</span=
+><br>=E4=BB=A5=E4=B8=8B=E3=81=AF=E3=81=94=E6=B3=A8=E6=96=87=E3=81=AE=E7=A2=
+=BA=E8=AA=8D=E3=81=AB=E3=81=AA=E3=82=8A=E3=81=BE=E3=81=99=E3=80=82=E3=81=BE=
+=E3=81=9F=E3=82=A8=E3=82=A2=E3=82=AF=E3=83=A9=E3=83=95=E3=83=88=E3=82=A6=E3=
+=82=A7=E3=83=96=E3=82=B5=E3=82=A4=E3=83=88=E3=81=AB=E3=83=AD=E3=82=B0=E3=82=
+=A4=E3=83=B3=E9=A0=82=E3=81=8D=E3=80=81=E3=83=9E=E3=82=A4=E3=82=A2=E3=82=AB=
+=E3=82=A6=E3=83=B3=E3=83=88=E3=81=AE=E3=83=9E=E3=82=A4=E3=82=AA=E3=83=BC=E3=
+=83=80=E3=83=BC=E3=81=8B=E3=82=89=E9=81=8E=E5=8E=BB=E3=81=AE=E3=81=94=E6=B3=
+=A8=E6=96=87=E3=82=82=E3=81=94=E8=A6=A7=E3=81=84=E3=81=9F=E3=81=A0=E3=81=91=
+=E3=81=BE=E3=81=99=E3=80=82<br><br>=E9=A1=A7=E5=AE=A2=E7=95=AA=E5=8F=B7: 11=
+58005<br>E=E3=83=A1=E3=83=BC=E3=83=AB: hobby.division@sportshobby.co.jp<br>=
+=E4=BB=8A=E5=BE=8C=E3=80=81=E3=83=AD=E3=82=B0=E3=82=A4=E3=83=B3=E3=81=AB=E5=
+=BF=85=E8=A6=81=E3=81=AB=E3=81=AA=E3=82=8A=E3=81=BE=E3=81=99=E3=80=82=E7=99=
+=BB=E9=8C=B2=E3=83=A1=E3=83=BC=E3=83=AB=E3=82=A2=E3=83=89=E3=83=AC=E3=82=B9=
+=E3=81=A8=E3=83=91=E3=82=B9=E3=83=AF=E3=83=BC=E3=83=89=E3=81=AF=E4=BF=9D=E7=
+=AE=A1=E3=81=97=E3=81=A6=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84=E3=80=82<br><b=
+r>=E3=81=94=E6=B3=A8=E6=96=87=E7=95=AA=E5=8F=B7: 1382649<br>=E5=95=86=E5=93=
+=81=E5=90=88=E8=A8=88: =EF=BF=A523,564<br>=E9=80=81=E6=96=99: =EF=BF=A5750<=
+br>=E6=B6=88=E8=B2=BB=E7=A8=8E: =EF=BF=A51,885<br>=E5=90=88=E8=A8=88: =EF=
+=BF=A526,199<br><br>=E9=85=8D=E9=81=94=E6=96=B9=E6=B3=95: =E4=BB=A3=E5=BC=
+=95=E3=81=8D=E9=85=8D=E9=81=94<br>=E3=81=8A=E6=94=AF=E6=89=95=E6=96=B9=E6=
+=B3=95: =E4=BB=A3=E5=BC=95=E3=81=8D<br>=E3=81=94=E6=B3=A8=E6=96=87=E6=97=A5=
+: 2015=E5=B9=B403=E6=9C=8826=E6=97=A5 19:11<br>=E9=9B=BB=E8=A9=B1=E7=95=AA=
+=E5=8F=B7: 011-773-6190<br><br>*=E3=81=8A=E6=8C=AF=E8=BE=BC=E3=81=BF=E3=82=
+=92=E3=81=8A=E9=81=B8=E3=81=B3=E3=81=AE=E5=A0=B4=E5=90=88=E3=81=93=E3=81=A1=
+=E3=82=89=E3=81=AE=E5=8F=A3=E5=BA=A7=E3=81=B8=E3=81=8A=E9=A1=98=E3=81=84=E3=
+=81=97=E3=81=BE=E3=81=99=E3=80=82</p><p><span style=3D"font-weight: bold;">=
+=E3=80=90=E9=8A=80=E8=A1=8C=E3=81=AE=E5=A0=B4=E5=90=88=E3=80=91</span><br>=
+=E7=A6=8F=E5=B2=A1=E9=8A=80=E8=A1=8C=E3=80=80=E9=A3=AF=E5=A1=9A(=E3=82=A4=
+=E3=82=A4=E3=83=85=E3=82=AB=EF=BC=89=E6=94=AF=E5=BA=97=E3=80=80=E6=99=AE=E9=
+=80=9A=E5=8F=A3=E5=BA=A7 2653082 =E3=82=A8=E3=82=A2=E3=82=AF=E3=83=A9=E3=83=
+=95=E3=83=88 <br><br>=EF=BC=88=E3=81=8A=E6=8C=AF=E8=BE=BC=E3=81=BF=E6=89=8B=
+=E6=95=B0=E6=96=99=E3=81=AF=E3=81=8A=E5=AE=A2=E6=A7=98=E3=81=94=E8=B2=A0=E6=
+=8B=85=E3=81=A8=E3=81=AA=E3=82=8A=E3=81=BE=E3=81=99=EF=BC=89<br><br>=E3=81=
+=8A=E6=94=AF=E6=89=95=E6=83=85=E5=A0=B1<br>=E9=BB=92=E7=94=B0=E9=9B=84<br>=
+=E3=82=AF=E3=83=AD=E3=83=80<br>=E3=80=92002-8012=C2=A0=E6=9C=AD=E5=B9=8C=E5=
+=B8=82=E5=8C=97=E5=8C=BA=E5=A4=AA=E5=B9=B312=E6=9D=A1=EF=BC=91=E4=B8=81=E7=
+=9B=AE1-1=E3=80=80=E3=83=88=E3=83=A9=E3=82=A4=E3=82=A2=E3=83=AB1F=E3=80=80=
+=E3=82=B9=E3=83=9D=E3=83=BC=E3=83=84=E3=83=9B=E3=83=93=E3=83=BC<br><br>=E9=
+=85=8D=E9=81=94=E5=85=88=E6=83=85=E5=A0=B1<br>=E9=BB=92=E7=94=B0=E9=9B=84<b=
+r>=E3=82=AF=E3=83=AD=E3=83=80<br>=E3=80=92002-8012=C2=A0=E6=9C=AD=E5=B9=8C=
+=E5=B8=82=E5=8C=97=E5=8C=BA=E5=A4=AA=E5=B9=B312=E6=9D=A1=EF=BC=91=E4=B8=81=
+=E7=9B=AE1-1=E3=80=80=E3=83=88=E3=83=A9=E3=82=A4=E3=82=A2=E3=83=AB1F=E3=80=
+=80=E3=82=B9=E3=83=9D=E3=83=BC=E3=83=84=E3=83=9B=E3=83=93=E3=83=BC<br><br>=
+=E3=81=94=E6=B3=A8=E6=96=87=E3=81=AE=E5=95=86=E5=93=81:<br><p>IM-X400-TWINS=
+ | iMaxRC X400 TWINS 2CH 6S DC =E5=85=85=E9=9B=BB=E5=99=A8<br> - =E6=95=B0=
+=E9=87=8F 1<br> - Item Total: =EF=BF=A513,430<br></p><p>FAS-ACC-4STXFILT | =
+FPV=E9=80=81=E4=BF=A1=E6=A9=9F=E7=94=A8 =E3=83=91=E3=83=AF=E3=83=BC=E3=82=
+=B5=E3=83=97=E3=83=A9=E3=82=A4 (2S/3S/4S) <br> - =E6=95=B0=E9=87=8F 3<br> -=
+ Item Total: =EF=BF=A52,448<br></p><p>HP-XSC40770-77 | 40Mhz =E3=83=95=E3=
+=83=AB=E3=82=B5=E3=82=A4=E3=82=BA - Ch 77<br> - =E6=95=B0=E9=87=8F 1<br> - =
+Item Total: =EF=BF=A5109<br></p><p>IM-X150AD-P | iMaxRC X150 6S AC/DC =E5=
+=85=85=E9=9B=BB=E5=99=A8<br> - =E6=95=B0=E9=87=8F 1<br> - Item Total: =EF=
+=BF=A56,953<br></p><p>HP-LG325-0160-1S-UM | G3, 160mAh 25C/45C 3.7V =E5=8D=
+=98=E3=82=BB=E3=83=AB UM=E3=82=BF=E3=82=A4=E3=83=97 <br> - =E6=95=B0=E9=87=
+=8F 2<br> - Item Total: =EF=BF=A5624<br></p></p><p>=C2=A0</p>
+--=_779bd5cb128c5993413ab6e85fe5475a--
+

@@ -1,0 +1,93 @@
+Return-Path: <mike.newsletter30dyyjl@gmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=13.0 required=7.0 tests=BAYES_50,
+	DKIM_ADSP_CUSTOM_MED,FH_FROM_CASH,FREEMAIL_FROM,HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,NML_ADSP_CUSTOM_MED,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  1.7 FH_FROM_CASH From name has "cash"
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (mike.newsletter30dyyjl[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5655]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: advertise-bz.cn]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r7D9LAnL069539
+	for <hobby.division@sportshobby.co.jp>; Tue, 13 Aug 2013 18:21:10 +0900 (JST)
+	(envelope-from mike.newsletter30dyyjl@gmail.com)
+X-Nat-Received: from [112.78.125.46]:51121 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1376385670.14776
+Received: from gmail.com ([203.239.45.202])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r7D9L8QX069525
+	for <hobby.division@sportshobby.co.jp>; Tue, 13 Aug 2013 18:21:09 +0900 (JST)
+	(envelope-from mike.newsletter30dyyjl@gmail.com)
+Message-ID: <0C4121DC.8BC774CC@gmail.com>
+Date: Tue, 13 Aug 2013 12:20:47 +0300
+From: "Cash Creation" <mike.newsletter30dyyjl@gmail.com>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.18) Gecko/20081105 Thunderbird/2.0.0.18
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <hobby.division@sportshobby.co.jp>
+Subject: Start earning 15 minutes from now
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 13082013 #10964830, status: clean
+
+
+<p><font face="Tahoma" size="2">How would you like to make 15 -
+25&nbsp;<br>
+every single day just for clicking your mouse?<br>
+<br>
+Start earning Minutes from now!<br>
+<br>
+Don't believe any hyped promises - you won't&nbsp;<br>
+be making thousands of dollars every day and&nbsp;<br>
+you won't be a millionaire by next year but&nbsp;<br>
+my System is a surefire method for everyone&nbsp;<br>
+who wants to start earning online.<br>
+<br>
+<a href="http://www.advertise-bz.cn/detail.php?id=8">Click here</a> to
+visit our website:<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="http://www.advertise-bz.cn/unsubscribe/">Click here</a> to
+unsubscribe</font></p>
+
+

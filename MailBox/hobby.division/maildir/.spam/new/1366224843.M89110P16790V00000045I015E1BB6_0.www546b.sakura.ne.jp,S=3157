@@ -1,0 +1,65 @@
+Return-Path: <gulyaev@vniist.ru>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********************
+X-Spam-Status: Yes, score=22.1 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_8627E,
+	BAYES_99,NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO,STOX_REPLY_TYPE,
+	STOX_REPLY_TYPE_WITHOUT_QUOTES,URIBL_AB_SURBL,URIBL_BLOCKED,URIBL_PH_SURBL,
+	URIBL_SC_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.4 STOX_REPLY_TYPE STOX_REPLY_TYPE
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: 94.28.49.130]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: 94.28.49.130]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: 94.28.49.130]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: 94.28.49.130]
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  3.9 AXB_XMAILER_MIMEOLE_OL_8627E AXB_XMAILER_MIMEOLE_OL_8627E
+	*  1.8 STOX_REPLY_TYPE_WITHOUT_QUOTES STOX_REPLY_TYPE_WITHOUT_QUOTES
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r3HIrx1a016787
+	for <hobby.division@sportshobby.co.jp>; Thu, 18 Apr 2013 03:53:59 +0900 (JST)
+	(envelope-from gulyaev@vniist.ru)
+X-Nat-Received: from [112.78.125.46]:52234 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1366224839.17832
+Received: from 109.166.142.174 ([109.166.136.6])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r3HIrbDl016747
+	for <hobby.division@sportshobby.co.jp>; Thu, 18 Apr 2013 03:53:49 +0900 (JST)
+	(envelope-from gulyaev@vniist.ru)
+Received: from unknown (HELO xpyg) ([117.170.188.94])
+	by 109.166.142.174 with ESMTP; Wed, 17 Apr 2013 21:57:54 +0200
+Message-ID: <002a01ce3b9c$e8b0f050$75aabc5e@IonutPCxpyg>
+From: "Sandy Hood" <gulyaev@vniist.ru>
+To: <hobby.division@sportshobby.co.jp>
+Subject: Runner captures. Marathon Explosion
+Date: Wed, 17 Apr 2013 21:44:48 +0200
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="windows-1250";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1437
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 17042013 #9932489, status: clean
+
+http://94.28.49.130/boston.html
+

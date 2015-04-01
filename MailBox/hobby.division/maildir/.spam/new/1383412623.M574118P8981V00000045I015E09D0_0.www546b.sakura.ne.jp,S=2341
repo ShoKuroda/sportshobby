@@ -1,0 +1,43 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.5 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: wjdyozsx.at]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: wjdyozsx.at]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: wjdyozsx.at]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: wjdyozsx.at]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rA2HGtpP008978
+	for <hobby.division@sportshobby.co.jp>; Sun, 3 Nov 2013 02:16:56 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:57896 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383412615.13134
+Received: from 178.121.198.147 (mm-147-198-121-178.dynamic.pppoe.mgts.by [178.121.198.147] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rA2HGp8a008967
+	for <hobby.division@sportshobby.co.jp>; Sun, 3 Nov 2013 02:16:54 +0900 (JST)
+Date: Sun, 3 Nov 2013 02:16:51 +0900 (JST)
+Message-Id: <201311021716.rA2HGp8a008967@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (christine.grampp@ci.mountain-iron.mn.us@40.182.86.165)
+	by 178.121.198.147 with ESMTPA; Sat, 2 Nov 2013 20:20:23 +0200
+X-Originating-IP: 40.182.86.165
+From: christine.grampp@ci.mountain-iron.mn.us
+To: hobby.division@sportshobby.co.jp
+Subject: The greatest method to gratify your wife
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 02112013 #9919937, status: clean
+
+http://eccentric.wjdyozsx.at/ Give her non-stop happiness
+

@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.9 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9939]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: walgreenwelness.nl]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rA7GG633019735
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 8 Nov 2013 01:16:06 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:59961 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383840966.9013
+Received: from 89.226.80.196 (196.80-226-89.dsl.completel.net [89.226.80.196])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rA7GG4OK019728
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 8 Nov 2013 01:16:05 +0900 (JST)
+Message-Id: <201311071616.rA7GG4OK019728@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (rogersdc@gifas.de@141.26.161.96)
+	by 89.226.80.196 with ESMTPA; Tue, 5 Nov 2013 05:56:34 +0100
+X-Originating-IP: 141.26.161.96
+From: rogersdc@gifas.de
+To: on_line.shop12@sportshobby.co.jp
+Subject: Shocking firmness is easy
+Date: Tue, 5 Nov 2013 05:52:01 +0100
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 07112013 #9892936, status: clean
+
+http://spontaneous.walgreenwelness.nl/ Bring more joy to your life
+

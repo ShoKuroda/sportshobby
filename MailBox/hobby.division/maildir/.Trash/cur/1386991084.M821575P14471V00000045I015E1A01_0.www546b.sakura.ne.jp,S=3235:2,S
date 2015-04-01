@@ -1,0 +1,84 @@
+Return-Path: <xna@baixna.biz>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.2 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,URIBL_BLOCKED,URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBE3HNBQ015170
+	for <hobby.division@sportshobby.co.jp>; Sat, 14 Dec 2013 12:17:24 +0900 (JST)
+	(envelope-from xna@baixna.biz)
+X-Nat-Received: from [112.78.125.46]:61121 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1386991043.28297
+Received: from dns.aombso.biz (dns.aombso.biz [72.46.155.18])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rBE3HMMA015167
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Sat, 14 Dec 2013 12:17:23 +0900 (JST)
+	(envelope-from xna@baixna.biz)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=baixna.biz; s=default;
+	h=Date:Message-Id:Content-Transfer-Encoding:Content-type:Subject:Reply-To:To:From; bh=ycCgwg0VdTi9hE9/eWRV1fKVCXbCAVxziw31c5lsPGU=;
+	b=Y9yzo3x3j53K5jCHwHaj0d2v6Vh9CSbddpH0ddWSWXZSnFf8nohBkNRn0ykEM6OkyhWYXTznzNAvK0lCd2Q2vGTaiToy71n9oil+GbgbQey+4kBf9XHqN+ZOa/WpnDdX+Wc0Rr51CTet/bTHGnvwvbULRZQf2SRFoUAAEjxr8GQ=;
+Received: from baixna by dns.aombso.biz with local (Exim 4.82)
+	(envelope-from <xna@baixna.biz>)
+	id 1Vrfj5-0008Dm-Q4
+	for hobby.division@sportshobby.co.jp; Sat, 14 Dec 2013 12:17:11 +0900
+From: =?ISO-2022-JP?B?GyRCJU0lQyVIJVMlOCVNJTlNaEcvJE49YEh3JEsbKEI=?=<xna@baixna.biz>
+To: =?ISO-2022-JP?B?aG9iYnkuZGl2aXNpb25Ac3BvcnRzaG9iYnkuY28uanAgGyRCTU0bKEI=?=<hobby.division@sportshobby.co.jp>
+Reply-To: xna@baixna.biz
+Subject: =?ISO-2022-JP?B?GyRCIiMlTSVDJUgkRzBsP00+ISRBJDkka0p9SyEbKEI=?=
+Content-type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Message-Id: <E1Vrfj5-0008Dm-Q4@dns.aombso.biz>
+Date: Sat, 14 Dec 2013 12:17:11 +0900
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - dns.aombso.biz
+X-AntiAbuse: Original Domain - sportshobby.co.jp
+X-AntiAbuse: Originator/Caller UID/GID - [503 504] / [47 12]
+X-AntiAbuse: Sender Address Domain - baixna.biz
+X-Get-Message-Sender-Via: dns.aombso.biz: authenticated_id: baixna/from_h
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 13122013 #7124762, status: clean
+
+■ネットでライバルを抜き去り一人勝ちする方法
+
+
+詳細　⇒　http://baixna.biz/cs.cgi?m=xna2&c=5&u=20791
+
+
+
+あなたは、お金を稼ぐ方法を、
+
+自分一人では小銭すら稼げず、まともにビジネスも作れず、
+
+人に稼ぐ方法を教えることでのみお金を稼いでいる
+
+自称ネット起業家から聞きたいですか？
+
+それとも、ビジネスの最前線で何年にもわたって
+
+常に億単位のお金を稼ぎ続けている、
+
+世界レベルのトップ“プレーヤー”から聞きたいですか？
+
+
+
+詳細　⇒　http://baixna.biz/cs.cgi?m=xna2&c=6&u=20791
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+配信を解除する場合は下記URLをクリックしてください。
+http://baixna.biz/rm.cgi?m=xna2&u=90e76a193e4525ee&h=3
+

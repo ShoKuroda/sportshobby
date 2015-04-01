@@ -1,0 +1,43 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.5 required=7.0 tests=BAYES_60,
+	MSGID_FROM_MTA_HEADER,URIBL_AB_SURBL,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,
+	URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6090]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: zmmlwzae.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s27M9iVX070942
+	for <hobby.division@sportshobby.co.jp>; Sat, 8 Mar 2014 07:09:44 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:62246 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1394230184.7914
+Received: from 82.159.254.4.static.user.ono.com (82.159.254.4.static.user.ono.com [82.159.254.4])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id s27M9fNi070930
+	for <hobby.division@sportshobby.co.jp>; Sat, 8 Mar 2014 07:09:42 +0900 (JST)
+Message-Id: <201403072209.s27M9fNi070930@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (medeiroso03hyp@dnr.state.md.us@200.39.205.236)
+	by 82.159.254.4 with ESMTPA; Fri, 7 Mar 2014 23:11:35 +0100
+X-Originating-IP: 200.39.205.236
+From: medeiroso03hyp@dnr.state.md.us
+To: hobby.division@sportshobby.co.jp
+Subject: Ensure positive results
+Date: Fri, 7 Mar 2014 23:04:01 +0100
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 07032014 #7437712, status: clean
+
+Extra cms of delight http://urbane.zmmlwzae.eu/
+

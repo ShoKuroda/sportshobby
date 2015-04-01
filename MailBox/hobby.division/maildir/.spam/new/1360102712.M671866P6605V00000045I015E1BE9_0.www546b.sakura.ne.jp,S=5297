@@ -1,0 +1,113 @@
+Return-Path: <account@yahoo.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********************
+X-Spam-Status: Yes, score=22.7 required=7.0 tests=AXB_XMAILER_MIMEOLE_OL_024C2,
+	BAYES_50,DKIM_ADSP_CUSTOM_MED,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,
+	FORGED_OUTLOOK_TAGS,FORGED_YAHOO_RCVD,FREEMAIL_FROM,FROM_MISSPACED,
+	FROM_MISSP_EH_MATCH,FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,
+	FROM_MISSP_TO_UNDISC,FSL_MISSP_REPLYTO,HTML_MESSAGE,MIME_HTML_ONLY,
+	MSOE_MID_WRONG_CASE,NML_ADSP_CUSTOM_MED,T_FROM_MISSP_DKIM autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (account[at]yahoo.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.6 FORGED_YAHOO_RCVD 'From' yahoo.com does not match 'Received' headers
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  0.8 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  2.3 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  4.1 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  2.0 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+	*  1.7 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  0.8 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  0.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  2.3 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+Received: from www546b.sakura.ne.jp (ksav32.sakura.ne.jp [210.224.165.212])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r15MITKo006602
+	for <hobby.division@sportshobby.co.jp>; Wed, 6 Feb 2013 07:18:30 +0900 (JST)
+	(envelope-from account@yahoo.com)
+X-Nat-Received: from [112.78.125.46]:65227 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1360102709.22828
+Received: from eastrmfepo103.cox.net (eastrmfepo103.cox.net [68.230.241.215])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r15MISNM006596
+	for <hobby.division@sportshobby.co.jp>; Wed, 6 Feb 2013 07:18:29 +0900 (JST)
+	(envelope-from account@yahoo.com)
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.04.00 201-2260-137-20101110) with ESMTP
+          id <20130205221828.BRJA23841.eastrmfepo103.cox.net@eastrmimpo209>
+          for <hobby.division@sportshobby.co.jp>;
+          Tue, 5 Feb 2013 17:18:28 -0500
+Received: from asdf ([72.209.140.54])
+	by eastrmimpo209 with cox
+	id wmJS1k00U1Ad1kg01mJSjC; Tue, 05 Feb 2013 17:18:28 -0500
+X-CT-Class: Bulk
+X-CT-Score: 5.00
+X-CT-RefID: str=0001.0A020209.51117F24.00FF,ss=3,sh,re=0.000,fgs=16
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=d613OGfE c=1 sm=1 p=1hZCfDT_jYmFTj3VNmsA:9
+ p=CcWfPOpDPOnaIjb3:21 a=5Q2Kj9Otm28hBHJHgYkrPQ==:17 a=f8_S3n9t2uQA:10
+ a=b4FjcYau3qsA:10 a=oJL9TIRMo0YA:10 a=ztKE3PENH0UA:10 a=CjxXgO3LAAAA:8
+ a=fwkf0BxM2QEA:10 a=pcLIrrrKAAAA:8 a=QVQ2k7fcrbcA:10 a=_W_S_7VecoQA:10
+ a=aKOSrgkeg08A:10 a=J_4dmk318R4Qy1iz:21 a=Tozar6j9wfUlyEx-:21
+ a=5Q2Kj9Otm28hBHJHgYkrPQ==:117
+X-CM-Score: 100.00
+Authentication-Results: cox.net; none
+Reply-To: <account@yahoo.com>
+From: "Mitsubishi UFJ"<account@yahoo.com>
+Subject: Customer Satisfaction Survey
+Date: Tue, 5 Feb 2013 16:18:25 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="shift_jis"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20130205221828.BRJA23841.eastrmfepo103.cox.net@eastrmimpo209>
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 05022013 #10045039, status: clean
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+Customer Satisfaction Survey</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+At Mitsubishi UFJ, we sincerely value your opinions. As part of our continuous improvement process, we're conducting a survey to benchmark the opinions of our customers. We will use the resulting information to better serve all of our customers</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+We kindly ask you to take part in our quick and easy reward survey.</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+In return we will credit ¥7000 to your account - Just for your time!</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+<A href="http://adsl-99-147-24-72.dsl.chmpil.sbcglobal.net/a/dd.html"><FONT color=#0000FF><U>Click here to start the survey</U></FONT></A></DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+With the information collected we can decide to direct a number of changes to improve and expand our services.</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Copyright 2013 Mitsubishi UFJ,Ltd.All rights reserved. </DIV>
+</FONT>
+</BODY></HTML>

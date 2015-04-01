@@ -1,0 +1,113 @@
+Return-Path: <MAILER-DAEMON@www546b.sakura.ne.jp>
+Received: from localhost (localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) id r9NCTAfd045276;
+	Wed, 23 Oct 2013 21:29:10 +0900 (JST)
+	(envelope-from MAILER-DAEMON)
+Date: Wed, 23 Oct 2013 21:29:10 +0900 (JST)
+From: Mail Delivery Subsystem <MAILER-DAEMON>
+Message-Id: <201310231229.r9NCTAfd045276@www546b.sakura.ne.jp>
+To: <sportshobby2@www546b.sakura.ne.jp>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="r9NCTAfd045276.1382531350/www546b.sakura.ne.jp"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--r9NCTAfd045276.1382531350/www546b.sakura.ne.jp
+
+The original message was received at Wed, 23 Oct 2013 21:29:10 +0900 (JST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<yhbjw701@ae.auone.net.jp>
+    (reason: 550 Host unknown)
+
+   ----- Transcript of session follows -----
+550 5.1.2 <yhbjw701@ae.auone.net.jp>... Host unknown (Name server: ae.auone.net.jp.: host not found)
+
+--r9NCTAfd045276.1382531350/www546b.sakura.ne.jp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; www546b.sakura.ne.jp
+Received-From-MTA: DNS; localhost
+Arrival-Date: Wed, 23 Oct 2013 21:29:10 +0900 (JST)
+
+Final-Recipient: RFC822; yhbjw701@ae.auone.net.jp
+Action: failed
+Status: 5.1.2
+Remote-MTA: DNS; ae.auone.net.jp
+Diagnostic-Code: SMTP; 550 Host unknown
+Last-Attempt-Date: Wed, 23 Oct 2013 21:29:10 +0900 (JST)
+
+--r9NCTAfd045276.1382531350/www546b.sakura.ne.jp
+Content-Type: message/rfc822
+
+Return-Path: <sportshobby2@www546b.sakura.ne.jp>
+Received: from www546b.sakura.ne.jp (localhost [127.0.0.1])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9NCTAfd045274
+	for <yhbjw701@ae.auone.net.jp>; Wed, 23 Oct 2013 21:29:10 +0900 (JST)
+	(envelope-from sportshobby2@www546b.sakura.ne.jp)
+Received: (from sportshobby2@localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3/Submit) id r9NCTAAZ045273;
+	Wed, 23 Oct 2013 21:29:10 +0900 (JST)
+	(envelope-from sportshobby2)
+Date: Wed, 23 Oct 2013 21:29:10 +0900 (JST)
+To: =?iso-2022-jp?B?GyRCRFpFRCEhTUZMQBsoQg==?= <yhbjw701@ae.auone.net.jp>
+Subject: =?iso-2022-jp?B?GyRCIVolOSVdITwlRCVbJVMhPCFbJCpMZCQkOWckbyQ7JHIbKEI=?=
+	=?iso-2022-jp?B?GyRCPHUkMUlVJDEkXiQ3JD8bKEI=?=
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Message-Id: <Qdmail.1.2.6b_81e6b90a2f545f7681d060e62d3c511d90bcab59@hal456.net>
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-PHP-Qdmail: version-1.2.6b The_MIT_License http://hal456.net/qdmail PHPver 5.2.17
+	send-by MailFunction
+
+-------------------------------
+このメールはお問合せの自動返信メールとなっております。
+-------------------------------
+坪田　容明  様
+
+お問合わせありがとうございます。
+担当者より返信いたしますので、少々お待ち下さい。
+
+お急ぎの場合はお電話でお問合わせください。
+電話番号：011-773-5090
+
+-------下記情報を送信いたしました-----------
+
+電話番号　：　080-6094-1658
+メール　　：　yhbjw701@ae.auone.net.jp
+都道府県　：　北海道
+住所（市区町村）　　：　帯広市
+住所（番地・建物名）　　：　西２４条南２丁目3-11
+
+お問い合わせ種類	　：　商品について
+お問い合わせ内容：　こんばんわ。　
+ 
+AXIAL(アキシャル) 1.9 Maxxis Trepador Tires - R35 Compound (2pcs) ×2　１台分
+
+を購入を考えているのですが、発送の件で定形外郵便の局止めでの発送は出来ますか？
+ 
+ 
+-------------------------------
+当社理由　：　店舗を知っている
+
+**********************************************
+ご不明な点など御座いましたらお気軽にご相談ください。
+
+ラジコンショップ｜スポーツホビー
+運営会社：有限会社SHK
+
+URL：http://www.sportshobby.co.jp
+
+〒002-0859 北海道札幌市北区屯田11条3丁目
+TEL 011-773-5090
+代表取締役　黒田　民雄
+E-mail <info@sportshobby.co.jp>
+**********************************************
+
+--r9NCTAfd045276.1382531350/www546b.sakura.ne.jp--
+

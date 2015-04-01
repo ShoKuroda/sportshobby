@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.1 required=7.0 tests=BAYES_80,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: eadamfec.eu]
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.9248]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: eadamfec.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s34JRdB7072840
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 5 Apr 2014 04:27:39 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:30943 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1396639659.1502
+Received: from 37.213.182.107 ([37.213.62.143])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s34JRbNk072836
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 5 Apr 2014 04:27:39 +0900 (JST)
+Date: Sat, 5 Apr 2014 04:27:38 +0900 (JST)
+Message-Id: <201404041927.s34JRbNk072836@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (okfresa55@johnlittle.com.sg@36.51.38.234)
+	by 37.213.62.143 with ESMTPA; Fri, 4 Apr 2014 22:29:47 +0300
+X-Originating-IP: 36.51.38.234
+From: okfresa55@johnlittle.com.sg
+To: on_line.shop12@sportshobby.co.jp
+Subject: Ways to make your wife happy
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 04042014 #7761739, status: clean
+
+The greatest way to please your gf http://gunpoint.eadamfec.eu/
+

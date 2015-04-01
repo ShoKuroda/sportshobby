@@ -1,0 +1,46 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.1 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	LUCRATIVE,MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO,
+	URIBL_BLOCKED autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.8 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4925]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: yandex.com]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.0 LUCRATIVE Make lots of money!
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9A0SqAi018630
+	for <hobby.division@sportshobby.co.jp>; Thu, 10 Oct 2013 09:28:52 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:61459 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1381364932.5497
+Received: from 178.123.90.76 ([178.123.166.16])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9A0Sn1E018626
+	for <hobby.division@sportshobby.co.jp>; Thu, 10 Oct 2013 09:28:50 +0900 (JST)
+Date: Thu, 10 Oct 2013 09:28:49 +0900 (JST)
+Message-Id: <201310100028.r9A0Sn1E018626@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (here_now_7122@astec.co.jp@105.174.111.117)
+	by 178.123.166.16 with ESMTPA; Thu, 10 Oct 2013 03:27:25 +0300
+X-Originating-IP: 105.174.111.117
+From: here_now_7122@astec.co.jp
+To: hobby.division@sportshobby.co.jp
+Subject: Profitable conditions
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 09102013 #11182572, status: clean
+
+Good day. Reply as soon as possible I wrote you 3 days ago but 
+unfortunatelly didn't receive any answer. You maybe didn't receive my 
+messages. We were recommened to speak to you.
+
+We offer a position of an agent with our company. Working schedule is 
+free. The salary starts from 4.500.000JPY per month, additionally 
+bonus. We need reliable and punctual team members. Looking forward to 
+your soon reply: spangler.michelle@yandex.com
+

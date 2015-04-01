@@ -1,0 +1,41 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.9 required=7.0 tests=BAYES_50,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_PH_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: hjncodos.be]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5104]
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: hjncodos.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: hjncodos.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: hjncodos.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s4QGsXjp064122
+	for <hobby.division@sportshobby.co.jp>; Tue, 27 May 2014 01:54:34 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:55248 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1401123273.5110
+Received: from 37.213.229.68 ([37.213.229.68])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s4QGsTYr064110
+	for <hobby.division@sportshobby.co.jp>; Tue, 27 May 2014 01:54:32 +0900 (JST)
+Message-Id: <201405261654.s4QGsTYr064110@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (dupeyrod@passmaster.ru@96.171.232.138)
+	by 37.213.229.68 with ESMTPA; Mon, 26 May 2014 19:55:45 +0200
+X-Originating-IP: 96.171.232.138
+From: dupeyrod@passmaster.ru
+To: hobby.division@sportshobby.co.jp
+Subject: Always steel, never flaccid
+Date: Mon, 26 May 2014 19:47:09 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 26052014 #8026966, status: clean
+
+http://strategically.hjncodos.be/ Achieve tips to improve your xxx life
+

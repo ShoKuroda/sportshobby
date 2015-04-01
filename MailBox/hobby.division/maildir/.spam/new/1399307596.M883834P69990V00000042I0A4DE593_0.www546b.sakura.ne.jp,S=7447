@@ -1,0 +1,83 @@
+Return-Path: <8427b927001cf57a@finelite.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.1 required=7.0 tests=BAYES_50,
+	DATE_IN_FUTURE_03_06,FROM_LOCAL_HEX,FROM_STARTS_WITH_NUMS,HTML_MESSAGE,
+	IP_LINK_PLUS,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_BLOCKED,URIBL_MW_SURBL,URIBL_SBL,
+	URIBL_SC_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: 209.240.134.10]
+	*  0.7 FROM_STARTS_WITH_NUMS From: starts with several numbers
+	*  0.0 FROM_LOCAL_HEX From: localpart has long hexadecimal sequence
+	*  3.0 DATE_IN_FUTURE_03_06 Date: is 3 to 6 hours after Received: date
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: 209.240.134.10]
+	*  1.3 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: 209.240.134.10]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: 209.240.134.10]
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	*  0.0 IP_LINK_PLUS URI: Dotted-decimal IP address followed by CGI
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4995]
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+Received: from www546b.sakura.ne.jp (ksav55.sakura.ne.jp [219.94.192.135])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s45GXC3h069987
+	for <hobby.division@sportshobby.co.jp>; Tue, 6 May 2014 01:33:12 +0900 (JST)
+	(envelope-from 8427b927001cf57a@finelite.com)
+X-Nat-Received: from [112.78.125.46]:14487 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1399307592.15190
+Received: from 83-238-208-55.ip.netia.com.pl (83-238-208-55.ip.netia.com.pl [83.238.208.55])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s45GX9q1069978
+	for <hobby.division@sportshobby.co.jp>; Tue, 6 May 2014 01:33:11 +0900 (JST)
+	(envelope-from 8427b927001cf57a@finelite.com)
+Date: Mon, 5 May 2014 18:56:28 -0200
+To: "Hobby Division" <hobby.division@sportshobby.co.jp>
+From: Administration <8427b927001cf57a@finelite.com>
+Subject: Support just sent you direct message
+Message-ID: <163c85.d299-dc7931@83-238-208-55.ip.netia.com.pl>
+Errors-To: 8427b927001cf57a@finelite.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 05052014 #7847696, status: clean
+
+<html>
+<head></head>
+<body style="margin: 0; padding: 0;" dir="ltr">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:98%;" border="0"><tr><td style="font-size:12px;font-family:tahoma,verdana,arial,sans-serif;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:620px;"><tr><td style="font-size:16px;font-family:tahoma,verdana,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vertical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:10px 38px 4px;"><span style="background:#3b5998;color:#FFFFFF;font-weight:bold;font-family:tahoma,verdana,arial,sans-serif;vertical-align:middle; font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:baseline;">&nbsp;</span></td></tr></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:620px;"><tr><td style="padding:10px 20px;background-color:#fff;border-left:1px solid #ccc;border-right:1px solid #ccc;border-top:1px solid #ccc;border-bottom:1px solid #ccc;line-height:16px;">
+<table cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:tahoma, verdana, arial, sans-serif;padding:10px 20px;line-height:16px;width:620px;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:13px;font-family:tahoma, verdana, arial, sans-serif;padding:10px 0 15px 0;">You have a new message.</td></tr><tr><td height="1" style="font-size:11px;font-family:tahoma, verdana, arial, sans-serif;background-color:#ccc;"></td></tr><tr><td style="font-size:11px;font-family:tahoma, verdana, arial, sans-serif;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:tahoma, verdana, arial, sans-serif;padding:15px 20px 15px 0;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td valign="top"><a href="http://209.240.134.10/cgi-bin/sloppiness.pl?fbprofile=hobby.division" style="color:#3b5998;text-decoration:none;font-size:13px;">Your profile is not configured.</a></td></tr>
+</table>
+</td></tr></table>
+</td></tr><tr><td style="font-size:11px;font-family:tahoma, verdana, arial, sans-serif;padding:10px 0 15px 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;width:100%;"><tr><td style="padding:10px;background-color:#f2f2f2;border-left:none;border-right:none;border-top:1px solid #ccc;border-bottom:1px solid #ccc;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:tahoma, verdana, arial, sans-serif;padding-right:10px;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="border-width: 1px; border-style: solid; border-color: #29447E #29447E #1a356e; background-color: #5b74a8;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:tahoma, verdana, arial, sans-serif;padding:2px 6px 4px;border-top:1px solid #8a9cc2;"><a href="http://209.240.134.10/cgi-bin/sloppiness.pl?fbprofile=hobby.division" style="font-weight: bold; color: #fff; font-size: 13px; text-decoration:none;">View Your Timeline</a></td></tr></table>
+</td></tr></table>
+</td><td style="font-size:11px;font-family:tahoma, verdana, arial, sans-serif;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="border-width: 1px; border-style: solid; border-color: #999 #999 #888; background-color: #eee;">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;"><tr><td style="font-size:11px;font-family:tahoma, verdana, arial, sans-serif;padding:2px 6px 4px;border-top:1px solid #fff;"><a href="http://209.240.134.10/cgi-bin/sloppiness.pl?fbprofile=hobby.division" style="font-weight: bold; color: #333; font-size: 13px; text-decoration:none;">Find Friends</a></td></tr></table>
+</td></tr></table></td></tr></table></td></tr></table>
+</td></tr></table></td></tr></table></td></tr></table>
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;width:620px;"><tr><td style="padding:10px;background-color:#fff;border-left:none;border-right:none;border-top:none;border-bottom:none;font-size:11px;font-family:tahoma, verdana, arial, sans-serif;color:#999999;border:none;"></td></tr></table></td></tr></table>
+</body></html>
+

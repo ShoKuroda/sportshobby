@@ -1,0 +1,114 @@
+Return-Path: <MAILER-DAEMON@www546b.sakura.ne.jp>
+Received: from localhost (localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) id q4TLQcMS082827;
+	Wed, 30 May 2012 06:26:38 +0900 (JST)
+	(envelope-from MAILER-DAEMON)
+Date: Wed, 30 May 2012 06:26:38 +0900 (JST)
+From: Mail Delivery Subsystem <MAILER-DAEMON>
+Message-Id: <201205292126.q4TLQcMS082827@www546b.sakura.ne.jp>
+To: <sportshobby2@www546b.sakura.ne.jp>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="q4TLQcMS082827.1338326798/www546b.sakura.ne.jp"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--q4TLQcMS082827.1338326798/www546b.sakura.ne.jp
+
+The original message was received at Wed, 30 May 2012 06:26:37 +0900 (JST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<superdaysana808@docomo.ne.jp>
+    (reason: 550 Unknown user superdaysana808@docomo.ne.jp)
+
+   ----- Transcript of session follows -----
+... while talking to mfsmax.docomo.ne.jp.:
+>>> RCPT To:<superdaysana808@docomo.ne.jp>
+<<< 550 Unknown user superdaysana808@docomo.ne.jp
+550 5.1.1 <superdaysana808@docomo.ne.jp>... User unknown
+>>> DATA
+<<< 503 Bad sequence of commands
+
+--q4TLQcMS082827.1338326798/www546b.sakura.ne.jp
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; www546b.sakura.ne.jp
+Received-From-MTA: DNS; localhost
+Arrival-Date: Wed, 30 May 2012 06:26:37 +0900 (JST)
+
+Final-Recipient: RFC822; superdaysana808@docomo.ne.jp
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; mfsmax.docomo.ne.jp
+Diagnostic-Code: SMTP; 550 Unknown user superdaysana808@docomo.ne.jp
+Last-Attempt-Date: Wed, 30 May 2012 06:26:38 +0900 (JST)
+
+--q4TLQcMS082827.1338326798/www546b.sakura.ne.jp
+Content-Type: message/rfc822
+
+Return-Path: <sportshobby2@www546b.sakura.ne.jp>
+Received: from www546b.sakura.ne.jp (localhost [127.0.0.1])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q4TLQbMS082825
+	for <superdaysana808@docomo.ne.jp>; Wed, 30 May 2012 06:26:37 +0900 (JST)
+	(envelope-from sportshobby2@www546b.sakura.ne.jp)
+Received: (from sportshobby2@localhost)
+	by www546b.sakura.ne.jp (8.14.3/8.14.3/Submit) id q4TLQb2e082824;
+	Wed, 30 May 2012 06:26:37 +0900 (JST)
+	(envelope-from sportshobby2)
+Date: Wed, 30 May 2012 06:26:37 +0900 (JST)
+To: =?iso-2022-jp?B?GyRCPz9FRDksOS0bKEI=?= <superdaysana808@docomo.ne.jp>
+Subject: =?iso-2022-jp?B?GyRCIVolOSVdITwlRCVbJVMhPCFbOl84SyROJCpMZCQkOWcbKEI=?=
+	=?iso-2022-jp?B?GyRCJG8kOyRyPHUkMUlVJDEkXiQ3JD8bKEI=?=
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Message-Id: <Qdmail.1.2.6b_c13c18b9b8501ddf0021a13fa55bede24d4b1b70@hal456.net>
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-PHP-Qdmail: version-1.2.6b The_MIT_License http://hal456.net/qdmail PHPver 5.2.17
+	send-by MailFunction
+
+-------------------------------
+このメールは在庫のお問合せの自動返信メールとなっております。
+-------------------------------
+真田幸広  様
+
+GPM アルミフロントバンパー　シルバーの在庫確認を承りました。
+担当者より返信いたしますので、少々お待ち下さい。
+
+お急ぎの場合はお電話でお問合わせください。
+電話番号：011-773-5090
+
+-------下記情報を送信いたしました-----------
+商品ID　：　243411-0010006175
+商品名　：　GPM アルミフロントバンパー　シルバー
+価格　：　5680 円
+
+電話番号　：　090-4870-9032
+メール　　：　superdaysana808@docomo.ne.jp
+都道府県　：　北海道
+住所（市区町村）　　：　札幌市白石区菊水
+住所（番地・建物名）　　：　1条3丁目3-16コーポ白菊101
+
+お問い合わせ内容：　ありますか？
+-------------------------------
+当社理由　：　店舗を知っている
+
+**********************************************
+ご不明な点など御座いましたらお気軽にご相談ください。
+
+ラジコンショップ｜スポーツホビー
+運営会社：有限会社SHK
+
+URL：http://www.sportshobby.co.jp
+
+〒002-0859 北海道札幌市北区屯田11条3丁目
+TEL 011-773-5090
+代表取締役　黒田　民雄
+E-mail <info@sportshobby.co.jp>
+**********************************************
+
+--q4TLQcMS082827.1338326798/www546b.sakura.ne.jp--
+

@@ -1,0 +1,44 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.6 required=7.0 tests=BAYES_80,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_JP_SURBL,
+	URIBL_MW_SURBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: diemdensaigon.vn]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: diemdensaigon.vn]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: diemdensaigon.vn]
+	*  3.5 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: diemdensaigon.vn]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.8723]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4KCk0XM035620
+	for <hobby.division@sportshobby.co.jp>; Mon, 20 May 2013 21:46:00 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:64621 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1369053960.10644
+Received: from 178.125.161.112 ([178.125.161.112])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4KCjtqU035593
+	for <hobby.division@sportshobby.co.jp>; Mon, 20 May 2013 21:45:58 +0900 (JST)
+Date: Mon, 20 May 2013 21:45:55 +0900 (JST)
+Message-Id: <201305201245.r4KCjtqU035593@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (deev@eco-pro.ru@32.215.164.199)
+	by 178.125.161.112 with ESMTPA; Mon, 20 May 2013 15:44:45 +0200
+From: deev@eco-pro.ru
+To: hobby.division@sportshobby.co.jp
+Subject: Bring extra happiness to your intimate life
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 20052013 #10067588, status: clean
+
+http://www.diemdensaigon.vn/garage.html Approved medication products 
+accessible w/o prescription
+

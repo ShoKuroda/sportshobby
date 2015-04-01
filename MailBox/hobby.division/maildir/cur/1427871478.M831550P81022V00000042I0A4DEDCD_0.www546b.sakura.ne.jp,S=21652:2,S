@@ -1,0 +1,690 @@
+Return-Path: <swad@mail.rakuten.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=0.5 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,HTML_FONT_SIZE_LARGE,HTML_MESSAGE,MIME_HTML_ONLY,T_REMOTE_IMAGE,
+	URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav206.sakura.ne.jp (fsav206.sakura.ne.jp [210.224.168.168])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t316vs0f081019
+	for <hobby.division@sportshobby.co.jp>; Wed, 1 Apr 2015 15:57:54 +0900 (JST)
+	(envelope-from swad@mail.rakuten.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav206.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp);
+ Wed, 01 Apr 2015 15:57:54 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp)
+Received: from rakuten.co.jp (mgw7.rakuten.co.jp [133.237.15.7])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t316vss5081016
+	for <hobby.division@sportshobby.co.jp>; Wed, 1 Apr 2015 15:57:54 +0900 (JST)
+	(envelope-from swad@mail.rakuten.com)
+Received: from bcpc103z.prod.jp.local (bcpc103z.prod.jp.local [100.66.245.56])
+	by mx605z.prod.jp.local (Rakuten MGW 2.0.0) with ESMTP id 3lGyyp4H2wz2hg3;
+	Wed,  1 Apr 2015 15:57:54 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=rakuten0020130400; t=1427871474;
+	bh=TteHk+UrqruLRFPRn6lDtvK6hxKbnc6gHlNfRBSTUDs=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=WQNCv22TQtS6xRaqOn2v4QPfDfdY7tqf//Dokg09BNGTXr4mxOrzAkKEuaHrt4o97
+	 Qj+QO5/OkaURC5ZxoIsUVaYlIfbokmaRMvTBYVwmBsnB0ZbWyc4J7/vVgH4ggrw6qO
+	 uYLZFAJNJTziIlD2AnNXJpO+k5RoS6krwYunYMHI=
+Received: from bcpc103z.prod.jp.local (localhost.localdomain [127.0.0.1])
+	by bcpc103z.prod.jp.local (8.13.8/8.13.8) with ESMTP id t316vsth027857;
+	Wed, 1 Apr 2015 15:57:54 +0900
+Date: Wed, 1 Apr 2015 15:57:54 +0900
+From: swad@mail.rakuten.com
+To: hobby.division@sportshobby.co.jp
+Cc: hiroya.okumura@mail.rakuten.com
+Message-ID: <1707565901.4227.1427871474534.JavaMail.aduser@localhost>
+Subject: =?ISO-2022-JP?B?GyRCIVozWkU3O1Q+bCFbM1pFNxsoQkNQ?=
+ =?ISO-2022-JP?B?QxskQjktOXAbKEIoGyRCJTUhPCVBN0c6XDReJGAbKEI=?=
+ =?ISO-2022-JP?B?KTobJEIkKiQ5JDkkYT4mSUokNERzMEYbKEIgMjAxNS8wNC8wMQ==?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-2022-JP
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+</head>
+<body>
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+
+<tr><td>
+  <!-- logo -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+    <tr><td><img src=3D"https://image.ias.rakuten.co.jp/adp_img/raprms/img/=
+logo/base/w089.gif" alt=3D"=1B$B3ZE7=1B(B" border=3D"0" /><br><br></td></tr=
+>
+  </table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700"><tr=
+ height=3D"4"><td border=3D"1" bordercolor=3D"#c00000" bgcolor=3D"#c00000" =
+style=3D"background:#C00000; border:1px solid; border-color:#C00000"></td><=
+/tr></table>
+</td></tr>
+
+<tr><td>
+  <!-- mail title -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <font size=3D"-1" color=3D"#000000">
+      <br>
+      <font size=3D"3" color=3D"#c00000"><b>=1B$B3ZE7=1B(BCPC=1B$B9-9p=1B(B=
+(=1B$B%5!<%A7G:\4^$`=1B(B):=1B$B$*$9$9$a>&IJ$4Ds0F=1B(B 2015/04/01</b></fon=
+t><br>
+      =1B$BEv%a!<%k$O3ZE7;T>l$K=3DPE9$5$l$F$$$kE9J^MM$X9-9p$N$40FFb$r$9$k$b=
+$N$G$9=1B(B<br>
+      <br>
+      </font>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700"><tr=
+ height=3D"4"><td border=3D"1" bordercolor=3D"#c00000" bgcolor=3D"#c00000" =
+style=3D"background:#C00000; border:1px solid; border-color:#C00000"></td><=
+/tr></table>
+</td></tr>
+
+<tr><td>
+  <!-- mail overview -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700" sty=
+le=3D"table-layout:fixed;">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td style=3D"word-break:break-all;">
+      <font size=3D"-1" color=3D"#000000">
+      <br>
+      =1B$B%9%]!<%D%[%S!<MM=1B(B( sportshobby )<br>
+      =1B$B$4C4Ev<TMM=1B(B( <a href=3D"mailto:hobby.division@sportshobby.co=
+.jp" target=3D"_blank"><font size=3D"-1">hobby.division@sportshobby.co.jp</=
+font></a> )<br>
+      <br>
+      =1B$B$*@$OC$K$J$C$F$*$j$^$9!#3ZE7;T>l$G$9!#=1B(B<br>
+      <br>
+      =1B$B$$$D$b3ZE7;T>l$r$*0z$-N)$F$$$?$@$-@?$K$"$j$,$H$&$4$6$$$^$9!#=1B(=
+B<br>
+      <br>
+      =1B$B0J2<$N>&IJ$O!"3ZE7$N%l%3%a%s%I%7%9%F%`$,A*$s$@3ZE7=1B(BCPC=1B$B9=
+-9p=1B(B(=1B$B%5!<%A7G:\4^$`=1B(B)=1B$B$K:GE,$J>&IJ$G$9!#=1B(B<br>
+      <br>
+      =1B$BE>49N($N9b$$%Z!<%8$X$N$5$i$J$k=3D85R?t%"%C%W$N$?$a$K=1B(B<br>
+      =1B$B3ZE7=1B(BCPC=1B$B9-9p=1B(B(=1B$B%5!<%A7G:\4^$`=1B(B)=1B$B$r$43hM=
+Q$/$@$5$$!#=1B(B<br>
+      <br>
+      </font>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" width=3D"700">
+  <tr height=3D"23"><td bgcolor=3D"#808080" valign=3D"middle"><font size=3D=
+"-1" color=3D"#ffffff"><b>=1B$B"#Ds0FF10U2DG=3D4|8B=1B(B</b></font></td></t=
+r>
+  </table>
+</td></tr>
+
+<tr><td>
+  <!-- notice of agreement -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <font size=3D"-1" color=3D"#000000">
+      <br>
+      <font size=3D"3"><b>2015=1B$BG/=1B(B4=1B$B7n=1B(B30=1B$BF|=1B(B(=1B$B=
+LZ=1B(B)</b></font>=1B$B!!"(4|8B$r2a$.$^$9$HDs0F$O:o=3D|$5$l$^$9!#=1B(B<br>
+      <br>
+      <br>
+      </font>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" width=3D"700">
+  <tr height=3D"23"><td bgcolor=3D"#808080" valign=3D"middle" ><font size=
+=3D"-1" color=3D"#ffffff"><b>=1B$B"#$4Ds0FFbMF=1B(B</b></font></td></tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <!-- proposal items -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <font size=3D"-1" color=3D"#000000">
+      <br>
+      =1B$B!ZDs0F>&IJ![=1B(B<br>
+      <br>
+      </font>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+
+<tr><td>
+  <!-- item information -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+    <!-- index, management id -->
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+    <tr>
+      <td bgcolor=3D"#c00000" width=3D"22" height=3D"22" align=3D"center" v=
+align=3D"middle">
+      <font size=3D"-1" color=3D"#ffffff">1</font>
+      </td>
+      <td align=3D"left" valign=3D"middle">
+      <font size=3D"-1" color=3D"#000000">=1B$B!!>&IJ4IM}HV9f!'=1B(B1000703=
+3</font>
+      </td>
+    </tr>
+    </table>
+    </td>
+  </tr>
+  <tr height=3D"5"><td width=3D"15"></td><td></td></tr>
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+    <tr>
+      <td align=3D"center" valign=3D"top" width=3D"128" height=3D"128">
+        <!-- image -->
+        <a href=3D"http://item.rakuten.co.jp/sportshobby/10007033">
+                        <img src=3D"http://thumbnail.image.rakuten.co.jp/@0=
+_mall/sportshobby/cabinet/01979957/img60289832.jpg?_ex=3D128x128" alt=3D"=
+=1B$B>&IJ2hA|=1B(B" border=3D"0" />
+        </a>
+      </td>
+      <td width=3D"10" height=3D"128">
+      </td>
+      <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"502"=
+ height=3D"128" style=3D"table-layout:fixed;">
+        <!-- item name -->
+        <tr>
+          <td colspan=3D2 align=3D"left" valign=3D"top" width=3D"502" heigh=
+t=3D"40" style=3D"word-break:break-all;">
+          <a href=3D"http://item.rakuten.co.jp/sportshobby/10007033" target=
+=3D"_blank">
+                      <font size=3D"-1" color=3D"#2055bb"><b>&#12510;&#1252=
+3;&#12471;&#12531;&#12288;CDX&#12459;&#12540;&#12488;&#12522;&#12483;&#1247=
+2;&#65288;12g&#22411;CO2&#65289;5&#26412;&#12475;&#12483;&#12488;</b></font=
+>
+                    </a>
+          </td>
+        </tr>
+        <!-- catchcopy -->
+        <tr>
+          <td colspan=3D2 align=3D"left" valign=3D"top" width=3D"502" heigh=
+t=3D"48" style=3D"word-break:break-all;">
+                      <font size=3D"-2" color=3D"#000000"></font>
+                    </td>
+        </tr>
+        <tr>
+          <!-- review -->
+          <td align=3D"left" valign=3D"top" width=3D"202" height=3D"40">
+                      <font size=3D"-2" color=3D"#000000">=1B$B%l%S%e!<=1B(=
+B(2=1B$B7o=1B(B)</font>
+                    </td>
+          <!-- item price -->
+          <td align=3D"right" valign=3D"bottom" width=3D"300" height=3D"40"=
+>
+                      <font size=3D"6" color=3D"#c00000"><b>583</b></font>
+            <font size=3D"3" color=3D"#c00000"><b>=1B$B1_=1B(B</b></font>
+                    </td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    </table>
+    </td>
+  </tr>
+  <tr height=3D"20">
+    <td width=3D"15"></td>
+    <td></td>
+  </tr>
+  </table>
+</td></tr>
+
+
+<tr><td>
+  <!-- item information -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+    <!-- index, management id -->
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+    <tr>
+      <td bgcolor=3D"#c00000" width=3D"22" height=3D"22" align=3D"center" v=
+align=3D"middle">
+      <font size=3D"-1" color=3D"#ffffff">2</font>
+      </td>
+      <td align=3D"left" valign=3D"middle">
+      <font size=3D"-1" color=3D"#000000">=1B$B!!>&IJ4IM}HV9f!'=1B(Bj80035<=
+/font>
+      </td>
+    </tr>
+    </table>
+    </td>
+  </tr>
+  <tr height=3D"5"><td width=3D"15"></td><td></td></tr>
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+    <tr>
+      <td align=3D"center" valign=3D"top" width=3D"128" height=3D"128">
+        <!-- image -->
+        <a href=3D"http://item.rakuten.co.jp/sportshobby/j80035">
+                        <img src=3D"http://thumbnail.image.rakuten.co.jp/@0=
+_mall/sportshobby/cabinet/03290807/img59590469.jpg?_ex=3D128x128" alt=3D"=
+=1B$B>&IJ2hA|=1B(B" border=3D"0" />
+        </a>
+      </td>
+      <td width=3D"10" height=3D"128">
+      </td>
+      <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"502"=
+ height=3D"128" style=3D"table-layout:fixed;">
+        <!-- item name -->
+        <tr>
+          <td colspan=3D2 align=3D"left" valign=3D"top" width=3D"502" heigh=
+t=3D"40" style=3D"word-break:break-all;">
+          <a href=3D"http://item.rakuten.co.jp/sportshobby/j80035" target=
+=3D"_blank">
+                      <font size=3D"-1" color=3D"#2055bb"><b>JUNFAC SCX10 &=
+#12450;&#12523;&#12511;&#12456;&#12463;&#12473;&#12486;&#12531;&#12471;&#12=
+519;&#12531; &#12473;&#12506;&#12540;&#12469;&#12540; 8&#20491;&#20837;</b>=
+</font>
+                    </a>
+          </td>
+        </tr>
+        <!-- catchcopy -->
+        <tr>
+          <td colspan=3D2 align=3D"left" valign=3D"top" width=3D"502" heigh=
+t=3D"48" style=3D"word-break:break-all;">
+                      <font size=3D"-2" color=3D"#000000">SCX10&#31995;</fo=
+nt>
+                    </td>
+        </tr>
+        <tr>
+          <!-- review -->
+          <td align=3D"left" valign=3D"top" width=3D"202" height=3D"40">
+                                          </td>
+          <!-- item price -->
+          <td align=3D"right" valign=3D"bottom" width=3D"300" height=3D"40"=
+>
+                      <font size=3D"6" color=3D"#c00000"><b>594</b></font>
+            <font size=3D"3" color=3D"#c00000"><b>=1B$B1_=1B(B</b></font>
+                    </td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+    </table>
+    </td>
+  </tr>
+  <tr height=3D"20">
+    <td width=3D"15"></td>
+    <td></td>
+  </tr>
+  </table>
+</td></tr>
+
+
+<tr><td>
+  <!-- notice of proposal item -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <font size=3D"-1" color=3D"#000000">
+                  =1B$B"(Ds0F>&IJ$N>pJs$O!"=1B(B2015/04/01=1B$B;~E@$N$b$N$G=
+$9!#=1B(B<br>
+      <br>
+      </font>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <!-- campaign information -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <table border=3D"1" bordercolor=3D"#cccccc" cellpadding=3D"3" cellspa=
+cing=3D"0" width=3D"640" style=3D"border-color:#cccccc;">
+      <tr>
+        <td bgcolor=3D"#808080" align=3D"left" width=3D"120">
+        <font size=3D"-1" color=3D"#ffffff">=1B$B%-%c%s%Z!<%sL>=1B(B</font>
+        </td>
+        <td>
+        <font size=3D"-1" color=3D"#000000">=1B$B$*$9$9$a>&IJ$4Ds0F=1B(B 20=
+15/04/01</font>
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor=3D"#808080" align=3D"left" width=3D"120">
+        <font size=3D"-1" color=3D"#ffffff">=1B$B7QB37nM=3D;;=1B(B</font>
+        </td>
+        <td>
+        <font size=3D"-1" color=3D"#000000">50,000=1B$B1_=1B(B</font>
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor=3D"#808080" align=3D"left" width=3D"120">
+        <font size=3D"-1" color=3D"#ffffff">=1B$BEv7n8BDjM=3D;;=1B(B</font>
+        </td>
+        <td>
+        <font size=3D"-1" color=3D"#000000">
+                  --
+                </font>
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor=3D"#808080" align=3D"left" valign=3D"top" width=3D"120"=
+>
+          <font size=3D"-1" color=3D"#ffffff">=1B$BFCE5>pJs=1B(B</font>
+        </td>
+        <td nowrap>
+        <font size=3D"-1" color=3D"#000000">
+                  --
+                </font>
+        </td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640"><tr=
+ height=3D"20"><td></td></tr></table>
+</td></tr>
+
+<tr><td>
+  <!-- link to agreement page -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+    <tr height=3D"50">
+      <td width=3D"150"></td>
+      <td width=3D"340" align=3D"center" valign=3D"middle" style=3D"backgro=
+und:#C00000; border:1px solid; border-color:#C00000 #330000 #330000 #C00000=
+; border-radius:10px; box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 0.5), 0 1px 3=
+px rgba(255, 255, 255, 0.9) inset, 0 -1px 3px rgba(0, 0, 0, 0.1) inset;">
+        <a href=3D"https://ad.rms.rakuten.co.jp/pr/index.phtml?module=3DRap=
+RMS&action=3DE_CPC_05_002&mode=3Dview&search_word_flag=3D1&cpc_flag=3D1&cpc=
+_proposal_id=3D2048698" style=3D"color:#FFFFFF; text-decoration:none;">
+        <font size=3D"2"><b>=1B$BDs0F$N>\:Y!&F10U$O%3%A%i!J"(MW=1B(BRMS=1B$=
+B%m%0%$%s!K=1B(B</b></font></a>
+      </td>
+      <td width=3D"150"></td>
+    </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640"><tr=
+ height=3D"20"><td></td></tr></table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" width=3D"700">
+  <tr height=3D"23"><td bgcolor=3D"#808080" valign=3D"middle" ><font size=
+=3D"-1" color=3D"#ffffff"><b>=1B$B"#3ZE7=1B(BCPC=1B$B9-9p=1B(B(=1B$B%5!<%A7=
+G:\4^$`=1B(B)=1B$B$H$O!)=1B(B</b></font></td></tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <!-- about cpc 1 -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <font size=3D"-1" color=3D"#000000">
+      <br>
+      =1B$B9-9p>&IJ$H4XO"@-$N9b$$%Z!<%8!J8!:w7k2L!"%8%c%s%k%Z!<%8!"4k2h%Z!<=
+%8$J$I!K$K9-9p$r7G:\$7!"=1B(B<br>
+      =1B$B$=3D$N9-9p$+$i$N%f!<%6=3D85R!J%/%j%C%/!K2s?t$K1~$8$F2]6b$9$k%5!<=
+%S%9$G$9!#=1B(B<br>
+      <br>
+      </font>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+
+<tr><td>
+  <!-- about cpc 2 -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"400"=
+>
+        <tr>
+          <td>
+          <a href=3D"https://mainmenu.rms.rakuten.co.jp/auth/index.phtml?pa=
+rams=3Dswad/cpcad/flow/gaiyo.html&amp;param2=3D0" target=3D"_blank" style=
+=3D"border-bottom: 1px #C00000 solid;">
+          <font size=3D"-1" color=3D"#c00000"><b>
+          =1B$B3ZE7=1B(BCPC=1B$B9-9p=1B(B(=1B$B%5!<%A7G:\4^$`=1B(B)=1B$B$NE=
+9J^1?1D%^%K%e%"%k$O$3$A$i=1B(B
+          </b></font>
+          </a>
+          </td>
+        </tr>
+        <tr>
+          <td align=3D"center">
+          <font size=3D"-1" color=3D"#c00000"><b>
+          =1B$B!JMW=1B(BRMS=1B$B%m%0%$%s!K=1B(B<br>
+          <br>
+          </b></font>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <!-- about cpc 3 -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <font size=3D"-1" color=3D"#000000">
+      =1B$B$^$?L5NA$G$4Mw$$$?$@$1$kBg3X9V:B=1B(BRUx=1B$B$b$4MQ0U$7$F$*$j$^$=
+9!#=1B(B<br>
+      =1B$B$4MxMQE9J^$5$^$N3ZE7=1B(BCPC=1B$B9-9p=1B(B(=1B$B%5!<%A7G:\4^$`=
+=1B(B)=1B$B$N3hMQK!$J$I$r8x3+$7$F$*$j$^$9$N$G!"=1B(B<br>
+      =1B$B$<$R0lEY$4Mw$$$?$@$-!"$4;29M$K$5$l$F$/$@$5$$!*=1B(B<br>
+      <br>
+      </font>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <!-- about cpc 4 -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"300"=
+>
+        <tr>
+          <td>
+          <a href=3D"https://rakuten.udemy.com/courses/#/browse/652666?p=3D=
+1&pageSize=3D12" target=3D"_blank" style=3D"border-bottom: 1px #C00000 soli=
+d;">
+          <font size=3D"-1" color=3D"#c00000"><b>
+          =1B$B!Z3ZE7Bg3X![=1B(BRUx=1B$B!!=1B(BCPC=1B$B9-9p%3%s%F%s%D$O$3$A=
+$i=1B(B
+          </b></font>
+          </a>
+          </td>
+        </tr>
+        <tr>
+          <td align=3D"center">
+          <font size=3D"-1" color=3D"#c00000"><b>
+          =1B$B!JMW=1B(BRUx=1B$B%m%0%$%s!K=1B(B<br>
+          <br>
+          </b></font>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" width=3D"700">
+  <tr height=3D"23"><td bgcolor=3D"#808080" valign=3D"middle" ><font size=
+=3D"-1" color=3D"#ffffff"><b>=1B$B"#$4Cm0UE@=1B(B</b></font></td></tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <!-- notice of the service -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <font size=3D"-1" color=3D"#000000">
+      <br>
+      =1B$B"($4ITL@$JE@$J$I$4$6$$$^$7$?$iC4Ev=1B(BEC=1B$B%3%s%5%k%?%s%H$^$G=
+$*Ld$$9g$o$;$/$@$5$$!#=1B(B<br>
+      =1B$B"(DL>o>&IJ$,Ds0FBP>]$G$9$,!"0lItDs0FBP>]30$N>&IJ$b$"$j$^$9!#=1B(=
+B<br>
+      =1B$B!!=1B(B (=1B$BNc!':o=3D|$5$l$?>&IJ!"AR8K$KF~$C$F$$$k>&IJ!"0G;T>&=
+IJ!"%5!<%AHsI=3D<(>&IJ$J$I=1B(B)<br>
+      =1B$B"(Ev3:Ds0F$G$O!V7QB37nM=3D;;!W$G$4Ds0F$7$F$$$^$9!#=1B(B<br>
+      =1B$B!!7QB37nM=3D;;$NMs$K$4M=3D;;3[$,F~NO$5$l$F$$$k$HKh7n$=3D$N$4M=3D=
+;;$G<+F0%9%?!<%H$7$^$9!#=1B(B<br>
+      =1B$B"(Ev7n$N$_$4MxMQ$5$l$?$$>l9g$OEv7n8BDjM=3D;;$NMs$K$44uK>M=3D;;3[=
+$r=1B(B<br>
+      =1B$B!!$4F~NO$N$&$(!"7QB37nM=3D;;Ms$K!V=1B(B0=1B$B1_!W$r$4F~NO$/$@$5$=
+$!#=1B(B<br>
+      =1B$B"(=1B(BPC=1B$B$H%b%P%$%kN>J}$N9-9p%0%k!<%W$,:n@.$5$l$^$9!#=1B(B<=
+br>
+      =1B$B!!=1B(B(=1B$B%b%P%$%kHsBP1~$N>&IJ$N>l9g$r=3D|$-$^$9=1B(B)<br>
+      <br>
+      </font>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" width=3D"700">
+  <tr height=3D"23"><td bgcolor=3D"#808080" valign=3D"middle" ><font size=
+=3D"-1" color=3D"#ffffff"><b>=1B$B"#G[?.2r=3D|=1B(B</b></font></td></tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <!-- unsubscribe -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <font size=3D"-1" color=3D"#000000">
+      <br>
+      =1B$B$3$N%a!<%k$NG[?.2r=3D|$O$3$A$i!#=1B(B<br>
+      =1B$B!!=1B(B<a href=3D"http://r10.to/hWXWtG" target=3D"_blank">http:/=
+/r10.to/hWXWtG</a><br>
+      <br>
+      =1B$B0J>e!"$h$m$7$/$*4j$$$$$?$7$^$9!#=1B(B<br>
+      <br>
+      </font>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700"><tr=
+ height=3D"4"><td border=3D"1" bordercolor=3D"#c00000" bgcolor=3D"#c00000" =
+style=3D"background:#C00000; border:1px solid; border-color:#C00000"></td><=
+/tr></table>
+</td></tr>
+
+<tr><td>
+  <!-- contact information -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+  <tr>
+    <td width=3D"15">
+    </td>
+    <td>
+      <font size=3D"-1" color=3D"#000000">
+      <br>
+      =1B$B3ZE7;T>l=1B(B  <a href=3D"http://www.rakuten.co.jp/" target=3D"_=
+blank">http://www.rakuten.co.jp/</a><br>
+      [=1B$B3ZE7=1B(BCPC=1B$B9-9p=1B(B(=1B$B%5!<%A7G:\4^$`=1B(B)=1B$BC4Ev=
+=1B(B =1B$B$*Ld$$9g$o$;@h=1B(B]<br>
+       MAIL=1B$B!'=1B(B<a href=3D"mailto:swad@mail.rakuten.com" target=3D"_=
+blank">swad@mail.rakuten.com</a><br>
+       TEL =1B$B!'=1B(B050-5533-1899<br>
+      [=1B$B<uIU;~4V=1B(B]<br>
+       =1B$BJ?F|!!!!!!=1B(B =1B$B!'=1B(B9:30=1B$B!A=1B(B18:30<br>
+       =1B$BEZF|!&=3DKF|!'Mb1D6HF|$N$4JVEz$H$J$j$^$9=1B(B<br>
+      <br>
+      </font>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<tr><td>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700"><tr=
+ height=3D"4"><td border=3D"1" bordercolor=3D"#c00000" bgcolor=3D"#c00000" =
+style=3D"background:#C00000; border:1px solid; border-color:#C00000"></td><=
+/tr></table>
+</td></tr>
+
+</table>
+<img src=3D"http://grp06.ias.rakuten.co.jp/c/?p=3D2048698&c=3D2036290&m=3D1=
+16189&d=3D20150401&k=3Decb6649e" width=3D"1" height=3D"1" />
+
+</body>
+</html>

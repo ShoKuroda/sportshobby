@@ -1,0 +1,966 @@
+Return-Path: <20150331040546bd29de95781842c0afc9e8d692233cd3-C3RSC49Y74OW05@bounces.amazon.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.4 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,T_REMOTE_IMAGE,URIBL_BLOCKED,URIBL_SBL
+	autolearn=no version=3.3.2
+Received: from fsav402.sakura.ne.jp (fsav402.sakura.ne.jp [133.242.250.101])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V45nkL072305
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 13:05:49 +0900 (JST)
+	(envelope-from 20150331040546bd29de95781842c0afc9e8d692233cd3-C3RSC49Y74OW05@bounces.amazon.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav402.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp);
+ Tue, 31 Mar 2015 13:05:49 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav402.sakura.ne.jp)
+Received: from a24-10.smtp-out.us-west-2.amazonses.com (a24-10.smtp-out.us-west-2.amazonses.com [54.240.24.10])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V45l4s072300
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 13:05:48 +0900 (JST)
+	(envelope-from 20150331040546bd29de95781842c0afc9e8d692233cd3-C3RSC49Y74OW05@bounces.amazon.com)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=7v7vs6w47njt4pimodk5mmttbegzsi6n; d=amazonses.com; t=1427774746;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:Feedback-ID;
+	bh=E/JvzwvjLaZtyKy8Ik/x7yu13Xj9AYdJUoVRSZ0WcBs=;
+	b=K6cvYDxWAyYaGgDaNPbLOLdqT8wP4nwWacjb8xbu1maygkzd26SH0RHSbDZWf8fz
+	j85PferJxX5eouhvlJEYhjaBZ5OQc74H2J/b7htN+vI79ZKkL9aUPv1Zkfo/96M8Z3e
+	xFcUdx7tp7Z1HLk/ONaRAOX37RYhtuSW6Y7SHqc4=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=dmkhcugko3o5nkjv67jqit576afxvzy4; d=amazon.co.jp; t=1427774746;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=E/JvzwvjLaZtyKy8Ik/x7yu13Xj9AYdJUoVRSZ0WcBs=;
+	b=QWrjuf4qqK0V2B+sICUxm6EBq8hEUvb4eFWv3Hcfro6vzDAehLgOg+xy1xIw7ZdA
+	T3oxocwi62Vs0icQL7oLJM6H16RZdc2855+0ReKfxTtzadSBww0BAOdBv8FaQjy/8mA
+	EVIr2YuiUPZQhfWH9c9M15wyBWGuPHFAmzttpQ4E=
+Date: Tue, 31 Mar 2015 04:05:46 +0000
+From: "Amazon.co.jp" <store_news@amazon.co.jp>
+To: "hobby.division@sportshobby.co.jp" <hobby.division@sportshobby.co.jp>
+Message-ID: <0000014c6e01b067-dd38a042-c7d6-4791-8bcd-432297b05b19-000000@us-west-2.amazonses.com>
+Subject: =?UTF-8?B?6buS55Sw44CA6ZuE5qeY44G444CQ44Ob44Ov44Kk44OI44Kr44Op44O8?=
+ =?UTF-8?B?55m65aOy6KiY5b+144CRS2luZGxl77yG44OX44Op44Kk?=
+ =?UTF-8?B?44Og5pys5Lya5ZOh55m76Yyy44GnMywwMDDlhobliIbjga4=?=
+ =?UTF-8?B?QW1hem9u44Ku44OV44OI5Yi444OX44Os44K844Oz44OI?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1854997_1682239658.1427774746663"
+Bounces-to: 20150331040546bd29de95781842c0afc9e8d692233cd3-C3RSC49Y74OW05@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: merchandizing
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20150331040546bd29de95781842c0afc9e8d692233cd3@1427774746670.massmail-sender-fe-2a-i-20713a14.us-west-2.amazon.com>
+X-SES-Outgoing: 2015.03.31-54.240.24.10
+Feedback-ID: 1.us-west-2.Ci45k5OkUuH90u7dO0Ory1StkcbFm601BtN95yGGkr4=:AmazonSES
+
+------=_Part_1854997_1682239658.1427774746663
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1854998_1779719251.1427774746663"
+
+------=_Part_1854998_1779719251.1427774746663
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09CkFNQVpPTi5DTy5KUAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCuiqreabuOOBq+eJueWMluOB
+l+OBn+mbu+WtkOabuOexjeODquODvOODgOODvOOAjEtpbmRsZeOAjeOBi+OCieODm+ODr+OCpOOD
+iOOCq+ODqeODvOOBjOaWsOeZu+WgtOOAgueZuuWjsuOCkuiomOW/teOBl+OBpuOAgeOAjktpbmRs
+ZeOAj+OCguOBl+OBj+OBr+OAjktpbmRsZSBQYXBlcndoaXRl44CP44KS6LO85YWl44GX44GmQW1h
+em9u44OX44Op44Kk44Og5pys5Lya5ZOh44Gr55m76Yyy44GZ44KL44Go44CBQW1hem9u44Ku44OV
+44OI5Yi4MywwMDDlhobliIbjg5fjg6zjgrzjg7Pjg4jjgII0LzMw44G+44Gn44CCCmh0dHA6Ly93
+d3cuYW1hem9uLmNvLmpwL2dwL3Byb2R1Y3QvcmVmPXBlX2tpbmRsZV9oZXJvL0IwMFRIUEJVNE8K
+Cj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PQoKS2luZGxlIFBhcGVyd2hpdGUgLSBBbWF6b24uY28uanDjgafkuIDnlarl
+o7LjgozjgabjgYTjgovpm7vlrZDmm7jnsY3jg6rjg7zjg4Djg7zjgILos7zlhaXvvIZBbWF6b27j
+g5fjg6njgqTjg6DmnKzkvJrlk6HnmbvpjLLjgZnjgovjgajjgIFBbWF6b27jgq7jg5Xjg4jliLgz
+LDAwMOWGhuWIhuODl+ODrOOCvOODs+ODiOOAgu+/pTEwLDI4MOOBi+OCieOAggpodHRwOi8vd3d3
+LmFtYXpvbi5jby5qcC9ncC9wcm9kdWN0L3JlZj1wZV9raW5kbGVfcGFjazEvQjAwQ1RUTDVYUQoK
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09CgpLaW5kbGUgVm95YWdlIC0g6Kqt5pu444KS5oSb44GZ44KL5Lq644Gu44Gf
+44KB44Gr6Iez56aP44Gu6Kqt5pu45L2T6aiT44KS6L+95rGC44GX44Gm5b655bqV55qE44Gr5L2c
+44KK44GT44KT44Gg44OX44Os44Of44Ki44Og44Oi44OH44Or44CC77+lMjEsNDgw44GL44KJ44CC
+Cmh0dHA6Ly93d3cuYW1hem9uLmNvLmpwL2dwL3Byb2R1Y3QvcmVmPXBlX2tpbmRsZV9wYWNrMi9C
+MDBNMEVWWUNDCgo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT0KCuOBiuaJi+mgg+S+oeagvOOBrkZpcmUgSETjgrfjg6rj
+g7zjgrogLSDjgYrmiYvpoIPkvqHmoLzjgaflhYXlrp/jga7mqZ/og73jgIFGaXJlIEhE44K/44OW
+44Os44OD44OI44Gv44Od44Kx44OD44OI44K144Kk44K644GuNuOCpOODs+ODgeOBqOOCs+ODs+OD
+keOCr+ODiOOBqjfjgqTjg7Pjg4HjgILvv6UxMSw4MDDjgYvjgonjgIIKaHR0cDovL3d3dy5hbWF6
+b24uY28uanAvZ3AvcHJvZHVjdC9yZWY9cGVfa2luZGxlX3BhY2szL0IwMEtDNlRETFkKCj09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PQoKRmlyZeOCv+ODluODrOODg+ODiOOCouOCr+OCu+OCteODquOCueODiOOCoiAtIOe0
+lOato+OCq+ODkOODvOOChOOAgeS/neitt+ODleOCo+ODq+ODoOOAgeawtOa8j+OCjOOBq+OCguWv
+vuW/nOOBl+OBn+S6i+aVheS/neiovOODl+ODqeODs+OBquOBqUtpbmRsZeOCkuOCguOBo+OBqOS+
+v+WIqeOBq+OBmeOCi+OCouOCr+OCu+OCteODquOAggpodHRwOi8vd3d3LmFtYXpvbi5jby5qcC9n
+cC9icm93c2UuaHRtbC9yZWY9cGVfa2luZGxlX3BhY2s0Lz9ub2RlPTI0MDg2OTYwNTEKCiMjIyMj
+IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMj
+IyMjIyMjIyMKCuacrEXjg6Hjg7zjg6vjgavoqJjovInjgZXjgozjgabjgYTjgovllYblk4Hjga7k
+vqHmoLzjgIHlibLlvJXnjofjgIHjg53jgqTjg7Pjg4jmlbDjgIHjg5fjg63jg6Ljg7zjgrfjg6fj
+g7PlhoXlrrnnrYnjga/jgIHmnKxF44Oh44O844Or6YWN5L+h5pmC54K544Gu44KC44Gu44Gn44CB
+5LqI5ZGK44Gq44GX44Gr5aSJ5pu044GV44KM44KL5aC05ZCI44GM44GC44KK44G+44GZ44CC5ZWG
+5ZOB44Gu5pyA5paw44Gu5L6h5qC844CB5Ymy5byV546H44CB44Od44Kk44Oz44OI5pWw44CB5Zyo
+5bqr54q25rOB44Gr44Gk44GN44G+44GX44Gm44Gv5b2T44K144Kk44OI44Gn44GU56K66KqN44GP
+44Gg44GV44GE44CCCgrjg5fjg63jg6Ljg7zjgrfjg6fjg7PjgoTjgq3jg6Pjg7Pjg5rjg7zjg7Pl
+hoXlrrnjga/jgIHnibnmrrXjga7oqJjovInjga7jgarjgYTpmZDjgorjgIFBbWF6b24uY28uanDj
+gYzosqnlo7LjgZnjgovllYblk4Hjgavjga7jgb/pgannlKjjgZXjgozjgIFBbWF6b27jg57jg7zj
+grHjg4Pjg4jjg5fjg6zjgqTjgrnjgarjganjgavjgYrjgYTjgabnrKzkuInogIXjgavjgojjgoro
+sqnlo7LjgZXjgozjgovllYblk4Hjgavjga/pgannlKjjgZXjgozjgb7jgZvjgpPjgIIKCkFtYXpv
+bi5jby5qcOOBruOBiuWuouanmOOAgeizvOiqreiAheOAgeOCs+ODs+ODhuOCueODiOWPguWKoOiA
+heOBruaWueOAheOBq+OBr+OAgeOCteOCpOODiOOBruODquODi+ODpeODvOOCouODq+OAgQrmlrDj
+gZfjgYTjgrXjg7zjg5Pjgrnjga7plovlp4vjgIHnibnliKXmj5Dkvpvlk4Hjgarjganjga7mg4Xl
+oLHjgpJF44Oh44O844Or44Gn44GU5qGI5YaF44GX44Gm44GK44KK44G+44GZ44CCCuOBk+OBruOC
+iOOBhuOBqkXjg6Hjg7zjg6vjgpLlj5fjgZHlj5bjgorjgZ/jgY/jgarjgYTmlrnjga/jgIEgCmh0
+dHA6Ly93d3cuYW1hem9uLmNvLmpwLy9ncC9nc3Mvby8xZDM0Z1FGb1Rjc0hRN0xGT3N6LXBKLkdp
+N1FzNzcwOG93QnVDbTkyLm5WMkY5Yi1WSGZFSlQzdXNRVTMzRHNiOQrjgavjgqLjgq/jgrvjgrnj
+gZfjgIHoqK3lrprjga7lpInmm7TjgpLooYzjgaPjgabjgY/jgaDjgZXjgYTjgIIKCuOBk+OBruOD
+oeODvOODq+OBq+OBneOBruOBvuOBvui/lOS/oeOCkuOBl+OBpuOBhOOBn+OBoOOBhOOBpuOCgumF
+jeS/oeOBruino+mZpOOBr+WHuuadpeOBquOBhOOBu+OBi+OAgQrlvIrnpL7jgYvjgonjga7ov5Tn
+rZTjgoLlh7rmnaXjgb7jgZvjgpPjga7jgafjgIHjg6Hjg4Pjgrvjg7zjgrjjga/ov5Tkv6HjgZfj
+garjgYTjgojjgYbjgYrpoZjjgYTjgYTjgZ/jgZfjgb7jgZnjgIIgCuOBk+OBrkXjg6Hjg7zjg6vj
+ga/mrKHjga7jgqLjg4njg6zjgrnlrpvjgavpgIHkv6HjgZXjgozjgb7jgZfjgZ/vvJogaG9iYnku
+ZGl2aXNpb25Ac3BvcnRzaG9iYnkuY28uanAKCkNvcHlyaWdodCAyMDE1IEFtYXpvbi5jb20sIElu
+Yy4gYW5kIGl0cyBhZmZpbGlhdGVzLiBBbGwgcmlnaHRzIHJlc2VydmVkLiAKQW1hem9uLCBBbWF6
+b24uY28uanAgYW5kIHRoZSBBbWF6b24uY28uanAgbG9nbyBhcmUgdHJhZGVtYXJrcyBvZiBBbWF6
+b24uY29tLCBJbmMuIApvciBpdHMgYWZmaWxpYXRlcy4K
+------=_Part_1854998_1779719251.1427774746663
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ minimum-scale=3D1, maximum-scale=3D1">
+<title>=E9=BB=92=E7=94=B0=E3=80=80=E9=9B=84=E6=A7=98=E3=81=B8=E3=80=90=E3=
+=83=9B=E3=83=AF=E3=82=A4=E3=83=88=E3=82=AB=E3=83=A9=E3=83=BC=E7=99=BA=E5=A3=
+=B2=E8=A8=98=E5=BF=B5=E3=80=91Kindle=EF=BC=86=E3=83=97=E3=83=A9=E3=82=A4=E3=
+=83=A0=E6=9C=AC=E4=BC=9A=E5=93=A1=E7=99=BB=E9=8C=B2=E3=81=A73,000=E5=86=86=
+=E5=88=86=E3=81=AEAmazon=E3=82=AE=E3=83=95=E3=83=88=E5=88=B8=E3=83=97=E3=83=
+=AC=E3=82=BC=E3=83=B3=E3=83=88 Amazon</title>
+<style type=3D"text/css">
+.ReadMsgBody { width: 100%; background-color: #ffffff; }
+.ExternalClass { width: 100%; background-color: #ffffff; }
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div { line-height: 100%; }
+html { width: 100%; }
+body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none; }
+body { margin: 0; padding: 0; }
+table { border-spacing: 0; }
+img { display: block !important; }
+table td { border-collapse: collapse; }
+.yshortcuts a { border-bottom: none !important; }
+a { color: #ff9900; text-decoration: none; font-weight: bold; }
+.hide { max-height: 0px; font-size: 0; display: none; }
+ @media only screen and (max-width: 640px) {
+body { width: auto !important; }
+table[class=3D"table600"] { width: 450px !important; text-align: center !im=
+portant; }
+table[class=3D"table550"] { width: 87% !important; float: none !important; =
+}
+table[class=3D"table2-2"] { width: 47% !important; vertical-align: text-bot=
+tom;}
+img[class=3D"img1"] { width: 100% !important; height: auto !important; }
+img[class=3D"img2"] { width: 60% !important; height: auto !important; }
+table[class=3D"social"] { width: 100px !important; }
+table[class=3D"table1-3"] { width: 30% !important; }
+table[class=3D"table3-1"] { width: 64% !important; }
+td[class=3D"clear_pad"] { padding: 0px !important; }
+/*space*/
+table[class=3D"space"] { display: none !important; }
+}
+@media only screen and (max-width: 479px) {
+body { width: auto !important; }
+img[class=3D"top_fold"] { max-width: 0px !important; max-height: 0px !impor=
+tant;}
+table[class=3D"table600"] { width: 290px !important; }
+table[class=3D"table550"] { float: none !important; }
+table[class=3D"table2-2"] { width: 100% !important; text-align: center !imp=
+ortant; vertical-align: text-bottom;}
+img[class=3D"img1"] { width: 100% !important; }
+img[class=3D"img2"] { width: 40% !important; height: auto !important; }
+table[class=3D"table1-3"] { width: 100% !important; }
+table[class=3D"table3-1"] { width: 100% !important; }
+.hide { max-height: 26px !important; font-size: 0px !important; display: bl=
+ock !important; }
+/*space*/
+table[class=3D"space"] { display: none !important; }
+td[class=3D"space"] { display: none !important; }
+}
+.btn {width:280px; text-align: center!important;}
+</style>
+<!--[if gte mso 15]>
+<style type=3D"text/css">
+/* Outlook2013 specific CSS */
+td {word-break:break-all;}
+</style>
+<![endif]-->
+</head>
+
+<body><img src=3D"http://www.amazon.co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3H=
+HI76Y97XJV2&H=3DYUGOBEW6PJ63N8OUPD78QJWDXYEA&T=3DO&U=3Dhttp%3A%2F%2Fimages-=
+jp.amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif" />
+
+
+<table bgcolor=3D"#e3e3e3" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%">
+   <tbody><tr>
+<td valign=3D"top"><table align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%">
+           =20
+            <!--Header Bar-->
+           =20
+            <tbody><tr>
+               <td valign=3D"top"><table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" height=3D"5" width=3D"100%">
+                     <tbody><tr>
+                        <td style=3D"border-top:5px solid #ffffff;" valign=
+=3D"top"><table class=3D"table600" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"640">
+                             =20
+                              <!--Link Browser-->
+                             =20
+                              <tbody><tr>
+                                 <td style=3D"font-family: Arial, sans-seri=
+f; font-size:12px; color:#333333; padding-top:15px;" align=3D"right" valign=
+=3D"top">Kindle <a href=3D"http://www.amazon.co.jp/gp/r.html?R=3D6RU7HXO64J=
+QZ&C=3D3HHI76Y97XJV2&H=3DUAHNGHKYD6VRZMIFDZX8NNXROUMA&T=3DC&U=3Dhttp%3A%2F%=
+2Fwww.amazon.co.jp%2Fgp%2Fproduct%2Fref%3Dpe_374772_181819472_pe_kindle_ss%=
+2FB00THPBU4O" style=3D"font-weight: bold; color:#336699; text-decoration:un=
+derline">=E3=83=9B=E3=83=AF=E3=82=A4=E3=83=88=E7=99=BB=E5=A0=B4</a></td>
+                              </tr>
+                             =20
+                              <!--End Link Browser-->
+                             =20
+                              <tr>
+                                 <td height=3D"15"></td>
+                              </tr>
+                              <tr>
+                                 <td style=3D"border-top:#ff9900 4px solid;=
+ border-bottom:#e3e3e3 1px solid" align=3D"left" valign=3D"top"><table clas=
+s=3D"table600" align=3D"left" bgcolor=3D"#ffffff" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"640">
+                                       <tbody><tr>
+                                          <td style=3D"padding-left:0px; pa=
+dding-right:0px;" valign=3D"bottom"><!--Logo-->
+                                            =20
+                                             <table class=3D"table1-3" alig=
+n=3D"left" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"6" cellspacing=
+=3D"0" width=3D"120">
+                                                <tbody><tr>
+                                                   <td align=3D"center"><a =
+href=3D"http://www.amazon.co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV=
+2&H=3D0LZ5QRO9G8NIMCFT1DW9VYXBOKWA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%=
+2Fref%3Dpe_374772_181819472_pe_sef_logo"><img src=3D"http://g-ec2.images-am=
+azon.com/images/G/01/e-mail/logos/amzn_logo_110x48.png" alt=3D"Amazon.com" =
+hspace=3D"0" vspace=3D"0" border=3D"0"></a></td>
+                                                </tr>
+                                             </tbody></table>
+                                            =20
+                                             <!--End Logo-->=20
+                                            =20
+                                             <!--Navigation-->
+                                            =20
+                                             <table class=3D"table3-1" alig=
+n=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                <tbody><tr>
+                                                   <td class=3D"space" alig=
+n=3D"right" height=3D"10" valign=3D"top"></td>
+                                                </tr>
+                                                <tr>
+                                                   <td class=3D"clear_pad" =
+style=3D"padding-right:25px;" valign=3D"top"><table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"27">
+                                                         <tbody><tr>
+                                                            <td style=3D" f=
+ont-family: Arial, sans-serif; font-size:12px"><a href=3D"http://www.amazon=
+.co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3DZ2NB4XGEEYAWUF4Y3GO=
+NGLOUASAA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fyourstore%2Fhome%2=
+Fref%3Dpe_374772_181819472_pe_yourstore%2F" style=3D" font-family: Arial, s=
+ans-serif; font-size:12px; color:#336699; text-decoration:underline">=E3=83=
+=9E=E3=82=A4=E3=82=B9=E3=83=88=E3=82=A2</a> <span>&nbsp;&nbsp;&nbsp;</span>=
+ <a href=3D"http://www.amazon.co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y9=
+7XJV2&H=3DJAK8BIWP5O3CP6NB5IECA5QEBVYA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co=
+.jp%2Fb%2Fref%3Dpe_374772_181819472_pe_sale%2F%3Fnode%3D2221688051" style=
+=3D" font-family: Arial, sans-serif; font-size:12px; color:#336699; text-de=
+coration:underline">=E3=82=BF=E3=82=A4=E3=83=A0=E3=82=BB=E3=83=BC=E3=83=AB<=
+/a> <span>&nbsp;&nbsp;&nbsp;</span> <a href=3D"http://www.amazon.co.jp/gp/r=
+.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3DE5F5BWAAAUARYHKWCBWAKBLKW9OA&T=
+=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fsite-directory%2Fref%3Dpe_374=
+772_181819472_pe_all_cat%2F" style=3D" font-family: Arial, sans-serif; font=
+-size:12px; color:#336699; text-decoration:underline">=E3=81=99=E3=81=B9=E3=
+=81=A6=E3=81=AE=E3=82=AB=E3=83=86=E3=82=B4=E3=83=AA=E3=83=BC</a></td>
+                                                         </tr>
+                                                      </tbody></table></td>
+                                                </tr>
+                                                <tr>
+                                                   <td height=3D"10"></td>
+                                                </tr>
+                                             </tbody></table>
+                                            =20
+                                             <!--End Navigation--></td>
+                                       </tr>
+                                    </tbody></table></td>
+                              </tr>
+                       </tbody></table></td>
+                     </tr>
+                  </tbody></table></td>
+            </tr>
+           =20
+            <!--End Header Bar-->=20
+           =20
+            <!--Header Image-->
+           =20
+            <tr>
+               <td valign=3D"top"><table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%">
+                     <tbody><tr>
+                        <td bgcolor=3D"#e3e3e3"><table class=3D"table600" a=
+lign=3D"center" bgcolor=3D"#e3e3e3" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"640">
+                              <tbody><tr>
+                                 <td align=3D"center" bgcolor=3D"#FFFFFF"><=
+a href=3D"http://www.amazon.co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97X=
+JV2&H=3DKC6DORFDAQ3TSPFWIZSKRHR4RTMA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.j=
+p%2Fgp%2Fproduct%2Fref%3Dpe_374772_181819472_pe_kindle_hero%2FB00THPBU4O"><=
+img class=3D"img1" src=3D"http://g-ec2.images-amazon.com/images/G/09/kindle=
+/merch/2015/kb_white/non-prime/letterbox-kbw-nonprime-650.jpg" alt=3D"=E8=
+=AA=AD=E6=9B=B8=E3=81=AB=E7=89=B9=E5=8C=96=E3=81=97=E3=81=9F=E9=9B=BB=E5=AD=
+=90=E6=9B=B8=E7=B1=8D=E3=83=AA=E3=83=BC=E3=83=80=E3=83=BC=E3=80=8CKindle=E3=
+=80=8D=E3=81=8B=E3=82=89=E3=83=9B=E3=83=AF=E3=82=A4=E3=83=88=E3=82=AB=E3=83=
+=A9=E3=83=BC=E3=81=8C=E6=96=B0=E7=99=BB=E5=A0=B4=E3=80=82=E7=99=BA=E5=A3=B2=
+=E3=82=92=E8=A8=98=E5=BF=B5=E3=81=97=E3=81=A6=E3=80=81=E3=80=8EKindle=E3=80=
+=8F=E3=82=82=E3=81=97=E3=81=8F=E3=81=AF=E3=80=8EKindle Paperwhite=E3=80=8F=
+=E3=82=92=E8=B3=BC=E5=85=A5=E3=81=97=E3=81=A6Amazon=E3=83=97=E3=83=A9=E3=82=
+=A4=E3=83=A0=E6=9C=AC=E4=BC=9A=E5=93=A1=E3=81=AB=E7=99=BB=E9=8C=B2=E3=81=99=
+=E3=82=8B=E3=81=A8=E3=80=81Amazon=E3=82=AE=E3=83=95=E3=83=88=E5=88=B83,000=
+=E5=86=86=E5=88=86=E3=83=97=E3=83=AC=E3=82=BC=E3=83=B3=E3=83=88=E3=80=824/3=
+0=E3=81=BE=E3=81=A7=E3=80=82" align=3D"middle" border=3D"0"></a></td>
+                              </tr>
+                       </tbody></table></td>
+                     </tr>
+                  </tbody></table></td>
+            </tr>
+           =20
+            <!--End Header Image-->=20
+             <!--1:1 Content-->
+           =20
+            <tr>
+               <td valign=3D"top"><table class=3D"table600" align=3D"center=
+" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"640">
+                     <tbody><tr>
+                        <td height=3D"15"></td>
+                     </tr>
+                     <tr>
+                        <td valign=3D"top"><table class=3D"table550" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">
+                             =20
+                              <!--Article Title-->
+                             =20
+                              <tbody><tr>
+                                 <td style=3D"font-family: Arial, sans-seri=
+f; font-weight:bold; font-size:17px; color:#333333;" align=3D"left" valign=
+=3D"top">=E3=81=8A=E5=AE=A2=E6=A7=98=E3=81=B8</td>
+                              </tr>
+                             =20
+                              <!--End Article Title-->
+                             =20
+                              <tr>
+                                 <td align=3D"left" height=3D"10" valign=3D=
+"top"></td>
+                              </tr>
+                             =20
+                              <!--Content-->
+                             =20
+                              <tr>
+                                 <td style=3D"font-family: Arial, sans-seri=
+f; font-size:14px; color:#333333; line-height:22px;" align=3D"left" valign=
+=3D"top">
+=E8=AA=AD=E6=9B=B8=E3=81=AB=E7=89=B9=E5=8C=96=E3=81=97=E3=81=9F=E9=9B=BB=E5=
+=AD=90=E6=9B=B8=E7=B1=8D=E3=83=AA=E3=83=BC=E3=83=80=E3=83=BC=E3=80=8CKindle=
+=E3=80=8D=E3=81=8B=E3=82=89=E3=83=9B=E3=83=AF=E3=82=A4=E3=83=88=E3=82=AB=E3=
+=83=A9=E3=83=BC=E3=81=8C=E6=96=B0=E7=99=BB=E5=A0=B4=E3=80=82=E7=99=BA=E5=A3=
+=B2=E3=82=92=E8=A8=98=E5=BF=B5=E3=81=97=E3=81=A6=E3=80=81=E3=80=8EKindle=E3=
+=80=8F=E3=82=82=E3=81=97=E3=81=8F=E3=81=AF=E3=80=8EKindle Paperwhite=E3=80=
+=8F=E3=82=92=E8=B3=BC=E5=85=A5=E3=81=97=E3=81=A6Amazon=E3=83=97=E3=83=A9=E3=
+=82=A4=E3=83=A0=E6=9C=AC=E4=BC=9A=E5=93=A1=E3=81=AB=E7=99=BB=E9=8C=B2=E3=81=
+=99=E3=82=8B=E3=81=A8=E3=80=81Amazon=E3=82=AE=E3=83=95=E3=83=88=E5=88=B83,0=
+00=E5=86=86=E5=88=86=E3=83=97=E3=83=AC=E3=82=BC=E3=83=B3=E3=83=88=E3=80=824=
+/30=E3=81=BE=E3=81=A7=E3=80=82 <a href=3D"http://www.amazon.co.jp/gp/r.html=
+?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3DKC6DORFDAQ3TSPFWIZSKRHR4RTMA&T=3DC&=
+U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2Fref%3Dpe_374772_18181947=
+2_pe_kindle_hero%2FB00THPBU4O">=E4=BB=8A=E3=81=99=E3=81=90=E3=83=81=E3=82=
+=A7=E3=83=83=E3=82=AF</a></td>
+                              </tr>
+                             =20
+                              <!--End Content-->
+                           </tbody></table></td>
+                     </tr>
+                     <tr>
+                        <td style=3D"border-bottom:1px dashed #e3e3e3;" hei=
+ght=3D"15"></td>
+                     </tr>
+              </tbody></table></td>
+            </tr>
+           =20
+            <!--End 1:1 Content-->=20
+ =20
+           =20
+            <!--Headline Pack-->           =20
+           =20
+           =20
+            <tr>
+               <td bgcolor=3D"#e3e3e3" valign=3D"top"><table class=3D"table=
+600" align=3D"center" bgcolor=3D"#f5f5f5" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"640">
+                     <tbody><tr>
+                        <td height=3D"15"></td>
+                     </tr>
+                     <tr>
+                        <td><table class=3D"table550" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">
+                              <tbody><tr>
+                                 <td style=3D"font-family: Arial, sans-seri=
+f; font-weight:bold; font-size:30px; color:#303842;" align=3D"center" valig=
+n=3D"top">=E3=81=8A=E3=81=99=E3=81=99=E3=82=81=E5=95=86=E5=93=81</td>
+                              </tr>
+                             =20
+                              <tr>
+                                 <td height=3D"10" valign=3D"top"></td>
+                          </tr>
+                           </tbody></table></td>
+                     </tr>
+              </tbody></table>
+                 <table class=3D"table600" align=3D"center" bgcolor=3D"#303=
+942" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+                   <tbody><tr>
+                     <td align=3D"center" bgcolor=3D"#FFFFFF"><img class=3D=
+"img1" src=3D"http://g-ec2.images-amazon.com/images/G/01/template/section-d=
+iv_640x8.jpg" alt=3D"=3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =
+=3D =3D =3D =3D =3D =3D =3D " align=3D"middle" height=3D"8" width=3D"640"><=
+/td>
+                   </tr>
+              </tbody></table></td>
+            </tr>
+           =20
+            <!--End Headline Pack-->     =20
+           =20
+            =20
+            <!--2:2 Panel [Full]-->
+           =20
+            <tr>
+               <td valign=3D"top"><table class=3D"table600" align=3D"center=
+" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"640">
+                     <tbody><tr>
+                        <td height=3D"15"></td>
+                     </tr>
+                     <tr>
+                        <td><table class=3D"table550" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">
+                              <tbody><tr>
+                                 <td valign=3D"top"><!--1:2 Panel [Full] Le=
+ft-->
+                                   =20
+                                    <table class=3D"table2-2" align=3D"left=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"262">
+                                       <tbody><tr>
+                                          <td><a href=3D"http://www.amazon.=
+co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3DTFELFC5SJAECLFJNTUQQ=
+MPOVAMKA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2Fref%3Dpe_=
+374772_181819472_pe_kindle_pack1%2FB00CTTL5XQ"><img class=3D"img1" src=3D"h=
+ttp://ecx.images-amazon.com/images/I/4150SP4dujL.jpg" alt=3D"Amazon.co.jp=
+=E3=81=A7=E4=B8=80=E7=95=AA=E5=A3=B2=E3=82=8C=E3=81=A6=E3=81=84=E3=82=8B=E9=
+=9B=BB=E5=AD=90=E6=9B=B8=E7=B1=8D=E3=83=AA=E3=83=BC=E3=83=80=E3=83=BC=E3=80=
+=82=E8=B3=BC=E5=85=A5=EF=BC=86Amazon=E3=83=97=E3=83=A9=E3=82=A4=E3=83=A0=E6=
+=9C=AC=E4=BC=9A=E5=93=A1=E7=99=BB=E9=8C=B2=E3=81=99=E3=82=8B=E3=81=A8=E3=80=
+=81Amazon=E3=82=AE=E3=83=95=E3=83=88=E5=88=B83,000=E5=86=86=E5=88=86=E3=83=
+=97=E3=83=AC=E3=82=BC=E3=83=B3=E3=83=88=E3=80=82=EF=BF=A510,280=E3=81=8B=E3=
+=82=89=E3=80=82" height=3D"260" width=3D"252" border=3D"0"></a></td>
+                                       </tr>
+                                       <tr>
+                                          <td align=3D"center" height=3D"15=
+" valign=3D"top">&nbsp;</td>
+                                       </tr>
+                                       <!--Article Title-->
+                                      =20
+                                       <tr>
+                                          <td style=3D"font-family: Arial, =
+sans-serif; font-weight:bold; font-size:17px; color:#333333;" align=3D"left=
+" valign=3D"top">Kindle Paperwhite</td>
+                                       </tr>
+                                      =20
+                                       <!--End Article Title-->
+                                      =20
+                                       <tr>
+                                          <td align=3D"left" height=3D"10" =
+valign=3D"top"></td>
+                                       </tr>
+                                      =20
+                                       <!--Content-->
+                                      =20
+                                       <tr>
+                                          <td style=3D"font-family: Arial, =
+sans-serif; font-size:14px; color:#333333; line-height:22px;" align=3D"left=
+" valign=3D"top">Amazon.co.jp=E3=81=A7=E4=B8=80=E7=95=AA=E5=A3=B2=E3=82=8C=
+=E3=81=A6=E3=81=84=E3=82=8B=E9=9B=BB=E5=AD=90=E6=9B=B8=E7=B1=8D=E3=83=AA=E3=
+=83=BC=E3=83=80=E3=83=BC=E3=80=82=E8=B3=BC=E5=85=A5=EF=BC=86Amazon=E3=83=97=
+=E3=83=A9=E3=82=A4=E3=83=A0=E6=9C=AC=E4=BC=9A=E5=93=A1=E7=99=BB=E9=8C=B2=E3=
+=81=99=E3=82=8B=E3=81=A8=E3=80=81Amazon=E3=82=AE=E3=83=95=E3=83=88=E5=88=B8=
+3,000=E5=86=86=E5=88=86=E3=83=97=E3=83=AC=E3=82=BC=E3=83=B3=E3=83=88=E3=80=
+=82=EF=BF=A510,280=E3=81=8B=E3=82=89=E3=80=82 <a href=3D"http://www.amazon.=
+co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3DQCNZPMEPXJTDNOVKJWWY=
+TZCSDYOA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2Fref%3Dpe_=
+374772_181819472_pe_kindle_pack1t%2FB00CTTL5XQ">=E4=BB=8A=E3=81=99=E3=81=90=
+=E3=83=81=E3=82=A7=E3=83=83=E3=82=AF</a></td>
+                                       </tr>
+                                      =20
+                                       <!--End Content-->
+                                      =20
+                                       <tr>
+                                          <td align=3D"left" height=3D"15" =
+valign=3D"top"></td>
+                                       </tr>
+                                    </tbody></table>
+                                   =20
+                                    <!--End 1:2 Panel [Full] Left-->=20
+                                   =20
+                                    <!--1:2 Panel [Full] Right-->
+                                   =20
+                                    <table class=3D"table2-2" align=3D"righ=
+t" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"262">
+                                       <tbody><tr>
+                                          <td><a href=3D"http://www.amazon.=
+co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3DKU2RVDHJDPUZOZSGKG04=
+CMASFICA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2Fref%3Dpe_=
+374772_181819472_pe_kindle_pack2%2FB00M0EVYCC"><img class=3D"img1" src=3D"h=
+ttp://g-ec2.images-amazon.com/images/G/09/kindle/merch/2014/email/icewine.j=
+pg" alt=3D"=E8=AA=AD=E6=9B=B8=E3=82=92=E6=84=9B=E3=81=99=E3=82=8B=E4=BA=BA=
+=E3=81=AE=E3=81=9F=E3=82=81=E3=81=AB=E8=87=B3=E7=A6=8F=E3=81=AE=E8=AA=AD=E6=
+=9B=B8=E4=BD=93=E9=A8=93=E3=82=92=E8=BF=BD=E6=B1=82=E3=81=97=E3=81=A6=E5=BE=
+=B9=E5=BA=95=E7=9A=84=E3=81=AB=E4=BD=9C=E3=82=8A=E3=81=93=E3=82=93=E3=81=A0=
+=E3=83=97=E3=83=AC=E3=83=9F=E3=82=A2=E3=83=A0=E3=83=A2=E3=83=87=E3=83=AB=E3=
+=80=82=EF=BF=A521,480=E3=81=8B=E3=82=89=E3=80=82" height=3D"260" width=3D"2=
+52" border=3D"0"></a></td>
+                                       </tr>
+                                       <tr>
+                                          <td align=3D"center" height=3D"15=
+" valign=3D"top">&nbsp;</td>
+                                       </tr>
+                                       <!--Article Title-->
+                                      =20
+                                       <tr>
+                                          <td style=3D"font-family: Arial, =
+sans-serif; font-weight:bold; font-size:17px; color:#333333;" align=3D"left=
+" valign=3D"top">Kindle Voyage</td>
+                                       </tr>
+                                      =20
+                                       <!--End Article Title-->
+                                      =20
+                                       <tr>
+                                          <td align=3D"left" height=3D"10" =
+valign=3D"top"></td>
+                                       </tr>
+                                      =20
+                                       <!--Content-->
+                                      =20
+                                       <tr>
+                                          <td style=3D"font-family: Arial, =
+sans-serif; font-size:14px; color:#333333; line-height:22px;" align=3D"left=
+" valign=3D"top">=E8=AA=AD=E6=9B=B8=E3=82=92=E6=84=9B=E3=81=99=E3=82=8B=E4=
+=BA=BA=E3=81=AE=E3=81=9F=E3=82=81=E3=81=AB=E8=87=B3=E7=A6=8F=E3=81=AE=E8=AA=
+=AD=E6=9B=B8=E4=BD=93=E9=A8=93=E3=82=92=E8=BF=BD=E6=B1=82=E3=81=97=E3=81=A6=
+=E5=BE=B9=E5=BA=95=E7=9A=84=E3=81=AB=E4=BD=9C=E3=82=8A=E3=81=93=E3=82=93=E3=
+=81=A0=E3=83=97=E3=83=AC=E3=83=9F=E3=82=A2=E3=83=A0=E3=83=A2=E3=83=87=E3=83=
+=AB=E3=80=82=EF=BF=A521,480=E3=81=8B=E3=82=89=E3=80=82 <a href=3D"http://ww=
+w.amazon.co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3D0YIWAMV0H1O=
+SAJAZDADZADL2QLEA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2F=
+ref%3Dpe_374772_181819472_pe_kindle_pack2t%2FB00M0EVYCC">=E4=BB=8A=E3=81=99=
+=E3=81=90=E3=83=81=E3=82=A7=E3=83=83=E3=82=AF</a></td>
+                                       </tr>
+                                      =20
+                                       <!--End Content-->
+                                    </tbody></table>
+                                   =20
+                                    <!--End 1:2 Panel [Full] Right--></td>
+                              </tr>
+                           </tbody></table></td>
+                     </tr>
+                     <tr>
+                        <td height=3D"15"></td>
+                     </tr>
+              </tbody></table></td>
+            </tr>
+           =20
+            <!--End 2:2 Panel [Full]-->=20
+
+      <table class=3D"table600" align=3D"center" bgcolor=3D"#303942" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640">
+           <tbody><tr>
+              <td align=3D"center" bgcolor=3D"#FFFFFF"><img class=3D"img1" =
+src=3D"http://g-ec2.images-amazon.com/images/G/01/template/section-div_640x=
+8.jpg" alt=3D"=3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =
+=3D =3D =3D =3D =3D" align=3D"middle" height=3D"8" width=3D"640"></td>
+                </tr>
+        </tbody></table>
+            =20
+            <!--2:2 Panel [Full]-->
+           =20
+            <tr>
+               <td valign=3D"top"><table class=3D"table600" align=3D"center=
+" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"640">
+                     <tbody><tr>
+                        <td height=3D"15"></td>
+                     </tr>
+                     <tr>
+                        <td><table class=3D"table550" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">
+                              <tbody><tr>
+                                 <td valign=3D"top"><!--1:2 Panel [Full] Le=
+ft-->
+                                   =20
+                                    <table class=3D"table2-2" align=3D"left=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"262">
+                                       <tbody><tr>
+                                          <td><a href=3D"http://www.amazon.=
+co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3DH9BBIKWQVKDKHSZ5YXDP=
+UVUUU68A&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fproduct%2Fref%3Dpe_=
+374772_181819472_pe_kindle_pack3%2FB00KC6TDLY"><img class=3D"img1" src=3D"h=
+ttp://g-ec2.images-amazon.com/images/G/09/kindle/merch/2014/email/ariel.jpg=
+" alt=3D"=E3=81=8A=E6=89=8B=E9=A0=83=E4=BE=A1=E6=A0=BC=E3=81=A7=E5=85=85=E5=
+=AE=9F=E3=81=AE=E6=A9=9F=E8=83=BD=E3=80=81Fire HD=E3=82=BF=E3=83=96=E3=83=
+=AC=E3=83=83=E3=83=88=E3=81=AF=E3=83=9D=E3=82=B1=E3=83=83=E3=83=88=E3=82=B5=
+=E3=82=A4=E3=82=BA=E3=81=AE6=E3=82=A4=E3=83=B3=E3=83=81=E3=81=A8=E3=82=B3=
+=E3=83=B3=E3=83=91=E3=82=AF=E3=83=88=E3=81=AA7=E3=82=A4=E3=83=B3=E3=83=81=
+=E3=80=82=EF=BF=A511,800=E3=81=8B=E3=82=89=E3=80=82" height=3D"260" width=
+=3D"252" border=3D"0"></a></td>
+                                       </tr>
+                                       <tr>
+                                          <td align=3D"center" height=3D"15=
+" valign=3D"top">&nbsp;</td>
+                                       </tr>
+                                       <!--Article Title-->
+                                      =20
+                                       <tr>
+                                          <td style=3D"font-family: Arial, =
+sans-serif; font-weight:bold; font-size:17px; color:#333333;" align=3D"left=
+" valign=3D"top">=E3=81=8A=E6=89=8B=E9=A0=83=E4=BE=A1=E6=A0=BC=E3=81=AEFire=
+ HD=E3=82=B7=E3=83=AA=E3=83=BC=E3=82=BA</td>
+                                       </tr>
+                                      =20
+                                       <!--End Article Title-->
+                                      =20
+                                       <tr>
+                                          <td align=3D"left" height=3D"10" =
+valign=3D"top"></td>
+                                       </tr>
+                                      =20
+                                       <!--Content-->
+                                      =20
+                                       <tr>
+                                          <td style=3D"font-family: Arial, =
+sans-serif; font-size:14px; color:#333333; line-height:22px;" align=3D"left=
+" valign=3D"top">=E3=81=8A=E6=89=8B=E9=A0=83=E4=BE=A1=E6=A0=BC=E3=81=A7=E5=
+=85=85=E5=AE=9F=E3=81=AE=E6=A9=9F=E8=83=BD=E3=80=81Fire HD=E3=82=BF=E3=83=
+=96=E3=83=AC=E3=83=83=E3=83=88=E3=81=AF=E3=83=9D=E3=82=B1=E3=83=83=E3=83=88=
+=E3=82=B5=E3=82=A4=E3=82=BA=E3=81=AE6=E3=82=A4=E3=83=B3=E3=83=81=E3=81=A8=
+=E3=82=B3=E3=83=B3=E3=83=91=E3=82=AF=E3=83=88=E3=81=AA7=E3=82=A4=E3=83=B3=
+=E3=83=81=E3=80=82=EF=BF=A511,800=E3=81=8B=E3=82=89=E3=80=82 <a href=3D"htt=
+p://www.amazon.co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3DAKQY8=
+FOQMTGKJOAH07UTDWG4MBOA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fprod=
+uct%2Fref%3Dpe_374772_181819472_pe_kindle_pack3t%2FB00KC6TDLY">=E4=BB=8A=E3=
+=81=99=E3=81=90=E3=83=81=E3=82=A7=E3=83=83=E3=82=AF</a></td>
+                                       </tr>
+                                      =20
+                                       <!--End Content-->
+                                      =20
+                                       <tr>
+                                          <td align=3D"left" height=3D"15" =
+valign=3D"top"></td>
+                                       </tr>
+                                    </tbody></table>
+                                   =20
+                                    <!--End 1:2 Panel [Full] Left-->=20
+                                   =20
+                                    <!--1:2 Panel [Full] Right-->
+                                   =20
+                                    <table class=3D"table2-2" align=3D"righ=
+t" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"262">
+                                       <tbody><tr>
+                                          <td><a href=3D"http://www.amazon.=
+co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3DQMVC97KJCVUVAAJTQZY1=
+DYMVQJAA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fbrowse.html%2Fref%3=
+Dpe_374772_181819472_pe_kindle_pack4%2F%3Fnode%3D2408696051"><img class=3D"=
+img1" src=3D"http://g-ec2.images-amazon.com/images/G/09/kindle/merch/access=
+ories/email/pack_bourboncover.jpg" alt=3D"=E7=B4=94=E6=AD=A3=E3=82=AB=E3=83=
+=90=E3=83=BC=E3=82=84=E3=80=81=E4=BF=9D=E8=AD=B7=E3=83=95=E3=82=A3=E3=83=AB=
+=E3=83=A0=E3=80=81=E6=B0=B4=E6=BC=8F=E3=82=8C=E3=81=AB=E3=82=82=E5=AF=BE=E5=
+=BF=9C=E3=81=97=E3=81=9F=E4=BA=8B=E6=95=85=E4=BF=9D=E8=A8=BC=E3=83=97=E3=83=
+=A9=E3=83=B3=E3=81=AA=E3=81=A9Kindle=E3=82=92=E3=82=82=E3=81=A3=E3=81=A8=E4=
+=BE=BF=E5=88=A9=E3=81=AB=E3=81=99=E3=82=8B=E3=82=A2=E3=82=AF=E3=82=BB=E3=82=
+=B5=E3=83=AA=E3=80=82" height=3D"260" width=3D"252" border=3D"0"></a></td>
+                                       </tr>
+                                       <tr>
+                                          <td align=3D"center" height=3D"15=
+" valign=3D"top">&nbsp;</td>
+                                       </tr>
+                                       <!--Article Title-->
+                                      =20
+                                       <tr>
+                                          <td style=3D"font-family: Arial, =
+sans-serif; font-weight:bold; font-size:17px; color:#333333;" align=3D"left=
+" valign=3D"top">Fire=E3=82=BF=E3=83=96=E3=83=AC=E3=83=83=E3=83=88=E3=82=A2=
+=E3=82=AF=E3=82=BB=E3=82=B5=E3=83=AA=E3=82=B9=E3=83=88=E3=82=A2</td>
+                                       </tr>
+                                      =20
+                                       <!--End Article Title-->
+                                      =20
+                                       <tr>
+                                          <td align=3D"left" height=3D"10" =
+valign=3D"top"></td>
+                                       </tr>
+                                      =20
+                                       <!--Content-->
+                                      =20
+                                       <tr>
+                                          <td style=3D"font-family: Arial, =
+sans-serif; font-size:14px; color:#333333; line-height:22px;" align=3D"left=
+" valign=3D"top">=E7=B4=94=E6=AD=A3=E3=82=AB=E3=83=90=E3=83=BC=E3=82=84=E3=
+=80=81=E4=BF=9D=E8=AD=B7=E3=83=95=E3=82=A3=E3=83=AB=E3=83=A0=E3=80=81=E6=B0=
+=B4=E6=BC=8F=E3=82=8C=E3=81=AB=E3=82=82=E5=AF=BE=E5=BF=9C=E3=81=97=E3=81=9F=
+=E4=BA=8B=E6=95=85=E4=BF=9D=E8=A8=BC=E3=83=97=E3=83=A9=E3=83=B3=E3=81=AA=E3=
+=81=A9Kindle=E3=82=92=E3=82=82=E3=81=A3=E3=81=A8=E4=BE=BF=E5=88=A9=E3=81=AB=
+=E3=81=99=E3=82=8B=E3=82=A2=E3=82=AF=E3=82=BB=E3=82=B5=E3=83=AA=E3=80=82 <a=
+ href=3D"http://www.amazon.co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJ=
+V2&H=3DHU0762JZ0X5ZGBORIH06MF6M2VGA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.co.jp=
+%2Fgp%2Fbrowse.html%2Fref%3Dpe_374772_181819472_pe_kindle_pack45%2F%3Fnode%=
+3D2408696051">=E4=BB=8A=E3=81=99=E3=81=90=E3=83=81=E3=82=A7=E3=83=83=E3=82=
+=AF</a></td>
+                                       </tr>
+                                      =20
+                                       <!--End Content-->
+                                    </tbody></table>
+                                   =20
+                                    <!--End 1:2 Panel [Full] Right--></td>
+                              </tr>
+                           </tbody></table></td>
+                     </tr>
+                     <tr>
+                        <td height=3D"15"></td>
+                     </tr>
+              </tbody></table></td>
+            </tr>
+           =20
+            <!--End 2:2 Panel [Full]--> =20
+=20
+=20
+=20
+           =20
+<!--Footer-->
+           =20
+            <tr>
+               <td valign=3D"top"><table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%">
+                     <tbody><tr>
+                        <td align=3D"center" height=3D"15" valign=3D"middle=
+">
+                       =20
+                       =20
+                        <table class=3D"table600" align=3D"center" bgcolor=
+=3D"#303942" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640"=
+>
+                              <tbody><tr>
+                                 <td align=3D"center" bgcolor=3D"#FFFFFF"><=
+img class=3D"img1" src=3D"http://g-ec2.images-amazon.com/images/G/01/templa=
+te/section-div_640x8.jpg" alt=3D"=3D =3D =3D =3D =3D =3D =3D =3D =3D =3D =
+=3D =3D =3D =3D =3D =3D =3D =3D =3D =3D" align=3D"middle" height=3D"8" widt=
+h=3D"640"></td>
+                              </tr>
+                       </tbody></table>
+                       =20
+            <table class=3D"table600" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"640">
+                             =20
+                              <!--Link Browser-->
+                              <!--End Link Browser-->
+                              <tbody><tr>
+                                 <td style=3D"border-bottom:#555555 3px sol=
+id; border-top:dotted #e3e3e3 solid" align=3D"left" valign=3D"top"><table c=
+lass=3D"table600" align=3D"left" bgcolor=3D"#ffffff" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"640">
+                                       <tbody><tr>
+                                          <td style=3D"padding-left:0px; pa=
+dding-right:0px;" valign=3D"middle"><!--Logo-->
+                                            <table class=3D"table1-3" align=
+=3D"left" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"6" cellspacing=3D=
+"0" width=3D"120">
+                                              <tbody><tr>
+                                                <td align=3D"center"><a sty=
+le=3D"font-size:10px" href=3D"http://www.amazon.co.jp/gp/r.html?R=3D6RU7HXO=
+64JQZ&C=3D3HHI76Y97XJV2&H=3DO0OA74APVNAWHHGY66S64VZDPB4A&T=3DC&U=3Dhttp%3A%=
+2F%2Fwww.amazon.co.jp%2Fkindle%2F%3Fref%3Dpe_logo%26ref_%3Dpe_374772_181819=
+472"><img src=3D"http://g-ec2.images-amazon.com/images/G/01/kindle/email/ki=
+ndle-black_logo.gif" alt=3D"Kindle" width=3D"120" height=3D"48" hspace=3D"0=
+" vspace=3D"0" border=3D"0"></a></td>
+                                              </tr>
+                                            </tbody></table>               =
+                             <!--End Logo-->=20
+                                            =20
+                                             <!--Navigation-->
+                                            =20
+                                             <table class=3D"table3-1" alig=
+n=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                <tbody><tr>
+                                                   <td class=3D"space" alig=
+n=3D"right" height=3D"10" valign=3D"top"></td>
+                                                </tr>
+                                                <tr>
+                                                   <td class=3D"clear_pad" =
+style=3D"padding-right:25px;" valign=3D"top"><table align=3D"center" border=
+=3D"0" cellpadding=3D"3" cellspacing=3D"3" height=3D"27">
+                                                         <tbody><tr>
+                                                            <td style=3D" f=
+ont-family: Arial, sans-serif; font-size:12px; color:#555555;">=E6=9C=80=E6=
+=96=B0=E6=83=85=E5=A0=B1</td>
+                                                            <td style=3D" f=
+ont-family: Arial, sans-serif; font-size:12px"><font style=3D"font-family: =
+verdana,arial,sans-serif; font-size: 10px; color: #999;" color=3D"#999" fac=
+e=3D"verdana,arial,sans-serif" size=3D"1"><a href=3D"http://www.amazon.co.j=
+p/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3D6QBQIOWWW2OKS3RTYETZABAO=
+5FSA&T=3DC&U=3Dhttps%3A%2F%2Fwww.facebook.com%2FAmazonJP" target=3D"_blank"=
+><img src=3D"http://g-ecx.images-amazon.com/images/G/01/us-mail/FBlogo.gif"=
+ alt=3D"Facebook" style=3D"width:30px; height:30px;" border=3D"0" height=3D=
+"30" hspace=3D"0" vspace=3D"0" width=3D"30"></a></font></td>
+                                                            <td style=3D" f=
+ont-family: Arial, sans-serif; font-size:12px"><font style=3D"font-family: =
+verdana,arial,sans-serif; font-size: 10px; color: #999;" color=3D"#999" fac=
+e=3D"verdana,arial,sans-serif" size=3D"1"><a href=3D"http://www.amazon.co.j=
+p/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y97XJV2&H=3DESH8XAJ07CCMU13IHEP1KCD9=
+NJWA&T=3DC&U=3Dhttps%3A%2F%2Ftwitter.com%2FAmazonJPKindle%2F" target=3D"_bl=
+ank"><img src=3D"http://g-ecx.images-amazon.com/images/G/01/us-mail/Twitter=
+Logo.gif" alt=3D"Kindle Twitter" style=3D"width:30px; height:30px;" border=
+=3D"0" height=3D"30" hspace=3D"0" vspace=3D"0" width=3D"30"></a></font></td=
+>
+
+                                                         </tr>
+                                                      </tbody></table></td>
+                                                </tr>
+                                                <tr>
+                                                   <td height=3D"10"></td>
+                                                </tr>
+                                             </tbody></table>
+                                            =20
+                                             <!--End Navigation--></td>
+                                       </tr>
+                                    </tbody></table></td>
+                              </tr>
+                       </tbody></table>
+                       =20
+                       =20
+                        </td>
+                 </tr>
+                     <tr>
+                        <td bgcolor=3D"#e3e3e3"><table class=3D"table600" a=
+lign=3D"center" bgcolor=3D"#e3e3e3" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"640">
+                              <tbody><tr>
+                                 <td><table class=3D"table550" align=3D"cen=
+ter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"90%">
+                                       <tbody><tr>
+                                          <td align=3D"center" height=3D"12=
+" valign=3D"top"></td>
+                                       </tr>
+                                      =20
+                                       <!--info-->
+                                      =20
+                                       <tr class=3D"deviceWidth">
+                                         <td style=3D" font-family: Arial, =
+sans-serif; font-size:12px; color:#555555;" align=3D"left" valign=3D"top">=
+=E2=96=A0=E6=9C=ACE=E3=83=A1=E3=83=BC=E3=83=AB=E3=81=AB=E8=A8=98=E8=BC=89=
+=E3=81=95=E3=82=8C=E3=81=A6=E3=81=84=E3=82=8B=E5=95=86=E5=93=81=E3=81=AE=E4=
+=BE=A1=E6=A0=BC=E3=80=81=E5=89=B2=E5=BC=95=E7=8E=87=E3=80=81=E3=83=9D=E3=82=
+=A4=E3=83=B3=E3=83=88=E6=95=B0=E3=80=81=E3=83=97=E3=83=AD=E3=83=A2=E3=83=BC=
+=E3=82=B7=E3=83=A7=E3=83=B3=E5=86=85=E5=AE=B9=E7=AD=89=E3=81=AF=E3=80=81=E6=
+=9C=ACE=E3=83=A1=E3=83=BC=E3=83=AB=E9=85=8D=E4=BF=A1=E6=99=82=E7=82=B9=E3=
+=81=AE=E3=82=82=E3=81=AE=E3=81=A7=E3=80=81=E4=BA=88=E5=91=8A=E3=81=AA=E3=81=
+=97=E3=81=AB=E5=A4=89=E6=9B=B4=E3=81=95=E3=82=8C=E3=82=8B=E5=A0=B4=E5=90=88=
+=E3=81=8C=E3=81=82=E3=82=8A=E3=81=BE=E3=81=99=E3=80=82=E5=95=86=E5=93=81=E3=
+=81=AE=E6=9C=80=E6=96=B0=E3=81=AE=E4=BE=A1=E6=A0=BC=E3=80=81=E5=89=B2=E5=BC=
+=95=E7=8E=87=E3=80=81=E3=83=9D=E3=82=A4=E3=83=B3=E3=83=88=E6=95=B0=E3=80=81=
+=E5=9C=A8=E5=BA=AB=E7=8A=B6=E6=B3=81=E3=81=AB=E3=81=A4=E3=81=8D=E3=81=BE=E3=
+=81=97=E3=81=A6=E3=81=AF=E5=BD=93=E3=82=B5=E3=82=A4=E3=83=88=E3=81=A7=E3=81=
+=94=E7=A2=BA=E8=AA=8D=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84=E3=80=82<br>     =
+ =20
+=E2=96=A0=E3=83=97=E3=83=AD=E3=83=A2=E3=83=BC=E3=82=B7=E3=83=A7=E3=83=B3=E3=
+=82=84=E3=82=AD=E3=83=A3=E3=83=B3=E3=83=9A=E3=83=BC=E3=83=B3=E5=86=85=E5=AE=
+=B9=E3=81=AF=E3=80=81=E7=89=B9=E6=AE=B5=E3=81=AE=E8=A8=98=E8=BC=89=E3=81=AE=
+=E3=81=AA=E3=81=84=E9=99=90=E3=82=8A=E3=80=81Amazon.co.jp=E3=81=8C=E8=B2=A9=
+=E5=A3=B2=E3=81=99=E3=82=8B=E5=95=86=E5=93=81=E3=81=AB=E3=81=AE=E3=81=BF=E9=
+=81=A9=E7=94=A8=E3=81=95=E3=82=8C=E3=80=81Amazon=E3=83=9E=E3=83=BC=E3=82=B1=
+=E3=83=83=E3=83=88=E3=83=97=E3=83=AC=E3=82=A4=E3=82=B9=E3=81=AA=E3=81=A9=E3=
+=81=AB=E3=81=8A=E3=81=84=E3=81=A6=E7=AC=AC=E4=B8=89=E8=80=85=E3=81=AB=E3=82=
+=88=E3=82=8A=E8=B2=A9=E5=A3=B2=E3=81=95=E3=82=8C=E3=82=8B=E5=95=86=E5=93=81=
+=E3=81=AB=E3=81=AF=E9=81=A9=E7=94=A8=E3=81=95=E3=82=8C=E3=81=BE=E3=81=9B=E3=
+=82=93=E3=80=82<br>   =20
+=E2=96=A0Amazon.co.jp=E3=81=AE=E3=81=8A=E5=AE=A2=E6=A7=98=E3=80=81=E8=B3=BC=
+=E8=AA=AD=E8=80=85=E3=80=81=E3=82=B3=E3=83=B3=E3=83=86=E3=82=B9=E3=83=88=E5=
+=8F=82=E5=8A=A0=E8=80=85=E3=81=AE=E6=96=B9=E3=80=85=E3=81=AB=E3=81=AF=E3=80=
+=81=E3=82=B5=E3=82=A4=E3=83=88=E3=81=AE=E3=83=AA=E3=83=8B=E3=83=A5=E3=83=BC=
+=E3=82=A2=E3=83=AB=E3=80=81=E6=96=B0=E3=81=97=E3=81=84=E3=82=B5=E3=83=BC=E3=
+=83=93=E3=82=B9=E3=81=AE=E9=96=8B=E5=A7=8B=E3=80=81=E7=89=B9=E5=88=A5=E6=8F=
+=90=E4=BE=9B=E5=93=81=E3=81=AA=E3=81=A9=E3=81=AE=E6=83=85=E5=A0=B1=E3=82=92=
+E=E3=83=A1=E3=83=BC=E3=83=AB=E3=81=A7=E3=81=94=E6=A1=88=E5=86=85=E3=81=97=
+=E3=81=A6=E3=81=8A=E3=82=8A=E3=81=BE=E3=81=99=E3=80=82=E3=81=93=E3=81=AE=E3=
+=82=88=E3=81=86=E3=81=AAE=E3=83=A1=E3=83=BC=E3=83=AB=E3=82=92=E5=8F=97=E3=
+=81=91=E5=8F=96=E3=82=8A=E3=81=9F=E3=81=8F=E3=81=AA=E3=81=84=E6=96=B9=E3=81=
+=AF=E3=80=81=20
+      <a href=3D"http://www.amazon.co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HH=
+I76Y97XJV2&H=3DAVZTPWRWETBKU13JF6CGSGAF9L0A&T=3DX&U=3Dhttp%3A%2F%2Fwww.amaz=
+on.co.jp%2F%2Fgp%2Fgss%2Fo%2F1d34gQFoTcsHQ7LFOsz-pJ.Gi7Qs7708owBuCm92.nV2F9=
+b-VHfEJT3usQU33Dsb9">http://www.amazon.co.jp//gp/gss/o/1d34gQFoTcsHQ7LFOsz-=
+pJ.Gi7Qs7708owBuCm92.nV2F9b-VHfEJT3usQU33Dsb9</a>=20
+      =E3=81=AB=E3=82=A2=E3=82=AF=E3=82=BB=E3=82=B9=E3=81=97=E3=80=81=E8=A8=
+=AD=E5=AE=9A=E3=81=AE=E5=A4=89=E6=9B=B4=E3=82=92=E8=A1=8C=E3=81=A3=E3=81=A6=
+=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84=E3=80=82<br>
+=E2=96=A0=E3=81=93=E3=81=AE=E3=83=A1=E3=83=BC=E3=83=AB=E3=81=AB=E3=81=9D=E3=
+=81=AE=E3=81=BE=E3=81=BE=E8=BF=94=E4=BF=A1=E3=82=92=E3=81=97=E3=81=A6=E3=81=
+=84=E3=81=9F=E3=81=A0=E3=81=84=E3=81=A6=E3=82=82=E9=85=8D=E4=BF=A1=E3=81=AE=
+=E8=A7=A3=E9=99=A4=E3=81=AF=E5=87=BA=E6=9D=A5=E3=81=AA=E3=81=84=E3=81=BB=E3=
+=81=8B=E3=80=81=E5=BC=8A=E7=A4=BE=E3=81=8B=E3=82=89=E3=81=AE=E8=BF=94=E7=AD=
+=94=E3=82=82=E5=87=BA=E6=9D=A5=E3=81=BE=E3=81=9B=E3=82=93=E3=81=AE=E3=81=A7=
+=E3=80=81=E3=83=A1=E3=83=83=E3=82=BB=E3=83=BC=E3=82=B8=E3=81=AF=E8=BF=94=E4=
+=BF=A1=E3=81=97=E3=81=AA=E3=81=84=E3=82=88=E3=81=86=E3=81=8A=E9=A1=98=E3=81=
+=84=E3=81=84=E3=81=9F=E3=81=97=E3=81=BE=E3=81=99=E3=80=82=E3=81=93=E3=81=AE=
+E=E3=83=A1=E3=83=BC=E3=83=AB=E3=81=AF=E6=AC=A1=E3=81=AE=E3=82=A2=E3=83=89=
+=E3=83=AC=E3=82=B9=E5=AE=9B=E3=81=AB=E9=80=81=E4=BF=A1=E3=81=95=E3=82=8C=E3=
+=81=BE=E3=81=97=E3=81=9F=EF=BC=9Ahobby.division@sportshobby.co.jp <br/><br/=
+>
+                  Copyright 2015 Amazon.com, Inc. and its affiliates. All r=
+ights reserved. Amazon, Amazon Kindle, Amazon.com, Amazon.co.jp and the Ama=
+zon Kindle logo are trademarks of Amazon.com, Inc. or its affiliates.</td>
+                                       </tr>
+                                       <tr>
+                                          <td align=3D"center" height=3D"12=
+" valign=3D"top"></td>
+                                       </tr>
+                                      =20
+                                       <!--End info-->
+                                       <!--Social-->
+                                       <!--End Social-->
+                                    </tbody></table></td>
+                              </tr>
+                       </tbody></table></td>
+                     </tr>
+                  </tbody></table></td>
+           </tr>
+        </table></td>
+ </tr>
+   <!--End Footer-->
+</tbody></table>
+
+<img src=3D"http://www.amazon.co.jp/gp/r.html?R=3D6RU7HXO64JQZ&C=3D3HHI76Y9=
+7XJV2&H=3DRCBWH4Z7W2DDPGAL2JEO7MUJFTWA&T=3DE&U=3Dhttp%3A%2F%2Fimages-jp.ama=
+zon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif" /></body></html>
+
+------=_Part_1854998_1779719251.1427774746663--
+
+------=_Part_1854997_1682239658.1427774746663--

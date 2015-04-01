@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.3 required=7.0 tests=BAYES_50,DKIM_ADSP_CUSTOM_MED,
+	FORGED_YAHOO_RCVD,FREEMAIL_FROM,FSL_HELO_BARE_IP_2,LONG_TERM_PRICE,
+	MSGID_FROM_MTA_HEADER,NML_ADSP_CUSTOM_MED,RCVD_NUMERIC_HELO autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 LONG_TERM_PRICE BODY: LONG_TERM_PRICE
+	*  2.8 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (embpicdd[at]yahoo.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 FORGED_YAHOO_RCVD 'From' yahoo.com does not match 'Received' headers
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9DATNMh012913
+	for <hobby.division@sportshobby.co.jp>; Sun, 13 Oct 2013 19:29:24 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:61976 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1381660163.21579
+Received: from 178.122.11.91 ([178.122.11.91])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9DATKT6012905
+	for <hobby.division@sportshobby.co.jp>; Sun, 13 Oct 2013 19:29:22 +0900 (JST)
+Message-Id: <201310131029.r9DATKT6012905@www546b.sakura.ne.jp>
+X-AntiVirus: Checked by Dr.Web [version: 7.0.4.09220, engine: 7.0.100.09170, virus records: 4496753, updated: 24.09.2013]
+Received: from unknown (HELO localhost) (embpicdd@yahoo.com@41.155.171.189)
+	by 178.122.11.91 with ESMTPA; Sun, 13 Oct 2013 13:33:30 +0200
+From: embpicdd@yahoo.com
+To: hobby.division@sportshobby.co.jp
+Subject: Our Special Alert
+Date: Sun, 13 Oct 2013 13:26:11 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 13102013 #11231834, status: clean
+
+What a HUGE day! Congratulations! My Pick Of The Week!
+
+To buy: MON_K
+Trade Date: Monday, Oct 14th
+Company: MONARCHY RESOURCES
+Long Term Target Price: .85
+Last Trade: 0.07
+
+This Stock is Your Fast Moving Green Giant! Get Ready For A Thinly Traded 
+Speculation Play!
+

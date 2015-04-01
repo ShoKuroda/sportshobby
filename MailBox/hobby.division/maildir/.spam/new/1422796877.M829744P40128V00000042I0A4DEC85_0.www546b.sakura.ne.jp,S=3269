@@ -1,0 +1,71 @@
+Return-Path: <service6@mx1.poworsave.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.2 required=7.0 tests=BAYES_50,
+	CHARSET_FARAWAY_HEADER,DATE_IN_PAST_03_06,DKIM_SIGNED,T_DKIM_INVALID,
+	URIBL_BLOCKED,URIBL_DBL_SPAM autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: poworsave.com]
+	*  1.6 DATE_IN_PAST_03_06 Date: is 3 to 6 hours before Received: date
+	*  3.2 CHARSET_FARAWAY_HEADER A foreign language charset used in headers
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: poworsave.com]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4944]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 T_DKIM_INVALID DKIM-Signature header exists but is not valid
+Received: from fsav304.sakura.ne.jp (fsav304.sakura.ne.jp [153.120.85.135])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t11DLFW9040122
+	for <hobby.division@sportshobby.co.jp>; Sun, 1 Feb 2015 22:21:15 +0900 (JST)
+	(envelope-from service6@mx1.poworsave.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav304.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp);
+ Sun, 01 Feb 2015 22:21:15 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp)
+Received: from mail.mx1.poworsave.com (cloud3-b.marjooliveira.com [192.157.236.95] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t11DLEZ6040118
+	for <hobby.division@sportshobby.co.jp>; Sun, 1 Feb 2015 22:21:14 +0900 (JST)
+	(envelope-from service6@mx1.poworsave.com)
+Message-Id: <201502011321.t11DLEZ6040118@www546b.sakura.ne.jp>
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx1.poworsave.com A4D9573E311E
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mx1.poworsave.com;
+	s=mx1.poworsave; t=1422778723;
+	bh=DeZYgGnRrGL/mmJ5SI0LbhNK2PxYchNMq13CH75IZA4=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=jQyx78iYlbsaLr5t/ZIKul7mFmtEtCf4pcbLX8CxxV5ukDcMnAHv0/mV5jnPdENZG
+	 RgkmPgDQga51tHh1M1O9QZCAM6794Nr8kHffkWp105hOQjFT+GbgLXD09BIH8cg+J2
+	 Exa94CZm1izZkTQEoMG/H86P7VIoXARkroXW7VV4=
+Date: Sun, 1 Feb 2015 16:18:32 +0800
+From: "Sally" <service6@mx1.poworsave.com>
+To: "aa150" <aa150@soas.ac.uk>
+Reply-To: <vdsvbfg54@163.com>
+Subject: =?GB2312?B?UmU6IENBRCBkcmF3aW5nIGRldGFpbHM=?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from base64 to 8bit by www546b.sakura.ne.jp id t11DLFW9040122
+
+Hello,
+
+We specialize in CAD/CAM design and manufacturing, full CAD modelling and Surface generation
+
+We also provide precise CNC machining, die casting, stamping service according to your engineering drawing or samples.
+
+Our products involve in electronic, military, medical, motorcycle, auto and all kinds of machine.
+ 
+If our services suit for you, welcome to sent me your inquiry or CAD drawing.
+
+
+Best & Rgds
+
+Sally
+

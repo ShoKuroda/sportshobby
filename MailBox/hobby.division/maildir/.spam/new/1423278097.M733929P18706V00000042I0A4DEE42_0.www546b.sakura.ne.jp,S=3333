@@ -1,0 +1,65 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.5 required=7.0 tests=BAYES_50,FROM_LOCAL_DIGITS,
+	FROM_LOCAL_HEX,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_ILLEGAL_IP,
+	RCVD_NUMERIC_HELO,URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_PH_SURBL,
+	URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: globalmedicinaldeal.eu]
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  0.0 FROM_LOCAL_DIGITS From: localpart has long digit sequence
+	*  0.0 FROM_LOCAL_HEX From: localpart has long hexadecimal sequence
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5494]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: globalmedicinaldeal.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from fsav404.sakura.ne.jp (fsav404.sakura.ne.jp [133.242.250.103])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1731YTB018702
+	for <hobby.division@sportshobby.co.jp>; Sat, 7 Feb 2015 12:01:34 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav404.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp);
+ Sat, 07 Feb 2015 12:01:34 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp)
+Received: from 178.1.158.236 (dslb-178-001-158-236.178.001.pools.vodafone-ip.de [178.1.158.236])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t1731Sto018687
+	for <hobby.division@sportshobby.co.jp>; Sat, 7 Feb 2015 12:01:31 +0900 (JST)
+Date: Sat, 7 Feb 2015 12:01:28 +0900 (JST)
+Message-Id: <201502070301.t1731Sto018687@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (913980753945@aastocks.com@226.68.167.193)
+	by 178.1.158.236 with ESMTPA; Sat, 7 Feb 2015 04:02:50 +0100
+From: 913980753945@aastocks.com
+To: hobby.division@sportshobby.co.jp
+Subject: The first-rate technique to satisfy your gf
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+X-Antivirus: avast! (VPS 150205-1, 05/02/2015), Outbound message
+X-Antivirus-Status: Clean
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by www546b.sakura.ne.jp id t1731YTB018702
+
+http://syndrome.globalmedicinaldeal.eu/
+
+
+---
+Táto správa neobsahuje vírusy ani žiadny škodlivý kód - avast! Antivirus je aktívny.
+http://www.avast.com
+
+

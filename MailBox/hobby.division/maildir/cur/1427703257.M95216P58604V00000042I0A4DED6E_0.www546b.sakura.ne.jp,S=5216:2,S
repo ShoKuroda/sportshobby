@@ -1,0 +1,93 @@
+Return-Path: <comm-bounces+BBC-Message-A11HWVO0KHN02U@marketplace.amazon.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav406.sakura.ne.jp (fsav406.sakura.ne.jp [133.242.250.105])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U8EDBD058601
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 17:14:14 +0900 (JST)
+	(envelope-from comm-bounces+BBC-Message-A11HWVO0KHN02U@marketplace.amazon.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav406.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav406.sakura.ne.jp);
+ Mon, 30 Mar 2015 17:14:13 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav406.sakura.ne.jp)
+Received: from smtp-out-188-219.amazon.com (smtp-out-188-219.amazon.com [207.171.188.219])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U8EDo7058597
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 17:14:13 +0900 (JST)
+	(envelope-from comm-bounces+BBC-Message-A11HWVO0KHN02U@marketplace.amazon.co.jp)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.co.jp;
+  i=ss1rwc9fj09sxr7@marketplace.amazon.co.jp; q=dns/txt;
+  s=amazon201209; t=1427703260; x=1459239260;
+  h=date:from:reply-to:to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=NstK9Mf+0YHvSL/tSPbAebsorGejRNwhHVcUDlU9e9c=;
+  b=frss76moqzL+QPcmtkcBQfTe4K7aCHNEv+r/++Q9samOA5C5NI63pLEj
+   QGuuCJanwwfPrFknl8Fomimftd00H+rTxO1Zw98H7mn1XFFJ9rbIBaL99
+   2zI+GUpYeSK/gaztFOrTWRRJ3EuEhFqLxDQh/agSNPmXz4ZRkcEbBcS7a
+   4=;
+Date: Mon, 30 Mar 2015 08:14:12 +0000 (UTC)
+From: =?ISO-2022-JP?B?GyRCQG5DPBsoQiAbJEJGRhsoQiAtIEFtYXo=?= =?ISO-2022-JP?B?b24gGyRCJV4hPCUxJUMlSCVXJWwlJCU5GyhC?= <ss1rwc9fj09sxr7@marketplace.amazon.co.jp>
+Reply-To:   =?ISO-2022-JP?B?GyRCQG5DPBsoQiAbJEJGRhsoQiAtIEFtYXo=?= =?ISO-2022-JP?B?b24gGyRCJV4hPCUxJUMlSCVXJWwlJCU5GyhC?= <ss1rwc9fj09sxr7@marketplace.amazon.co.jp>
+To:   =?ISO-2022-JP?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Message-ID: <urn.correios.msg.20150330081412cfbabdce09544b25bd03a706ff4b6333@1427703252475.rte-svc-fe-2a-i-84bd14b1.us-west-2.amazon.com>
+Subject: =?ISO-2022-JP?Q?Amazon_=1B$B$N$*5RMM=1B(B_=1B$B@nC<=1B(B_=1B$BFF=1B(B?=
+ =?ISO-2022-JP?Q?_=1B$B$5$s$+$i$NH/Aw$rAa$a$k$3$H$K$D$$=1B(B?=
+ =?ISO-2022-JP?Q?=1B$B$F$N$*Ld$$9g$o$;=1B(B_(=1B$BCmJ8=1B(B:_503?=
+ =?ISO-2022-JP?Q?-7760784-3563061)?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_2433899_1155523078.1427703252472"
+Content-Transfer-Encoding: 7bit
+Bounces-to: comm-bounces+BBC-Message-A11HWVO0KHN02U@marketplace.amazon.co.jp
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-AMAZON-CATEGORY: BBC-Message
+X-Original-MessageID: <urn.correios.msg.20150330081412cfbabdce09544b25bd03a706ff4b6333@1427703252475.rte-svc-fe-2a-i-84bd14b1.us-west-2.amazon.com>
+
+------=_Part_2433899_1155523078.1427703252472
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: quoted-printable
+
+=1B$BCmJ8HV9f=1B(B 503-7760784-3563061:
+1 / =1B$B%^%k%7%s=1B(B M1887 =1B$B@lMQ=1B(B 8mmBB=1B$BCF=1B(B 1=1B$BH/;EMM=
+=1B(B =1B$B%9%Z%"=1B(B =1B$B%7%g%C%H%7%'%k=1B(B 5=1B$BH/%;%C%H=1B(B [ASIN: =
+B006JY4TBC]=20
+
+------------- =1B$B%a%C%;!<%8$O$3$3$+$i=1B(B -------------
+
+=1B$B=3DPMh$k$@$1Aa$$G<4|4uK>$G$9!#8M7zMQBpG[%\%C%/%9$KF~$l2<$5$$!#8aA0Ce;X=
+Dj$G$*4j$$$7$^$9!#=1B(B
+
+------------- =1B$B%a%C%;!<%8$O$3$3$^$G=1B(B -------------
+
+=1B$B$*CN$i$;!'=1B(BAmazon.co.jp=1B$B$G$O!"LdBj$N2r7h$*$h$S?.Mj$G$-$k0BA4$J=
+;EAH$_$rDs6!$9$k$?$a$K!"=3DPIJ<T$H9XF~<T$N4V$NDL?.FbMF$r:GBg=1B(B2=1B$BG/$K=
+$o$?$C$FJ]B8$$$?$7$^$9!#$3$NJ}?K$O!"K\%a%C%;!<%8$KJV?.$7$?>l9g$bF1MM$KE,MQ$=
+5$l$^$9!#=1B(BAmazon.co.jp=1B$B$G$O!"9XF~<T$*$h$S=3DPIJ<T$rIT@59T0Y$+$iJ]8n=
+$9$kL\E*$G%U%#%k%?!<5!G=3D$rF3F~$7$F$$$^$9!#%U%#%k%?!<$rDL2a$7$J$+$C$?%a%C%=
+;!<%8$O08@h$KG[?.$5$l$^$;$s$N$G!"$"$i$+$8$a$4N;>5$/$@$5$$!#0BA4@-$NM}M3$K$h=
+$j!"K\J8Cf$K5-:\$5$l$F$$$?=1B(BE=1B$B%a!<%k%"%I%l%9$O!"=1B(B[=1B$B:o=3D|:Q$=
+_=1B(BE=1B$B%a!<%k%"%I%l%9=1B(B] =1B$B$KCV$-49$($i$l$F$$$^$9!#%a%C%;!<%8Aw?=
+.<T$KJVEz$9$k:]$K$O=1B(BFrom=1B$B$N%"%I%l%9$KJV?.$7$F$/$@$5$$!#=1B(B
+
+Amazon.co.jp=1B$B$G$N0BA4$J%*%s%i%$%s%H%i%s%6%/%7%g%s$K$D$$$F>\$7$/$O$3$A$i=
+$r$4Mw$/$@$5$$!'=1B(B ( http://www.amazon.co.jp/gp/help/customer/display.ht=
+ml?nodeId=3D13940051 )=1B$B!#$^$?!"=1B(BAmazon=1B$B%^!<%1%C%H%W%l%$%9J]>Z$K=
+$D$$$F>\$7$/$O$3$A$i$r$4Mw$/$@$5$$!'=1B(B ( http://www.amazon.co.jp/gp/help=
+/customer/display.html?nodeId=3D1085332 )=1B$B!#=1B(B
+
+=1B$B$3$l$,IT?3$J%a%C%;!<%8$G$"$k>l9g$O!"$3$A$i$^$G=1B(B http://www.amazon.=
+co.jp/gp/communication-manager/report.html?ft=3DInappropriateContent&msg=3D=
+A11HWVO0KHN02U&d=3D1427703250&mp=3DA1VC38T7YXB528&v=3D1&t=3Dad154ecc3d30f67=
+9f8ff14e7da6a5d36eba2e409 =1B$B$4Js9p$/$@$5$$!#=1B(B
+
+=1B$B$3$N%a%C%;!<%8$rJV?.ITMW$H$7$F%^!<%/$9$k$K$O!"$3$A$i$r%/%j%C%/$7$^$9=
+=1B(B: http://www.amazon.co.jp/gp/communication-manager/no-response-needed.=
+html?msg=3DA11HWVO0KHN02U&d=3D1427703250&mp=3DA1VC38T7YXB528&v=3D1&t=3Dad15=
+4ecc3d30f679f8ff14e7da6a5d36eba2e409
+
+
+
+[commMgrTok:A11HWVO0KHN02U]
+------=_Part_2433899_1155523078.1427703252472--

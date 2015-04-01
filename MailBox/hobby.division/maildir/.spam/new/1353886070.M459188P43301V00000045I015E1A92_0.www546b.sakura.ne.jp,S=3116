@@ -1,0 +1,67 @@
+Return-Path: <eeee57@nifty.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.6 required=7.0 tests=BAYES_00,DATE_IN_PAST_06_12,
+	FROM_MISSP_REPLYTO,HK_RANDOM_ENVFROM,HK_RANDOM_FROM,LOTS_OF_MONEY,
+	NORMAL_HTTP_TO_IP,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,URIBL_DBL_SPAM,URIBL_RHS_DOB autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.0 HK_RANDOM_FROM From username looks random
+	*  0.0 HK_RANDOM_ENVFROM Envelope sender username looks random
+	*  1.5 DATE_IN_PAST_06_12 Date: is 6 to 12 hours before Received: date
+	*  0.0 NORMAL_HTTP_TO_IP URI: Uses a dotted-decimal IP address in URL
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: casneole.com]
+	*  1.5 URIBL_RHS_DOB Contains an URI of a new domain (Day Old Bread)
+	*      [URIs: casneole.com]
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.4 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id qAPNRk2c043292
+	for <hobby.division@sportshobby.co.jp>; Mon, 26 Nov 2012 08:27:46 +0900 (JST)
+	(envelope-from eeee57@nifty.com)
+X-Nat-Received: from [112.78.125.46]:58202 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1353886066.27125
+Received: from pc52 ([223.130.249.52])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id qAPNRj8S043272
+	for hobby.division@sportshobby.co.jp; Mon, 26 Nov 2012 08:27:46 +0900 (JST)
+	(envelope-from eeee57@nifty.com)
+Message-Id: <201211252327.qAPNRj8S043272@www546b.sakura.ne.jp>
+To: <hobby.division@sportshobby.co.jp>
+From: =?iso-2022-jp?B?GyRCIVobKEIgGyRCSyE/TSQ0TTs7cSEhMEZGYhsoQiAbJEIhWxsoQg==?=<eeee57@nifty.com>
+Subject: =?iso-2022-jp?B?GyRCIiMhIRsoQjExGyRCN244QkRqJE4kNE07O3FKXT5aJVclaSVzISEbKEJTVEFSVBskQiEqISohISIjGyhC?=
+MIME-Version: 1.0
+Reply-To: <eeee57@nifty.com>
+Date: Sun, 25 Nov 2012 21:31:35 +0900
+Content-Type:text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 25112012 #8523465, status: clean
+
+      資金調達希望の、事業者様　こちらの保障制度を是非ご利用下さい。
+ 
+　　　　　近江屋　　　http://casneole.com/oumiya/
+ 
+        =======【 当社独自の融資保障制度 START！！ 】=======
+ 
+ご融資時に保証金5,000円の掛け金だけで、２つの安心保障。
+ 
+■お取引先保障制度■
+ 
+お取引先の事情で、お支払いが先になったり、受取り手形のサイトが急に延びた場合、
+毎月のお支払いを最長６ヶ月先まで待ちます。
+ 
+■事業者様専用保険制度■
+ 
+経営者様の急な入院やご病気で支払いが困難な場合、
+毎月の支払いを最長３ヶ月先まで待ちます。
+
+

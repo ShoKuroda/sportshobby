@@ -1,0 +1,48 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.8 required=7.0 tests=BAYES_99,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,URIBL_BLOCKED,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_SC_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9999]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: mypersonalrevolution.org]
+	*  3.2 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: mypersonalrevolution.org]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: mypersonalrevolution.org]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: mypersonalrevolution.org]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4LFUb5Z090969
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 22 May 2013 00:30:37 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:63787 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1369150237.28322
+Received: from SOL-FTTB.92.32.118.46.sovam.net.ua (SOL-FTTB.92.32.118.46.sovam.net.ua [46.118.32.92] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4LFUYx4090964
+	for <on_line.shop12@sportshobby.co.jp>; Wed, 22 May 2013 00:30:36 +0900 (JST)
+Date: Wed, 22 May 2013 00:30:34 +0900 (JST)
+Message-Id: <201305211530.r4LFUYx4090964@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (lopezbuk3@ssmu.ru@54.206.108.30)
+	by 46.118.32.92 with ESMTPA; Tue, 21 May 2013 18:33:52 +0200
+From: lopezbuk3@ssmu.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: Achieve tips to recharge your xxx-life
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 21052013 #10080207, status: clean
+
+Amazing effect on your health http://mypersonalrevolution.org/stems.html
+

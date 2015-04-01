@@ -1,0 +1,76 @@
+Return-Path: <wild_pc-ichiba-back@mkrm.rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.8 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,
+	URIBL_BLOCKED,WEIRD_QUOTING autolearn=no version=3.3.2
+Received: from fsav409.sakura.ne.jp (fsav409.sakura.ne.jp [133.242.250.108])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2R8jx2e058524
+	for <hobby.division@sportshobby.co.jp>; Fri, 27 Mar 2015 17:45:59 +0900 (JST)
+	(envelope-from wild_pc-ichiba-back@mkrm.rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav409.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav409.sakura.ne.jp);
+ Fri, 27 Mar 2015 17:45:59 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav409.sakura.ne.jp)
+Received: from mkrm.rakuten.co.jp (mkrm26-116.smtp.rakuten.co.jp [133.237.26.116])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2R8jxC2058521
+	for <hobby.division@sportshobby.co.jp>; Fri, 27 Mar 2015 17:45:59 +0900 (JST)
+	(envelope-from wild_pc-ichiba-back@mkrm.rakuten.co.jp)
+Received: from bhdpcmda1011z.prod.jp.local (bhdpcmda1011z.prod.jp.local [100.66.240.69])
+	by mkrm112z.prod.jp.local (Rakuten MGW 2.0.0) with ESMTP id 3lCxbp75SfzPbQr
+	for <hobby.division@sportshobby.co.jp>; Fri, 27 Mar 2015 17:45:58 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.rakuten.com;
+	s=rakuten0542014040; t=1427445959;
+	bh=4UC1F/QCjhmV/9R5tjmjIZ/+3Zcbk1LkxDi3P0ZekMs=;
+	h=Content-Type:Content-Transfer-Encoding:MIME-Version:From:To:
+	 Subject:Message-ID:Sender:Date;
+	b=b/N9opzcYhifmjyI5lOI3W1NuJdtbVWbg5VAXGZHo5E311MQxX615MYl3tDTRsFAD
+	 +QkkW/5wEyQlDTWt6oWmvtxqVIjipFjsXdoWawpFbbVkgYaJNWtpZSxLvSNZhE7SMU
+	 4gRERaCo2dnzS6ciaQy+5F9l7aSW3+Hlq6ploMZk=
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+From: =?ISO-2022-JP?B?GyRCIVozWkU3IVtFOUpeNElNfSUwJWshPCVXGyhC?=
+ <support-ope@mail.rakuten.com>
+To: <hobby.division@sportshobby.co.jp>
+Subject: =?ISO-2022-JP?B?GyRCIVozWkU3O1Q+bCFbJDQzTkcnJE4kKjRqGyhC?=
+ =?ISO-2022-JP?B?GyRCJCQhShsoQjIwMTUbJEJHLxsoQjMbJEI3bkt2NHw4QiFLGyhC?=
+X-Mailer: Mu-b
+Message-ID: <20150327174558.9037314.GXUQULRGWKTRDA7A.2033@mkrm.rakuten.com>
+Sender: wild_pc-ichiba-back@mkrm.rakuten.co.jp
+X-Keywords: 60028-30150327-02
+Date: Fri, 27 Mar 2015 17:45:58 +0900 (JST)
+
+スポーツホビー
+ ご担当者様
+
+平素は楽天市場に格別の御引立てを賜り誠に有難うございます。
+さて、下記ご請求のお支払期限が近づいておりますので、
+確認のためご連絡させていただきました。
+
+今一度ご確認のうえ、期限内にご入金下さいますようお願い申し上げます。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+＜ご請求内容＞
+・ご請求金額　：102502円
+・お振込先　　：楽天銀行（0036）法人第五支店(705)
+　　　　　　　　普通　No.1665039　楽天株式会社
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+■楽天WEB請求確認システム
+https://billing.rakuten.ne.jp/
+
+詳細の確認方法に関しましては、下記のマニュアルをご参照ください。
+https://www.rakuten.co.jp/shops/manual/billing/index.html
+（RMSにログインした状態でクリックしてください）
+
+
+───────────────────────────────────
+┏━┓┏━┓┏━┓┏━┓
+┃楽┃┃天┃┃市┃┃場┃　http://www.rakuten.co.jp/
+┗━┛┗━┛┗━┛┗━┛
+
+楽天株式会社　店舗管理グループ
+〒140-0002　東京都品川区東品川4-12-3　品川シーサイド楽天タワー
+TEL：050-5533-1899　※請求関連のお問合せはナビダイヤル「3番」
+───────────────────────────────────

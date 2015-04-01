@@ -1,0 +1,313 @@
+Return-Path: <return-163-2300@bind-tec.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.7 required=7.0 tests=DKIM_ADSP_CUSTOM_MED,
+	FORGED_MUA_OUTLOOK,FREEMAIL_FROM,MSOE_MID_WRONG_CASE,NML_ADSP_CUSTOM_MED,
+	STOX_REPLY_TYPE,STOX_REPLY_TYPE_WITHOUT_QUOTES,TO_NO_BRKTS_MSFT,
+	T_TO_NO_BRKTS_FREEMAIL,URI_HEX autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.2 STOX_REPLY_TYPE STOX_REPLY_TYPE
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (office_k_you[at]yahoo.co.jp)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.3 URI_HEX URI: URI hostname has long hexadecimal sequence
+	*  3.4 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  1.9 STOX_REPLY_TYPE_WITHOUT_QUOTES STOX_REPLY_TYPE_WITHOUT_QUOTES
+	*  1.2 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  1.0 TO_NO_BRKTS_MSFT To: misformatted and supposed Microsoft tool
+	*  2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  0.0 T_TO_NO_BRKTS_FREEMAIL To: misformatted and free email service
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p8PDeArm007270
+	for <hobby.division@sportshobby.co.jp>; Sun, 25 Sep 2011 22:40:10 +0900 (JST)
+	(envelope-from return-163-2300@bind-tec.net)
+X-Nat-Received: from [112.78.125.46]:63678 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1316958010.27897
+Received: from c013.bind-tec.net (c013.bind-tec.net [175.45.140.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id p8PDeAm9007267
+	for <hobby.division@sportshobby.co.jp>; Sun, 25 Sep 2011 22:40:10 +0900 (JST)
+	(envelope-from return-163-2300@bind-tec.net)
+Received: from m01.bind-tec.net (m01.bind-tec.net [175.45.140.128])
+	by c013.bind-tec.net (OrangeSecureMailEngine) with ESMTP id 20ED1FB4B85
+	for <hobby.division@sportshobby.co.jp>; Sun, 25 Sep 2011 22:40:10 +0900 (JST)
+Received: from w01.bind-tec.net (w01.bind-tec.net [112.78.209.244])
+	by m01.bind-tec.net (Postfix) with ESMTP id 14165FA8CCD
+	for <hobby.division@sportshobby.co.jp>; Sun, 25 Sep 2011 22:40:10 +0900 (JST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by w01.bind-tec.net (Postfix) with ESMTP id B56F41CE0069
+	for <hobby.division@sportshobby.co.jp>; Sun, 25 Sep 2011 22:40:09 +0900 (JST)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCTDVOQTlWOkIhVkYwMmgkRzNYJFYhKjdIQlMlIiVVJSMbKEI=?=
+	=?iso-2022-jp?B?GyRCJWolKCUkJUg0cEFDOVY6QiFXIVw8dTlWPFRGQ0pMJVclbCU8JXMbKEI=?=
+	=?iso-2022-jp?B?GyRCJUhJVSQtISobKEI=?=
+From: =?iso-2022-jp?B?GyRCMlQkMCEqSXs2SEIuSnMhViRkJGkkTSRQQy8kKyQsQGgbKEI=?=
+	=?iso-2022-jp?B?GyRCJEs5VCQvISohVxsoQg==?= <office_k_you@yahoo.co.jp>
+Message-Id: <f7b4570e8c131b7d9cb1a8597941616d4fdd84e8@OS7>
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-2022-jp";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+Date: Sun, 25 Sep 2011 22:40:09 +0900 (JST)
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.44/RELEASE, bases: 25092011 #5492977, status: clean
+
+　こんにちは、オフ京です。(^_^)
+
+　本日も、開封していただきまして心より感謝の気持ちを申し上げます。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+　■　稼ぐ！副業速報号外『やらねば誰かが先に行く！』
+------------------------------------------------------------
+　　　　　　　produce by office K you ：オフ京 （加藤 勝）■
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+ ※このメールマガジンは、無料レポートスタンド（代理登録）、
+　一括投稿系サービス、各ブログサービス等より登録された方に
+ 『稼ぐ！副業ネットビジネスシンプルな法則』“速報号外”として
+　配信を行っております。
+
+（期間限定の無料配布及び、お得情報の配信をしております。）
+
+
+　万が一、身に覚えのない場合はお手数ですが下記ＵＲＬより
+　メルマガ解除、配信停止願いします。<(_ _)>
+
+　⇒　http://6c9baf.bind-mail.com/pub/add.php?mid=8i87
+
+
+
+━[PR]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+　“速報！”新しいアフィリエイトプログラム
+
+　『ミリオネア・アフィリエイトプログラム』
+
+　⇒　http://www.kyou1.sakura.ne.jp/ra/m/298
+
+
+　まだスタートしたばかりなのASPなので
+　他のアフィリエイトプログラムよりも、
+　かなり“オイシイ”アフィリエイトですよ(^_^)/
+
+以下、ミリオネア・アフィリエイトの概要です。
+
+　■一件3万円以上の高額報酬
+
+　■2ティア採用で不労所得が可能
+
+　■世界で実績があるレベルの高い商品
+
+　■初心者でも安心！アフィリエイトノウハウ提供
+
+　■クッキーは90日間有効！
+
+　2ティアですので、行動が早ければ早いほどお得です。
+　いますぐ以下のサイトをチェックしてみてください。
+
+　⇒　http://www.kyou1.sakura.ne.jp/ra/m/299
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[PR]━━
+
+
+
+
+
+　　本┃日┃の┃コ┃ン┃テ┃ン┃ツ┃
+　　━┛━┛━┛━┛━┛━┛━┛━┛
+
+----------------------------------------------------------------------
+
+　◆『無料講座「動画で学ぶ！携帯アフィリエイト基礎講座」
+　　全１０時間５１分（６カリキュラム２３レッスン＋特別講座）
+　　＋受講者特別プレゼント付き！』
+
+----------------------------------------------------------------------
+
+　⇒　http://www.kyou1.sakura.ne.jp/ra/m/300
+
+
+無料講座！「動画で学ぶ！携帯アフィリエイト基礎講座」へようこそ！
+
+
+この講座は、これまで数十万円する有料の塾の中でのみ公開してきた
+内容となりますので、本来、有料での販売ということも検討しましたが
+
+
+少しでも多くの方に、携帯アフィリエイトで稼ぐきっかけを掴んで
+いただければと無料でご提供させていただくことに致しました。
+
+
+尚、既に受講された方の中には、短期間で初報酬を獲得された方をはじめ
+月に１０万円以上稼げるようになった方も続出しています！
+
+
+真剣に取り組めば、必ず結果を出すことはできます。
+
+
+無料とは思えない、携帯アフィリエイトで稼ぐノウハウを是非習得してください。
+
+
+●動画マニュアル： 全１０時間５１分
+
+　６カリキュラム ２３レッスン ＋ 特別講座
+　（講座受講者特別プレゼント付き！）
+
+　⇒　http://www.kyou1.sakura.ne.jp/ra/m/301
+
+
+
+
+
+----------------------------------------------------------------------
+
+ ◆「写真を無料でダウンロード！無料で掲載できる写真素材サイト！」
+
+----------------------------------------------------------------------
+
+　⇒　http://www.kyou1.sakura.ne.jp/ra/m/302
+
+
+写真を無料でダウンロード！無料で掲載できる写真素材サイト！
+
+
+ホームページや教材、無料レポートなどで、
+写真を使う機会は多いと思います。
+
+
+あなたは、使いたい写真をどうしていますか？
+
+有料で買っていたりしますか？
+
+かなり豊富に写真を無料でダウンロードできるサイトがあります。
+
+
+人物も豊富です。
+
+まずは、写真を買う前に、このサイトを覗いてみてください。
+
+無料で使えるものがあるかもしれませんよ！
+
+　⇒　http://www.kyou1.sakura.ne.jp/ra/m/303
+
+
+
+
+
+----------------------------------------------------------------------
+
+ ◆「もしアフィリエイトの初心者が『ブログの間違い』を７箇所見直したら」
+
+----------------------------------------------------------------------
+
+　⇒　http://www.kyou1.sakura.ne.jp/ra/m/304
+
+
+もしあなたが、ブログ・メルマガアフィリエイトに
+取り組まれているのなら、このレポートは少なからず
+お役に立てることがあるのではないかと思っています。
+
+
+僕が自分のブログを具体的にどのように
+改善していったのかを図解入りで説明しています。
+
+
+今回お話しする７箇所の改善点を参考にして
+ブログへの訪問者が一瞬でファンになってしまう
+そんな個性的で魅力的なブログをあなたも作ってみませんか。
+
+
+そして、初心者からの脱出を図りましょう。
+
+
+
+まずはマネをしてみてください。
+これで、あなたのブログは上級者と同じレベルです。
+
+
+地道に記事を更新して、たまにコメント回りをしていると
+ある日、突然メールが来ます。
+
+『私の商材をあなたのブログとメルマガで紹介してください！』
+ってね。
+
+
+黙っていても、インフォプレナーさん達のほうから
+続々と直オファーが来ます。
+
+
+内緒ですが、僕はこのパターンで発売前の有名教材を
+無料で手に入れています。
+
+
+あっ、そうそう、突っ込みはやめてくださいね。
+
+
+情報教材アフィリエイトには『仕入れが必要だ』
+なんて偉そうに言っておきながら、
+自分はタダでもらってるのかよ・・・
+
+という指摘は困ります（笑）。
+
+　⇒　http://www.kyou1.sakura.ne.jp/ra/m/305
+
+
+
+
+
+━[PR]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+　　　ポイント購読プレゼント付きメルマガ
+
+　　　オ┃フ┃京┃か┃わ┃ら┃版┃通┃信┃
+　　　━┛━┛━┛━┛━┛━┛━┛━┛━┛
+　　　　↓　　　↓　　　↓　　　↓
+　　http://www.kyou1.sakura.ne.jp/ra/m/306
+
+
+ ※【オフ京かわら版通信】は、
+ ワンランクアップを目的に旬な情報をお届けするメルマガです。
+
+ アフィリエイトビジネスに欠かせない「マインド」「プロセス」
+「テクニック」をメルマガと言う一方通行ではなく、購読者様の
+ 参加型媒体として発信しております。
+
+ また、メルマガ内の特定リンクをクリックして頂くことにより
+ ポイントを加算、累計により素敵な特典をプレゼントさせていただきます。
+
+（中には、有料で販売している商材やツールも有る事は内緒です。）(^^ゞ
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[PR]━━
+
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+メルマガ名：副在速報“号外”「やらねば誰かが先に行く！」
+運営サイト：『ネットビジネス最前線アフィリエイトで稼ぐ法則』
+サイトURL ：http://www.offkyou.net/
+連絡メール：office_k_you☆yahoo.co.jp (☆→@)
+発行担当者：加藤　勝　（オフ京）
+発行者情報：http://www.offkyou.net/tokusyohou.html
+
+----------------------------------------------------------------------
+
+身に覚えがなかったり、配信の必要がない場合はお手数ですが
+下記より配信停止を行い、本メールの削除をお願い致します。
+
+メルマガ解除、配信停止はこちらからお願い致します。
+ >>> http://6c9baf.bind-mail.com/pub/add.php?mid=8i87
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊

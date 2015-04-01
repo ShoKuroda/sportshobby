@@ -1,0 +1,48 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.2 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: actes-lyon.org]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.7 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: actes-lyon.org]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5420]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9J4m3nG084425
+	for <hobby.division@sportshobby.co.jp>; Sat, 19 Oct 2013 13:48:03 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:57422 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1382158083.22956
+Received: from 121.137.22.206 ([121.137.22.206])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9J4m1Jj084419
+	for <hobby.division@sportshobby.co.jp>; Sat, 19 Oct 2013 13:48:02 +0900 (JST)
+Message-Id: <201310190448.r9J4m1Jj084419@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (yu-na11-08@savi.com@72.84.112.173)
+	by 121.137.22.206 with ESMTPA; Sat, 19 Oct 2013 13:48:07 +0900
+From: yu-na11-08@savi.com
+To: hobby.division@sportshobby.co.jp
+Subject: Be expert of night acts
+Date: Sat, 19 Oct 2013 13:39:32 +0900
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 19102013 #11167674, status: clean
+
+Refresh yourself http://ACTES-LYON.ORG/other.html
+

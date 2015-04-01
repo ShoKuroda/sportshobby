@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.5 required=7.0 tests=BAYES_50,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL,URI_NOVOWEL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: hzckzxcr.eu]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: hzckzxcr.eu]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: hzckzxcr.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: hzckzxcr.eu]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.5 URI_NOVOWEL URI: URI hostname has long non-vowel sequence
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: hzckzxcr.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5CISjCb040195
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 13 Jun 2014 03:28:45 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:20856 [ident-empty]
+	by ksav203.sakura.ne.jp with TPROXY id 1402597725.1151
+Received: from 213.222.229.205 ([213.222.229.205])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s5CISh4l040190
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 13 Jun 2014 03:28:44 +0900 (JST)
+Message-Id: <201406121828.s5CISh4l040190@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (alan94@bergamocom.it@36.164.118.135)
+	by 213.222.229.205 with ESMTPA; Thu, 12 Jun 2014 22:29:21 +0400
+X-Originating-IP: 36.164.118.135
+From: alan94@bergamocom.it
+To: on_line.shop12@sportshobby.co.jp
+Subject: Aren't you happy with your intimate life?
+Date: Thu, 12 Jun 2014 22:21:21 +0400
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+http://paint.hzckzxcr.eu/ Incredible effect on your life
+
+
+Sent from my iPhone
+

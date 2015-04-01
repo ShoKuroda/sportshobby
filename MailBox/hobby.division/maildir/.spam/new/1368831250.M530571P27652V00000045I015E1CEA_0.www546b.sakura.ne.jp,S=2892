@@ -1,0 +1,56 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********************
+X-Spam-Status: Yes, score=23.4 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	FS_START_DOYOU2,MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_MW_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: pc-mediacorner.de]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  2.1 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  2.8 FS_START_DOYOU2 Subject starts with Do you dream,have,want,love,
+	*      etc.
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  3.8 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: pc-mediacorner.de]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4HMs7cI027645
+	for <hobby.division@sportshobby.co.jp>; Sat, 18 May 2013 07:54:07 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:56641 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1368831247.17991
+Received: from 113.172.34.39 (localhost [113.172.34.39] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4HMs5qm027638
+	for <hobby.division@sportshobby.co.jp>; Sat, 18 May 2013 07:54:06 +0900 (JST)
+Date: Sat, 18 May 2013 07:54:05 +0900 (JST)
+Message-Id: <201305172254.r4HMs5qm027638@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (sosoc@public.wh.hb.cn@163.237.120.52)
+	by 113.172.34.39 with ESMTPA; Sat, 18 May 2013 05:53:15 +0700
+From: sosoc@public.wh.hb.cn
+To: hobby.division@sportshobby.co.jp
+Subject: Do you want to have hottest nights in your life?
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 17052013 #10043020, status: clean
+
+http://pc-mediacorner.de/later.html Do you wish to amaze your female partner 
+this night?
+

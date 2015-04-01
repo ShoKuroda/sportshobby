@@ -1,0 +1,109 @@
+Return-Path: <dr.abbaasab@hotmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********************************************
+X-Spam-Status: Yes, score=47.6 required=7.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+	ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_MONEY,ADVANCE_FEE_4_NEW,
+	ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_MONEY,
+	AXB_XMAILER_MIMEOLE_OL_024C2,BAYES_50,DEAR_FRIEND,FORGED_MUA_OUTLOOK,
+	FREEMAIL_FROM,FREEMAIL_REPLYTO,FROM_MISSPACED,FROM_MISSP_EH_MATCH,
+	FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,
+	FROM_MISSP_USER,FSL_CTYPE_WIN1251,FSL_MISSP_REPLYTO,LOTS_OF_MONEY,
+	MONEY_FRAUD_3,MONEY_FRAUD_5,MONEY_FROM_MISSP,MSOE_MID_WRONG_CASE,
+	NSL_RCVD_FROM_USER,SUBJ_ALL_CAPS,T_FROM_MISSP_DKIM,T_HK_NAME_FM_DR,
+	US_DOLLARS_3 autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  2.9 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  3.2 NSL_RCVD_FROM_USER Received from User
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (dr.abbaasab[at]hotmail.com)
+	*  1.5 SUBJ_ALL_CAPS Subject is all capitals
+	*  2.6 DEAR_FRIEND BODY: Dear Friend? That's not very dear!
+	*  1.8 US_DOLLARS_3 BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.0 T_HK_NAME_FM_DR T_HK_NAME_FM_DR
+	*  2.1 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  3.5 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  2.6 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	*  3.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+	*  2.0 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+	*  1.1 FROM_MISSP_USER From misspaced, from "User"
+	*  4.1 MONEY_FROM_MISSP Lots of money and misspaced From
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  1.5 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+	*  1.2 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  2.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  1.5 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.1 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  3.2 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.0 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.0 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.4 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  1.7 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+	*  0.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+	*  1.0 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r2H7QONI003767
+	for <hobby.division@sportshobby.co.jp>; Sun, 17 Mar 2013 16:26:24 +0900 (JST)
+	(envelope-from dr.abbaasab@hotmail.com)
+X-Nat-Received: from [112.78.125.46]:50270 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1363505184.32475
+Received: from laimeilihotel.com ([119.146.190.70])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r2H7QN8b003761
+	for <hobby.division@sportshobby.co.jp>; Sun, 17 Mar 2013 16:26:23 +0900 (JST)
+	(envelope-from dr.abbaasab@hotmail.com)
+Message-Id: <201303170726.r2H7QN8b003761@www546b.sakura.ne.jp>
+Received: from User ([123.108.252.51])
+	(envelope-sender <dr.abbaasab@hotmail.com>)
+	by 192.168.0.180 with ESMTP
+	for <hoang-nt@vnn.vn>; Sun, 17 Mar 2013 15:25:13 +0800
+Reply-To: <dr.abbaasab@gmail.com>
+From: "Dr. Abbaas Zahid A-Basaq"<dr.abbaasab@hotmail.com>
+Subject: YOUR ASSISTANCE IS HIGHLY NEEDED
+Date: Sun, 17 Mar 2013 14:25:15 +0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Antivirus: avast! (VPS 130316-1, 03/17/2013), Outbound message
+X-Antivirus-Status: Clean
+To: undisclosed-recipients:;
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 17032013 #9738666, status: clean
+
+Dear Friend,
+
+Complement of the day to you and your love ones
+
+I hope my email will arrive to you at good time.
+My name is Dr. Abbaas Zahid A-Basaq from Damascus Syria.
+I am now 64 years old and retired. I was former personal investor & financial consultant advisers to
+a Top Politician here in SYRIA.
+
+Why I'm contacting you is to know if we can have a personal conversation.
+Whatever truth you may brief me will be highly recommended.
+Tell me more about your country, how good it will be to invest in your country.
+Such as buying of properties, or real estate and some tourist places or any profitable investment venture that will yield good profit.
+
+I will appreciate whatever result you may brief me.
+Do let me know your idea and knowledge regarding this or any other profitable investment venture you may suggest.
+I have the total of US$22,300,000.00 that I deposited in South east Asia and I am willing to order the transfer of the money to you for investment if you’re interested with my proposal.
+
+In my next mail I will explain the full details of the project and interest, and then we reach an agreement on what will be your share from the money or investment.
+
+I shall tell you more about myself when I read from you.
+You may as well tell me little more about yourself when replying.
+
+Waiting for your reply.
+Thanks and best regards,
+Dr. Abbaas.
+Damascus,Syria: 6:15 AM.

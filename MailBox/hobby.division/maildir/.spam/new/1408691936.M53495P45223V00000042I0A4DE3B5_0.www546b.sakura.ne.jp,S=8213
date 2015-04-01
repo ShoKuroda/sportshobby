@@ -1,0 +1,158 @@
+Return-Path: <yoko.ueda@adr-ol-news.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.0 required=7.0 tests=BAYES_60,DATE_IN_PAST_03_06,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_ONLY_32,HTML_MESSAGE,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,URIBL_DBL_SPAM,
+	URIBL_SBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.6 DATE_IN_PAST_03_06 Date: is 3 to 6 hours before Received: date
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: adr-ol-news.com]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: adr-ol-news.com]
+	*  0.0 HTML_IMAGE_ONLY_32 BODY: HTML: images with 2800-3200 bytes of words
+	*  1.5 BAYES_60 BODY: Bayes spam probability is 60 to 80%
+	*      [score: 0.6423]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: adr-ol-news.com]
+Received: from fsav302.sakura.ne.jp (fsav302.sakura.ne.jp [153.120.85.133])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s7M7IpKw045216
+	for <hobby.division@sportshobby.co.jp>; Fri, 22 Aug 2014 16:18:52 +0900 (JST)
+	(envelope-from yoko.ueda@adr-ol-news.com)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav302.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp);
+ Fri, 22 Aug 2014 16:18:51 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav302.sakura.ne.jp)
+Received: from 964519804.adr-ol-news.com ([96.45.19.80])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s7M7IopH045209
+	for <hobby.division@sportshobby.co.jp>; Fri, 22 Aug 2014 16:18:51 +0900 (JST)
+	(envelope-from yoko.ueda@adr-ol-news.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=adr-ol-news.com;
+ h=To:Subject:Message-ID:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding:Date; i=yoko.ueda@adr-ol-news.com;
+ bh=w7HHBfV327YwEkk+cse0nXXyuQ0=;
+ b=iAWBhuz6FLDJ0BV6fra6lRN/sSNWFZdVy8c3Z/4n6ORrzxp1BKIISA2FBOJi06+cU1E094+kvAwI
+   8nnLPZtiFunL2fPz/z3nrj9N+4BmCFn/ykz97SKvjipOpjMvRJEeEKSwjN3vAoQ+DOglE/9yQzaK
+   eOjumr5nOQWMP1acorBPJXgLa554cAS24eb+QNPz0H8UZ3YFqfVcJrl4ijDL6Uf/UMyLU88W6end
+   puDh5cBji4gaUZXoae0bGhUxjKD3FGUQQLE2W3vuCkjESy3xpX9fsp7EZdpDTGxl3QRwfXUdSTuh
+   8SQyMdCSbSUbIHSDbcXD0xI2arYCI19t7mTTjA==
+To: hobby.division@sportshobby.co.jp
+Subject: =?UTF-8?B?44GC44Gq44Gf44Gu5LyR5pel44KS5L+d5a2Y44GZ44KL44Gf44KB44Gu5pyA6Imv44Gu5pa55rOV?=
+Message-ID: <275698ff89a06696b6e1727dc01173df@adr-ol-news.com>
+From: =?UTF-8?B?5rSL5a2Q44CA5LiK55Sw?= <yoko.ueda@adr-ol-news.com>
+Reply-To: yoko.ueda@adr-ol-news.com
+MIME-Version: 1.0
+X-Mailer-RecptId: 248072614
+X-Mailer-SID: 62792
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_08c18eabcdc65e33ede9eb6c491aa5f2"
+Content-Transfer-Encoding: 8bit
+Date: Fri, 22 Aug 2014 02:20:43 +0000
+
+--b1_08c18eabcdc65e33ede9eb6c491aa5f2
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+To view it online, please go here:
+http://adr-ol-news.com/display.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&S=62792&L=4061&N=31426
+
+おはよう、
+
+あなたが休暇の目的地を選択するためにどのくらい時間がかかりますか
+
+どのくらいの時間,あなたの休暇を計画する必要がありますか
+
+ どのくらいの速あなたはそれを支払うためにお金を稼ぐことができますか
+
+60秒
+
+== >>
+ここで入力し、それを実現するhttp://adr-ol-news.com/link.php?M=248072614&N=62792&K=b83e243ef3ce471728189305ff043726&L=96259&F=T
+
+あなたはこのアプリケーションをしようとすると貯蓄を行うことができます。自分を納得させてください。
+
+あなたの成功に、
+
+洋子　上田
+
+
+興味がない？こちらをクリックして、あなたは、新しい電子メールを受信しません。
+
+To stop receiving these
+emails:http://adr-ol-news.com/unsubscribe.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&L=4061&N=62792
+<!-- What Grandons face went deathly pale and upon his features there came
+a look which made even the brave Kantar feel anxious Only twice before had
+he seen that look on the face of the Earth man and each time enemies had
+fallen before his flashing blade like frella grass at harvest  -->
+<!-- Enter Your Majesty Ho Sen invited with a ceremonious bow The strangely
+angular creatures at Vernias sides seized her arms to drag her forward But
+she shook them off and entered herself There was nothing else to do Then
+the metal door clanged shut behind her  -->
+
+
+
+--b1_08c18eabcdc65e33ede9eb6c491aa5f2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<p><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">おはよう、</span><br /><br /><span style="font-size:
+small; font-family: arial, helvetica,
+sans-serif;">あなたが休暇の目的地を選択するためにどのくらい時間がかかりますか</span><br
+/><br /><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">どのくらいの時間,あなたの休暇を計画する必要がありますか</span><br
+/><br /><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">
+どのくらいの速あなたはそれを支払うためにお金を稼ぐことができますか</span><br
+/><br /><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">60秒</span><br /><br /><span style="font-size: small;
+font-family: arial, helvetica, sans-serif;"><a
+href="http://adr-ol-news.com/link.php?M=248072614&N=62792&K=b83e243ef3ce471728189305ff043726&L=96259&F=H">==
+&gt;&gt; ここで入力し、それを実現する</a></span><br /><br
+/><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">あなたはこのアプリケーションをしようとすると貯蓄を行うことができます。自分を納得させてください。</span><br
+/><br /><span style="font-size: small; font-family: arial, helvetica,
+sans-serif;">あなたの成功に、</span><br /><br /><span
+style="font-size: small; font-family: arial, helvetica,
+sans-serif;">洋子　上田</span><br /><br /></p>
+<p>&nbsp;</p>
+<p><br /><span style="font-size: x-small;"><span style="font-size:
+xx-small; font-family: arial,helvetica,sans-serif;">興味がない？<a
+href="http://adr-ol-news.com/unsubscribe.php?M=248072614&C=7f172dbaf451d707991dee0e3d62d4a9&L=4061&N=62792">こちらをクリックして</a>、あなたは、新しい電子メールを受信しません。</span><br
+/></span><!-- Still looking at Narine Vernia replied Observe Your Highness
+how manly and chivalrous is the Rogo of Huitsen Ah what a different song he
+will sing when Grandon of Terra has him by the throat He has a throat I am
+sure though it is concealed beneath his multiplicity of chins  --></p>
+<p><span><!-- Dont you think she said as Narine filled her jeweled cup with
+steaming kova that you with the wealth of Tyrhana behind you could find
+someone in this palace who for a promise of vast riches would smuggle us
+away in a small boat Once at sea we should be almost certain to encounter
+one of the many ships that must by now be searching for both of us
+--></span></p>
+<pre>&nbsp;</pre>
+<img
+src="http://adr-ol-news.com/open.php?M=248072614&L=4061&N=62792&K=b83e243ef3ce471728189305ff043726&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_08c18eabcdc65e33ede9eb6c491aa5f2--
+
+

@@ -1,0 +1,60 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.7 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,HTTP_EXCESSIVE_ESCAPES,MSGID_FROM_MTA_HEADER,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,
+	RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_BLOCKED,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9997]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: medicatingfirstmart.ru]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: medicatingfirstmart.ru]
+	*  1.6 HTTP_EXCESSIVE_ESCAPES URI: Completely unnecessary %-escapes inside
+	*      a URL
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 0.9997]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: medicatingfirstmart.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: medicatingfirstmart.ru]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: medicatingfirstmart.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav401.sakura.ne.jp (fsav401.sakura.ne.jp [133.242.250.100])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s9AHPTKV085506
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 11 Oct 2014 02:25:29 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav401.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp);
+ Sat, 11 Oct 2014 02:25:29 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav401.sakura.ne.jp)
+Received: from 5.34.11.51 (client.fttb.2day.kz [5.34.11.51] (may be forged))
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s9AHPPNi085491
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 11 Oct 2014 02:25:27 +0900 (JST)
+Message-Id: <201410101725.s9AHPPNi085491@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (admin@receive.nl@213.193.58.194)
+	by 5.34.11.51 with ESMTPA; Fri, 10 Oct 2014 23:29:05 +0600
+X-Originating-IP: 213.193.58.194
+From: admin@receive.nl
+To: on_line.shop12@sportshobby.co.jp
+Subject: Bigger size - more happiness
+Date: Fri, 10 Oct 2014 23:24:16 +0600
+
+https://www.google.com/url?q=http%3A%2F%2Ffor%67a%76%65.m%65%64%69%63ati%6Eg%66%69rs%74m%61rt%2E%72u%2F&sa=D&usg=AFQjCNFFUv_5LX53S6-ewZBhO69JK5f32g
+

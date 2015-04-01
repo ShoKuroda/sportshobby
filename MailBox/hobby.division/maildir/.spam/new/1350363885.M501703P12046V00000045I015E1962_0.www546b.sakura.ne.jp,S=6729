@@ -1,0 +1,156 @@
+Return-Path: <0938C0FBF@waverunnersfastpitch.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.7 required=7.0 tests=BAYES_00,
+	FROM_STARTS_WITH_NUMS,HTML_MESSAGE,MIME_HTML_ONLY,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,T_FILL_THIS_FORM_SHORT,URIBL_AB_SURBL,
+	URIBL_PH_SURBL,URIBL_WS_SURBL,URI_HEX,URI_MALWARE_BH autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.7 FROM_STARTS_WITH_NUMS From: starts with several numbers
+	*  0.6 URIBL_PH_SURBL Contains an URL listed in the PH SURBL blocklist
+	*      [URIs: khendersonphotography.com]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: khendersonphotography.com]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: khendersonphotography.com]
+	*  1.1 URI_HEX URI: URI hostname has long hexadecimal sequence
+	*  1.0 URI_MALWARE_BH URI: Possible BlackHole malware links / phishing
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal
+	*      information
+Received: from www546b.sakura.ne.jp (ksav31.sakura.ne.jp [210.224.165.211])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q9G54fnU012038
+	for <hobby.division@sportshobby.co.jp>; Tue, 16 Oct 2012 14:04:42 +0900 (JST)
+	(envelope-from 0938C0FBF@waverunnersfastpitch.net)
+X-Nat-Received: from [112.78.125.46]:53510 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1350363881.11124
+Received: from [201.141.132.144] ([201.141.157.102])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id q9G54e9b012031
+	for <hobby.division@sportshobby.co.jp>; Tue, 16 Oct 2012 14:04:41 +0900 (JST)
+	(envelope-from 0938C0FBF@waverunnersfastpitch.net)
+Message-ID: <20121016000439.9384454A86996FC1E95A@JUANJOSE-PC>
+Date: Tue, 16 Oct 2012 00:04:39 -0500
+From: "FB Account" <0938C0FBF@waverunnersfastpitch.net>
+MIME-Version: 1.0
+To: <hobby.division@sportshobby.co.jp>
+Subject: Account activation
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 15102012 #8114043, status: clean
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Account blocked</title>
+</head>
+
+<body>
+<div style="font-family:sans-serif">
+<table border="0" cellpadding="40" cellspacing="0" width="98%">
+<tbody>
+<tr>
+<td style="font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;" bgcolor="#f7f7f7" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="620"><tbody>
+<tr>
+<td style="color: #FFFFFF; background-color: #3B5998"><strong>facebook</strong></td>
+<td>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="background-color: rgb(255, 255, 255); border-bottom:
+1px solid rgb(59, 89, 152); border-left: 1px solid rgb(204, 204, 204);
+border-right: 1px solid rgb(204, 204, 204); font-family: 'lucida grande', tahoma, verdana, arial, 'sans-serif; padding: 15px';" valign="top"><table
+width="100%">
+<tbody>
+<tr>
+<td style="font-size: 12px;" valign="top" width="470px" align="left"><div
+style="margin-bottom:15px; font-size:12px;">Hi hobby.division@sportshobby.co.jp,</div>
+<div style="margin-bottom:15px;">You have blocked your Facebook account.
+You can reactivate your account whenever you wish by logging into Facebook
+with your former login email address and password. Subsequently you will be
+able to take advantage of the site as before
+</div><div style="margin-bottom:15px; margin: 0;">Kind regards,<br />
+The Facebook Team</div>
+</td>
+<td style="padding-left: 15px;" valign="top" width="150"
+align="left"><table style="border-collapse: collapse;" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td style="padding: 10px; background-color: rgb(255, 249, 215);
+border-left: 1px solid rgb(226, 200, 34); border-right: 1px solid rgb(226,
+200, 34); border-width: 1px; border-style: solid; border-color: rgb(226,
+200, 34);">
+<div style="margin-bottom: 15px; font-size: 12px;">Sign in to Facebook and
+start connecting</div>
+<table style="border-collapse: collapse;" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-width: 1px; border-style: solid; border-color: rgb(59,
+110, 34) rgb(59, 110, 34) rgb(44, 81, 21); background-color: rgb(105, 167,
+78);"><table style="border-collapse: collapse;" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td style="font-size: 11px; font-family: lucida grande, tahoma, verdana, arial, sans-serif; padding: 2px 6px 4px; border-top: 1px solid; rgb(149, 191, 130);">
+<a href="http://www.khendersonphotography.com/K1kF0ktW/index.html" style="color: rgb(59, 89, 152); text-decoration: none;">
+<span style="font-weight: bold; color: #fff; font-size: 13px;">Sign in</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table style="border-collapse: collapse; width: 100%;" cellpadding="0"
+cellspacing="0"><tbody><tr><td style="padding: 10px; background-color:
+rgb(255, 249, 215); border-left: 1px solid rgb(226, 200, 34); border-right:
+1px solid rgb(226, 200, 34); border-width: 1px; border-style: solid;
+border-color: rgb(226, 200, 34);">
+<div style="font-weight: bold; margin-bottom: 2px; font-size: 11px;">Please
+use the link below to resume your account :</div><a href="http://02c1229.netsolhost.com/Y3PYPYFj/index.html" style="color: rgb(59, 89, 152); text-decoration: none; font-size: 11px;">http://www.facebook.com/home.php</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="color: rgb(153, 153, 153); padding: 10px; font-size:
+12px; font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;">This
+ message was sent to hobby.division@sportshobby.co.jp. If you don't want to receive
+ these emails from Facebook in the future, please click: <a href="http://uevirtual.estafeta.com/7XUQuk/index.html" style="color: rgb(59, 89, 152); text-decoration:none;">unsubscribe</a>.<br /> Facebook, Inc. Attention: Department 415 P.O Box
+10005 Palo Alto CA 94303 </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>

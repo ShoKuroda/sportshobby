@@ -1,0 +1,181 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.4 required=7.0 tests=BAYES_50,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL,
+	XPRIO autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.4 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  1.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav206.sakura.ne.jp (fsav206.sakura.ne.jp [210.224.168.168])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2DIg5KN077054
+	for <hobby.division@sportshobby.co.jp>; Sat, 14 Mar 2015 03:42:05 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav206.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp);
+ Sat, 14 Mar 2015 03:42:05 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav206.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2DIg4V1077050
+	for <hobby.division@sportshobby.co.jp>; Sat, 14 Mar 2015 03:42:04 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCIVo5ZjMwIVshejJxPFJAX04pNS1HMCF6TS1OQSVEITwbKEI=?=
+	=?iso-2022-jp?B?GyRCJWskTiRQJGk7NSQtJHIkKjV2JDckLyRAJDUkJCEjGyhC?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Sat, 14 Mar 2015 03:42:04 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150313184204.C3A70418EF@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11131
+━━━━━━━━━━━━━━━━━━━━━━━━
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+◆この世界を教えてくれて、ありがとうございました。（20代・男性）
+
+◇高原さんのおかげで随分楽な状況になれました。（30代・男性）
+
+◆人生について考えを改めるキッカケを貰いました。（30代・男性）
+
+◇今の生活が楽しいのは高原さんのおかげです！（40代・男性）
+
+◆老後の楽しみができました。（50代・男性）
+
+◇高原さんや仲間の励ましでここまで来ることができました！（30代・女性）
+
+◆高原さんのおかげで生活が変わりました。（30代・女性）
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+お世話になります。
+株式会社マルチノックスの高原直人です。
+
+
+2010年に”せどり”をスタートさせ、
+この度、無事に会社を設立することができました。
+
+
+⇒ http://agar-ex.jp/kldd28454/21131
+
+
+これは決して自慢では無いのですが、せどりに出会う前は
+アフィリエイトや情報起業、FXなどに取り組み、全て失敗してきました。
+
+
+藁にも縋る気持ちで取り組み始めた”せどり”が上手くハマり
+お陰様で会社を設立することができました。
+
+
+FXに取り組んだ時にはあっさりと200万円ほど飛ばしてしまい、
+ほぼ全ての貯金が無くなった時には本当にどうなることかと…泣
+
+
+何をやってもダメダメ続きだった高原でも
+成果を上げることができた手法が”せどり”です。
+
+
+「本当に誰でも成果を上げられる」と確信を持ったので
+高原の手法をそのまま教えたところ、
+成果を出す人が続出し、感謝の声をたくさん頂きました。
+
+
+ここまで感謝されるとは想像もしておらず、
+思わず目頭が熱くなりました。
+
+
+「与えよ、さらば与えられん」という言葉がありますが
+この言葉は本当だなぁ…とシミジミ感じることができました。
+
+
+
+そこで！！
+
+
+今回、（予算の関係で）人数限定とはなりますが
+私が使っているお宝商品を発見する有料ツールを完全無料でばら撒きます！
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+⇒ http://agar-ex.jp/kldd28454/31131
+
+
+もちろん、ツールだけお渡ししても意味がありませんので
+ノウハウもセットでお渡しします。（もちろん無料です）
+
+
+冒頭の彼らに教えたものと同じものを
+あなたにも無料でプレゼントしようと企画致しました！
+
+
+
+今回お渡しする動画を見ていただき、実践いただくことで
+少なくとも25万円の利益は保証させていただきます。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+当然、高原がどこで何を仕入れ、いくらになったのか？
+何で判断して仕入れを実行したのか？という部分はもちろん、
+仕入れ時に使うツールや仕入れ時のランキング基準も公開します。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+人数限定＆期間限定での無料公開ですので
+お早目にチェックしていただくことを強くお勧め致します。
+
+
+
+⇒ http://agar-ex.jp/kldd28454/41131
+
+
+※フォーム送信後、すぐに動画を見ることができます。
+
+
+
+ちなみに、冒頭のコメントは全て本人のコメントから抜粋しました。
+（サイト上に彼らの声が載っています。）
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/51131
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

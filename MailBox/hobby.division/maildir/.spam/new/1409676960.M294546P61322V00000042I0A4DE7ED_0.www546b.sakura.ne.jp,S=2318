@@ -1,0 +1,47 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.4 required=7.0 tests=BAYES_99,BAYES_999,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 0.9998]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: thre.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: thre.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: thre.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: thre.ru]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 0.9998]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: thre.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s82GtsxG061314
+	for <hobby.division@sportshobby.co.jp>; Wed, 3 Sep 2014 01:55:54 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Wed, 03 Sep 2014 01:55:54 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from 46.172.68.128 ([46.172.68.128])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s82GtqiK061303
+	for <hobby.division@sportshobby.co.jp>; Wed, 3 Sep 2014 01:55:53 +0900 (JST)
+Message-Id: <201409021655.s82GtqiK061303@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (calle@unina2.it@110.211.85.206)
+	by 46.172.68.128 with ESMTPA; Tue, 2 Sep 2014 19:59:07 +0200
+X-Originating-IP: 110.211.85.206
+From: calle@unina2.it
+To: hobby.division@sportshobby.co.jp
+Subject: I don't you to fail
+Date: Tue, 2 Sep 2014 19:53:25 +0200
+
+This could seriously enhance your bedroom life http://indicate.thre.ru/
+

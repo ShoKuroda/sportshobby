@@ -1,0 +1,102 @@
+Return-Path: <chloe@supercopyjp99.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.1 required=7.0 tests=BAYES_00,
+	FREEMAIL_FORGED_REPLYTO,FREEMAIL_REPLYTO_END_DIGIT,FSL_HELO_BARE_IP_2,
+	HTML_IMAGE_ONLY_12,HTML_MESSAGE,HTML_OBFUSCATE_05_10,MPART_ALT_DIFF,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,SUBJ_ALL_CAPS,
+	T_REMOTE_IMAGE,URIBL_BLOCKED,URIBL_DBL_SPAM,URI_NOVOWEL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: bestedm.org]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: supercopyjp.com]
+	*  2.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.5 SUBJ_ALL_CAPS Subject is all capitals
+	*  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+	*      (supercopy99[at]yahoo.co.jp
+	)
+	*  0.5 URI_NOVOWEL URI: URI hostname has long non-vowel sequence
+	*  0.3 HTML_OBFUSCATE_05_10 BODY: Message is 5% to 10% HTML obfuscation
+	* -1.9 BAYES_00 BODY: Bayes spam probability is 0 to 1%
+	*      [score: 0.0000]
+	*  2.1 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 MPART_ALT_DIFF BODY: HTML and text parts are different
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+	*  0.0 T_REMOTE_IMAGE Message contains an external image
+Received: from www546b.sakura.ne.jp (ksav52.sakura.ne.jp [219.94.192.132])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r5HA4bUn046726
+	for <hobby.division@sportshobby.co.jp>; Mon, 17 Jun 2013 19:04:37 +0900 (JST)
+	(envelope-from chloe@supercopyjp99.com)
+X-Nat-Received: from [112.78.125.46]:65516 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1371463477.14095
+Received: from a-3.magvision.com (a-3.magvision.com [142.91.23.3])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r5HA4bYN046715
+	for <hobby.division@sportshobby.co.jp>; Mon, 17 Jun 2013 19:04:37 +0900 (JST)
+	(envelope-from chloe@supercopyjp99.com)
+Received: from mailsend-ytld-a.magvision.com (unknown [142.91.23.3])
+	by a-3.magvision.com (Postfix) with ESMTP id 0379226F11B2
+	for <hobby.division@sportshobby.co.jp>; Mon, 17 Jun 2013 18:04:36 +0800 (CST)
+Received: from 192.168.50.25 (unknown [192.168.50.25])
+ by smtp.supercopyjp99.com (Postfix) with ESMTP id qSXngtiUfuBx
+ for <chloe@supercopyjp99.com>; Mon, 17 Jun 2013 18:04:33 +0800
+Date: Mon, 17 Jun 2013 17:51:42 +0800
+To: hobby.division@sportshobby.co.jp
+From: chloe@supercopyjp99.com
+Reply-to: supercopy99@yahoo.co.jp
+Subject: =?utf-8?b?44K544O844OR44O844Kz44OU44O8IOODluODqeODs+ODiSAg44Or44KkIA==?=
+ =?utf-8?b?44O044Kj44OI44Oz44CAU1NT57Sa?=
+Message-ID: <20130617175142.94780-{1989:20130617174623-1989-92}-0002302@supercopyjp99.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_7768661d5b85c2ed03ee8bb7a7696c26"
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 17062013 #10355039, status: clean
+
+
+--b1_7768661d5b85c2ed03ee8bb7a7696c26
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: base64
+
+6L+Z5piv5LiA5bCBSFRNTOagvOW8j+eahOmCruS7tu+8jOivt+WIh+aNouS7pUhUTUzmoLzlvI/m
+n6XnnIvvvIE=
+
+
+--b1_7768661d5b85c2ed03ee8bb7a7696c26
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: base64
+
+PHA+5qWt55WM5pyA6auY44Os44OZ44Or44Gu5ZOB6LOq6Imv5b+D5L6h5qC844KS5beu44GX5LiK
+44GS44G+44GZ44CCIOW9k+W6l+OBr+acrOeJqeOBqOimi+WIhuOBkeOBjOS7mOOBi+OBquOBhOOB
+kOOCieOBhOS4gOa1geOBruadkOaWmeOCkuaOoeeUqOOBl+OBpuOBiuOCiuOBvuOBmeOAgeWTgeiz
+quOCkuS/neiovOOBhOOBn+OBl+OBvuOBmeOAgnN1cGVyY29weWpw44GM55u05o6l5bel5oi/44Gr
+5L6d6aC844GX44Gm5Yqg5bel44KS6KGM44Gj44Gm6aCC44GE44Gm44GK44KK44G+44GZ44Gu44Gn
+44CBPGJyIC8+44CA5LuW5bqX44Gn44Gv44CB5YWl5omL5LiN5Y+v6IO944Gq44CB6auY5ZOB6LOq
+44Gu5ZWG5ZOB44Gn5b6h5bqn44GE44G+44GZ44CCPGJyIC8+44CAPGJyIC8+44CA5piv6Z2e44CB
+44GT44Gu5qmf5Lya44Gr44GU6LO85YWl44GV44KM44Gm44G/44Gm44Gv44CB44GE44GL44GM44Gn
+44GX44KH44GG44GL44CCPC9wPjxwPuKYheiHquS/oeOCkuaMgeOBo+OBpuOBiuWLp+OCgeOBleOB
+m+OBpuOBhOOBn+OBoOOBjeOBvuOBme+8vu+8vjxiciAvPuOAgOOAgOOBiuimi+mAg+OBl+OBquOB
+j3bvvL7vvL48YnIgLz7llYblk4Hms6jmlocgZW1haWzvvJo8YSBocmVmPSJodHRwOi8vbU41bHNw
+Z2VaY3FDWGFuMHQuYy5iZXN0ZWRtLm9yZy9zLnBocD9wPTIwMTMwNjE3MTc0NjIzLTE5ODktOTJ8
+aG9iYnkuZGl2aXNpb25Ac3BvcnRzaG9iYnkuY28uanB8bWFpbHRvJTNBc3VwZXJjb3B5OTklNDB5
+YWhvby5jby5qcCI+c3VwZXJjb3B5OTlAeWFob28uY28uanA8L2E+IOOAkOWWtualreaZgumWk+OA
+kTk6MDDvvZ4yNDogMDAg5YWo5bm054Sh5LyRIDxhIGhyZWY9Imh0dHA6Ly9tTjVsc3BnZVpjcUNY
+YW4wdC5jLmJlc3RlZG0ub3JnL3MucGhwP3A9MjAxMzA2MTcxNzQ2MjMtMTk4OS05Mnxob2JieS5k
+aXZpc2lvbkBzcG9ydHNob2JieS5jby5qcHxodHRwJTNBJTJGJTJGd3d3LnN1cGVyY29weWpwLmNv
+bSUyRiI+aHR0cDovL3d3dy5zdXBlcmNvcHlqcC5jb20vPC9hPjwvcD48aW1nIHNyYz0iaHR0cDov
+L1doT3NSNW5zQVZua25SbktPLmMuYmVzdGVkbS5vcmcvcy5waHA/cD0yMDEzMDYxNzE3NDYyMy0x
+OTg5LTkyfGhvYmJ5LmRpdmlzaW9uQHNwb3J0c2hvYmJ5LmNvLmpwIiBib3JkZXI9IjAiIHdpZHRo
+PSIwIiBoZWlnaHQ9IjAiLz4=
+
+--b1_7768661d5b85c2ed03ee8bb7a7696c26--

@@ -1,0 +1,41 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.8 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_JP_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: tkdami.net]
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: tkdami.net]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: tkdami.net]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5871]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r4O6hN6J037338
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 24 May 2013 15:43:23 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:53859 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1369377803.21734
+Received: from 27.113.251.12 (c251012.net27113.cablenet.ne.jp [27.113.251.12])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r4O6hLCK037332
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 24 May 2013 15:43:22 +0900 (JST)
+Date: Fri, 24 May 2013 15:43:21 +0900 (JST)
+Message-Id: <201305240643.r4O6hLCK037332@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (yejhivas@kliring.ru@32.198.126.221)
+	by 27.113.251.12 with ESMTPA; Fri, 24 May 2013 15:47:58 +0900
+X-Originating-IP: 32.198.126.221
+From: yejhivas@kliring.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: Show true love to your lover
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 24052013 #10115348, status: clean
+
+Fight for better intimate life http://www.spajderr.tkdami.net/actual.html
+

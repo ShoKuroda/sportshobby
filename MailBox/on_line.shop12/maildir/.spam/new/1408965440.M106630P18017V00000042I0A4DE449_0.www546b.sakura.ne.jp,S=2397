@@ -1,0 +1,47 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.6 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_WS_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: inamsy.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: inamsy.ru]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: inamsy.ru]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5187]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from fsav304.sakura.ne.jp (fsav304.sakura.ne.jp [153.120.85.135])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s7PBHF5P018014
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 25 Aug 2014 20:17:16 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav304.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp);
+ Mon, 25 Aug 2014 20:17:15 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav304.sakura.ne.jp)
+Received: from 77.45.168.113 (113.168.c10008-a77.dsl-dynamic.vsi.ru [77.45.168.113])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s7PBHB9x017996
+	for <on_line.shop12@sportshobby.co.jp>; Mon, 25 Aug 2014 20:17:14 +0900 (JST)
+Date: Mon, 25 Aug 2014 20:17:11 +0900 (JST)
+Message-Id: <201408251117.s7PBHB9x017996@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (wseidel@worldclass.se@219.164.131.170)
+	by 77.45.168.113 with ESMTPA; Mon, 25 Aug 2014 15:18:47 +0300
+X-Originating-IP: 219.164.131.170
+From: wseidel@worldclass.se
+To: on_line.shop12@sportshobby.co.jp
+Subject: Open new horizons of healthy living
+
+Make your female partner satisfied http://unhappily.inamsy.ru/
+

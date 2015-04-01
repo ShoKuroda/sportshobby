@@ -1,0 +1,44 @@
+=head2 Wed Apr  1 18:26:01 2015: C<Module> L<Git|Git>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sportshobby2/local/lib/perl5/site_perl/5.8>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Apr  1 19:11:24 2015: C<Module> L<Git|Git>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sportshobby2/local/lib/perl5/site_perl/5.8>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

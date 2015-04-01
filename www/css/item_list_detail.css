@@ -1,0 +1,237 @@
+/*アイテムリストとアイテム詳細のCSS*/
+
+.item_list_sort{
+	width:100%;
+	background:#E9E9E9;
+	margin:10px 0 0 0;
+	font-size:10px;
+	padding:4px;
+}
+
+.item_list_sort tr td{
+	padding:4px;
+}
+
+.item_list_table {
+	width:100%;
+	margin:19px 0px;
+	border-bottom:dotted #CCCCCC 1px;
+	text-align:left;
+}
+
+td.item_list_img{
+	width:218px;
+	padding-bottom:19px;
+}
+
+td.item_list_detail {
+	text-align:left;
+	vertical-align:top;
+	padding-bottom:15px;
+}
+
+.item_name_p {
+	font-size:16px;
+	font-weight:bold;
+	padding:10px 0;
+}
+
+.item_katch_copy {
+	border-bottom:dotted #CCCCCC 1px;
+	padding-bottom:10px;
+	margin-bottom:10px;
+}
+
+.btn_detail_item {
+	width:120px;
+	float:left;
+	margin-bottom:10px;
+}
+
+.item_price {
+	width:300px;
+	padding-top:5px;
+	float:right;
+	text-align:right;
+}
+
+.cart_box {
+	width:100%;
+	background:#ECF5FF;
+	border:#CCCCCC solid 1px;
+	margin-top:10px;
+	clear:both;
+}
+
+.cart_box tr td {
+	padding:4px;
+}
+
+.item_detail_table {
+	margin:10px 0;
+	width:100%;
+}
+
+td.item_detail_img {
+	width:399px;
+	_width:403px;
+}
+
+td.item_detail_img img {
+	margin-top:5px;
+}
+
+td.item_detail_detail {
+	padding:4px 0 0 15px;
+}
+
+td.item_detail_detail p {
+	margin-bottom:14px;
+	line-height:1.3;
+}
+
+.item_detail_name {
+	font-size:16px;
+	font-weight:bold;
+}
+
+.item_detail_katch_copy {
+	background:#FFFFCC;
+	border:solid 1px #CCCCCC;
+	padding:7px;
+	color:#333333;
+}
+
+.item_detail_disp_price {
+	border-top:dotted #CCCCCC 1px;
+	margin-top:25px;
+	padding-top:20px;
+}
+
+.bg_item_detail_text {
+	border-left:solid 1px #E5E5E5;
+	border-right:solid 1px #E5E5E5;
+	background:#F7F7F7;
+	padding:10px 20px 5px 20px;
+	line-height:1.6;
+	font-size:14px;
+}
+
+.item_add_question {
+	width:100%;
+	border-collapse:collapse;
+}
+
+.item_add_question tr th {
+	background:#f0f0f0;
+	padding:5px;
+	border-top:solid 1px #dddddd;
+	border-bottom:solid 1px #dddddd;
+	width:20%;
+}
+
+.item_add_question tr td {
+	padding:5px;
+	border-top:solid 1px #dddddd;
+	border-bottom:solid 1px #dddddd;
+}
+
+.question_name {
+	width:250px;
+}
+
+.question_detail {
+	width:100%;
+	height:100px;
+}
+
+.question_dl {
+	border-top: dotted 1px #CCCCCC;
+	padding-top:20px;
+	margin-top:20px;
+}
+
+.question_dl dt {
+	background:url(/img/icon_question.gif) 0 0 no-repeat;
+	font-size:14px;
+	padding:2px 0 0 20px;
+	margin:0 0 10px 10px;
+	color:#990000;
+}
+
+.question_dl dd {
+	font-size:14px;
+	padding:2px 30px 5px 30px;
+	line-height:1.6;
+}
+
+.add_anser {
+	background:url(/img/bg_add_anser.gif) 0 0 no-repeat;
+	width:710px;
+	height:23px;
+	text-align:center;
+	margin:15px auto 0 auto;
+	font-size:14px;
+	padding:7px 0 0 0;
+	font-weight:bold;
+	color:#0066FF;
+	cursor:pointer;
+}
+
+.anser_p {
+	border:1px solid #CCCCCC;
+	padding:5px 5px 5px 27px;
+	margin:10px auto;
+	width:676px;
+	background:url(/img/icon_answer.gif) 5px 5px no-repeat #FFFFCC;
+}
+.anser_p p {
+	line-height:1.5;
+}
+
+.anser_name {
+	text-align:right;
+	color:#0066CC;
+	padding-top:10px;
+}
+
+.item_add_anser {
+	width:710px;
+	margin:0 auto 15px auto;
+	border-collapse:collapse;
+	border-top:none;
+}
+
+.item_add_anser tr td,.item_add_anser tr th {
+	border-top:none;
+}
+
+#fnish_add_question {
+	border:solid 1px #CCCCCC;
+	background:#FFFFCC;
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+	padding:10px;
+}
+
+#fnish_add_question p {
+	font-weight:bold;
+	line-height:1.5;
+}
+
+.fnish_add_answer {
+	width:690px;
+	margin:0 auto;
+	border:solid 1px #CCCCCC;
+	background:#FFCCFF;
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+	padding:10px;
+}
+
+.fnish_add_answer p {
+	font-weight:bold;
+	line-height:1.5;
+}

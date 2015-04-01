@@ -1,0 +1,44 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.6 required=7.0 tests=BAYES_80,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO,
+	URIBL_BLOCKED,URIBL_JP_SURBL,URIBL_MW_SURBL autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  1.5 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: hiremco.com]
+	*  3.9 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: hiremco.com]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: hiremco.com]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.9416]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r56MiXNJ002278
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 7 Jun 2013 07:44:33 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:52970 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1370558673.19765
+Received: from 178.127.147.10 ([178.127.215.201])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r56MiV64002268
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 7 Jun 2013 07:44:32 +0900 (JST)
+Message-Id: <201306062244.r56MiV64002268@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (aika_yanga@accessit.co.uk@230.65.184.218)
+	by 178.127.215.201 with ESMTPA; Fri, 7 Jun 2013 02:47:49 +0300
+X-Originating-IP: 230.65.184.218
+From: aika_yanga@accessit.co.uk
+To: on_line.shop12@sportshobby.co.jp
+Subject: Keep your girlfriend gratified every night
+Date: Fri, 7 Jun 2013 02:42:54 +0300
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06062013 #10306067, status: clean
+
+Tips to keeping your love life going http://hiremco.com/like.html
+

@@ -1,0 +1,216 @@
+Return-Path: <maryamabacha86@yahoo.pt>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.0 required=7.0 tests=ADVANCE_FEE_5_NEW_MONEY,
+	BAYES_50,BILLION_DOLLARS,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,FORM_FRAUD_5,
+	FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,FREEMAIL_REPLYTO,
+	FREEMAIL_REPLYTO_END_DIGIT,HTML_MESSAGE,LOTS_OF_MONEY,MONEY_BARRISTER,
+	MONEY_FORM_SHORT,MONEY_FRAUD_8,NA_DOLLARS,SUBJ_ALL_CAPS,T_MONEY_PERCENT,
+	URG_BIZ,URIBL_BLOCKED,US_DOLLARS_3 autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: yahoo.pt]
+	*  0.6 URG_BIZ BODY: Contains urgent matter
+	*  3.6 NA_DOLLARS BODY: Talks about a million North American dollars
+	*  1.6 BILLION_DOLLARS BODY: Talks about lots of money
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (maryamabacha86[at]yahoo.pt)
+	*  1.5 SUBJ_ALL_CAPS Subject is all capitals
+	*  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+	*      (maryam abacha <b.chimanwachukwu14[at]hotmail.com>
+	)
+	*  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (maryamabacha86[at]yahoo.pt)
+	*  1.8 US_DOLLARS_3 BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.0 MONEY_BARRISTER Lots of money from a UK lawyer
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  0.0 T_MONEY_PERCENT X% of a lot of money for you
+	*  1.9 MONEY_FRAUD_8 Lots of money and very many fraud phrases
+	*  1.7 MONEY_FORM_SHORT Lots of money if you fill out a short form
+	*  1.5 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	*  2.7 FORM_FRAUD_5 Fill a form and many fraud phrases
+Received: from fsav405.sakura.ne.jp (fsav405.sakura.ne.jp [133.242.250.104])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sBMFW9Ag081025
+	for <hobby.division@sportshobby.co.jp>; Tue, 23 Dec 2014 00:32:10 +0900 (JST)
+	(envelope-from maryamabacha86@yahoo.pt)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav405.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp);
+ Tue, 23 Dec 2014 00:32:09 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp)
+Received: from nm22-vm8.bullet.mail.ir2.yahoo.com (nm22-vm8.bullet.mail.ir2.yahoo.com [212.82.97.14])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id sBMFW0cN081002
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NO)
+	for <hobby.division@sportshobby.co.jp>; Tue, 23 Dec 2014 00:32:07 +0900 (JST)
+	(envelope-from maryamabacha86@yahoo.pt)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.pt; s=s2048; t=1419262318; bh=QWqT3WLQalQBr3aeJiX5nX0jANF1yjD4v0wCmUw5g3Q=; h=Date:From:Reply-To:Subject:From:Subject; b=hwEe0xM4mxjqJtAynzwbz61SJQEZiYF9NqwKncu8Rr4G5P2se5sQrHRhY3BFDheeuwKC0p63rHKrvoHSijRIP0zyd7YrtegNA9/eQ6gRZ4038CV81ajy/m9voS2/3nd7plhQaSOwNnZxyUfCsyAloFNtkn2gXVHEsayWuDzREPzRSoxsKXAXrrmmlI5ishsa2YS8Zu5iaRnODpiMjXtQNT7PAQwpzAcLcl2dvnUY/6PAtZzE0IPfg4uBqPK0h8IaAZLdzq2zIWjE+rG+EJrEAmpv/ua6F5WlCfViS+whjekhsVUI9H/PLtrPDNFe8yktaNe6bnXyjbkN4uo9mJSncg==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s2048; d=yahoo.pt;
+	b=rJE5qZKB96Aa3ZhrLHNpb/ytgHZAbZb/PmEYDrqUl2mER1ahdsS0U+AdlXj9ngK50WjAC/aWJqDHPACPU5tkcv/WDEW5EoUo9avai5keTNYSnQjKrdOV8cZDcEpPQqDkO5VfLZrPYCb10dwsZ+FtNOZxioCqiIiEH3rPPCqwPtLj8ICfswILxsa6Uv/7jFLlD3Tw2DqhzjtP9taUcy7iEXaZe1xTK2QHoV5WS3AoEYwyTVrYuuKqNQe02oBvdh17w67LZAKzjGKlXGoQcVbWPWoaNzdc5XWI8xTjD1oRgwzmK8IGfsFUHIXST7RU44unkKizaNsCMEbdwKByJC6HIA==;
+Received: from [212.82.98.56] by nm22.bullet.mail.ir2.yahoo.com with NNFMP; 22 Dec 2014 15:31:58 -0000
+Received: from [212.82.98.65] by tm9.bullet.mail.ir2.yahoo.com with NNFMP; 22 Dec 2014 15:31:58 -0000
+Received: from [127.0.0.1] by omp1002.mail.ir2.yahoo.com with NNFMP; 22 Dec 2014 15:31:58 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 904877.99272.bm@omp1002.mail.ir2.yahoo.com
+Received: by 212.82.98.119; Mon, 22 Dec 2014 15:31:57 +0000 
+Date: Mon, 22 Dec 2014 15:31:57 +0000 (UTC)
+From: maryam abacha <maryamabacha86@yahoo.pt>
+Reply-To: maryam abacha <b.chimanwachukwu14@hotmail.com>
+Message-ID: <774922190.262358.1419262317469.JavaMail.yahoo@jws11162.mail.ir2.yahoo.com>
+Subject: URGENT AND CONFIDENTIAL
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_262357_2099861576.1419262317464"
+To: undisclosed-recipients:;
+
+------=_Part_262357_2099861576.1419262317464
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+FROM THE DEST OF:
+ALHAJA MARYAM ABACHA.
+EMAIL: alhajamaryam_abacha@yahoo.com
+
+
+URGENT AND CONFIDENTIAL
+
+
+I am alhaja maryam abacha, former first lady of nigeria head of state late
+GENERAL SANNI ABACHA who died on the 7th of june 1998 as a result of cardiac
+arrest while on the seat of power.
+
+
+may main aim of sending you this letter is to solicit for your assistance in
+the relation to a matter of transfer of UNITED STATES SEVENTY FIVE MILLION
+DOLLARS {US$75,000,000}from one of my late husbands private account which he
+operated during the period he was in the office. the reason for this
+immediate transfer is because since my husbands death,the present regime
+have started probing my late husbands activities and wealth.
+
+this information came to me through a member of the senate who is our fami ly
+friend and one of my late husbands loyalists. in view of that i in agreement
+with my family have consulted our family attorney, his very willing to
+assist push this money out of Nigeria without any delay.
+
+he further advised that we should look for reliable and truthful person from
+abroad in whose account the money would be transferred, meanwhile our family
+attorney by name CHIEF CHIMA NWACHUKWU have held meeting and concluded the
+whole transfer arrangement with the bank manager where these money is lodge
+and duly awaiting the foreign account where this fund would be transferred
+into.
+after i had deliberations with my family, we resolved that you will be
+compensated with 20% of the total sum for nominating an account for this
+purpose and any other assistance you will give.10% of the total sum has been
+mapped out to pay all local and international expenses like telephone and
+fax bills. Expenses you may incur in the processes of opening an account and
+other expenses which may be incurred in the transfer processes,5% has been
+concluded to the local bank manager here in Nigeria who would be
+facilitating the transfer.
+
+the bank manager has promised to conclude the transfer within 7 banking days
+as soon as we receive your banking information which must include address of
+the bank account name,account number,telephone,fax and telex number since
+the money would be through
+telegraphic {TT}.
+
+
+i need your assistance urgently because the present regime has succeeded in
+freezing three of my late husbands account and if this last account he
+operated is frozen. my family will have nothing to lean on.
+
+
+note that all correspondence relating to this transfer should be directed to
+our family attorney who i have given all powers to handle it and for
+security purposes since i have been bound from traveling out of the country
+by the present civilian regime. be your brothers keeper and save our soul.
+contact OUR FAMILY LAWYER CHIEF BARRISTER CHIMA NWACHUKWU through his
+mail:b.chimanwachukwu14@hotmail.com
+
+keep very confidential to avoid exposure. ALLAH WILL BLESS YOU ABUNDANTLY,
+and protect you and your family for assisting the time of great need.
+
+ALHAJA MARYAM ABACHA
+
+
+------=_Part_262357_2099861576.1419262317464
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:16px"><div dir=3D"ltr" id=3D"yui_3_16_0_1_1419273056274_222995">FRO=
+M THE DEST OF:<br style=3D"" class=3D"">ALHAJA MARYAM ABACHA.<br style=3D""=
+ class=3D"">EMAIL: alhajamaryam_abacha@yahoo.com<br style=3D"" class=3D""><=
+br style=3D"" class=3D""><br style=3D"" class=3D"">URGENT AND CONFIDENTIAL<=
+br style=3D"" class=3D""><br style=3D"" class=3D""><br style=3D"" class=3D"=
+">I am alhaja maryam abacha, former first lady of nigeria head of state lat=
+e<br style=3D"" class=3D"">GENERAL SANNI ABACHA who died on the 7th of june=
+ 1998 as a result of cardiac<br style=3D"" class=3D"">arrest while on the s=
+eat of power.<br style=3D"" class=3D""><br style=3D"" class=3D""><br style=
+=3D"" class=3D"">may main aim of sending you this letter is to solicit for =
+your assistance in<br style=3D"" class=3D"">the relation to a matter of tra=
+nsfer of UNITED STATES SEVENTY FIVE MILLION<br style=3D"" class=3D"">DOLLAR=
+S {US$75,000,000}from one of my late husbands private account which he<br s=
+tyle=3D"" class=3D"">operated during the period he was in the office. the r=
+eason for this<br style=3D"" class=3D"">immediate transfer is because since=
+ my husbands death,the present regime<br style=3D"" class=3D"">have started=
+ probing my late husbands activities and wealth.<br style=3D"" class=3D""><=
+br style=3D"" class=3D"">this information came to me through a member of th=
+e senate who is our fami ly<br style=3D"" class=3D"">friend and one of my l=
+ate husbands loyalists. in view of that i in agreement<br style=3D"" class=
+=3D"">with my family have consulted our family attorney, his very willing t=
+o<br style=3D"" class=3D"">assist push this money out of Nigeria without an=
+y delay.<br style=3D"" class=3D""><br style=3D"" class=3D"">he further advi=
+sed that we should look for reliable and truthful person from<br style=3D""=
+ class=3D"">abroad in whose account the money would be transferred, meanwhi=
+le our family<br style=3D"" class=3D"">attorney by name CHIEF CHIMA NWACHUK=
+WU have held meeting and concluded the<br style=3D"" class=3D"">whole trans=
+fer arrangement with the bank manager where these money is lodge<br style=
+=3D"" class=3D"">and duly awaiting the foreign account where this fund woul=
+d be transferred<br style=3D"" class=3D"">into.<br style=3D"" class=3D"">af=
+ter i had deliberations with my family, we resolved that you will be<br sty=
+le=3D"" class=3D"">compensated with 20% of the total sum for nominating an =
+account for this<br style=3D"" class=3D"">purpose and any other assistance =
+you will give.10% of the total sum has been<br style=3D"" class=3D"">mapped=
+ out to pay all local and international expenses like telephone and<br styl=
+e=3D"" class=3D"">fax bills. Expenses you may incur in the processes of ope=
+ning an account and<br style=3D"" class=3D"">other expenses which may be in=
+curred in the transfer processes,5% has been<br style=3D"" class=3D"">concl=
+uded to the local bank manager here in Nigeria who would be<br style=3D"" c=
+lass=3D"">facilitating the transfer.<br style=3D"" class=3D""><br style=3D"=
+" class=3D"">the bank manager has promised to conclude the transfer within =
+7 banking days<br style=3D"" class=3D"">as soon as we receive your banking =
+information which must include address of<br style=3D"" class=3D"">the bank=
+ account name,account number,telephone,fax and telex number since<br style=
+=3D"" class=3D"">the money would be through<br style=3D"" class=3D"">telegr=
+aphic {TT}.<br style=3D"" class=3D""><br style=3D"" class=3D""><br style=3D=
+"" class=3D"">i need your assistance urgently because the present regime ha=
+s succeeded in<br style=3D"" class=3D"">freezing three of my late husbands =
+account and if this last account he<br style=3D"" class=3D"">operated is fr=
+ozen. my family will have nothing to lean on.<br style=3D"" class=3D""><br =
+style=3D"" class=3D""><br style=3D"" class=3D"">note that all correspondenc=
+e relating to this transfer should be directed to<br style=3D"" class=3D"">=
+our family attorney who i have given all powers to handle it and for<br sty=
+le=3D"" class=3D"">security purposes since i have been bound from traveling=
+ out of the country<br style=3D"" class=3D"">by the present civilian regime=
+. be your brothers keeper and save our soul.<br style=3D"" class=3D"">conta=
+ct OUR FAMILY LAWYER CHIEF BARRISTER CHIMA NWACHUKWU through his<br style=
+=3D"" class=3D"">mail:b.chimanwachukwu14@hotmail.com<br style=3D"" class=3D=
+""><br style=3D"" class=3D"">keep very confidential to avoid exposure. ALLA=
+H WILL BLESS YOU ABUNDANTLY,<br style=3D"" class=3D"">and protect you and y=
+our family for assisting the time of great need.<br style=3D"" class=3D""><=
+br style=3D"" class=3D"">ALHAJA MARYAM ABACHA<br></div><div style=3D"" clas=
+s=3D"" dir=3D"ltr" id=3D"yui_3_16_0_1_1419273056274_222995"><br style=3D"" =
+class=3D""></div></div></body></html>
+------=_Part_262357_2099861576.1419262317464--

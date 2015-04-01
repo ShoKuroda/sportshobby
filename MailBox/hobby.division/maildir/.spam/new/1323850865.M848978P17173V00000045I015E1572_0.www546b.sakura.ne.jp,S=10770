@@ -1,0 +1,152 @@
+Return-Path: <richmkpam2@rediffmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.9 required=7.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+	ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_MONEY,ADVANCE_FEE_4_NEW,
+	ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_MONEY,
+	DECEASED_NO_ML,DKIM_SIGNED,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,
+	HK_SCAM_S25,HTML_MESSAGE,LOTS_OF_MONEY,MONEY_FRAUD_3,MONEY_FRAUD_5,
+	MONEY_FRAUD_8,MSGID_FROM_MTA_HEADER,NA_DOLLARS,RISK_FREE,UNPARSEABLE_RELAY
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.0 HK_SCAM_S25 BODY: HK_SCAM_S25
+	*  3.6 NA_DOLLARS BODY: Talks about a million North American dollars
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (richmkpam2[at]rediffmail.com)
+	*  0.1 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (richmkpam2[at]rediffmail.com)
+	*  0.0 UNPARSEABLE_RELAY Informational: message has unparseable relay lines
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 DECEASED_NO_ML Dead not via mailing list
+	*  3.9 RISK_FREE No risk!
+	*  0.0 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  3.1 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  1.6 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.0 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.4 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	*  0.1 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+	*  1.5 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  0.5 MONEY_FRAUD_8 Lots of money and very many fraud phrases
+	*  0.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+Received: from www546b.sakura.ne.jp (ksav01.sakura.ne.jp [210.224.165.38])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id pBE8L09F017169
+	for <hobby.division@sportshobby.co.jp>; Wed, 14 Dec 2011 17:21:00 +0900 (JST)
+	(envelope-from richmkpam2@rediffmail.com)
+X-Nat-Received: from [112.78.125.46]:51840 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1323850860.8423
+Received: from rediffmail.com (f4mail-235-239.rediffmail.com [202.137.235.239])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id pBE8Kwuk017161
+	for <hobby.division@sportshobby.co.jp>; Wed, 14 Dec 2011 17:20:59 +0900 (JST)
+	(envelope-from richmkpam2@rediffmail.com)
+Received: (qmail 10666 invoked by uid 510); 14 Dec 2011 08:20:57 -0000
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=redf; d=rediffmail.com;
+  b=CmqbckmVg2yvzaEWCpu3f9n4weYf7P8M00VmJBiEdUgEizszoXhCRb81y6hJmEpS5SOR3n6DiPRQXUw95DS/WFgPgE5LN8MqLvuFz+ucfNhIkT10Cb0YMZ+iogO12lx3FVv0DXLWgTumOApv0BAQW3TyJuVKZHboaoobcb46yHU=  ;
+x-m-msg: asd54ad564ad7aa6sd5as6d5; a6da7d6asas6dasd77; 5dad65ad5sd;
+X-CTCH-Spam: Suspect
+X-CTCH-VOD:  Unknown
+X-CTCH-Flags: : 0
+X-CTCH-RefID: str=0001.0A150201.4EE85C68.01A7,ss=2,re=5.000,fgs=0
+X-REDF-OSEN: richmkpam2@rediffmail.com
+Date: 14 Dec 2011 08:20:56 -0000
+Message-ID: <20111214082056.10604.qmail@f4mail-235-239.rediffmail.com>
+MIME-Version: 1.0
+To: <richmkpam2@rediff.com>
+Received: from unknown 41.218.214.55 by rediffmail.com via HTTP; 14 Dec 2011 08:20:56 -0000
+Subject: =?utf-8?B?RnJvbSBNYXN0ZXIgUmljaCBNa3B1cnVvbWE=?=
+From: "Rich Mkpuruoma" <richmkpam2@rediffmail.com>
+Content-Type: multipart/alternative;
+	boundary="=_0fa194404d992d7c2bb6142784276f73"
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.44/RELEASE, bases: 14122011 #6031174, status: clean
+
+--=_0fa194404d992d7c2bb6142784276f73
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="UTF-8"
+
+From Master Rich MkpuruomaGhana in West Africa
+Please i begged you in the name of God that makes you what you are i need your help. &nbsp;I hope that you will read through this email and understand how difficult things can be for someone in a particular period of life, I introduce my self to you with all faith, trust and hope you will understand to assist me not to betray me at the end.
+My Name is Master Rich Mkpuruoma the only Son of Mr and Mrs Mitaram Mkpuruoma i am 20 year old My father was a very wealthy Gold Merchant in Monrovia the Gold Capital of republic of Liberia all in west Africa.
+My father was poisoned to death last two years by his brother and they accused my mother of having a hand in my fathers death because they are after my father's wealth. Before the death of my father last two years he called me and my mother and told us that the last food he ate was at his brother's house, now my father is dead the Autopsy comfirmed he was poisoned to death. my father's relations are after my mother saying she is responsible for my father's death so that they will inherit all my fathers belonging which they succeeded and put my mother in prison for crime she did not commit.
+Before my mother was sentence to Nine years in prison last year December she called me and told me that my father deposited the sum of (USD $8.7 MILLION EIGHT MILLION SEVEN HUNDRED THOUSAND U.S DOLLARS ) in a bank in Ghana and hand me over the documents of the money, and also told me that my father use me the son as the NEST OF KIN and put his foreign business partner as the beneficiary good a thing he did not mention any name.
+She told me to come down to this country Ghana where the money was deposited and look for a foreign partner who will help me and transfer the money to his/her account so that the person will help me to come over to his/her country to continue my education, and I have gone to the bank here in Ghana and comfirmed the deposit.
+My purpose of contacting you is for you to help me transfer this money to your account and also help me to come over to your country to further my education before this people who killed my father and put my mother in prison will find out and collect the documents of this money and claim it as they claimed all my fathers properties.
+I'm now hiding in a local place here waiting for the transfer of the money, and I will compensate you with 20% of this money if you help me to transfer the money to your account l hope you will not betray the trust i have on you because this money is my only hope in this life and also know that my mother will come and stay with us when ever she is out of prison.
+I can assure you there is No Risk involve the money is an inheritance from my late father.
+I am waiting to hear from you.
+Rich Mkpuruoma
+
+
+body {
+	background: #FFF;
+}
+
+
+
+--=_0fa194404d992d7c2bb6142784276f73
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<div>From Master Rich Mkpuruoma</div><div>Ghana in West Africa</div><div><b=
+r></div><div>Please i begged you in the name of God that makes you what you=
+ are i need your help. &nbsp;I hope that you will read through this email a=
+nd understand how difficult things can be for someone in a particular perio=
+d of life, I introduce my self to you with all faith, trust and hope you wi=
+ll understand to assist me not to betray me at the end.</div><div><br></div=
+><div>My Name is Master Rich Mkpuruoma the only Son of Mr and Mrs Mitaram M=
+kpuruoma i am 20 year old My father was a very wealthy Gold Merchant in Mon=
+rovia the Gold Capital of republic of Liberia all in west Africa.</div><div=
+><br></div><div>My father was poisoned to death last two years by his broth=
+er and they accused my mother of having a hand in my fathers death because =
+they are after my father's wealth. Before the death of my father last two y=
+ears he called me and my mother and told us that the last food he ate was a=
+t his brother's house, now my father is dead the Autopsy comfirmed he was p=
+oisoned to death. my father's relations are after my mother saying she is r=
+esponsible for my father's death so that they will inherit all my fathers b=
+elonging which they succeeded and put my mother in prison for crime she did=
+ not commit.</div><div><br></div><div>Before my mother was sentence to Nine=
+ years in prison last year December she called me and told me that my fathe=
+r deposited the sum of (USD $8.7 MILLION EIGHT MILLION SEVEN HUNDRED THOUSA=
+ND U.S DOLLARS ) in a bank in Ghana and hand me over the documents of the m=
+oney, and also told me that my father use me the son as the NEST OF KIN and=
+ put his foreign business partner as the beneficiary good a thing he did no=
+t mention any name.</div><div><br></div><div>She told me to come down to th=
+is country Ghana where the money was deposited and look for a foreign partn=
+er who will help me and transfer the money to his/her account so that the p=
+erson will help me to come over to his/her country to continue my education=
+, and I have gone to the bank here in Ghana and comfirmed the deposit.</div=
+><div><br></div><div>My purpose of contacting you is for you to help me tra=
+nsfer this money to your account and also help me to come over to your coun=
+try to further my education before this people who killed my father and put=
+ my mother in prison will find out and collect the documents of this money =
+and claim it as they claimed all my fathers properties.</div><div><br></div=
+><div>I'm now hiding in a local place here waiting for the transfer of the =
+money, and I will compensate you with 20% of this money if you help me to t=
+ransfer the money to your account l hope you will not betray the trust i ha=
+ve on you because this money is my only hope in this life and also know tha=
+t my mother will come and stay with us when ever she is out of prison.</div=
+><div><br></div><div>I can assure you there is No Risk involve the money is=
+ an inheritance from my late father.</div><div><br></div><div>I am waiting =
+to hear from you.</div><div><br></div><div>Rich Mkpuruoma</div><br />
+<br />
+<style type=3D"text/css"><br />
+body {<br />
+	background: #FFF;<br />
+}<br />
+</style><br />
+<br />
+<br><table width=3D"578" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><=
+tr><td><span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:1=
+2px; color:#393939;">Follow&nbsp;<span style=3D"color:#0000CC;"><b><u><a hr=
+ef=3D"http://track.rediff.com/click?url=3D___http://dealhojaye.rediff.com?s=
+c_cid=3Drediffmailsignature___&cmp=3Dsignature&lnk=3Drediffmailsignature&ne=
+wservice=3Ddeals" target=3D"_blank">Rediff Deal ho jaye!</a></u></b></span>=
+&nbsp;to get exciting offers in your city everyday.</span></td></tr></table=
+>
+--=_0fa194404d992d7c2bb6142784276f73--

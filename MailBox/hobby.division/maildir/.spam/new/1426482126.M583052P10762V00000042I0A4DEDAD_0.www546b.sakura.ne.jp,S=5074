@@ -1,0 +1,131 @@
+Return-Path: <em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.5 required=7.0 tests=BAYES_50,
+	DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,TVD_SPACE_ENCODED,
+	TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,URIBL_BLOCKED,URIBL_JP_SURBL
+	autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: agar-ex.jp]
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (outdoormode[at]gmail.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: agar-ex.jp]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.5 TVD_SPACE_ENCODED TVD_SPACE_ENCODED
+	*  2.8 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2G523rQ010759
+	for <hobby.division@sportshobby.co.jp>; Mon, 16 Mar 2015 14:02:03 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Mon, 16 Mar 2015 14:02:03 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from s5-534.lion-ex.jp (s5-534.lion-ex.jp [133.242.184.235])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2G523T2010755
+	for <hobby.division@sportshobby.co.jp>; Mon, 16 Mar 2015 14:02:03 +0900 (JST)
+	(envelope-from em_err_116215_0005_28454_65d7272f14017ea72f7899a50136a74c@agar-ex.jp)
+To: hobby.division@sportshobby.co.jp
+Subject: =?iso-2022-jp?B?GyRCTFkkKyRDJEYkJCRrJWklJCVQJWskSyFaSlg+aCFbJDcbKEI=?=
+	=?iso-2022-jp?B?GyRCJEYlTSVDJUgzWiQ3JEYyVCQwSn1LIRsoQg==?=
+From: =?iso-2022-jp?B?GyRCJTclcyUvJSYbKEI=?= <outdoormode@gmail.com>
+Date: Mon, 16 Mar 2015 14:02:03 +0900
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Priority: 3
+Message-Id: <20150316050203.3FDB742077@s5-534.lion-ex.jp>
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/11151
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+ネットビジネスは楽？リアルビジネスより簡単？
+
+そんな謳い文句に釣られて多くの人間が
+アフィリエイトを始めて挫折してしまいます。
+
+
+確かに商品の在庫を持たず、
+空いた時間でサイドビジネスができるので
+
+お手軽な印象を持ってしまいますが。。。
+
+とても難しい問題があるのです。
+
+
+それは【集客】ですね
+
+無料レポートを配ったり、SEOをしたり、
+広告費をかけたりととても地道な努力が必要です。
+
+まぁこういう苦労をせずに稼げるなんて
+考えるのはとても安易だと思います。
+
+あえて、厳しいことを最初に申し上げましたが
+
+
+もし、【集客】という問題が全く心配することのない
+ネットビジネスのモデルがあったとしたらどうでしょう？
+
+しかも【売れている商品】のデータが丸見えだったら
+もう、無敵ですよね！
+
+そんな常識外の稼ぎ方をツール付で
+完全無料でお渡しいたします。
+
+
+→ http://agar-ex.jp/kldd28454/21151
+
+
+常識を超えた方法ですので
+信じられないのはわかります。
+
+でも信じられない人はそれでかまいません。
+
+低賃金、先の見えない人生を
+なんとか変化させたい人だけ見ていただければ
+十分だと思います。
+
+
+売れている商品がわかって、集客すらも
+【あいのり】するこの手法を完全無料で手に入れたい
+人だけ、ツールと詳細を受け取ってください。
+
+→ http://agar-ex.jp/kldd28454/31151
+━━━━━━━━━━━━━━━━━━━━━━━━
+このメルマガはブログやSNSからシンクウの
+メルマガを購読していただいた方や、
+商品を買っていただいた方やセミナーに参加して
+いただいた方にお送りしております。
+
+メルマガいらないという方はお手数ですが
+下記より解除をお願いいたします。
+⇒ http://agar-ex.jp/kldd28454/41151
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+

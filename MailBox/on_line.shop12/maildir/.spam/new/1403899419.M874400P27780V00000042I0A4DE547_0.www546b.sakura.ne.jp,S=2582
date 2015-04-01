@@ -1,0 +1,52 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.8 required=7.0 tests=BAYES_50,
+	MSGID_FROM_MTA_HEADER,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,RCVD_NUMERIC_HELO,T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,
+	URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=spam
+	version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: yolayo.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: yolayo.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: yolayo.ru]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: yolayo.ru]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5085]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: yolayo.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav109.sakura.ne.jp [59.106.188.107])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s5RK3ZSo027777
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 28 Jun 2014 05:03:35 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:16142 [ident-empty]
+	by ksav109.sakura.ne.jp with TPROXY id 1403899415.11028
+Received: from 91.214.131.101 ([91.214.131.101])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s5RK3Xhq027772
+	for <on_line.shop12@sportshobby.co.jp>; Sat, 28 Jun 2014 05:03:34 +0900 (JST)
+Message-Id: <201406272003.s5RK3Xhq027772@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (depreciatesw2@tushinoisp.ru@57.197.118.185)
+	by 91.214.131.101 with ESMTPA; Sat, 28 Jun 2014 00:04:22 +0400
+X-Originating-IP: 57.197.118.185
+From: depreciatesw2@tushinoisp.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: The best way to gratify your girl
+Date: Fri, 27 Jun 2014 23:56:14 +0400
+X-KLMS-AntiVirus: Kaspersky Security 8.0 for Linux Mail Server, version 8.0.1.705 status: clean
+
+Do you want to gratify your girlfriend this night? 
+http://strangely.yolayo.ru/
+

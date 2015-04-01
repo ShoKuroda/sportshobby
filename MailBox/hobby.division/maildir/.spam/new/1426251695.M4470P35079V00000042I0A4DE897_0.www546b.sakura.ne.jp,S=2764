@@ -1,0 +1,54 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.9 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,
+	URIBL_WS_SURBL,URI_NOVOWEL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: hwqdjzbw.eu]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: hwqdjzbw.eu]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: hwqdjzbw.eu]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: hwqdjzbw.eu]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: hwqdjzbw.eu]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.5 URI_NOVOWEL URI: URI hostname has long non-vowel sequence
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: hwqdjzbw.eu]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav305.sakura.ne.jp (fsav305.sakura.ne.jp [153.120.85.136])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2DD1Wtr035076
+	for <hobby.division@sportshobby.co.jp>; Fri, 13 Mar 2015 22:01:32 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav305.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp);
+ Fri, 13 Mar 2015 22:01:32 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav305.sakura.ne.jp)
+Received: from 14.192.211.69 ([14.192.211.69])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t2DD1UUX035070
+	for <hobby.division@sportshobby.co.jp>; Fri, 13 Mar 2015 22:01:31 +0900 (JST)
+Message-Id: <201503131301.t2DD1UUX035070@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (tia5075557.58537@moldran.com@126.175.165.143)
+	by 14.192.211.69 with ESMTPA; Fri, 13 Mar 2015 21:03:25 +0800
+X-Originating-IP: 126.175.165.143
+From: tia5075557.58537@moldran.com
+To: hobby.division@sportshobby.co.jp
+Subject: Ensure extra size day by day
+Date: Fri, 13 Mar 2015 20:54:08 +0800
+
+Give to your gf delight http://extend.hwqdjzbw.eu/
+

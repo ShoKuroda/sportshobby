@@ -1,0 +1,78 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,TVD_RCVD_SPACE_BRACKET,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav202.sakura.ne.jp (fsav202.sakura.ne.jp [210.224.168.164])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U9W6GJ077200
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:32:06 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav202.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp);
+ Mon, 30 Mar 2015 18:32:06 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav202.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-212.smtp.rakuten.co.jp [202.72.58.212])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U9W6uH077197
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:32:06 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat110.prod.jp.local [100.66.16.67])
+	by mxmattx105z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lFpTf3SZBz97GJ
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:32:06 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427707926;
+	bh=GvrQ4ChLOZt2O2smsSRoi06ZjZ/gV0HEv+hMzeUC4I0=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=sRAM12LpiNrutzf22QSBIxUN5wEK4hOg0Jben9KRk7I9e64vmKRDqES4F9Q5ryqPG
+	 veDsZN22Nl72WevOMlN8U9B2jDRsDCGFYJNAm5OPEgfi0ZCNoTNCb8JE/pC1/kO+iq
+	 61X41TyBC5B4/XIow2DUUiR1k0a/7JSKUkysT4v4=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat110.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2U9VHmr031222
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:32:06 +0900
+Received: from armsrb205c.ap.rakuten.co.jp ([armsrb205c.ap.rakuten.co.jp [172.28.246.149]]) by mat110.prod.jp.local with RELAY id t2U9W53x004430 ;
+          Mon, 30 Mar 2015 18:32:06 +0900
+Date: Mon, 30 Mar 2015 18:32:05 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: ccbba44cb106cad5225d3c4f49373fa5s1@km.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503301832.t2U9W53x004430@mat110.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJDRDbUo4JCIkaiQsJEgkJiQ0JDYkJCReJDkhIxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.246.149
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: 46A0C1B040A96143D822D37DB6D95A466B5AC906
+
+■ご注文に関するお知らせ■
+
+市田 藍子 様
+
+ｽﾎﾟｰﾂﾎﾋﾞｰです｡
+この度は､ご注文ありがとうございました｡
+代金引換便にて､発送処理に入らせて頂きました｡
+合計: 4821円
+荷物の追跡は､お客様の商品購入履歴画面､もしくは､ﾔﾏﾄ宅急便配達状況確認ﾍﾟｰｼﾞでご確認頂けます｡
+また何かございましたら､よろしくお願い致します｡
+DoCoMo http://link.rakuten.co.jp/0/001/171/ 
+au http://link.rakuten.co.jp/0/002/798/ 
+Softbank http://link.rakuten.co.jp/0/009/524/
+
+                      ｽﾎﾟｰﾂﾎﾋﾞｰ 雑貨ｺｰﾅｰ  工藤
+お荷物伝票番号: 3604-3501-5010
+配送会社: ﾔﾏﾄ運輸
+[商品]
+      となりのﾄﾄﾛ 大きな貯金箱 ﾄﾄﾛ
+      http://item.rakuten.co.jp/sportshobby/10006490/
+
+悪天候等で､止むを得ず遅れることは､まれにございます｡その際はご容赦下さいませ｡
+
+★ ｽﾎﾟｰﾂﾎﾋﾞｰからのお願い ★ご購入頂いた商品のﾚﾋﾞｭｰを書いて頂けると､とても助かります｡
+▼ こちらを参考にして下さい ▼
+http://m.rakuten.co.jp/ev/guide/mal0600.phtml
+※楽天でｷｬﾝﾍﾟｰﾝを行っている場合､ﾚﾋﾞｭｰを書くとﾎﾟｲﾝﾄが貰える場合がございます｡
+ｽﾎﾟｰﾂﾎﾋﾞｰ
+http://m.rakuten.co.jp/sportshobby/
+  
+
+

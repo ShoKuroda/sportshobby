@@ -1,0 +1,82 @@
+Return-Path: <support@rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav408.sakura.ne.jp (fsav408.sakura.ne.jp [133.242.250.107])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V31Uqb057313
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 12:01:30 +0900 (JST)
+	(envelope-from support@rakuten.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav408.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav408.sakura.ne.jp);
+ Tue, 31 Mar 2015 12:01:30 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav408.sakura.ne.jp)
+Received: from mx61-007.smtp.rakuten.co.jp (mx61-007.smtp.rakuten.co.jp [202.72.61.7])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2V31UHP057310
+	for <hobby.division@sportshobby.co.jp>; Tue, 31 Mar 2015 12:01:30 +0900 (JST)
+	(envelope-from support@rakuten.co.jp)
+Received: from brms401c.db.rakuten.co.jp (brms401c.db.rakuten.co.jp [172.28.1.201])
+	by mxtr601zc.rakuten.co.jp (Rakuten MGW 2.0.0) with ESMTP id 3lGFmV0vjpz2hfs;
+	Tue, 31 Mar 2015 12:01:30 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=rakuten0702014040; t=1427770890;
+	bh=8/u8nwCpOmTLnrubH/Mx+yNInfBTUfS2K8d0V+zexSk=;
+	h=Date:Message-Id:Subject:From:To:CC:Mime-Version:Content-type;
+	b=eJrsEr+9sEQEpAfGPpaHZjJRvSGcEDXex1FbCZdJdX9VtLuxZYpCDBRr8E3rrtFO1
+	 moCYSVAWrPcwi7GKdVV8l8s7tVMW9Ma+tXB7ZLtGeZSUQa8r8jbTyLQVzowmp/l4Kr
+	 A3H423hMs0ovC8alR6t0rOLYd6owcqfAdnOZDfzQ=
+Received: from brms401c.db.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by brms401c.db.rakuten.co.jp (8.13.8/8.13.8) with ESMTP id t2V31UoM010294;
+	Tue, 31 Mar 2015 12:01:30 +0900
+Received: (from informix@localhost)
+	by brms401c.db.rakuten.co.jp (8.13.8/8.13.8/Submit) id t2V31UCM010291;
+	Tue, 31 Mar 2015 12:01:30 +0900
+Date: Tue, 31 Mar 2015 12:01:30 +0900
+Message-Id: <201503310301.t2V31UCM010291@brms401c.db.rakuten.co.jp>
+X-Authentication-Warning: brms401c.db.rakuten.co.jp: informix set sender to support@rakuten.co.jp using -f
+Subject: =?ISO-2022-JP?B?GyRCIVozWkU3O1Q+bCFbGyhCIGZ0cBskQiU1ITwlUBsoQiAbJEIlUSU5JW8hPCVJTS04ejR8OEJAWiRsGyhCNRskQkZ8QTAbKEIoL3Nwb3J0c2hvYmJ5KQ==?=
+From: support@rakuten.co.jp
+To: hobby.division@sportshobby.co.jp
+CC: hiroya.okumura@mail.rakuten.co.jp
+Mime-Version: 1.0
+Content-type: text/plain; charset=iso-2022-jp
+
+┏━━━┓━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┃楽●天┃━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┗━━━┛━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+　    　【楽天市場】ftpサーバ パスワード有効期限切れ5日前
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+----------------------------------------------------------------
+このメールは楽天GOLD・新RS商品一括登録・画像一括登録をご利用の店
+舗様に送信しております。
+----------------------------------------------------------------
+スポーツホビー
+店舗セキュリティ担当者様
+
+　いつもお世話になっております、楽天市場です。
+
+　貴店にてご利用いただいております、ftpサーバのパスワードが5日後
+に有効期限切れとなります。RMSにログインしていただき、パスワード
+変更画面より、パスワードの変更をお願いいたします。
+
+楽天市場サービス用ftpパスワード有効期限：2015年04月04日
+※翌日の昼頃に古いパスワードが利用できなくなります。
+
+▼パスワード変更方法
+　https://www.rakuten.co.jp/shops/manual/service/gold/07.html
+
+※パスワード変更完了後、約5分後に新規パスワードに変更されます。
+
+──────────────────────────────── 
+■RMS操作方法についてのお問合せは 
+店舗運営マニュアル
+　http://www.rakuten.co.jp/shops/manual/
+RMSコールセンター　
+TEL：050-5533-1899
+対応時間：平日9:00-23:00　土日祝9:30-18:30
+  support-rms@rakuten.co.jp
+  support@rakuten.co.jp
+──────────────────────────────── 

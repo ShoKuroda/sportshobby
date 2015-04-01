@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.2 required=7.0 tests=BAYES_80,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,
+	URIBL_BLOCKED,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: walgreenwelness.nl]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: walgreenwelness.nl]
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.8387]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id rA6AZ99M052739
+	for <hobby.division@sportshobby.co.jp>; Wed, 6 Nov 2013 19:35:09 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:60394 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383734109.4717
+Received: from 37.115.3.195 (46-185-25-61-dpdz.broadband.kyivstar.net [46.185.25.61] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id rA6AZ5AD052723
+	for <hobby.division@sportshobby.co.jp>; Wed, 6 Nov 2013 19:35:08 +0900 (JST)
+Date: Wed, 6 Nov 2013 19:35:05 +0900 (JST)
+Message-Id: <201311061035.rA6AZ5AD052723@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (tojnl@mee.government.bg@204.172.135.41)
+	by 46.185.25.61 with ESMTPA; Wed, 6 Nov 2013 12:34:35 +0200
+X-Originating-IP: 204.172.135.41
+From: tojnl@mee.government.bg
+To: hobby.division@sportshobby.co.jp
+Subject: Discover the new world of desire
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 06112013 #9885702, status: clean
+
+Keep your partner chuffed this night http://stockyard.walgreenwelness.nl/
+

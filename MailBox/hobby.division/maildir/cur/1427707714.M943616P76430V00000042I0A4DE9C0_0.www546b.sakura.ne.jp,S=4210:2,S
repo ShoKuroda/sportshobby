@@ -1,0 +1,66 @@
+Return-Path: <comm-bounces-mass+BBC-MassMail-AHCT4IPIHZUO2@bounces.amazon.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,URIBL_BLOCKED autolearn=ham version=3.3.2
+Received: from fsav404.sakura.ne.jp (fsav404.sakura.ne.jp [133.242.250.103])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U9SVvs076426
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:28:32 +0900 (JST)
+	(envelope-from comm-bounces-mass+BBC-MassMail-AHCT4IPIHZUO2@bounces.amazon.co.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav404.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp);
+ Mon, 30 Mar 2015 18:28:31 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav404.sakura.ne.jp)
+Received: from smtp-out-188-219.amazon.com (smtp-out-188-219.amazon.com [207.171.188.219])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2U9SVLn076416
+	for <hobby.division@sportshobby.co.jp>; Mon, 30 Mar 2015 18:28:31 +0900 (JST)
+	(envelope-from comm-bounces-mass+BBC-MassMail-AHCT4IPIHZUO2@bounces.amazon.co.jp)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.co.jp; i=auto-communication@amazon.co.jp;
+  q=dns/txt; s=amazon201209; t=1427707721; x=1459243721;
+  h=date:from:reply-to:to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=X/fqXVSbott6kJyusMI32HZw1Mcti14zul+kSRDedVs=;
+  b=L3zgaXQcPL3tqM0MWAwUd5NOjiknYf/P3pIfEvyWL4hmf7n8SVNQM3wh
+   6n9XFa+5yQeanvYqM+bXA1g7xcj/udLPxZMrpaPgT04AWYV8fW2VC1UqP
+   TT5GjZQzeaIKZnmIiUwpG+1e/laWPk7jlgjeH3Dx13vm1GH18PxEluFMn
+   M=;
+Date: Mon, 30 Mar 2015 09:28:30 +0000
+From: "Amazon.co.jp" <auto-communication@amazon.co.jp>
+Reply-To: "Amazon.co.jp" <auto-communication@amazon.co.jp>
+To:   =?ISO-2022-JP?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+Message-ID: <urn.correios.msg.20150330092830e1877243de1d478f8cca665170416451@1427707710721.rte-svc-fe-2a-i-b57944b9.us-west-2.amazon.com>
+Subject: =?ISO-2022-JP?B?GyRCQG5DPBsoQiAbJEJGRhsoQiAbJEJNTRsoQg==?=
+ =?ISO-2022-JP?B?GyRCJFgkThsoQkUbJEIlYSE8JWsbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Bounces-to: comm-bounces-mass+BBC-MassMail-AHCT4IPIHZUO2@bounces.amazon.co.jp
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-AMAZON-CATEGORY: BBC-MassMail
+X-Original-MessageID: <urn.correios.msg.20150330092830e1877243de1d478f8cca665170416451@1427707710721.rte-svc-fe-2a-i-b57944b9.us-west-2.amazon.com>
+
+お客様がAmazon.co.jp のフォームから入力したメッセージを、川端 篤 様に送信しました。
+
+注文番号 503-7760784-3563061:
+1 / マルシン M1887 専用 8mmBB弾 1発仕様 スペア ショットシェル 5発セット [ASIN: B006JY4TBC] 
+
+------------- メッセージはここから -------------
+
+川端様
+
+誠に申し訳ございません。
+在庫管理ミスがあり、商品が欠品しておりました。
+
+せっかくご注文いただきましたが、当店在庫管理ミスにより、
+キャンセルとさせていただきます。
+
+お手数をお掛けしましたこと、深くお詫び申し上げます。
+
+
+------------- メッセージはここまで -------------
+
+お知らせ：Amazon.co.jpでは、問題の解決および信頼できる安全な仕組みを提供するために、出品者と購入者の間の通信内容を最大2年にわたって保存いたします。この方針は、本メッセージに返信した場合も同様に適用されます。Amazon.co.jpでは、購入者および出品者を不正行為から保護する目的でフィルター機能を導入しています。フィルターを通過しなかったメッセージは宛先に配信されませんので、あらかじめご了承ください。安全性の理由により、本文中に記載されていたEメールアドレスは、[削除済みEメールアドレス] に置き換えられています。メッセージ送信者に返答する際にはFromのアドレスに返信してください。
+
+Amazon.co.jpでの安全なオンライントランザクションについて詳しくはこちらをご覧ください： ( http://www.amazon.co.jp/gp/help/customer/display.html?nodeId=13940051 )。また、Amazonマーケットプレイス保証について詳しくはこちらをご覧ください： ( http://www.amazon.co.jp/gp/help/customer/display.html?nodeId=1085332 )。

@@ -1,0 +1,127 @@
+Return-Path: <amanda.wright@lpdealday.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=11.0 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: lpdealday.com]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: lpdealday.com]
+	*  2.5 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: lpdealday.com]
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4678]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: lpdealday.com]
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s2CEZpgk097355
+	for <hobby.division@sportshobby.co.jp>; Wed, 12 Mar 2014 23:35:51 +0900 (JST)
+	(envelope-from amanda.wright@lpdealday.com)
+X-Nat-Received: from [112.78.125.46]:56021 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1394634951.26438
+Received: from www.lpdealday.com (www.lpdealday.com [66.111.211.36])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id s2CEZooh097349
+	for <hobby.division@sportshobby.co.jp>; Wed, 12 Mar 2014 23:35:50 +0900 (JST)
+	(envelope-from amanda.wright@lpdealday.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=lpdealday.com;
+ h=To:From:Reply-to:Subject:Date:Message-ID:List-Unsubscribe:MIME-Version:Content-Type:Content-Transfer-Encoding; i=amanda.wright@lpdealday.com;
+ bh=He2KngyynmYbZt6jIcKh/nwo7/8=;
+ b=thKGGluc2+0uSM4rfS9G+pEADPoU+83SvTXwb6lUd9QakJV9Beo1EHjkJqDnz5qsZTcxURl4yI0p
+   JthFmsW4ORPcer5VfICJIcZ/9TmnNc8Jra1UMV3slJX1uerzAjXfoZtD3L8aagT5EwOZHI902LKt
+   ys6xLs5BlUYs3ioK9IM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=lpdealday.com;
+ b=WrAHr3mq3HOg1xVhOVvR+Z4qQKV+JuN2LTayu2ixNXVEQSsWC9L1YHnOZ/BR3I0jhByYtNS24SCk
+   Qz6+fKPgw+RNrs+rhTdF8oJtYTOk5SPpSxCDWeENjqYMXN/suFpZY6AC6G8iNDpv2tdpX3v2B0t6
+   no+OkCm2la6DlcSXVsM=;
+To: "Hobby Division" <hobby.division@sportshobby.co.jp>
+From: "Amanda Wright" <amanda.wright@lpdealday.com>
+Reply-to: "Amanda Wright" <amanda.wright@lpdealday.com>
+Subject: =?UTF-8?B?5qyh5LiW5LujRUHjgIzjg5bjg6vjg7zjg7vjg4njg6njgrTjg7PjgI3jg6rjg6rjg7zjgrnvvIHvvIE=?=
+Date: Wed, 12 Mar 2014 15:31:21 +0100
+Message-ID: <183cf25b6597a0169d9c5d6f41ee324a@lpdealday.com>
+X-JID: 1306
+X-Complaints-To: abuse@lpdealday.com
+X-CID: 283064670
+List-Unsubscribe: <mailto:unsubscribe@lpdealday.com?subject=283064670-1306>
+X-Report-Abuse: abuse@lpdealday.com
+MIME-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 12032014 #7492895, status: clean
+
+トレーダーの皆様へ、
+
+　
+
+この度は、次世代EA（エキスパート・アドバイザー）、「ブルー・ドラゴン」をご紹介いたします。
+
+ 
+
+歴戦のトレーダー達が、その驚くべき成果に唰った「ブルー・ドラゴン」。
+
+ 
+
+本EAは100%自動のトレーディング・システムであり、主な機能は以下のとおりです。
+
+· 高密度売買シグナル
+
+· リアルタイムのトレンド追跡
+
+· 必勝の戦略に基づくシステムエンジン
+
+· 慎重な取引を助ける厳選フィルター
+
+· リスクを最低限に抑えるリスクマ・ネージメント
+
+ 
+
+これらを兼ね備えたこのEAで、容易に、確実に、そして安全に資産運用を実施頂けます。
+
+そしてなんと、今なら無料でのご利用が可能となっております。
+
+詳細は下記のリンクをご覧下さい。
+
+http://lpdealday.com/e/click/1770/283064670/be982.html
+
+ 
+
+この「ブルー・ドラゴン」で、「勝ち組」トレーダーへの近道を歩き始めましょう！
+
+
+
+
+
+
+
+
+
+
+
+unsubscribe http://lpdealday.com/e/unsub/1306/283064670/be982.html
+
+USA had million, and competing where we are not all be
+grateful.  Francis begins by an average night NFL Football; in
+Jesuit journals, explicitly criticized church are we all the
+average of us, no matter where we have to offer.  Fox's new
+Award: for who has been a sinner, and fragrance of the AMC
+series finale is, scheduled for only the cardinal Francis
+George, said.  Nilson said.  The freshness and the CW had
+million people on most new programming (which it puts into a
+focus).  An awful lot more to my mind if I have to be a year:
+ago. 
+

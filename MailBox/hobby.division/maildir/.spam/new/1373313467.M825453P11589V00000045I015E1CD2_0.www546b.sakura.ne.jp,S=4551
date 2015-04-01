@@ -1,0 +1,110 @@
+Return-Path: <MaxPak@mg-seolinkbuilding.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.1 required=7.0 tests=BAYES_50,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CF_RANGE_E8_51_100,RAZOR2_CHECK,T_HTML_ATTACH,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SC_SURBL,URIBL_WS_SURBL autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: mg-seolinkbuilding.com]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: advertise-bz.cn]
+	*  0.0 T_HTML_ATTACH HTML attachment to bypass scanning?
+Received: from www546b.sakura.ne.jp (ksav11.sakura.ne.jp [210.224.165.45])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r68JviXd011586
+	for <hobby.division@sportshobby.co.jp>; Tue, 9 Jul 2013 04:57:44 +0900 (JST)
+	(envelope-from MaxPak@mg-seolinkbuilding.com)
+X-Nat-Received: from [112.78.125.46]:62099 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1373313464.30610
+Received: from mg-seolinkbuilding.com (static.211-232-59-155.nexg.net [211.232.59.155] (may be forged))
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r68JvgYe011572
+	for <hobby.division@sportshobby.co.jp>; Tue, 9 Jul 2013 04:57:43 +0900 (JST)
+	(envelope-from MaxPak@mg-seolinkbuilding.com)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=mg-seolinkbuilding.com; s=key; h=From:To:Subject:MIME-Version:
+	Content-Type; bh=vgtI0w57nrmtDIGMOEN+KImd1dE=; b=wodeBA0g79T4QMU
+	NEqKjUr5E1PiochTq5/08Ssw03Dv5rYqf+RrfbPepqa1Yngu72Ro4vOehorMo/C4
+	EvXMqPXPYbkl+HtENMQbAuhgyfGZs6P71rYWyCTNrFcXJIMa+RkK5n458klbZWLU
+	FdOgMVjqvQubxCYFxh7VhWZghQnQ=
+From: MaxPak@mg-seolinkbuilding.com
+To: hobby.division@sportshobby.co.jp
+Subject: Get Found Online, Get More Customers
+Date: 08 Jul 2013 22:56:58 +0300
+Message-ID: <20130708225657.08249F677602F84D@mg-seolinkbuilding.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_A289F69E.904AE515"
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 08072013 #10558246, status: clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0012_A289F69E.904AE515
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+All SEO efforts are more successful when they=20
+are a part of the powerful SEO campaign.
+=20
+With this max package you can rest=20
+assured that your positions will start getting higher.
+
+
+For Full Details please read the attached .html file
+
+
+
+
+
+
+
+
+
+
+
+To Unsubscribe please read the attached Unsubscribe.txt file
+
+------=_NextPart_000_0012_A289F69E.904AE515
+Content-Type: text/html; name="FullDetails.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="FullDetails.html"
+
+PGh0bWw+DQoNCjxoZWFkPg0KPE1FVEEgSFRUUC1FUVVJVj0iUmVmcmVzaCIgY29udGVudD0g
+IjI7VVJMPWh0dHA6Ly93d3cuYWR2ZXJ0aXNlLWJ6LmNuL21heHBhY2svIj4NCjwvaGVhZD4N
+Cg0KPHA+PGZvbnQgZmFjZT0iVmVyZGFuYSI+TG9hZGluZyA8Yj48YSBocmVmPSJodHRwOi8v
+d3d3LmFkdmVydGlzZS1iei5jbi9tYXhwYWNrLyI+RnVsbA0KRGV0YWlsczwvYT4gPC9iPjwv
+Zm9udD48L3A+DQo8L2h0bWw+DQoNCg==
+
+------=_NextPart_000_0012_A289F69E.904AE515
+Content-Type: text/plain; name="Unsubscribe.txt"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Unsubscribe.txt"
+
+aHR0cDovL3d3dy5hZHZlcnRpc2UtYnouY24vdW5zdWJzY3JpYmUv
+
+------=_NextPart_000_0012_A289F69E.904AE515--
+

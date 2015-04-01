@@ -1,0 +1,44 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.6 required=7.0 tests=BAYES_80,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_SBL,URIBL_WS_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.0 BAYES_80 BODY: Bayes spam probability is 80 to 95%
+	*      [score: 0.8262]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: wjdyozsx.at]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: wjdyozsx.at]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: wjdyozsx.at]
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: wjdyozsx.at]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: wjdyozsx.at]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  2.0 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+Received: from www546b.sakura.ne.jp (ksav55.sakura.ne.jp [219.94.192.135])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r9V8X7tt091564
+	for <hobby.division@sportshobby.co.jp>; Thu, 31 Oct 2013 17:33:07 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:55933 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1383208387.16295
+Received: from 211.10.181.236 (d30ab5ec.t-net.ne.jp [211.10.181.236])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r9V8X5QA091553
+	for <hobby.division@sportshobby.co.jp>; Thu, 31 Oct 2013 17:33:06 +0900 (JST)
+Message-Id: <201310310833.r9V8X5QA091553@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (fire-sun_requiem0119@wsec.global.sharp.co.jp@58.93.36.113)
+	by 211.10.181.236 with ESMTPA; Thu, 31 Oct 2013 17:37:22 +0900
+From: fire-sun_requiem0119@wsec.global.sharp.co.jp
+To: hobby.division@sportshobby.co.jp
+Subject: Enjoy your life ultimate of love
+Date: Thu, 31 Oct 2013 17:23:53 +0900
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 31102013 #10289954, status: clean
+
+Give your girl the hottest intimate experience http://godchild.wjdyozsx.at/
+

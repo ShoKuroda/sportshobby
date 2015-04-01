@@ -1,0 +1,96 @@
+Return-Path: <em_err_5502cbcd-bc20-4d6d-a34b-28c093c3ffe3@abcmail-info.xyz>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=9.0 required=7.0 tests=BAYES_20,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,RAZOR2_CF_RANGE_51_100,RAZOR2_CF_RANGE_E8_51_100,
+	RAZOR2_CHECK,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,XPRIO autolearn=no
+	version=3.3.2
+X-Spam-Report: 
+	* -0.0 BAYES_20 BODY: Bayes spam probability is 5 to 20%
+	*      [score: 0.1986]
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+	*       domain
+	*  1.9 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	*      above 50%
+	*      [cf: 100]
+	*  0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  0.9 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*      valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	*  2.0 TVD_SPACE_ENC_FM_MIME TVD_SPACE_ENC_FM_MIME
+	*  1.0 XPRIO Has X-Priority header
+	*  2.7 TVD_SPACE_RATIO_MINFP TVD_SPACE_RATIO_MINFP
+Received: from fsav405.sakura.ne.jp (fsav405.sakura.ne.jp [133.242.250.104])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2DBar8S021253
+	for <hobby.division@sportshobby.co.jp>; Fri, 13 Mar 2015 20:36:53 +0900 (JST)
+	(envelope-from em_err_5502cbcd-bc20-4d6d-a34b-28c093c3ffe3@abcmail-info.xyz)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav405.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp);
+ Fri, 13 Mar 2015 20:36:53 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp)
+Received: from relay.abcmail-info.xyz (ci.ptr131.public.gmocloud.com [153.122.75.188])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2DBarG7021250
+	for <hobby.division@sportshobby.co.jp>; Fri, 13 Mar 2015 20:36:53 +0900 (JST)
+	(envelope-from em_err_5502cbcd-bc20-4d6d-a34b-28c093c3ffe3@abcmail-info.xyz)
+Received: from abcmail-info.xyz (ek.ptr129.public.gmocloud.com [153.122.74.242])
+	by relay.abcmail-info.xyz (Postfix) with ESMTP id 96E18A50D0
+	for <hobby.division@sportshobby.co.jp>; Fri, 13 Mar 2015 20:36:45 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=abcmail-info.xyz;
+	s=dkim; t=1426246605;
+	bh=fGg4/GT2Fg7naQPChe3Rwy3U6L7hULFhd4WGBhyTlwk=;
+	h=From:Reply-To:To:Date:Subject;
+	b=HdXy63gVD1GNchDUG471ZR8+emRa1Q6IKOfPpI/Szps8g0H1XYiMbNdYCFINLzI+S
+	 h3P9WyR6oQdQktwGyLl8wMc1R2pu7NXuutapBhy9aiKxcrLhGqZjQYNC1N6g1fp2lV
+	 mPFlTffUGVbFgChBJn+/mI4t4ae96Qksw9fmELSQ=
+From: =?ISO-2022-JP?B?GyRCI0EjQiNDJWEhPCVrGyhC?= <info@abcmail-info.xyz>
+Reply-To: =?ISO-2022-JP?B?GyRCI0EjQiNDJWEhPCVrGyhC?= <info@abcmail-info.xyz>
+To: hobby.division@sportshobby.co.jp
+X-Priority: 3
+Date: Fri, 13 Mar 2015 20:36:45 +0900
+Message-ID: <5502cbcda6cc4515927c28c093c3ffe3@abcmail-info.xyz>
+Subject: =?ISO-2022-JP?B?GyRCN24zWxsoQjI2ODUbJEIxXyRHQGxNUSU1ITwlUCE8JCw7SCQoGyhC?=
+ =?ISO-2022-JP?B?GyRCJGslYSE8JWtHWz8uJTclOSVGJWAkcjMrSC8kNyReJDckPyEjGyhC?=
+ =?ISO-2022-JP?B?CSA=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+ABCメール 山本と申します。
+
+この度、専用サーバーを使ったメール配信システムで
+3月15日まで業界最安値の2685円（税抜）で、
+メール配信システムを提供することになりました。
+
+→ http://abcmail-info.xyz/clicks/to/28/17669
+
+
+メール配信数や、読者登録数などに制限なく
+サーバー変更も無料で何回でも行う事が出来ます。
+
+そこで、楽天でビジネスを展開されている御社様の
+さらなる事業展開のお役に立てればと思い
+ご連絡をさせて頂きました。
+
+もし、メルマガ発行などにご興味がありましたら
+ABCメールのホームページから
+詳細を確認して頂ければ幸いです。
+
+ABCメール
+→ http://abcmail-info.xyz/clicks/to/28/17669
+
+
+何か気になる点、質問等がありましたら
+下記メールアドレスまで
+お気軽にご連絡頂ければと思います。
+
+
+→ info@abcmail.xyz
+
+ＡＢＣメール
+山本
+
+
+

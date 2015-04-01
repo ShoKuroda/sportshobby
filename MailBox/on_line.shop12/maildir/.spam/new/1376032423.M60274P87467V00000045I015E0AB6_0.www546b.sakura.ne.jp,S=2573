@@ -1,0 +1,50 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.2 required=7.0 tests=BAYES_50,DEAR_SOMETHING,
+	DKIM_ADSP_CUSTOM_MED,FORGED_YAHOO_RCVD,FREEMAIL_FROM,FREEMAIL_REPLY,
+	FSL_HELO_BARE_IP_2,MSGID_FROM_MTA_HEADER,NML_ADSP_CUSTOM_MED,
+	RCVD_NUMERIC_HELO autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.0 DEAR_SOMETHING BODY: Contains 'Dear (something)'
+	*  2.7 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (admin[at]yahoo.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 FORGED_YAHOO_RCVD 'From' yahoo.com does not match 'Received' headers
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.4935]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.0 FREEMAIL_REPLY From and body contain different freemails
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+Received: from www546b.sakura.ne.jp (ksav21.sakura.ne.jp [210.224.165.143])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r797De3N087457
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 9 Aug 2013 16:13:40 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:54829 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1376032420.22802
+Received: from 37.45.76.14 ([37.45.76.14])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r797DcOg087447
+	for <on_line.shop12@sportshobby.co.jp>; Fri, 9 Aug 2013 16:13:39 +0900 (JST)
+Message-Id: <201308090713.r797DcOg087447@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (admin@yahoo.com@88.87.68.68)
+	by 37.45.76.14 with ESMTPA; Fri, 9 Aug 2013 10:14:11 +0200
+From: admin@yahoo.com
+To: on_line.shop12@sportshobby.co.jp
+Subject: Jobs in your region
+Date: Fri, 9 Aug 2013 10:05:00 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 09082013 #10904984, status: clean
+
+Dear sir. 
+
+My name is Martin. I'm sending this letter to you concerning cooperation. If 
+you are still looking for god job, there several openings which could 
+interest you.
+
+Your contact address was given to us by a recruiting agency. We have openings 
+with with open-leave schedule, as well as full-time employment options. 
+Expected income is from 580000 Yen per month. If you are interested, contact 
+us as soon as you can: edithwallace761@yahoo.co.uk
+

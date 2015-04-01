@@ -1,0 +1,46 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *****************
+X-Spam-Status: Yes, score=17.6 required=7.0 tests=BAYES_99,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_MW_SURBL autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.6 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.7 URIBL_DBL_SPAM Contains an URL listed in the DBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: webdoanhnghiep.org]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  3.9 URIBL_MW_SURBL Contains a Malware Domain or IP listed in the MW
+	*      SURBL blocklist
+	*      [URIs: webdoanhnghiep.org]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav51.sakura.ne.jp [219.94.192.131])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r55JN5rb087990
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 6 Jun 2013 04:23:06 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:57255 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1370460185.14059
+Received: from 37.45.251.66 ([37.45.251.66])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r55JN3Rd087984
+	for <on_line.shop12@sportshobby.co.jp>; Thu, 6 Jun 2013 04:23:04 +0900 (JST)
+Message-Id: <201306051923.r55JN3Rd087984@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (sweeping_2000@aww.ru@66.211.231.78)
+	by 37.45.251.66 with ESMTPA; Wed, 5 Jun 2013 23:24:19 +0400
+From: sweeping_2000@aww.ru
+To: on_line.shop12@sportshobby.co.jp
+Subject: Keep your loved one entertained this night
+Date: Wed, 5 Jun 2013 23:19:41 +0400
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 05062013 #10291141, status: clean
+
+http://balolaptopcaocap.webdoanhnghiep.org/some.html Give to your girl 
+happiness
+

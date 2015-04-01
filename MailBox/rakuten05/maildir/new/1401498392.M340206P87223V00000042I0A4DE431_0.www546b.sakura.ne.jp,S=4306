@@ -1,0 +1,96 @@
+Return-Path: <dev-null@emx.rakuten.co.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID autolearn=ham version=3.3.2
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s4V16PTU087212
+	for <rakuten05@sportshobby.co.jp>; Sat, 31 May 2014 10:06:25 +0900 (JST)
+	(envelope-from dev-null@emx.rakuten.co.jp)
+X-Nat-Received: from [112.78.125.46]:25069 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1401498385.8417
+Received: from rakuten.co.jp (mgw6.rakuten.co.jp [133.237.8.6])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s4V16Pb0087209
+	for <rakuten05@sportshobby.co.jp>; Sat, 31 May 2014 10:06:25 +0900 (JST)
+	(envelope-from dev-null@emx.rakuten.co.jp)
+Received: from wlogin103z.prod.jp.local (wlogin103z.prod.jp.local [100.66.200.15])
+	by mx604z.prod.jp.local (Rakuten MGW 2.0.0) with ESMTP id 3ggPc14MFDz2hlL
+	for <rakuten05@sportshobby.co.jp>; Sat, 31 May 2014 10:06:25 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=rakuten0020130400; t=1401498385;
+	bh=ZFCFI93AyhlB5ovYziXVDyGuw3z5BSbj9Zg5ySbQUOE=;
+	h=Date:Message-Id:To:Subject:From:Reply-To:Mime-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=obSkTiCXoL4gwKNMaN2DX1qUFGhzBUDjy2IPZ0VBkgjdnMhiKIytHvj4r17diWzO9
+	 HJd1loZA2Zz0hQI/jWoyE1uTFGKUEc2D6yJsYv9MJTlJGqA4mhBE6uqGOdkUdwr/Zp
+	 TqrfZ5EYZAu2CfIAU0l8+6WOSm0Ic/8F0l9Z76xk=
+Received: from wlogin103z.prod.jp.local (localhost.localdomain [127.0.0.1])
+	by wlogin103z.prod.jp.local (8.13.8/8.13.8) with ESMTP id s4V16Pjf020417
+	for <rakuten05@sportshobby.co.jp>; Sat, 31 May 2014 10:06:25 +0900
+Received: (from nobody2@localhost)
+	by wlogin103z.prod.jp.local (8.13.8/8.13.8/Submit) id s4V16PKK020414;
+	Sat, 31 May 2014 10:06:25 +0900
+Date: Sat, 31 May 2014 10:06:25 +0900
+Message-Id: <201405310106.s4V16PKK020414@wlogin103z.prod.jp.local>
+To: rakuten05@sportshobby.co.jp
+Subject: =?ISO-2022-JP?B?GyRCIVozWiF8RTchWxsoQlItTG9n?=
+ =?ISO-2022-JP?B?aW4bJEIlUSU5JW8hPCVJSlE5OSROJDQwRkZiGyhC?=
+From: rlogin-info@mail.rakuten.com
+Reply-To: rlogin-info@mail.rakuten.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 30052014 #8090611, status: clean
+
+
+
+────────────────────────────────────
+【R-Login】R-Loginパスワード変更のご案内
+────────────────────────────────────
+
+　お世話になっております、楽天株式会社です。
+
+※本メールは管理者の方にお送りしています。
+
+  御社のR-Loginパスワードが変更されましたのでご連絡をいたします。
+以下の変更内容を確認ください。
+
+  変更された管理者から、ほかのR-Login利用者の方へ、ただ今変更しました
+R-Loginパスワードをお知らせください。
+
+
+────────────────────────────────────
+■変更内容
+────────────────────────────────────
+【変更日時】
+     2014年05月31日 10時06分
+【変更者】
+     黒田 雄 様
+
+【R-Loginパスワード有効期間】
+     2014年06月14日まで
+【R-Loginパスワード】
+     セキュリティのため、表示は行ないません。
+
+
+────────────────────────────────────
+■よく分からないときは■
+────────────────────────────────────
+【ヘルプはこちら】
+  https://glogin.gl.rakuten.co.jp/help/
+
+【R-Loginメニューはこちら】
+  https://glogin.gl.rakuten.co.jp/?sp_id=0
+
+
+────────────────────────────────────
+■ご注意ください■
+────────────────────────────────────
+当メールは送信専用で配信されており、返信できません。
+ご返信頂きましても、ご案内できかねますのでご了承ください。
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+楽天株式会社
+〒140-0002
+東京都品川区東品川4-12-3品川シーサイド楽天タワー

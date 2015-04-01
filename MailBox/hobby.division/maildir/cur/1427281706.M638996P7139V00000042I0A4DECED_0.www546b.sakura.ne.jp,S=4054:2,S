@@ -1,0 +1,71 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: **
+X-Spam-Status: No, score=2.9 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,TVD_RCVD_SPACE_BRACKET,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,
+	URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav405.sakura.ne.jp (fsav405.sakura.ne.jp [133.242.250.104])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2PB8M5K007133
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 20:08:23 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav405.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp);
+ Wed, 25 Mar 2015 20:08:22 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav405.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-212.smtp.rakuten.co.jp [202.72.58.212])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2PB8MiP007129
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 20:08:22 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat108.prod.jp.local [100.66.16.61])
+	by mxmattx104z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lBms24TxczRKcV
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 20:08:22 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427281702;
+	bh=doMjDfVH2FJG+zq7Hv9MgxsDXy7pxLm1mFUk7YNdJ7I=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=nvD7+MLSEAGb8BuumewkfxAv8W3q1K1lP1PpnKA/jfRkDZdxUqecpj+LIEapRzMX+
+	 3Ux/B9SMSzKGWLmNtqOqEYQGfdvaWrQD0NZdQBxgC0gE5FeRsatVeFm8hRonoHSV/Q
+	 7KGe8YmmNOxvwcP6WHrHNBfglkCNXTXsSslJevqc=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat108.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2PB88DN001321
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 20:08:22 +0900
+Received: from armsrb230c.ap.rakuten.co.jp ([armsrb230c.ap.rakuten.co.jp [172.28.247.116]]) by mat108.prod.jp.local with RELAY id t2PB8MIJ001882 ;
+          Wed, 25 Mar 2015 20:08:22 +0900
+Date: Wed, 25 Mar 2015 20:08:22 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: cc3515aaa7928c88343d8db1a7f5e438s1@dm.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503252008.t2PB8MIJ001882@mat108.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJDRDbUo4JCIkaiQsJEgkJiQ0JDYkJCReJDkhIxsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.247.116
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: C3B937BA35084D915270EF5F34194875016ED84B
+
+■ご注文に関するお知らせ■
+
+ｽﾎﾟｰﾂﾎﾋﾞｰです｡ご注文ありがとうございました｡決済が完了いたしましたので､発送処理に入らせていただきます｡荷物の追跡は､お客様の商品購入履歴画面､もしくは､ﾔﾏﾄ宅急便配達状況確認ﾍﾟｰｼﾞでご確認頂けます｡よろしくお願いいたします｡
+DoCoMo http://link.rakuten.co.jp/0/001/171/ 
+au http://link.rakuten.co.jp/0/002/798/ 
+Softbank http://link.rakuten.co.jp/0/009/524/
+
+到着予定:3月27日
+お荷物伝票番号: 403097922732
+配送会社: ﾔﾏﾄ運輸
+[商品]
+      RC4WD Jeep JK Rampage Recovery Bumper for SCX10(zs0434)
+      http://item.rakuten.co.jp/sportshobby/zs0434/
+悪天候等で､止むを得ず遅れることは､まれにございます｡その際はご容赦下さいませ｡
+
+★ ｽﾎﾟｰﾂﾎﾋﾞｰからのお願い ★ご購入頂いた商品のﾚﾋﾞｭｰを書いて頂けると､とても助かります｡
+▼ こちらを参考にして下さい ▼
+http://m.rakuten.co.jp/ev/guide/mal0600.phtml
+※楽天でｷｬﾝﾍﾟｰﾝを行っている場合､ﾚﾋﾞｭｰを書くとﾎﾟｲﾝﾄが貰える場合がございます｡
+ｽﾎﾟｰﾂﾎﾋﾞｰ
+http://m.rakuten.co.jp/sportshobby/
+  
+
+

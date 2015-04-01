@@ -1,0 +1,49 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.4 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,HTTP_EXCESSIVE_ESCAPES,MSGID_FROM_MTA_HEADER,RCVD_NUMERIC_HELO,
+	T_FSL_HELO_BARE_IP_2,URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: globalcarebargain.ru]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: globalcarebargain.ru]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: globalcarebargain.ru]
+	*  1.6 HTTP_EXCESSIVE_ESCAPES URI: Completely unnecessary %-escapes inside
+	*      a URL
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: globalcarebargain.ru]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  0.0 T_FSL_HELO_BARE_IP_2 T_FSL_HELO_BARE_IP_2
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav303.sakura.ne.jp (fsav303.sakura.ne.jp [153.120.85.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s8H9HFAL038644
+	for <hobby.division@sportshobby.co.jp>; Wed, 17 Sep 2014 18:17:16 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav303.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp);
+ Wed, 17 Sep 2014 18:17:15 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav303.sakura.ne.jp)
+Received: from 78.8.221.238 (dynamic-78-8-221-238.ssp.dialog.net.pl [78.8.221.238])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id s8H9HCOg038623
+	for <hobby.division@sportshobby.co.jp>; Wed, 17 Sep 2014 18:17:14 +0900 (JST)
+Date: Wed, 17 Sep 2014 18:17:12 +0900 (JST)
+Message-Id: <201409170917.s8H9HCOg038623@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (golddean@wejherowo.pl@164.131.180.168)
+	by 78.8.221.238 with ESMTPA; Wed, 17 Sep 2014 11:18:10 +0100
+X-Originating-IP: 164.131.180.168
+From: golddean@wejherowo.pl
+To: hobby.division@sportshobby.co.jp
+Subject: Love her every night
+
+https://www.google.com/url?q=http%3A%2F%2F%70e%72iod%69%63al.%67lo%62%61%6C%63a%72e%62a%72%67%61i%6E%2E%72%75%2F&sa=D&usg=AFQjCNHiKHO1XqZdbwqZ0wR7a6HJeci81Q Healthier life is better life
+

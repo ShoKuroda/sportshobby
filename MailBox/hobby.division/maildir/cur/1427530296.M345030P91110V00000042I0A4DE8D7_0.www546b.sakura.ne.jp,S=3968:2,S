@@ -1,0 +1,76 @@
+Return-Path: <f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.5 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,TVD_RCVD_SPACE_BRACKET,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,
+	URIBL_BLOCKED,URIBL_SBL autolearn=no version=3.3.2
+Received: from fsav309.sakura.ne.jp (fsav309.sakura.ne.jp [153.120.85.140])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2S8BW9k091104
+	for <hobby.division@sportshobby.co.jp>; Sat, 28 Mar 2015 17:11:32 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav309.sakura.ne.jp (F-Secure/fsigk_smtp/520/fsav309.sakura.ne.jp);
+ Sat, 28 Mar 2015 17:11:32 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/520/fsav309.sakura.ne.jp)
+Received: from rakuten.co.jp (mat58-208.smtp.rakuten.co.jp [202.72.58.208])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2S8BWmc091101
+	for <hobby.division@sportshobby.co.jp>; Sat, 28 Mar 2015 17:11:32 +0900 (JST)
+	(envelope-from f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp)
+Received: from mat.rakuten.co.jp (mat110.prod.jp.local [100.66.16.67])
+	by mxmattx105z.prod.jp.local (Rakuten MGw 1.3.7) with ESMTP id 3lDXnc45Skz97D3
+	for <hobby.division@sportshobby.co.jp>; Sat, 28 Mar 2015 17:11:32 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rakuten.co.jp;
+	s=mfw0012014080; t=1427530292;
+	bh=oqosRpNJ6cESBbTXnFtsw6JPnOwiCIzCuQ2KW8xhYXo=;
+	h=Date:From:To:Cc:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding:Sender;
+	b=cZT4a6sz0CzwYGMZzoO1tRc3jGCMxJphNs8OdK5fbAvp1H80A5MZ+6mL+J8PrjaD/
+	 UoZcKomZhQAVuRr7pyji1pWVqumqgj1Q2PbXrrgo4/LkKj8WuaEt5o9wy4u9PGv2UT
+	 t8uUYDbxx2xEdwFKVD9o7K9gWCgbN9E+zaLSUeRI=
+Received: from mat.rakuten.co.jp (localhost.localdomain [127.0.0.1])
+	by mat110.prod.jp.local (Switch-3.3.4/Switch-3.3.4) with ESMTP id t2S8AY14005435
+	for <hobby.division@sportshobby.co.jp>; Sat, 28 Mar 2015 17:11:32 +0900
+Received: from armsrb224c.ap.rakuten.co.jp ([armsrb224c.ap.rakuten.co.jp [172.28.247.92]]) by mat110.prod.jp.local with RELAY id t2S8BWLD008661 ;
+          Sat, 28 Mar 2015 17:11:32 +0900
+Date: Sat, 28 Mar 2015 17:11:32 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwbKEI=?= <hobby.division@sportshobby.co.jp>
+To: abb0c02a5cd0ce39e3354365d794352as1@pc.fw.rakuten.ne.jp
+Cc: hobby.division@sportshobby.co.jp
+Message-ID: <201503281711.t2S8BWLD008661@mat110.db.rakuten.co.jp>
+Subject: =?iso-2022-jp?B?GyRCJTklXSE8JUQlWyVTITwkRyQ5GyhC?=
+ =?iso-2022-jp?B?GyRCISMhWjdnSUokTiQqQ04kaSQ7IVsbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+X-Rams-Source: 172.28.247.92
+Sender: f3c7749a594994ff3867cf69ea66d50de8a114d7@mf.rakuten.ne.jp
+X-Rams-Id: 3B05B1D97F723AB8F14EDD5D001EF4A768BD1B6F
+
+----------------------------------------------------------------------
+このメールはお客様の注文に関する大切なメールです。
+お取引が完了するまで保存してください。
+----------------------------------------------------------------------
+
+門脇 正和様
+
+スポーツホビーです。
+
+せっかくご注文いただきましたが、店頭販売と在庫を兼ねている関係で、品切れしておりました。
+
+大変申し訳ございません。
+
+入荷の予定もはっきりいたしませんので、誠に勝手ではございますが、
+今回は「店舗都合」によるキャンセル処理をさせて頂きます。
+
+この度はご注文もいただきながらも商品のご用意が出来ず、誠に申し訳ございませんでした、在庫管理を徹底してまいりますので、今後ともよろしくお願いいたします。
+
+    -------------------------------------------------------
+    有限会社エスエッチケー
+    スポーツホビー
+    002-0861 北海道札幌市北区屯田１１条３−１−１３
+    (TEL) 011-773-5090
+    (URL) http://www.rakuten.co.jp/sportshobby/
+    黒田　陽子(hobby.division@sportshobby.co.jp)
+    
+
+

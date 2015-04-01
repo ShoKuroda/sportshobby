@@ -1,0 +1,53 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: ****************
+X-Spam-Status: Yes, score=16.8 required=7.0 tests=BAYES_99,BAYES_999,
+	BODY_URI_ONLY,MSGID_FROM_MTA_HEADER,URIBL_AB_SURBL,URIBL_BLOCKED,
+	URIBL_DBL_SPAM,URIBL_JP_SURBL,URIBL_SBL,URIBL_SC_SURBL,URIBL_WS_SURBL
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+	*       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: magicpharmacyassist.be]
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  0.2 BAYES_999 BODY: Bayes spam probability is 99.9 to 100%
+	*      [score: 1.0000]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the DBL blocklist
+	*      [URIs: magicpharmacyassist.be]
+	*  4.5 URIBL_AB_SURBL Contains an URL listed in the AB SURBL blocklist
+	*      [URIs: magicpharmacyassist.be]
+	*  1.6 URIBL_WS_SURBL Contains an URL listed in the WS SURBL blocklist
+	*      [URIs: magicpharmacyassist.be]
+	*  1.2 URIBL_JP_SURBL Contains an URL listed in the JP SURBL blocklist
+	*      [URIs: magicpharmacyassist.be]
+	*  0.6 URIBL_SC_SURBL Contains an URL listed in the SC SURBL blocklist
+	*      [URIs: magicpharmacyassist.be]
+	*  1.6 URIBL_SBL Contains an URL's NS IP listed in the SBL blocklist
+	*      [URIs: magicpharmacyassist.be]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+	*  1.0 BODY_URI_ONLY Message body is only a URI in one line of text or for
+	*      an image
+Received: from fsav301.sakura.ne.jp (fsav301.sakura.ne.jp [153.120.85.132])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t1SIBrE6048687
+	for <hobby.division@sportshobby.co.jp>; Sun, 1 Mar 2015 03:11:53 +0900 (JST)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav301.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp);
+ Sun, 01 Mar 2015 03:11:53 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav301.sakura.ne.jp)
+Received: from ppp079166073057.access.hol.gr (ppp079166073057.access.hol.gr [79.166.73.57])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with SMTP id t1SIBpHv048683
+	for <hobby.division@sportshobby.co.jp>; Sun, 1 Mar 2015 03:11:52 +0900 (JST)
+Message-Id: <201502281811.t1SIBpHv048683@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (konnor6848582.26777@aastocks.com@188.43.107.172)
+	by 79.166.73.57 with ESMTPA; Sat, 28 Feb 2015 20:16:33 +0200
+X-Originating-IP: 188.43.107.172
+From: konnor6848582.26777@aastocks.com
+To: hobby.division@sportshobby.co.jp
+Subject: Recommendatoons to make your love more passionate
+Date: Sat, 28 Feb 2015 20:03:07 +0200
+
+Time for ideal satisfaction in bed http://midnight.magicpharmacyassist.be/
+

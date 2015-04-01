@@ -1,0 +1,100 @@
+Return-Path: <oleksandr_rekhniuk3@yahoo.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: **************************************************
+X-Spam-Status: Yes, score=55.6 required=7.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+	ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_MONEY,ADVANCE_FEE_4_NEW,
+	ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_MONEY,
+	AXB_XMAILER_MIMEOLE_OL_024C2,BAYES_50,DKIM_ADSP_CUSTOM_MED,FORGED_MUA_OUTLOOK,
+	FORGED_YAHOO_RCVD,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,FREEMAIL_REPLYTO,
+	FREEMAIL_REPLYTO_END_DIGIT,FROM_MISSPACED,FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,
+	FROM_MISSP_USER,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,LOTS_OF_MONEY,
+	MISSING_HEADERS,MONEY_FRAUD_3,MONEY_FRAUD_5,MONEY_FROM_MISSP,NA_DOLLARS,
+	NML_ADSP_CUSTOM_MED,NSL_RCVD_FROM_USER,REPLYTO_WITHOUT_TO_CC,TO_NO_BRKTS_MSFT,
+	T_FROM_MISSP_DKIM,T_MONEY_PERCENT autolearn=spam version=3.3.2
+X-Spam-Report: 
+	*  3.6 NA_DOLLARS BODY: Talks about a million North American dollars
+	*  2.5 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  2.3 NSL_RCVD_FROM_USER Received from User
+	*  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+	*      (oleksandr_rekhniuk3[at]yahoo.com)
+	*  0.0 DKIM_ADSP_CUSTOM_MED No valid author signature, adsp_override is
+	*      CUSTOM_MED
+	*  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+	*      (<oleksandr_rekhniuk333[at]yahoo.com>
+	)
+	*  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	*      digit (oleksandr_rekhniuk3[at]yahoo.com)
+	*  1.6 FORGED_YAHOO_RCVD 'From' yahoo.com does not match 'Received' headers
+	*  1.0 MISSING_HEADERS Missing To: header
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+	*  1.6 REPLYTO_WITHOUT_TO_CC REPLYTO_WITHOUT_TO_CC
+	*  3.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  2.0 FSL_NEW_HELO_USER Spam's using Helo and User
+	*  2.5 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+	*  2.9 FROM_MISSP_USER From misspaced, from "User"
+	*  2.0 MONEY_FROM_MISSP Lots of money and misspaced From
+	*  1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+	*      freemails
+	*  0.9 NML_ADSP_CUSTOM_MED ADSP custom_med hit, and not from a mailing list
+	*  2.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  0.0 T_MONEY_PERCENT X% of a lot of money for you
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+	*  3.1 TO_NO_BRKTS_MSFT To: misformatted and supposed Microsoft tool
+	*  0.3 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+	*  0.0 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  0.0 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  3.7 MONEY_FRAUD_5 Lots of money and many fraud phrases
+	*  3.5 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+	*  3.9 MONEY_FRAUD_3 Lots of money and several fraud phrases
+	*  1.2 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	*  1.8 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	*  2.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	*  3.9 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+Received: from www546b.sakura.ne.jp (ksav54.sakura.ne.jp [219.94.192.134])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s542f5jU022215
+	for <hobby.division@sportshobby.co.jp>; Wed, 4 Jun 2014 11:41:05 +0900 (JST)
+	(envelope-from oleksandr_rekhniuk3@yahoo.com)
+X-Nat-Received: from [112.78.125.46]:23302 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1401849665.1485
+Received: from sbs2008.sbsmen.edu.pl (edu157.internetdsl.tpnet.pl [83.14.202.157])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id s542f3rD022210
+	for <hobby.division@sportshobby.co.jp>; Wed, 4 Jun 2014 11:41:04 +0900 (JST)
+	(envelope-from oleksandr_rekhniuk3@yahoo.com)
+Received: from User ([23.98.147.7]) by sbs2008.sbsmen.edu.pl with Microsoft SMTPSVC(6.0.3790.3959);
+	 Tue, 3 Jun 2014 18:30:25 +0200
+Reply-To: <oleksandr_rekhniuk333@yahoo.com>
+From: "Oleksandr Rekhniuk"<oleksandr_rekhniuk3@yahoo.com>
+Subject: Respond Urgently
+Date: Tue, 3 Jun 2014 16:30:24 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Bcc:
+Message-ID: <SBS2008nvh7wFI1ZG5y00001f83@sbs2008.sbsmen.edu.pl>
+X-OriginalArrivalTime: 03 Jun 2014 16:30:25.0513 (UTC) FILETIME=[1F842D90:01CF7F49]
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 04062014 #8131488, status: clean
+
+Dearest friend,
+
+I am Dr. Oleksandr Rekhniuk, a personal treasurer to Mikhail Khodorkovsky the Richest man in Russia and  owner of the following companies:Chairman CEO: YUKOS OIL (Russian Largest Oil Company) Chairman CEO: Menatep SBP Bank (A well reputable financial institution with its Branches all over the world), I want to reprofile the total sum of $165.3 Million US Dollars to your country or any part of world where you maintain an offshore account for immediate investment without barring any delay.
+
+Website: http://news.bbc.co.uk/1/hi/business/4482203.stm
+
+It has been carefully networked with my experience and for the past three months I have worked out everything to ensure a hitch-free operation, if you can be honest with me, then you will take 35% of the total fund.
+
+However, I am presently in London from where I will be handling the transaction with you for confidential reasons.
+
+I will appreciate your help & cooperation.
+
+Best Regards,
+
+Dr. Oleksandr Rekhniuk

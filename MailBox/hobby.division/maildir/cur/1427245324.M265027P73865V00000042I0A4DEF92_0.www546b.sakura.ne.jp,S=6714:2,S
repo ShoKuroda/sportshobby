@@ -1,0 +1,151 @@
+Return-Path: <rd-apex_estore_0061000000W9brSAAR@rderr.tricorn.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Level: ***
+X-Spam-Status: No, score=4.0 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,
+	MSGID_FROM_MTA_HEADER,TVD_SPACE_ENC_FM_MIME,TVD_SPACE_RATIO_MINFP,
+	URIBL_BLOCKED autolearn=no version=3.3.2
+Received: from fsav203.sakura.ne.jp (fsav203.sakura.ne.jp [210.224.168.165])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2P120SE073862
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 10:02:00 +0900 (JST)
+	(envelope-from rd-apex_estore_0061000000W9brSAAR@rderr.tricorn.net)
+Received: from www546b.sakura.ne.jp (112.78.125.46)
+ by fsav203.sakura.ne.jp (F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp);
+ Wed, 25 Mar 2015 10:02:00 +0900 (JST)
+X-Virus-Status: clean(F-Secure/virusgw_smtp/412/fsav203.sakura.ne.jp)
+Received: from mtad09.tricorn.net (mtad09.tricorn.net [210.129.210.72])
+	by www546b.sakura.ne.jp (8.14.5/8.14.5) with ESMTP id t2P120qi073859
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 10:02:00 +0900 (JST)
+	(envelope-from rd-apex_estore_0061000000W9brSAAR@rderr.tricorn.net)
+Message-Id: <201503250102.t2P120qi073859@www546b.sakura.ne.jp>
+Received: from localhost.localdomain (apex1.tricorn.net [202.218.77.194])
+	by mtad09.tricorn.net (Postfix) with ESMTP id 777FD14604AE
+	for <hobby.division@sportshobby.co.jp>; Wed, 25 Mar 2015 10:02:00 +0900 (JST)
+DKIM-Signature: v=1;
+	a=rsa-sha256;
+	c=relaxed/simple;
+	s=tricorn201108;
+	t=1427245320;
+	h=From:Subject:To;
+	d=tricorn.net;
+	bh=e5MEBbdN1ZG33OZjURhQyoVrlklIi1WPw4ejuF1GpsU=;
+	b=poYuCbLUS9HuDmUK3eirYhT4Xxb1wUw4inCrI4bShA98/GByEleUGK3arx0LFT4y
+	3xbmRja8G+98MAvMNUX92Mxn9+Gm+Sa6rCzEE2Q5qrTbGkK/8QHv65JbpyxztRXm
+	SMDlaMIWZ9+d/icjoEQQnb3oCVui109r0FG7mAqqFfQ=
+From: =?ISO-2022-JP?B?GyRCJU0lQyVIJTclZyVDJVczK0U5QWpDTDw8GyhC?= <info@estore.co.jp>
+To: hobby.division@sportshobby.co.jp
+Reply-To: =?ISO-2022-JP?B?GyRCJU0lQyVIJTclZyVDJVczK0U5QWpDTDw8GyhC?= <info@estore.co.jp>
+Subject: =?ISO-2022-JP?B?GyRCIVolNyVnJUMlVyU1ITwlViFbJU0lQyVIJTclZyVDJVczKzZIGyhC?=
+ =?ISO-2022-JP?B?GyRCJDkkayRKJGk6IyEqIzQ3bkosN24zW0w1TkEkTiQqQ04kaSQ7GyhC?=
+Date: Wed, 25 Mar 2015 10:00:00 +0900
+X-Mailer: TRICORN AUTOBAHN FOR APPEXCHANGE 1.49 (20140430)
+X-Amnote: estore_a0n10000006DvBIAA0_0061000000W9brSAAR
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=ISO-2022-JP
+
+いつもお世話になっております。<BR> 
+株式会社Ｅストアー　ネットショップ開店相談室です。<BR> 
+<BR> 
+この度は、ショップサーブをご検討いただきありがとうございます。<BR> 
+<BR> 
+本日は、≪４月分月額利用料が無料≫となるショップサーブの<BR> 
+お得なお申し込み期間が始まりましたので、ご連絡させていただきました。<BR> 
+<BR> 
+３月２４日１８：００〜３月３１日までにお申し込みいただくと<BR> 
+【 ４月分の月額利用料が無料 】でご利用いただけます！<BR> 
+<BR> 
+◆━━━━ショップサーブお得な申し込み期間━━━━━━◆<BR> 
+<BR> 
+・お申込み期限：３月３１日（火）２３：５９ 受付分迄<BR> 
+・お申込み方法：http://sfml.jp/?c=1253891&o=0061000000W9brSAAR&v=0cd7c409<BR> 
+<BR> 
+※テストアカウントで作成された情報を引き継ぎされたい場合、<BR> 
+　管理画面のお申し込みバナーよりお申込みください。<BR> 
+<BR> 
+━━━━━━━━━━━━━━━━━━━━━━━━━━<BR> 
+<BR> 
+是非、この無料期間を有効的にご活用いただき、<BR> 
+開店準備を進めてください。<BR> 
+<BR> 
+──────────────────────────<BR> 
+ネットショップ立ち上げに向けて、知っておくべき今後のイベント<BR> 
+──────────────────────────<BR> 
+<BR> 
+ネットショップの売上は、季節ごとのイベントに大きく左右されます。<BR> 
+<BR> 
+インターネット上では、イベントの約２か月前頃から<BR> 
+検索がされ始めるため、検索数の増加が起きる時期までには、<BR> 
+ネットショップを立ち上げておくことが重要です。<BR> 
+<BR> 
+顧客の行動パターンを先読みして、イベントに合わせた商品や<BR> 
+見せ方をすることが、売上アップのポイントになりますので、<BR> 
+これからやってくるイベントはチェックしておきましょう！<BR> 
+<BR> 
+■〜５月〜行楽シーズンの到来！<BR> 
+・ゴールデンウィーク<BR> 
+・母の日<BR> 
+・紫外線対策<BR> 
+<BR> 
+■〜６月〜ボーナス商戦で売上倍増！<BR> 
+・父の日<BR> 
+・梅雨<BR> 
+・夏ボーナス商戦<BR> 
+・夏物セール<BR> 
+<BR> 
+その他春のイベントカレンダーはこちら<BR> 
+http://a05.hm-f.jp/cc.php?t=M254860&c=578503&d=a6f8<BR> 
+<BR> 
+──────────────────────────<BR> 
+イベント満載の５月６月に向けてのネットショップ開業スケジュール<BR> 
+──────────────────────────<BR> 
+ネットショップの開店には、通常約１ヶ月〜２ヶ月くらいの<BR> 
+お時間がかかります。<BR> 
+<BR> 
+■３月中<BR> 
+ショップサーブお申込み<BR> 
+→ http://sfml.jp/?c=1253891&o=0061000000W9brSAAR&v=0cd7c409<BR> 
+<BR> 
+■無料期間の４月！<BR> 
+…お店ページ制作<BR> 
+…ドメイン取得・移転<BR> 
+（ドメインの種類により異なる：約３〜１２営業日）<BR> 
+…決済代行サービス導入の申請<BR> 
+（クレジットカード審査期間：最短１営業日〜約１ヶ月）<BR> 
+<BR> 
+■イベント目白押しの５月・６月<BR> 
+…祝！ご開店！<BR> 
+<BR> 
+▼開業スケジュール例<BR> 
+http://sps.estore.jp/request/schedule201503.pdf<BR> 
+<BR> 
+上記はあくまで目安となります。<BR> 
+商材によっても、商戦時期に違いがございますので、<BR> 
+是非一度、開店相談室までお電話ください。<BR> 
+<BR> 
+━━━━━━━━━━━━━━━━━━━━━━━━<BR> 
+　　◆１ヶ月丸々無料！お得なお申込み期間 ◆<BR> 
+・お申込み期限：３月３１日（火）２３：５９ 受付分迄<BR> 
+・お申込み方法：http://sfml.jp/?c=1253891&o=0061000000W9brSAAR&v=0cd7c409<BR> 
+<BR> 
+※テストアカウントで作成された情報を引き継ぎされたい場合、<BR> 
+　管理画面のお申し込みバナーよりお申込みください。<BR> 
+━━━━━━━━━━━━━━━━━━━━━━━━<BR> 
+<BR> 
+このお得な無料期間をぜひご活用ください。<BR> 
+<BR> 
+ネットショップ開店のご検討にあたり、ご不明点やお悩み等ございましたら、<BR> 
+どうぞお気軽にネットショップ開店相談室までご連絡ください。<BR> 
+<BR> 
+ご検討の程、よろしくお願い致します。<BR> 
+<BR> 
+─────────────────────────<BR> 
+Ｅストアー ネットショップ開店相談室　　平日１０：００〜１８：００<BR> 
+http://sps.Estore.jp/<BR> 
+<BR> 
+0120-675-604<BR> 
+info@Estore.co.jp<BR> 
+─────────────────────────<BR><img src='http://sfml.jp/?c=1253892&o=0061000000W9brSAAR&v=56b6fb69' alt='' />
+
+
+

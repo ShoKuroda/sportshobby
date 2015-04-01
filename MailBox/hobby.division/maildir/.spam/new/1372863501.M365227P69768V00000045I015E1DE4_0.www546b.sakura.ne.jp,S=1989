@@ -1,0 +1,43 @@
+Return-Path: <MAILER-DAEMON>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on www546b.sakura.ne.jp
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.9 required=7.0 tests=BAYES_50,FSL_HELO_BARE_IP_2,
+	MSGID_FROM_MTA_HEADER,RCVD_HELO_IP_MISMATCH,RCVD_ILLEGAL_IP,RCVD_NUMERIC_HELO
+	autolearn=no version=3.3.2
+X-Spam-Report: 
+	*  2.2 FSL_HELO_BARE_IP_2 FSL_HELO_BARE_IP_2
+	*  3.4 RCVD_ILLEGAL_IP Received: contains illegal IP address
+	*  2.4 RCVD_HELO_IP_MISMATCH Received: HELO and IP do not match, but should
+	*  1.2 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.8 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5000]
+	*  0.0 MSGID_FROM_MTA_HEADER Message-Id was added by a relay
+Received: from www546b.sakura.ne.jp (ksav22.sakura.ne.jp [210.224.165.142])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with ESMTP id r63EwIRa069765
+	for <hobby.division@sportshobby.co.jp>; Wed, 3 Jul 2013 23:58:18 +0900 (JST)
+X-Nat-Received: from [112.78.125.46]:60531 [ident-empty]
+	by smtp-proxy.isp with TPROXY id 1372863498.4171
+Received: from 176.33.77.42 ([176.33.11.15])
+	by www546b.sakura.ne.jp (8.14.3/8.14.3) with SMTP id r63EwFcX069756
+	for <hobby.division@sportshobby.co.jp>; Wed, 3 Jul 2013 23:58:17 +0900 (JST)
+Message-Id: <201307031458.r63EwFcX069756@www546b.sakura.ne.jp>
+Received: from unknown (HELO localhost) (watsen@danncarlton.com@236.132.32.156)
+	by 176.33.77.42 with ESMTPA; Wed, 3 Jul 2013 17:59:41 +0200
+From: watsen@danncarlton.com
+To: hobby.division@sportshobby.co.jp
+Subject: Keep on bringing you the best picks
+Date: Wed, 3 Jul 2013 17:47:57 +0200
+X-Anti-Virus: Kaspersky Anti-Virus for Linux Mail Server 5.6.45.2/RELEASE, bases: 03072013 #10480665, status: clean
+
+It is on High Alert! It Issues News and Up Early Today!
+
+Trade Date: Jul, 3rd
+Company: Biostem U.S. Corporation
+Symbol traded: H A_I_R
+Buy at: $.27
+Target: 0.80
+
+Have your bids ready to go? This stock is racking big gains for 
+members today!
+
